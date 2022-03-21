@@ -15,7 +15,7 @@ The purpose of this repository is to get familiar with Git and GitHub's concepts
 - Feel free to add images and videos.
 - You may modify, fix, or improve existing content added by others.
 - Commit your changes.
-- Push to the GitHub repository. (If needed, pull and resolve any merge conflicts).
+- Push to the GitHub repository. (If needed, pull and resolve any merge conflicts.)
 - Since you are a repository collaborator, you are not requested to follow the fork and pull request practice.
 
 **DEADLINE: 3 April 2022 23:55**
