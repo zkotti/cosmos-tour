@@ -16,23 +16,41 @@
 * [Italy](#italy)
 
 ---
-## <a name="greece"></a>Greece
+## <a name="greece"></a>**Greece**
+
+<img width="300" height="300" src="media/flags/gr.svg"> 
 
 ---
 
-## <a name="cyprus"></a>Cyprus
+## <a name="cyprus"></a>**Cyprus**
+
+<img width="300" height="300" src="media/flags/cy.svg"> 
+
+
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
 ---
-## <a name="germany"></a>Germany
+## <a name="germany"></a>**Germany**
+
+<img width="300" height="300" src="media/flags/de.svg"> 
 
 ---
-## <a name="france"></a>France
+## <a name="france"></a>**France**
+
+<img width="300" height="300" src="media/flags/fr.svg"> 
 
 ---
-## <a name="lithuania"></a>Lithuania
+## <a name="lithuania"></a>**Lithuania**
+
+<img width="300" height="300" src="media/flags/lt.svg"> 
 
 ---
-## <a name="italy"></a>Italy
+## <a name="italy"></a>**Italy**
+
+<img width="300" height="300" src="media/flags/it.svg"> 
+
 ---
+### Credits
+
+Country flags are available [here](https://flagicons.lipis.dev/) 
