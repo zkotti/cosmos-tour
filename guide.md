@@ -18,6 +18,15 @@
 * ## [Planets](#planets)
 
     * [Mars](#mars)
+    * [Pluto](#pluto)
+    * [Mercury](#mercury)
+    * [Venus](#venus)
+    * [Earth](#earth)
+    * [Uranus](#uranus)
+    * [Neptune](#neptune)
+    * [Jupiter](#jupiter)
+    * [Saturn](#saturn)
+
 ---
 
 # <a name="countries"></a> ***Countries***
@@ -87,6 +96,72 @@ We still can not visit others but using the SpaceEngine (available on [steam](ht
 ---
 
 ## <a name="mars"></a>**Mars**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="pluto"></a>**Pluto**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="mercury"></a>**Mercury**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="venus"></a>**Venus**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="earth"></a>**Earth**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="uranus"></a>**Uranus**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+## <a name="neptune"></a>**Neptune**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+
+## <a name="jupiter"></a>**Jupiter**
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+---
+
+
+## <a name="saturn"></a>**Saturn**
 
 **Capital:** N/A
 </br>
