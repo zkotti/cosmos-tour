@@ -51,7 +51,7 @@ Asia is Earth's largest and most populous continent, located primarily in the Ea
 
 In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
 
-Source [wiki] (https://en.wikipedia.org/wiki/Asia)
+Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
 ---
 
@@ -66,7 +66,7 @@ Africa is the world's second-largest and second-most populous continent, after A
 
 The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), eight territories and two de facto independent states with limited or no recognition. Algeria is Africa's largest country by area, and Nigeria is its largest by population. African nations cooperate through the establishment of the African Union, which is headquartered in Addis Ababa.
 
-Source [wiki] (https://en.wikipedia.org/wiki/Africa)
+Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ---
 
@@ -81,7 +81,7 @@ North America is a continent in the Northern Hemisphere and almost entirely with
 
 North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population. 
 
-Source [wiki] (https://en.wikipedia.org/wiki/North_America)
+Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
 ---
 
@@ -98,7 +98,7 @@ South America is bordered on the west by the Pacific Ocean and on the north and 
 
 South America has an area of 17,840,000 square kilometers (6,890,000 sq mi). Its population as of 2018 has been estimated at more than 423 million. South America ranks fourth in area (after Asia, Africa, and North America) and fifth in population (after Asia, Africa, Europe, and North America). Brazil is by far the most populous South American country, with more than half of the continent's population, followed by Colombia, Argentina, Venezuela and Peru. In recent decades, Brazil has also generated half of the continent's GDP and has become the continent's first regional power.
 
-Source [wiki] (https://en.wikipedia.org/wiki/South_America)
+Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
@@ -113,7 +113,7 @@ Europe is a continent, also recognised as part of Eurasia, located entirely in t
 
 Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
 
-Source [wiki] (https://en.wikipedia.org/wiki/Europe)
+Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
 ---
 
@@ -128,7 +128,7 @@ Antarctica is Earth's southernmost continent. Situated almost entirely south of 
 
 Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
 
-Source [wiki] (https://en.wikipedia.org/wiki/Antarctica)
+Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
 ---
 
@@ -143,7 +143,7 @@ Oceania is a geographic region that includes Australasia, Melanesia, Micronesia 
 
 Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
 
-Source [wiki] (https://en.wikipedia.org/wiki/Oceania)
+Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 
 ---
@@ -210,7 +210,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 # <a name="planets"></a> ***Planets***
 
-We still can not visit others but using the SpaceEngine (available on [steam](https://store.steampowered.com/app/314650/SpaceEngine)) you can discover much more about the universe.
+We still can not visit others planets but using the SpaceEngine (available on [steam](https://store.steampowered.com/app/314650/SpaceEngine)) you can discover much more about the universe.
 
 ---
 
