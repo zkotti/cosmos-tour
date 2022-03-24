@@ -18,15 +18,15 @@
 
 * ## [Countries](#countries) 
 
-    * [Greece](#greece)
-    * [Cyprus](#cyprus)
-    * [Germany](#germany)
-    * [France](#france)
-    * [Lithuania](#lithuania)
-    * [Italy](#italy)
-    * [Switzerland](#switzerland)
     * [Argentina](#argentina)
     * [Brazil](#brazil)
+    * [Cyprus](#cyprus)
+    * [France](#france)
+    * [Germany](#germany)
+    * [Greece](#greece)
+    * [Italy](#italy)
+    * [Lithuania](#lithuania)
+    * [Switzerland](#switzerland)
     * [Uruguay](#uruguay)
 
 * ## [Planets](#planets)
@@ -149,80 +149,9 @@ Oceania has a diverse mix of economies from the highly developed and globally co
 
 Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
-
 ---
-
 # <a name="countries"></a> ***Countries***
 
-## <a name="greece"></a>**Greece**
-
-<img width="300" height="300" src="media/flags/gr.svg"> 
-
-**Capital:** Athens
-</br>
-**Official Language:** Greek
-
----
-
-## <a name="cyprus"></a>**Cyprus**
-
-<img width="300" height="300" src="media/flags/cy.svg"> 
-
-**Capital:** Nicosia
-</br>
-**Official Language:** Greek, Turkish
-
-For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
-
----
-## <a name="germany"></a>**Germany**
-
-<img width="300" height="300" src="media/flags/de.svg"> 
-
-**Capital:** Berlin
-</br>
-**Official Language:** German
-
----
-## <a name="france"></a>**France**
-
-<img width="300" height="300" src="media/flags/fr.svg"> 
-
-**Capital:** Paris
-</br>
-**Official Language:** French
-
----
-## <a name="lithuania"></a>**Lithuania**
-
-<img width="300" height="300" src="media/flags/lt.svg">
-
-**Capital:** Vilnius
-</br>
-**Official Language:** Lithuanian
-
----
-## <a name="italy"></a>**Italy**
-
-<img width="300" height="300" src="media/flags/it.svg">
-
-**Capital:** Rome
-</br>
-**Official Language:** Italian
-
----
-## <a name="switzerland"></a>**Switzerland**
-
-<img width="300" height="300" src="media/flags/ch.svg">
-
-**Capital:** Bern
-</br>
-**Official Language:** German, French, Italian, Romansh
-
-Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
-Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
-
----
 ## <a name="argentina"></a>**Argentina**
 
 <img width="300" height="300" src="media/flags/ar.svg">
@@ -241,6 +170,83 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Official Language:** Portuguese
 
 ---
+
+## <a name="cyprus"></a>**Cyprus**
+
+<img width="300" height="300" src="media/flags/cy.svg"> 
+
+**Capital:** Nicosia
+</br>
+**Official Language:** Greek, Turkish
+
+For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+## <a name="france"></a>**France**
+
+<img width="300" height="300" src="media/flags/fr.svg">
+
+**Capital:** Paris
+</br>
+**Official Language:** French
+
+---
+## <a name="germany"></a>**Germany**
+
+<img width="300" height="300" src="media/flags/de.svg"> 
+
+**Capital:** Berlin
+</br>
+**Official Language:** German
+
+---
+
+
+
+## <a name="greece"></a>**Greece**
+
+<img width="300" height="300" src="media/flags/gr.svg"> 
+
+**Capital:** Athens
+</br>
+**Official Language:** Greek
+
+
+---
+## <a name="italy"></a>**Italy**
+
+<img width="300" height="300" src="media/flags/it.svg">
+
+**Capital:** Rome
+</br>
+**Official Language:** Italian
+
+---
+
+## <a name="lithuania"></a>**Lithuania**
+
+<img width="300" height="300" src="media/flags/lt.svg">
+
+**Capital:** Vilnius
+</br>
+**Official Language:** Lithuanian
+
+---
+## <a name="switzerland"></a>**Switzerland**
+
+<img width="300" height="300" src="media/flags/ch.svg">
+
+**Capital:** Bern
+</br>
+**Official Language:** German, French, Italian, Romansh
+
+Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
+Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+
+
+---
+
 ## <a name="uruguay"></a>**Uruguay**
 
 <img width="300" height="300" src="media/flags/uy.svg">
