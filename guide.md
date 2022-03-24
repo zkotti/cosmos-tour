@@ -54,6 +54,7 @@
 
     * [Milky Way](#milky_way)
     * [Andromeda](#andromeda)
+	* [Cigar](#cigar)
     * [Cosmos Redshift 7](#cosmos_redshift_7)
     * [Hoag's Object](#hoags_object)
     * [Mayall's Object](#mayalls_object)
@@ -676,6 +677,20 @@ The Andromeda Galaxy , also known as Messier 31, M31, or NGC 224 and originally 
 
 The virial mass of the Andromeda Galaxy is of the same order of magnitude as that of the Milky Way, at 1 trillion solar masses (2.0×1042 kilograms). The mass of either galaxy is difficult to estimate with any accuracy, but it was long thought that the Andromeda Galaxy is more massive than the Milky Way by a margin of some 25% to 50%. This has been called into question by a 2018 study that cited a lower estimate on the mass of the Andromeda Galaxy, combined with preliminary reports on a 2019 study estimating a higher mass of the Milky Way. The Andromeda Galaxy has a diameter of about 220,000 ly (67 kpc), making it the largest member of the Local Group in terms of extension.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andromeda_Galaxy)
+
+---
+## <a name="cigar"></a>**Cigar**
+
+
+<img width="500" height="350" src="media/galaxies/Cigar.jpg">
+
+owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
+
+## **Description**
+Messier 82 (also known as NGC 3034, Cigar Galaxy or M82) is a starburst galaxy approximately 12 million light-years away in the constellation Ursa Major. A member of the M81 Group, it is about five times more luminous than the Milky Way and has a center one hundred times more luminous.
+
+The starburst activity is thought to have been triggered by interaction with neighboring galaxy M81 galaxy. SN 2014J, a type Ia supernova, was discovered in the galaxy on 21 January 2014. In 2014, in studying M82, scientists discovered the brightest pulsar yet known, designated M82 X-2.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Messier_82)
 
 ---
 ## <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
