@@ -27,6 +27,7 @@
     * [Italy](#italy)
     * [Lithuania](#lithuania)
     * [Switzerland](#switzerland)
+    * [United States](#usa)
     * [Uruguay](#uruguay)
 
 * ## [Planets](#planets)
@@ -173,6 +174,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Population:** 45,195,774 (2020)
 
 ---
+
 ## <a name="brazil"></a>**Brazil**
 
 <img width="300" height="300" src="media/flags/br.svg">
@@ -202,6 +204,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
 ---
+
 ## <a name="france"></a>**France**
 
 <img width="300" height="300" src="media/flags/fr.svg"> 
@@ -213,7 +216,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
+
 ---
+
 ## <a name="germany"></a>**Germany**
 
 <img width="300" height="300" src="media/flags/de.svg"> 
@@ -225,9 +230,8 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
+
 ---
-
-
 
 ## <a name="greece"></a>**Greece**
 
@@ -242,6 +246,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Population:** 10,423,054 (2020)
 
 ---
+
 ## <a name="italy"></a>**Italy**
 
 <img width="300" height="300" src="media/flags/it.svg">
@@ -253,6 +258,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+
 ---
 
 ## <a name="lithuania"></a>**Lithuania**
@@ -266,7 +272,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+
 ---
+
 ## <a name="switzerland"></a>**Switzerland**
 
 <img width="300" height="300" src="media/flags/ch.svg">
@@ -282,7 +290,19 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
+---
 
+## <a name="usa"></a>**United States**
+
+<img width="300" height="300" src="media/flags/us.svg">
+
+**Capital:** Washington, D.C.
+</br>
+**Official Language:** English
+</br>
+**Currency:** 	US Dollar (USD)
+</br>
+**Population:** 331,002,651 (2020)
 
 ---
 
@@ -297,6 +317,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+
 ---
 
 # <a name="planets"></a> ***Planets***
