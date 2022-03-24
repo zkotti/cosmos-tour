@@ -20,6 +20,7 @@
 
     * [Argentina](#argentina)
     * [Brazil](#brazil)
+    * [Canada](#canada)
     * [China](#china)
     * [Cyprus](#cyprus)
     * [France](#france)
@@ -28,6 +29,7 @@
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
+    * [Spain](#spain)
     * [Switzerland](#switzerland)
     * [United Arab Emirates](#uae)
     * [United States](#usa)
@@ -192,6 +194,16 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
+## <a name="canada"></a>**Canada**
+
+<img width="300" height="300" src="media/flags/ca.svg">
+
+**Capital:** Ottawa
+</br>
+**Official Language:** French, English
+
+---
+
 ## <a name="china"></a>**China**
 
 <img width="300" height="300" src="media/flags/cn.svg">
@@ -306,6 +318,16 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
+## <a name="spain"></a>**Spain**
+
+<img width="300" height="300" src="media/flags/es.svg">
+
+**Capital:** Madrid
+</br>
+**Official Language:** Spanish
+
+---
+
 ## <a name="switzerland"></a>**Switzerland**
 
 <img width="300" height="300" src="media/flags/ch.svg">
@@ -362,26 +384,6 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
-
----
-
-## <a name="spain"></a>**Spain**
-
-<img width="300" height="300" src="media/flags/es.svg">
-
-**Capital:** Madrid
-</br>
-**Official Language:** Spanish
-
----
-
-## <a name="canada"></a>**Canada**
-
-<img width="300" height="300" src="media/flags/ca.svg">
-
-**Capital:** Ottawa
-</br>
-**Official Language:** French, English
 
 ---
 
