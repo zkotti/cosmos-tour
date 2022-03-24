@@ -20,6 +20,7 @@
 
     * [Argentina](#argentina)
     * [Brazil](#brazil)
+    * [China](#china)
     * [Cyprus](#cyprus)
     * [France](#france)
     * [Germany](#germany)
@@ -190,6 +191,19 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
+## <a name="china"></a>**China**
+
+<img width="300" height="300" src="media/flags/cn.svg">
+
+**Capital:** Beijing
+</br>
+**Official Language:** Mandarin
+</br>
+**Currency:** 	Renminbi (Yuan) (CNY)
+</br>
+**Population:** 1,439,323,776 (2020)
+
+---
 ## <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg"> 
