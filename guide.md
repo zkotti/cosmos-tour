@@ -202,6 +202,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Capital:** Ottawa
 </br>
 **Official Language:** French, English
+</br>
+**Currency:** 	Canadian Dollar (CAD)
+</br>
+**Population:** 37,742,154 (2020)
 
 ---
 
@@ -340,6 +344,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Madrid
 </br>
 **Official Language:** Spanish
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 46,754,778 (2020)
 
 ---
 
