@@ -24,6 +24,7 @@
     * [France](#france)
     * [Lithuania](#lithuania)
     * [Italy](#italy)
+    * [Switzerland](#switzerland)
 
 * ## [Planets](#planets)
 
@@ -205,6 +206,18 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Rome
 </br>
 **Official Language:** Italian
+
+---
+## <a name="switzerland"></a>**Switzerland**
+
+<img width="300" height="300" src="media/flags/ch.svg">
+
+**Capital:** Bern
+</br>
+**Official Language:** German, French, Italian, Romansh
+
+Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
+Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
