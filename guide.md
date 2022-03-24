@@ -25,6 +25,9 @@
     * [Lithuania](#lithuania)
     * [Italy](#italy)
     * [Switzerland](#switzerland)
+    * [Argentina](#argentina)
+    * [Brazil](#brazil)
+    * [Uruguay](#uruguay)
 
 * ## [Planets](#planets)
 
