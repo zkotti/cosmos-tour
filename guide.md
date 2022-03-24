@@ -19,6 +19,7 @@
 * ## [Countries](#countries) 
 
     * [Argentina](#argentina)
+	* [Australia](#australia)
     * [Brazil](#brazil)
     * [Canada](#canada)
     * [China](#china)
@@ -182,6 +183,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Argentine Peso (ARS)
 </br>
 **Population:** 45,195,774 (2020)
+
+## <a name="australia"></a>**Australia**
+
+<img width="300" height="300" src="media/flags/au.svg">
+
+**Capital:** Canberra
+</br>
+**Official Language:** None at the federal level
+</br>
+**Currency:** Australian dollar ($) (AUD)
+</br>
+**Population:** 23,401,892 (2016)
 
 ---
 
