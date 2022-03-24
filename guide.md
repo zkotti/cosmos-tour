@@ -56,6 +56,8 @@
     * [Hoag's Object](#hoags_object)
     * [Mayall's Object](#mayalls_object)
 
+* ## [Stars](#stars)
+
 ---
 # <a name="continents"></a> ***Continents***
 
@@ -684,6 +686,10 @@ Mayall's Object (also classified under the Atlas of Peculiar Galaxies as Arp 148
 
 Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are thought to be colliding galaxies. The image was taken with Wide Field and Planetary Camera 2 instrument. It was released along with 59 other images of this type in 2008 for that space telescopes' 18th anniversary.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Mayall%27s_Object)
+
+---
+
+# <a name="stars"></a> ***Stars***
 
 ---
 
