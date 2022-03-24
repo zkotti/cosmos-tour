@@ -220,6 +220,33 @@ Switzerland is ideally for vacation. It has idyllic landscapes that range from s
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
+## <a name="argentina"></a>**Argentina**
+
+<img width="300" height="300" src="media/flags/ar.svg">
+
+**Capital:** Buenos Aires
+</br>
+**Official Language:** Spanish
+
+---
+## <a name="brazil"></a>**Brazil**
+
+<img width="300" height="300" src="media/flags/br.svg">
+
+**Capital:** Brasilia
+</br>
+**Official Language:** Portuguese
+
+---
+## <a name="uruguay"></a>**Uruguay**
+
+<img width="300" height="300" src="media/flags/uy.svg">
+
+**Capital:** Montevideo
+</br>
+**Official Language:** Spanish
+
+---
 
 # <a name="planets"></a> ***Planets***
 
