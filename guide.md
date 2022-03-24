@@ -159,6 +159,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Capital:** Buenos Aires
 </br>
 **Official Language:** Spanish
+</br>
+**Currency:** Argentine Peso (ARS)
+</br>
+**Population:** 45,195,774 (2020)
 
 ---
 ## <a name="brazil"></a>**Brazil**
@@ -168,6 +172,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Capital:** Brasilia
 </br>
 **Official Language:** Portuguese
+</br>
+**Currency:** 	Brazilian Real (BRL)
+</br>
+**Population:** 212,559,417 (2020)
 
 ---
 
@@ -178,6 +186,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Capital:** Nicosia
 </br>
 **Official Language:** Greek, Turkish
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 1,207,359 (2020)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
@@ -189,7 +201,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Paris
 </br>
 **Official Language:** French
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 65,273,511 (2020)
 ---
 ## <a name="germany"></a>**Germany**
 
@@ -198,7 +213,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Berlin
 </br>
 **Official Language:** German
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 83,783,942 (2020)
 ---
 
 
@@ -210,7 +228,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Athens
 </br>
 **Official Language:** Greek
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 10,423,054 (2020)
 
 ---
 ## <a name="italy"></a>**Italy**
@@ -220,7 +241,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Rome
 </br>
 **Official Language:** Italian
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 60,461,826 (2020)
 ---
 
 ## <a name="lithuania"></a>**Lithuania**
@@ -230,7 +254,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Vilnius
 </br>
 **Official Language:** Lithuanian
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 2,722,289 (2020)
 ---
 ## <a name="switzerland"></a>**Switzerland**
 
@@ -239,6 +266,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Capital:** Bern
 </br>
 **Official Language:** German, French, Italian, Romansh
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 8,654,622 (2020)
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -254,7 +285,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Capital:** Montevideo
 </br>
 **Official Language:** Spanish
-
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 1,207,359 (2020)
 ---
 
 # <a name="planets"></a> ***Planets***
