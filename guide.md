@@ -58,6 +58,8 @@
 
 * ## [Stars](#stars)
 
+* ## [Oceans](#oceans)
+
 ---
 # <a name="continents"></a> ***Continents***
 
@@ -690,6 +692,37 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 ---
 
 # <a name="stars"></a> ***Stars***
+
+---
+
+# <a name="oceans"></a> ***Oceans***
+
+<img width="500" height="350" src="media/oceans/earths_ocean.jpg">
+
+owned by [nasa.com](https://visibleearth.nasa.gov/images/73963/bathymetry)
+
+## **Description**
+
+Oceans cover about 70% of the Earth's surface. The oceans contain roughly 97% of the Earth's water supply.
+
+The oceans of Earth are unique in our Solar System. No other planet in our Solar System has liquid water (although recent finds on Mars indicate that Mars may have had some liquid water in the recent past). Life on Earth originated in the seas, and the oceans continue to be home to an incredibly diverse web of life.
+
+The oceans of Earth serve many functions, especially affecting the weather and temperature. They moderate the Earth's temperature by absorbing incoming solar radiation (stored as heat energy). The always-moving ocean currents distribute this heat energy around the globe. This heats the land and air during winter and cools it during summer.
+
+The Earth's oceans are all connected to one another. Until the year 2000, there were four recognized oceans: the Pacific, Atlantic, Indian, and Arctic. In the Spring of 2000, the International Hydrographic Organization delimited a new ocean, the Southern Ocean (it surrounds Antarctica and extends to 60 degrees latitude).                     
+<br> Source [enchantedlearning](https://www.enchantedlearning.com/subjects/ocean/)
+
+## **Area and depth of the major oceans**
+
+| **Ocean** | **Area (million km2)** | **Average depth (m)** |
+|:---------:|:----------------------:|:---------------------:|
+|  Pacific  |           166          |          4282         |
+|  Atlantic |           87           |          3926         |
+|   Indian  |           73           |          3963         |
+|   Arctic  |           14           |          1205         |
+|  Southern |           20           |          4000         |
+<br> Source [pressbooks](https://rwu.pressbooks.pub/webboceanography/chapter/1-1-overview-of-the-oceans/)
+
 
 ---
 
