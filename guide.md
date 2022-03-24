@@ -26,6 +26,7 @@
     * [Germany](#germany)
     * [Greece](#greece)
     * [Italy](#italy)
+    * [Japan](#japan)
     * [Lithuania](#lithuania)
     * [Switzerland](#switzerland)
     * [United Arab Emirates](#uae)
@@ -204,6 +205,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Population:** 1,439,323,776 (2020)
 
 ---
+
 ## <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg"> 
@@ -273,6 +275,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+
+---
+
+## <a name="japan"></a>**Japan**
+
+<img width="300" height="300" src="media/flags/jp.svg">
+
+**Capital:** Tokyo
+</br>
+**Official Language:** Japanese
+</br>
+**Currency:** 	Yen (JPY)
+</br>
+**Population:** 126,476,461 (2020)
 
 ---
 
