@@ -251,6 +251,26 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+## <a name="spain"></a>**Spain**
+
+<img width="300" height="300" src="media/flags/es.svg">
+
+**Capital:** Madrid
+</br>
+**Official Language:** Spanish
+
+---
+
+## <a name="canada"></a>**Canada**
+
+<img width="300" height="300" src="media/flags/ca.svg">
+
+**Capital:** Ottawa
+</br>
+**Official Language:** French, English
+
+---
+
 # <a name="planets"></a> ***Planets***
 
 We still can not visit others planets but using the SpaceEngine (available on [steam](https://store.steampowered.com/app/314650/SpaceEngine)) you can discover much more about the universe.
