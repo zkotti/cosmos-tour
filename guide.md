@@ -31,6 +31,7 @@
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
+	* [Philippines](#philippines)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
     * [United Arab Emirates](#uae)
@@ -353,6 +354,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+
+---
+
+## <a name="philippines"></a>**Philippines**
+
+<img width="300" height="300" src="media/flags/ph.svg">
+
+**Capital:** Manila
+</br>
+**Official Language:** Filipino, English
+</br>
+**Currency:** Philippine peso (PHP)
+</br>
+**Population:** 109,035,343 (2020)
 
 ---
 
