@@ -27,6 +27,7 @@
     * [Italy](#italy)
     * [Lithuania](#lithuania)
     * [Switzerland](#switzerland)
+    * [United Arab Emirates](#uae)
     * [United States](#usa)
     * [Uruguay](#uruguay)
 
@@ -289,6 +290,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+---
+
+## <a name="uae"></a>**United Arab Emirates**
+
+<img width="300" height="300" src="media/flags/ae.svg">
+
+**Capital:** Abu Dhabi
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** 	UAE Dirham (AED)
+</br>
+**Population:** 9,890,402 (2020)
 
 ---
 
