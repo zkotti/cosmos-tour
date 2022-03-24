@@ -41,6 +41,14 @@
     * [Jupiter](#jupiter)
     * [Saturn](#saturn)
 
+* ## [Galaxies](#galaxies)
+
+    * [Milky Way](#milky_way)
+    * [Andromeda](#andromeda)
+    * [Cosmos Redshift 7](#cosmos_redshift_7)
+    * [Hoag's Object](#hoags_object)
+    * [Mayall's Object](#mayalls_object)
+
 ---
 # <a name="continents"></a> ***Continents***
 
@@ -196,7 +204,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 ---
 ## <a name="france"></a>**France**
 
-<img width="300" height="300" src="media/flags/fr.svg">
+<img width="300" height="300" src="media/flags/fr.svg"> 
 
 **Capital:** Paris
 </br>
@@ -489,6 +497,82 @@ Saturn's interior is most likely composed of a core of iron–nickel and rock (s
 
 The planet's most notable feature is its prominent ring system, which is composed mainly of ice particles, with a smaller amount of rocky debris and dust. At least 83 moons[29] are known to orbit Saturn, of which 53 are officially named; this does not include the hundreds of moonlets in its rings. Titan, Saturn's largest moon and the second largest in the Solar System, is larger than the planet Mercury, although less massive, and is the only moon in the Solar System to have a substantial atmosphere.[30] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Saturn)
+
+---
+
+
+# <a name="galaxies"></a> ***Galaxies***
+
+We will probably never reach another galaxy in our lifetime but [Hubble Space Telescope](https://hubblesite.org) has given us the opportunity to take a good look to the mysteries of the universe.
+
+---
+
+## <a name="milky_way"></a>**Milky Way**
+
+<img width="500" height="350" src="media/galaxies/milkyway.jpg"> 
+
+owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
+
+
+## **Description**
+The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
+
+---
+## <a name="andromeda"></a>**Andromeda**
+
+<img width="500" height="400" src="media/galaxies/Andromeda.jpg"> 
+
+owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
+
+## **Description**
+
+The Andromeda Galaxy , also known as Messier 31, M31, or NGC 224 and originally the Andromeda Nebula , is a barred spiral galaxy approximately 2.5 million light-years (770 kiloparsecs) from Earth and the nearest large galaxy to the Milky Way. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the Ethiopian (or Phoenician) princess who was the wife of Perseus in Greek mythology.
+
+The virial mass of the Andromeda Galaxy is of the same order of magnitude as that of the Milky Way, at 1 trillion solar masses (2.0×1042 kilograms). The mass of either galaxy is difficult to estimate with any accuracy, but it was long thought that the Andromeda Galaxy is more massive than the Milky Way by a margin of some 25% to 50%. This has been called into question by a 2018 study that cited a lower estimate on the mass of the Andromeda Galaxy, combined with preliminary reports on a 2019 study estimating a higher mass of the Milky Way. The Andromeda Galaxy has a diameter of about 220,000 ly (67 kpc), making it the largest member of the Local Group in terms of extension.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Andromeda_Galaxy)
+
+---
+## <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
+
+
+<img width="500" height="350" src="media/galaxies/CosmosRedshift7.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
+
+## **Description**
+Cosmos Redshift 7 (also known as COSMOS Redshift 7, Galaxy Cosmos Redshift 7, Galaxy CR7 or CR7) is a high-redshift Lyman-alpha emitter galaxy. At a redshift z = 6.6, the galaxy is observed as it was about 800 million years after the Big Bang, during the epoch of reionisation. With a light travel time of 12.9 billion years, it is one of the oldest, most distant galaxies known.
+
+CR7 shows some of the expected signatures of Population III stars i.e. the first generation of stars produced during early galaxy formation. These signatures were detected in a bright pocket of blue stars; the rest of the galaxy contains redder Population II stars.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Cosmos_Redshift_7)
+
+---
+## <a name="hoags_object"></a>**Hoag's Object**
+
+
+<img width="500" height="350" src="media/galaxies/Hoags_object.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
+
+## **Description**
+Hoag's Object is a non-typical galaxy of the type known as a ring galaxy. It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has approximately eight billion stars, and is roughly 100,000 light years across.
+
+A nearly perfect ring of young hot blue stars circles the older yellow nucleus of this ring galaxy c. 600 million light-years away in the constellation Serpens. The diameter of the 6 arcsecond inner core of the galaxy is about 17±0.7 kly (5.3±0.2 kpc) while the surrounding ring has an inner 28″ diameter of 75±3 kly (24.8±1.1 kpc) and an outer 45″ diameter of 121±4 kly (39.9±1.7 kpc). The galaxy is estimated to have a mass of 700 billion suns. By comparison, the Milky Way galaxy has an estimated diameter of 150-200 kly and consists of between 100 and 500 billion stars and a mass of around 1.54 trillion suns.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Hoag%27s_Object)
+
+---
+## <a name="mayalls_object"></a>**Mayall's Object**
+
+<img width="500" height="350" src="media/galaxies/mayallsObject.jpg">
+
+owned by [nasa.com](https://www.jpl.nasa.gov/images/pia10385-arp-148-mayalls-object)
+
+## **Description**
+
+Mayall's Object (also classified under the Atlas of Peculiar Galaxies as Arp 148) is the result of two colliding galaxies located 500 million light years away within the constellation of Ursa Major. It was discovered by American astronomer Nicholas U. Mayall of the Lick Observatory on 13 March 1940, using the Crossley reflector. When first discovered, Mayall's Object was described as a peculiar nebula, shaped like a question mark. Originally theorized to represent a galaxy reacting with the intergalactic medium, it is now thought to represent the collision of two galaxies, resulting in a new object consisting of a ring-shaped galaxy with a tail emerging from it. It is thought that the collision between the two galaxies created a shockwave that initially drew matter into the center which then formed the ring.
+
+Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are thought to be colliding galaxies. The image was taken with Wide Field and Planetary Camera 2 instrument. It was released along with 59 other images of this type in 2008 for that space telescopes' 18th anniversary.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mayall%27s_Object)
 
 ---
 
