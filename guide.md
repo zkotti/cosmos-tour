@@ -26,6 +26,7 @@
     * [France](#france)
     * [Germany](#germany)
     * [Greece](#greece)
+    * [Israel](#israel)
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
@@ -273,6 +274,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+
+---
+
+## <a name="israel"></a>**Israel**
+
+<img width="300" height="300" src="media/flags/il.svg">
+
+**Capital:** Jerusalem
+</br>
+**Official Language:** Hebrew
+</br>
+**Currency:** 	New Israeli Sheqel (ILS)
+</br>
+**Population:** 	8,655,535 (2020)
 
 ---
 
