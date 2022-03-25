@@ -46,6 +46,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 * ## [Countries](#countries) 
 
     * [Afghanistan](#afghanistan)
+    * [Albania](#albania)
     * [Argentina](#argentina)
     * [Australia](#australia)
     * [Belgium](#belgium)
@@ -218,6 +219,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Afghan afghani (AFN)
 </br>
 **Population:** 38,928,346	 (2020)
+
+---
+
+## <a name="albania"></a>**Albania**
+
+<img width="300" height="300" src="media/flags/al.svg">
+
+**Capital:** Tirana
+</br>
+**Official Language:** Albanian
+</br>
+**Currency:** Albanian lek (ALL)
+</br>
+**Population:** 2,877,797	 (2020)
 
 ---
 
