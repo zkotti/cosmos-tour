@@ -54,6 +54,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Belgium](#belgium)
     * [Brazil](#brazil)
     * [Bulgaria](#bulgaria)
+    * [Cameroon](#cameroon)
     * [Canada](#canada)
     * [Chile](#chile)
     * [China](#china)
@@ -70,6 +71,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Japan](#japan)
     * [Lithuania](#lithuania)
     * [Mexico](#mexico)
+    * [Norway](#norway)
     * [Philippines](#philippines)
     * [Romania](#romania)
     * [Russia](#russia)
@@ -344,6 +346,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
+## <a name="cameroon"></a>**Cameroon**
+
+<img width="300" height="300" src="media/flags/cm.svg">
+
+**Capital:** Yaoundé
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 26,545,863 (2020)
+
+---
+
 ## <a name="canada"></a>**Canada**
 
 <img width="300" height="300" src="media/flags/ca.svg">
@@ -569,6 +585,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+
+---
+
+## <a name="norway"></a>**Norway**
+
+<img width="300" height="300" src="media/flags/no.svg">
+
+**Capital:** Oslo
+</br>
+**Official Language:** Norwegian
+</br>
+**Currency:** Norwegian krone (NOK)
+</br>
+**Population:** 5,421,241 (2020)
 
 ---
 
