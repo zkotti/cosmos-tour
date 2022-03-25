@@ -9,7 +9,7 @@
 
 ## About the term Cosmos
 
-The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe.The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe. 
+The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe. 
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
