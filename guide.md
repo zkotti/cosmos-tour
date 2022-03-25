@@ -54,6 +54,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [China](#china)
 	* [Colombia](#colombia)
     * [Cyprus](#cyprus)
+    * [England](#england)
     * [France](#france)
     * [Germany](#germany)
     * [Greece](#greece)
@@ -330,6 +331,22 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Population:** 1,207,359 (2020)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+## <a name="england"></a>**England**
+
+<img width="300" height="300" src="media/flags/gb-eng.svg">
+
+**Capital:** London
+</br>
+**Official Language:** English
+</br>
+**Currency:** 	British Pound Sterling (GBP)
+</br>
+**Population:** 55.98 million (2018)
+
+England is the biggest of the four countries that are part of the United Kingdom.
 
 ---
 
