@@ -209,7 +209,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** None at the federal level
 </br>
-**Currency:** Australian dollar ($) (AUD)
+**Currency:** Australian dollar (AUD)
 </br>
 **Population:** 23,401,892 (2016)
 
