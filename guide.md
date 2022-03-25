@@ -221,7 +221,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Afghan afghani (AFN)
 </br>
-**Population:** 38,928,346	 (2020)
+**Population:** 38,928,346 (2020)
 
 ---
 
@@ -235,7 +235,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Albanian lek (ALL)
 </br>
-**Population:** 2,877,797	 (2020)
+**Population:** 2,877,797 (2020)
 
 ---
 
@@ -249,7 +249,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Algerian dinar (DZD)
 </br>
-**Population:** 43,851,044	 (2020)
+**Population:** 43,851,044 (2020)
 
 ---
 
@@ -303,7 +303,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Dutch, French, German
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 11,492,641 (2020)
 
@@ -317,7 +317,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Portuguese
 </br>
-**Currency:** 	Brazilian Real (BRL)
+**Currency:** Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
 
@@ -331,7 +331,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Bulgarian
 </br>
-**Currency:**  Lev (BGN)
+**Currency:** Lev (BGN)
 </br>
 **Population:** 6,863,422 (2022)
 
@@ -345,7 +345,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** French, English
 </br>
-**Currency:** 	Canadian Dollar (CAD)
+**Currency:** Canadian Dollar (CAD)
 </br>
 **Population:** 37,742,154 (2020)
 
@@ -359,7 +359,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Mandarin
 </br>
-**Currency:** 	Renminbi (Yuan) (CNY)
+**Currency:** Renminbi (Yuan) (CNY)
 </br>
 **Population:** 1,439,323,776 (2020)
 
@@ -373,7 +373,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Colombian peso (COP)
+**Currency:** Colombian peso (COP)
 </br>
 **Population:** 50,372,424 (2020)
 
@@ -387,7 +387,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Greek, Turkish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
 
@@ -403,7 +403,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Official Language:** English
 </br>
-**Currency:** 	British Pound Sterling (GBP)
+**Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 56,286,961 (2019)
 
@@ -419,7 +419,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** French
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
 
@@ -433,7 +433,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** German
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
 
@@ -447,7 +447,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Greek
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
 
@@ -461,9 +461,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Hebrew
 </br>
-**Currency:** 	New Israeli Sheqel (ILS)
+**Currency:** New Israeli Sheqel (ILS)
 </br>
-**Population:** 	8,655,535 (2020)
+**Population:** 8,655,535 (2020)
 
 ---
 
@@ -475,7 +475,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Italian
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
 
@@ -489,7 +489,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Japanese
 </br>
-**Currency:** 	Yen (JPY)
+**Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
 
@@ -503,7 +503,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Lithuanian
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
 
@@ -517,7 +517,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** None at federal level
 </br>
-**Currency:** 	Mexican peso (MXN)
+**Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
 
@@ -545,7 +545,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** English, Scottish Gaelic
 </br>
-**Currency:** 	British Pound Sterling (GBP)
+**Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
 
@@ -559,7 +559,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 46,754,778 (2020)
 
@@ -573,7 +573,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** German, French, Italian, Romansh
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 8,654,622 (2020)
 
@@ -590,7 +590,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** Arabic
 </br>
-**Currency:** 	UAE Dirham (AED)
+**Currency:** UAE Dirham (AED)
 </br>
 **Population:** 9,890,402 (2020)
 
@@ -604,7 +604,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** English
 </br>
-**Currency:** 	US Dollar (USD)
+**Currency:** US Dollar (USD)
 </br>
 **Population:** 331,002,651 (2020)
 
@@ -618,7 +618,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
 
