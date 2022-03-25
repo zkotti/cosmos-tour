@@ -55,6 +55,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Brazil](#brazil)
     * [Bulgaria](#bulgaria)
     * [Canada](#canada)
+    * [Chile](#chile)
     * [China](#china)
     * [Colombia](#colombia)
     * [Cyprus](#cyprus)
@@ -348,6 +349,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Canadian Dollar (CAD)
 </br>
 **Population:** 37,742,154 (2020)
+
+---
+
+## <a name="chile"></a>**Chile**
+
+<img width="300" height="300" src="media/flags/cl.svg">
+
+**Capital:** Santiago
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Chilean peso (CLP)
+</br>
+**Population:** 19,116,201 (2020)
 
 ---
 
