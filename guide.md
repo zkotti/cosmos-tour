@@ -45,14 +45,15 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 * ## [Countries](#countries) 
 
+    * [Afghanistan](#afghanistan)
     * [Argentina](#argentina)
-	* [Australia](#australia)
-	* [Belgium](#belgium)
+    * [Australia](#australia)
+    * [Belgium](#belgium)
     * [Brazil](#brazil)
-	* [Bulgaria](#bulgaria)
+    * [Bulgaria](#bulgaria)
     * [Canada](#canada)
     * [China](#china)
-	* [Colombia](#colombia)
+    * [Colombia](#colombia)
     * [Cyprus](#cyprus)
     * [England](#england)
     * [France](#france)
@@ -62,8 +63,8 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
-	* [Mexico](#mexico)
-	* [Philippines](#philippines)
+    * [Mexico](#mexico)
+    * [Philippines](#philippines)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
     * [United Arab Emirates](#uae)
@@ -205,6 +206,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 # <a name="countries"></a> ***Countries***
+
+## <a name="afghanistan"></a>**Afghanistan**
+
+<img width="300" height="300" src="media/flags/af.svg">
+
+**Capital:** Kabul
+</br>
+**Official Language:** Pashto, Dari
+</br>
+**Currency:** Afghan afghani (AFN)
+</br>
+**Population:** 38,928,346	 (2020)
+
+---
 
 ## <a name="argentina"></a>**Argentina**
 
