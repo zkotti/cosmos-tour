@@ -822,6 +822,17 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 # <a name="stars"></a> ***Stars***
 
+## <a name="polaris"></a>**Polaris**
+
+<img width="600" height="350" src="media/stars/Polaris.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
+
+## **Description**
+
+Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
+
 ---
 
 # <a name="oceans"></a> ***Oceans***
