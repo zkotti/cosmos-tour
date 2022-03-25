@@ -31,6 +31,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
     * [Argentina](#argentina)
 	* [Australia](#australia)
+	* [Belgium](#belgium)
     * [Brazil](#brazil)
     * [Canada](#canada)
     * [China](#china)
@@ -211,6 +212,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Australian dollar ($) (AUD)
 </br>
 **Population:** 23,401,892 (2016)
+
+---
+
+## <a name="belgium"></a>**Belgium**
+
+<img width="300" height="300" src="media/flags/be.svg">
+
+**Capital:** Brussels
+</br>
+**Official Language:** Dutch, French, German
+</br>
+**Currency:** 	Euro (EUR)
+</br>
+**Population:** 11,492,641 (2020)
 
 ---
 
