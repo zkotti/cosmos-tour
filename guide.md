@@ -389,7 +389,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Currency:** 	British Pound Sterling (GBP)
 </br>
-**Population:** 55.98 million (2018)
+**Population:** 56,286,961 (2019)
 
 England is the biggest of the four countries that are part of the United Kingdom.
 
