@@ -42,6 +42,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
+	* [Mexico](#mexico)
 	* [Philippines](#philippines)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
@@ -366,6 +367,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** 	Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+
+---
+
+## <a name="mexico"></a>**Mexico**
+
+<img width="300" height="300" src="media/flags/mx.svg">
+
+**Capital:** Mexico City
+</br>
+**Official Language:** None at federal level
+</br>
+**Currency:** 	Mexican peso (MXN)
+</br>
+**Population:** 126,014,024 (2020)
 
 ---
 
