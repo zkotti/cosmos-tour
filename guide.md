@@ -74,6 +74,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Scotland](#scotland)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
+    * [Ukraine](#ukraine)
     * [United Arab Emirates](#uae)
     * [United States](#usa)
     * [Uruguay](#uruguay)
@@ -624,6 +625,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+---
+
+## <a name="ukraine"></a>**Ukraine**
+
+<img width="300" height="300" src="media/flags/ua.svg">
+
+**Capital:** Kyiv
+</br>
+**Official Language:** Ukrainian
+</br>
+**Currency:** Hryvnia (UAH)
+</br>
+**Population:** 43,733,762 (2020)
 
 ---
 
