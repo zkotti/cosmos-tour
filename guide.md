@@ -35,6 +35,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
     * [Brazil](#brazil)
     * [Canada](#canada)
     * [China](#china)
+	* [Colombia](#colombia)
     * [Cyprus](#cyprus)
     * [France](#france)
     * [Germany](#germany)
@@ -268,6 +269,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** 	Renminbi (Yuan) (CNY)
 </br>
 **Population:** 1,439,323,776 (2020)
+
+---
+
+## <a name="colombia"></a>**Colombia**
+
+<img width="300" height="300" src="media/flags/co.svg">
+
+**Capital:** Bogotá
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** 	Colombian peso (COP)
+</br>
+**Population:** 50,372,424 (2020)
 
 ---
 
