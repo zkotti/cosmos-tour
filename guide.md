@@ -71,7 +71,10 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Lithuania](#lithuania)
     * [Mexico](#mexico)
     * [Philippines](#philippines)
+    * [Romania](#romania)
+    * [Russia](#russia)
     * [Scotland](#scotland)
+    * [Slovakia](#slovakia)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
     * [Ukraine](#ukraine)
@@ -583,6 +586,34 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+## <a name="romania"></a>**Romania**
+
+<img width="300" height="300" src="media/flags/ro.svg">
+
+**Capital:** Bucharest
+</br>
+**Official Language:** Romanian
+</br>
+**Currency:** Romanian leu (RON)
+</br>
+**Population:** 19,237,691 (2020)
+
+---
+
+## <a name="russia"></a>**Russia**
+
+<img width="300" height="300" src="media/flags/ru.svg">
+
+**Capital:** Moscow
+</br>
+**Official Language:** Russian
+</br>
+**Currency:** Russian ruble (RUB)
+</br>
+**Population:** 145,934,462 (2020)
+
+---
+
 ## <a name="scotland"></a>**Scotland**
 
 <img width="300" height="300" src="media/flags/gb-sct.svg">
@@ -594,6 +625,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
+
+---
+
+## <a name="slovakia"></a>**Slovakia**
+
+<img width="300" height="300" src="media/flags/sk.svg">
+
+**Capital:** Bratislava
+</br>
+**Official Language:** Slovak
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 5,459,642 (2020)
 
 ---
 
