@@ -59,6 +59,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [China](#china)
     * [Colombia](#colombia)
     * [Cyprus](#cyprus)
+    * [Egypt](#egypt)
     * [England](#england)
     * [France](#france)
     * [Germany](#germany)
@@ -408,6 +409,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Population:** 1,207,359 (2020)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+## <a name="egypt"></a>**Egypt**
+
+<img width="300" height="300" src="media/flags/eg.svg">
+
+**Capital:** Cairo
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Egyptian pound (EBP)
+</br>
+**Population:** 102,334,404 (2020)
 
 ---
 
