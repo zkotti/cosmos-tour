@@ -67,6 +67,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Lithuania](#lithuania)
     * [Mexico](#mexico)
     * [Philippines](#philippines)
+    * [Scotland](#scotland)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
     * [United Arab Emirates](#uae)
@@ -518,6 +519,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Philippine peso (PHP)
 </br>
 **Population:** 109,035,343 (2020)
+
+---
+
+## <a name="scotland"></a>**Scotland**
+
+<img width="300" height="300" src="media/flags/gb-sct.svg">
+
+**Capital:** Edinburgh
+</br>
+**Official Language:** English, Scottish Gaelic
+</br>
+**Currency:** 	British Pound Sterling (GBP)
+</br>
+**Population:** 5,466,000 (2020)
 
 ---
 
