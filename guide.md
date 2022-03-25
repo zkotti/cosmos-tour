@@ -537,6 +537,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+## <a name="russia"></a>**Russia**
+
+<img width="300" height="300" src="media/flags/ru.svg">
+
+**Capital:** Moscow
+</br>
+**Official Language:** Russian
+</br>
+**Currency:** Russian ruble (RUB)
+</br>
+**Population:** 145,934,462 (2020)
+
+---
+
 ## <a name="scotland"></a>**Scotland**
 
 <img width="300" height="300" src="media/flags/gb-sct.svg">
