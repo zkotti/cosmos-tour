@@ -33,6 +33,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 	* [Australia](#australia)
 	* [Belgium](#belgium)
     * [Brazil](#brazil)
+	* [Bulgaria](#bulgaria)
     * [Canada](#canada)
     * [China](#china)
 	* [Colombia](#colombia)
@@ -241,6 +242,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** 	Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
+
+---
+
+## <a name="bulgaria"></a>**Bulgaria**
+
+<img width="300" height="300" src="media/flags/bg.svg">
+
+**Capital:** Sofia
+</br>
+**Official Language:** Bulgarian
+</br>
+**Currency:**  Lev (BGN)
+</br>
+**Population:** 6,863,422 (2022)
 
 ---
 
