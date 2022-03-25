@@ -62,6 +62,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [England](#england)
     * [France](#france)
     * [Germany](#germany)
+    * [Ghana](#ghana)
     * [Greece](#greece)
     * [Israel](#israel)
     * [Italy](#italy)
@@ -451,6 +452,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
+
+---
+
+## <a name="ghana"></a>**Ghana**
+
+<img width="300" height="300" src="media/flags/gh.svg"> 
+
+**Capital:** Accra
+</br>
+**Official Language:** English
+</br>
+**Currency:** Cedi (GHS)
+</br>
+**Population:** 31,072,940 (2020)
 
 ---
 
