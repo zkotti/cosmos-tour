@@ -47,6 +47,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
     * [Afghanistan](#afghanistan)
     * [Albania](#albania)
+    * [Algeria](#algeria)
     * [Argentina](#argentina)
     * [Australia](#australia)
     * [Belgium](#belgium)
@@ -233,6 +234,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Albanian lek (ALL)
 </br>
 **Population:** 2,877,797	 (2020)
+
+---
+
+## <a name="algeria"></a>**Algeria**
+
+<img width="300" height="300" src="media/flags/dz.svg">
+
+**Capital:** Algiers
+</br>
+**Official Language:** Arabic and Tamazight
+</br>
+**Currency:** Algerian dinar (DZD)
+</br>
+**Population:** 43,851,044	 (2020)
 
 ---
 
