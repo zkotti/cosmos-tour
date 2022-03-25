@@ -49,6 +49,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Albania](#albania)
     * [Algeria](#algeria)
     * [Argentina](#argentina)
+    * [Armenia](#armenia)
     * [Australia](#australia)
     * [Belgium](#belgium)
     * [Brazil](#brazil)
@@ -263,6 +264,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Argentine Peso (ARS)
 </br>
 **Population:** 45,195,774 (2020)
+
+---
+
+## <a name="armenia"></a>**Armenia**
+
+<img width="300" height="300" src="media/flags/am.svg">
+
+**Capital:** Yerevan
+</br>
+**Official Language:** Armenian
+</br>
+**Currency:** Dram (AMD)
+</br>
+**Population:** 2,963,900 (2021)
 
 ---
 
