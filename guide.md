@@ -15,6 +15,22 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
 
+## Universe Facts
+
+- There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
+- A black hole is created when big stars explode. Its gravitational force is so strong that nothing can escape from it – luckily the closest black hole is about 10,000 light-years from Earth.
+- When venturing into space, astronauts wear spacesuits which have to be warmed, cooled, pressurised and supplied with fresh air. This takes six hours for them to put on!
+- The universe has no centre and is constantly expanding (getting bigger) every second – making it impossible to reach the edge.
+- The Earth is about 4.5 billion years old – but that’s only a third of the age of the universe – which is 13.5 billion years old!
+- The Earth is tiny in comparison with the rest of the universe – it could fit into the sun 1.3 million times.
+- The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
+- A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
+- In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
+
+Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/)
+
+---
+
 
 
 * ## [Continents](#continents) 
