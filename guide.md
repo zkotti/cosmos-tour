@@ -1278,6 +1278,8 @@ Our solar system's largest object is the Sun. To fill the Sun's volume, 1.3 mill
 
 Source [Nasa](https://solarsystem.nasa.gov/solar-system/sun/overview/)
 
+Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2Q)
+
 ---
 
 ## <a name="polaris"></a>**Polaris**
