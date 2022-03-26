@@ -28,11 +28,11 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 - In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
 - Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of  and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
 - There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
-- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.
+- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.    
 
-Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/)
-Source [indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13)
-Source [SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
+Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/), 
+[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13), 
+[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
 
