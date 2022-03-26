@@ -72,6 +72,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
     * [Belgium](#belgium)
     * [Brazil](#brazil)
     * [Bulgaria](#bulgaria)
+    * [Burkina Faso](#burkinafaso)
     * [Cameroon](#cameroon)
     * [Canada](#canada)
     * [Chile](#chile)
@@ -427,6 +428,22 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Population:** 6,863,422 (2022)
 
 ---
+
+
+## <a name="burkina faso"></a>**Burkina Faso**
+
+<img width="300" height="300" src="media/flags/bf.svg">
+
+**Capital:** Ouagadougou
+</br>
+**Official Language:** French
+</br>
+**Currency:** West African CFA franc (XOF)
+</br>
+**Population:** 21,510,181 (2020)
+
+---
+
 
 ## <a name="cameroon"></a>**Cameroon**
 
