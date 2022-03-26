@@ -13,6 +13,10 @@ The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμο
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
+In accordance with Cambridge dictionary, the __cosmos__ is the universe considered as a system with an order and pattern.
+
+Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmos)
+
 ---
 
 ## Universe Facts
