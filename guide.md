@@ -1267,7 +1267,17 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 
 
 ---
+## Cosmos Quotes
 
+<img width="300" height="300" src="media/quotes/CosmosQuotesInspirational.png">
+
+* Source [First quote](https://quotesgram.com/img/*cosmos-quotes-inspirational/9506651/)
+
+
+
+
+
+---
 ### Credits
 
 Country flags are available [here](https://flagicons.lipis.dev/) 
