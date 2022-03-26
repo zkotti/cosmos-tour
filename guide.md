@@ -9,12 +9,22 @@
 
 ## About the term Cosmos
 
-The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe. 
+* According to Cambridge dictionary, the __cosmos__ is the universe considered as a system with an order and pattern.
+
+Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmos)
+
+* The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe. 
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
+## Diffrence between Cosmos and Universe
 
+It is common that the words __cosmos__ and __universe__ are used synonymously as they refer to the same concept which is the world or nature. However, there is diffrence between the terms. __Universe__  seems to have either a narrower or smaller scope than __cosmos__. But, __cosmos__ signifies a larger and more complex system. 
+
+Source [Diffrence between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
+
+---
 ## Universe Facts
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
@@ -26,50 +36,80 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 - The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
 - A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
 - In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
+- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of  and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
+- There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
+- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.    
 
-Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/)
+Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/), 
+[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13), 
+[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
+
+---
+
+## Historic Milestones
+
+
+<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
+
+Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
+
 
 ---
 
 
-
 * ## [Continents](#continents) 
 
-    * [Asia](#asia)
     * [Africa](#africa)
-    * [North America](#north_america)
-    * [South America](#south_america)
-    * [Europe](#europe)
     * [Antarctica](#antarctica)
+    * [Asia](#asia)
+    * [Europe](#europe)
+    * [North America](#north_america)
     * [Oceania](#oceania)
+    * [South America](#south_america)
 
 * ## [Countries](#countries) 
 
     * [Afghanistan](#afghanistan)
     * [Albania](#albania)
     * [Algeria](#algeria)
+    * [Andorra](#andorra)
+    * [Angola](#angola)
+    * [Antigua and Barbuda](#antigua)
     * [Argentina](#argentina)
+    * [Armenia](#armenia)
     * [Australia](#australia)
+    * [Belarus](#belarus)
     * [Belgium](#belgium)
     * [Brazil](#brazil)
     * [Bulgaria](#bulgaria)
+    * [Burkina Faso](#burkinafaso)
+    * [Cameroon](#cameroon)
     * [Canada](#canada)
+    * [Chile](#chile)
     * [China](#china)
     * [Colombia](#colombia)
     * [Cyprus](#cyprus)
+    * [Egypt](#egypt)
     * [England](#england)
     * [France](#france)
     * [Germany](#germany)
+    * [Ghana](#ghana)
     * [Greece](#greece)
+    * [Ireland](#ireland)
     * [Israel](#israel)
     * [Italy](#italy)
     * [Japan](#japan)
     * [Lithuania](#lithuania)
     * [Mexico](#mexico)
+    * [Norway](#norway)
     * [Philippines](#philippines)
+    * [Romania](#romania)
+    * [Russia](#russia)
     * [Scotland](#scotland)
+    * [Slovakia](#slovakia)
     * [Spain](#spain)
     * [Switzerland](#switzerland)
+    * [Ukraine](#ukraine)
     * [United Arab Emirates](#uae)
     * [United States](#usa)
     * [Uruguay](#uruguay)
@@ -86,6 +126,13 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 	* [Uranus](#uranus)
     * [Venus](#venus)
 
+* ## [Earth-like Planets](#earthlikeplanets)
+    
+    * [Kepler-442b](#kepler442b)
+	* [Kepler-452b](#kepler452b)
+	* [Proxima Centauri b](#proximacentaurib)
+    * [TRAPPIST-1e](#trappist1e)
+
 * ## [Galaxies](#galaxies)
 
     * [Milky Way](#milky_way)
@@ -97,25 +144,11 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 * ## [Stars](#stars)
 
+    * [Polaris](#polaris)
+
 * ## [Oceans](#oceans)
 
----
 # <a name="continents"></a> ***Continents***
-
-## <a name="asia"></a>**Asia**
-
-**Population:** 4,560,667,108 (2018)
-</br>
-
-## **Description**
-
-Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
-
-In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
-
-Source [wiki](https://en.wikipedia.org/wiki/Asia)
-
----
 
 ## <a name="africa"></a>**Africa**
 
@@ -132,6 +165,51 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ---
 
+## <a name="antarctica"></a>**Antarctica**
+
+**Population:** 1,000 to 5,000 (Seasonal)
+</br>
+
+## **Description**
+
+Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
+
+Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
+
+Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
+
+---
+
+## <a name="asia"></a>**Asia**
+
+**Population:** 4,560,667,108 (2018)
+</br>
+
+## **Description**
+
+Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
+
+In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
+
+Source [wiki](https://en.wikipedia.org/wiki/Asia)
+
+---
+
+## <a name="europe"></a>**Europe**
+
+**Population:** 746,419,440 (2018)
+</br>
+
+## **Description**
+
+Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
+
+Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europe)
+
+---
+
 ## <a name="north_america"></a>**North America**
 
 **Population:** 592,296,233 (2021)
@@ -144,6 +222,21 @@ North America is a continent in the Northern Hemisphere and almost entirely with
 North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population. 
 
 Source [wiki](https://en.wikipedia.org/wiki/North_America)
+
+---
+
+## <a name="oceania"></a>**Oceania**
+
+**Population:** 41,570,842 (2018)
+</br>
+
+## **Description**
+
+Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
+
+Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
+
+Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
@@ -164,50 +257,6 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="europe"></a>**Europe**
-
-**Population:** 746,419,440 (2018)
-</br>
-
-## **Description**
-
-Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
-
-Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
-
-Source [wiki](https://en.wikipedia.org/wiki/Europe)
-
----
-
-## <a name="antarctica"></a>**Antarctica**
-
-**Population:** 1,000 to 5,000 (Seasonal)
-</br>
-
-## **Description**
-
-Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
-
-Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
-
-Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
-
----
-
-## <a name="oceania"></a>**Oceania**
-
-**Population:** 41,570,842 (2018)
-</br>
-
-## **Description**
-
-Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
-
-Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
-
-Source [wiki](https://en.wikipedia.org/wiki/Oceania)
-
----
 # <a name="countries"></a> ***Countries***
 
 ## <a name="afghanistan"></a>**Afghanistan**
@@ -220,7 +269,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Afghan afghani (AFN)
 </br>
-**Population:** 38,928,346	 (2020)
+**Population:** 38,928,346 (2020)
 
 ---
 
@@ -234,7 +283,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Albanian lek (ALL)
 </br>
-**Population:** 2,877,797	 (2020)
+**Population:** 2,877,797 (2020)
 
 ---
 
@@ -248,7 +297,49 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Currency:** Algerian dinar (DZD)
 </br>
-**Population:** 43,851,044	 (2020)
+**Population:** 43,851,044 (2020)
+
+---
+
+## <a name="andorra"></a>**Andorra**
+
+<img width="300" height="300" src="media/flags/ad.svg">
+
+**Capital:** Andorra la Vella
+</br>
+**Official Language:** Catalan
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 77,265	 (2020)
+
+---
+
+## <a name="angola"></a>**Angola**
+
+<img width="300" height="300" src="media/flags/ao.svg">
+
+**Capital:** Luanda
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** Angolan kwanza (AOA)
+</br>
+**Population:** 32,866,272	 (2020)
+
+---
+
+## <a name="antigua"></a>**Antigua and Barbuda**
+
+<img width="300" height="300" src="media/flags/ag.svg">
+
+**Capital:** Saint John's
+</br>
+**Official Language:** English
+</br>
+**Currency:** Eastern Caribbean dollar (XCD)
+</br>
+**Population:** 97,929	 (2020)
 
 ---
 
@@ -266,6 +357,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
+## <a name="armenia"></a>**Armenia**
+
+<img width="300" height="300" src="media/flags/am.svg">
+
+**Capital:** Yerevan
+</br>
+**Official Language:** Armenian
+</br>
+**Currency:** Dram (AMD)
+</br>
+**Population:** 2,963,900 (2021)
+
+---
+
 ## <a name="australia"></a>**Australia**
 
 <img width="300" height="300" src="media/flags/au.svg">
@@ -280,6 +385,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
+## <a name="belarus"></a>**Belarus**
+
+<img width="300" height="300" src="media/flags/by.svg">
+
+**Capital:** Minsk
+</br>
+**Official Language:** Belarusian, Russian 
+</br>
+**Currency:** Belarusian ruble (BYN)
+</br>
+**Population:** 9,349,645  (2021)
+
+---
+
 ## <a name="belgium"></a>**Belgium**
 
 <img width="300" height="300" src="media/flags/be.svg">
@@ -288,7 +407,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Dutch, French, German
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 11,492,641 (2020)
 
@@ -302,7 +421,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Portuguese
 </br>
-**Currency:** 	Brazilian Real (BRL)
+**Currency:** Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
 
@@ -316,9 +435,39 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Bulgarian
 </br>
-**Currency:**  Lev (BGN)
+**Currency:** Lev (BGN)
 </br>
 **Population:** 6,863,422 (2022)
+
+---
+
+
+## <a name="burkina faso"></a>**Burkina Faso**
+
+<img width="300" height="300" src="media/flags/bf.svg">
+
+**Capital:** Ouagadougou
+</br>
+**Official Language:** French
+</br>
+**Currency:** West African CFA franc (XOF)
+</br>
+**Population:** 21,510,181 (2020)
+
+---
+
+
+## <a name="cameroon"></a>**Cameroon**
+
+<img width="300" height="300" src="media/flags/cm.svg">
+
+**Capital:** Yaoundé
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 26,545,863 (2020)
 
 ---
 
@@ -330,9 +479,23 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** French, English
 </br>
-**Currency:** 	Canadian Dollar (CAD)
+**Currency:** Canadian Dollar (CAD)
 </br>
 **Population:** 37,742,154 (2020)
+
+---
+
+## <a name="chile"></a>**Chile**
+
+<img width="300" height="300" src="media/flags/cl.svg">
+
+**Capital:** Santiago
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Chilean peso (CLP)
+</br>
+**Population:** 19,116,201 (2020)
 
 ---
 
@@ -344,7 +507,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Mandarin
 </br>
-**Currency:** 	Renminbi (Yuan) (CNY)
+**Currency:** Renminbi (Yuan) (CNY)
 </br>
 **Population:** 1,439,323,776 (2020)
 
@@ -358,7 +521,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Colombian peso (COP)
+**Currency:** Colombian peso (COP)
 </br>
 **Population:** 50,372,424 (2020)
 
@@ -372,11 +535,25 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 </br>
 **Official Language:** Greek, Turkish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+## <a name="egypt"></a>**Egypt**
+
+<img width="300" height="300" src="media/flags/eg.svg">
+
+**Capital:** Cairo
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Egyptian pound (EBP)
+</br>
+**Population:** 102,334,404 (2020)
 
 ---
 
@@ -388,7 +565,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Official Language:** English
 </br>
-**Currency:** 	British Pound Sterling (GBP)
+**Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 56,286,961 (2019)
 
@@ -404,7 +581,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** French
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
 
@@ -418,9 +595,23 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** German
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
+
+---
+
+## <a name="ghana"></a>**Ghana**
+
+<img width="300" height="300" src="media/flags/gh.svg"> 
+
+**Capital:** Accra
+</br>
+**Official Language:** English
+</br>
+**Currency:** Cedi (GHS)
+</br>
+**Population:** 31,072,940 (2020)
 
 ---
 
@@ -432,9 +623,23 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Greek
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+
+---
+
+## <a name="ireland"></a>**Ireland**
+
+<img width="300" height="300" src="media/flags/ie.svg"> 
+
+**Capital:** Dublin
+</br>
+**Official Language:** Irish, English
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 5,035,283 (2020)
 
 ---
 
@@ -446,9 +651,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Hebrew
 </br>
-**Currency:** 	New Israeli Sheqel (ILS)
+**Currency:** New Israeli Sheqel (ILS)
 </br>
-**Population:** 	8,655,535 (2020)
+**Population:** 8,655,535 (2020)
 
 ---
 
@@ -460,7 +665,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Italian
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
 
@@ -474,7 +679,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Japanese
 </br>
-**Currency:** 	Yen (JPY)
+**Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
 
@@ -488,7 +693,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Lithuanian
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
 
@@ -502,9 +707,23 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** None at federal level
 </br>
-**Currency:** 	Mexican peso (MXN)
+**Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+
+---
+
+## <a name="norway"></a>**Norway**
+
+<img width="300" height="300" src="media/flags/no.svg">
+
+**Capital:** Oslo
+</br>
+**Official Language:** Norwegian
+</br>
+**Currency:** Norwegian krone (NOK)
+</br>
+**Population:** 5,421,241 (2020)
 
 ---
 
@@ -522,6 +741,34 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+## <a name="romania"></a>**Romania**
+
+<img width="300" height="300" src="media/flags/ro.svg">
+
+**Capital:** Bucharest
+</br>
+**Official Language:** Romanian
+</br>
+**Currency:** Romanian leu (RON)
+</br>
+**Population:** 19,237,691 (2020)
+
+---
+
+## <a name="russia"></a>**Russia**
+
+<img width="300" height="300" src="media/flags/ru.svg">
+
+**Capital:** Moscow
+</br>
+**Official Language:** Russian
+</br>
+**Currency:** Russian ruble (RUB)
+</br>
+**Population:** 145,934,462 (2020)
+
+---
+
 ## <a name="scotland"></a>**Scotland**
 
 <img width="300" height="300" src="media/flags/gb-sct.svg">
@@ -530,9 +777,23 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** English, Scottish Gaelic
 </br>
-**Currency:** 	British Pound Sterling (GBP)
+**Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
+
+---
+
+## <a name="slovakia"></a>**Slovakia**
+
+<img width="300" height="300" src="media/flags/sk.svg">
+
+**Capital:** Bratislava
+</br>
+**Official Language:** Slovak
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 5,459,642 (2020)
 
 ---
 
@@ -544,7 +805,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 46,754,778 (2020)
 
@@ -558,12 +819,26 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Official Language:** German, French, Italian, Romansh
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 8,654,622 (2020)
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+---
+
+## <a name="ukraine"></a>**Ukraine**
+
+<img width="300" height="300" src="media/flags/ua.svg">
+
+**Capital:** Kyiv
+</br>
+**Official Language:** Ukrainian
+</br>
+**Currency:** Hryvnia (UAH)
+</br>
+**Population:** 43,733,762 (2020)
 
 ---
 
@@ -575,7 +850,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** Arabic
 </br>
-**Currency:** 	UAE Dirham (AED)
+**Currency:** UAE Dirham (AED)
 </br>
 **Population:** 9,890,402 (2020)
 
@@ -589,7 +864,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** English
 </br>
-**Currency:** 	US Dollar (USD)
+**Currency:** US Dollar (USD)
 </br>
 **Population:** 331,002,651 (2020)
 
@@ -603,7 +878,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Official Language:** Spanish
 </br>
-**Currency:** 	Euro (EUR)
+**Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
 
@@ -807,6 +1082,55 @@ Source [wiki](https://en.wikipedia.org/wiki/Venus)
 
 ---
 
+# <a name="earthlikeplanets"></a> ***Earth-like Planets***
+
+To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface.
+
+---
+
+## <a name="kepler442b"></a>**Kepler-442b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015. 
+One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
+
+---
+
+## <a name="kepler452b"></a>**Kepler-452b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone. 
+At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
+
+---
+
+## <a name="proximacentaurib"></a>**Proxima Centauri b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration.  The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
+Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
+
+---
+
+## <a name="trappist1e"></a>**TRAPPIST-1e**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds. 
+Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
+
+---
 
 # <a name="galaxies"></a> ***Galaxies***
 
@@ -943,7 +1267,14 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 
 
 ---
+## Cosmos Quotes
 
+<img width="300" height="300" src="media/quotes/CosmosQuotesInspirational.png">
+
+* Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
+
+
+---
 ### Credits
 
 Country flags are available [here](https://flagicons.lipis.dev/) 
