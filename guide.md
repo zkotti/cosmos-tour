@@ -49,6 +49,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Albania](#albania)
     * [Algeria](#algeria)
     * [Andorra](#andorra)
+    * [Angola](#angola)
     * [Argentina](#argentina)
     * [Armenia](#armenia)
     * [Australia](#australia)
@@ -281,6 +282,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 77,265	 (2020)
+
+---
+
+## <a name="angola"></a>**Angola**
+
+<img width="300" height="300" src="media/flags/ao.svg">
+
+**Capital:** Luanda
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** Angolan kwanza (AOA)
+</br>
+**Population:** 32,866,272	 (2020)
 
 ---
 
