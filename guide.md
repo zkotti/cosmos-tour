@@ -134,6 +134,8 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 * ## [Stars](#stars)
 
+    * [Polaris](#polaris)
+
 * ## [Oceans](#oceans)
 
 # <a name="continents"></a> ***Continents***
