@@ -59,6 +59,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Argentina](#argentina)
     * [Armenia](#armenia)
     * [Australia](#australia)
+    * [Belarus](#belarus)
     * [Belgium](#belgium)
     * [Brazil](#brazil)
     * [Bulgaria](#bulgaria)
@@ -359,6 +360,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Australian dollar (AUD)
 </br>
 **Population:** 23,401,892 (2016)
+
+---
+
+## <a name="belarus"></a>**Belarus**
+
+<img width="300" height="300" src="media/flags/by.svg">
+
+**Capital:** Minsk
+</br>
+**Official Language:** Belarusian, Russian 
+</br>
+**Currency:** Belarusian ruble (BYN)
+</br>
+**Population:** 9,349,645  (2021)
 
 ---
 
