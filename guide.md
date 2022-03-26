@@ -134,29 +134,29 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
   - [Earth](#earth)
   - [Jupiter](#jupiter)
-    - [Mars](#mars)
+  - [Mars](#mars)
   - [Mercury](#mercury)
   - [Neptune](#neptune)
-    - [Pluto](#pluto)
+  - [Pluto](#pluto)
   - [Saturn](#saturn)
   - [Uranus](#uranus)
-    - [Venus](#venus)
+  - [Venus](#venus)
 
 - ## [Earth-like Planets](#earthlikeplanets)
 
   - [Kepler-442b](#kepler442b)
   - [Kepler-452b](#kepler452b)
   - [Proxima Centauri b](#proximacentaurib)
-    - [TRAPPIST-1e](#trappist1e)
+  - [TRAPPIST-1e](#trappist1e)
 
 - ## [Galaxies](#galaxies)
 
   - [Andromeda](#andromeda)
   - [Cigar](#cigar)
-    - [Cosmos Redshift 7](#cosmos_redshift_7)
-    - [Hoag's Object](#hoags_object)
-    - [Mayall's Object](#mayalls_object)
-    - [Milky Way](#milky_way)
+  - [Cosmos Redshift 7](#cosmos_redshift_7)
+  - [Hoag's Object](#hoags_object)
+  - [Mayall's Object](#mayalls_object)
+  - [Milky Way](#milky_way)
 
 - ## [Stars](#stars)
 
