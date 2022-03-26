@@ -97,6 +97,11 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Venus](#venus)
 
 * ## [Earth-like Planets](#earthlikeplanets)
+    
+    * [Kepler-442b](#kepler442b)
+	* [Kepler-452b](#kepler452b)
+	* [Proxima Centauri b](#proximacentaurib)
+    * [TRAPPIST-1e](#trappist1e)
 
 * ## [Galaxies](#galaxies)
 
@@ -959,6 +964,55 @@ Source [wiki](https://en.wikipedia.org/wiki/Venus)
 
 ---
 
+# <a name="earthlikeplanets"></a> ***Earth-like Planets***
+
+To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface.
+
+---
+
+## <a name="kepler442b"></a>**Kepler-442b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015. 
+One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
+
+---
+
+## <a name="kepler452b"></a>**Kepler-452b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone. 
+At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
+
+---
+
+## <a name="proximacentaurib"></a>**Proxima Centauri b**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration.  The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
+Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
+
+---
+
+## <a name="trappist1e"></a>**TRAPPIST-1e**
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+## **Description**
+
+Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds. 
+Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
+
+---
 
 # <a name="galaxies"></a> ***Galaxies***
 
