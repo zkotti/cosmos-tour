@@ -18,7 +18,13 @@ Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmo
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
+## Diffrence between Cosmos and Universe
 
+It is common that the words __cosmos__ and __universe__ are used synonymously as they refer to the same concept which is the world or nature. However, there is diffrence between the terms. __Universe__  seems to have either a narrower or smaller scope than __cosmos__. But, __cosmos__ signifies a larger and more complex system. 
+
+Source [Diffrence between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
+
+---
 ## Universe Facts
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
