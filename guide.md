@@ -96,6 +96,8 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 	* [Uranus](#uranus)
     * [Venus](#venus)
 
+* ## [Earth-like Planets](#earthlikeplanets)
+
 * ## [Galaxies](#galaxies)
 
     * [Milky Way](#milky_way)
