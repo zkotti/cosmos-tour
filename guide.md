@@ -35,13 +35,13 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 * ## [Continents](#continents) 
 
-    * [Asia](#asia)
     * [Africa](#africa)
-    * [North America](#north_america)
-    * [South America](#south_america)
-    * [Europe](#europe)
     * [Antarctica](#antarctica)
+    * [Asia](#asia)
+    * [Europe](#europe)
+    * [North America](#north_america)
     * [Oceania](#oceania)
+    * [South America](#south_america)
 
 * ## [Countries](#countries) 
 
@@ -120,23 +120,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 * ## [Oceans](#oceans)
 
----
 # <a name="continents"></a> ***Continents***
-
-## <a name="asia"></a>**Asia**
-
-**Population:** 4,560,667,108 (2018)
-</br>
-
-## **Description**
-
-Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
-
-In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
-
-Source [wiki](https://en.wikipedia.org/wiki/Asia)
-
----
 
 ## <a name="africa"></a>**Africa**
 
@@ -153,6 +137,51 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ---
 
+## <a name="antarctica"></a>**Antarctica**
+
+**Population:** 1,000 to 5,000 (Seasonal)
+</br>
+
+## **Description**
+
+Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
+
+Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
+
+Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
+
+---
+
+## <a name="asia"></a>**Asia**
+
+**Population:** 4,560,667,108 (2018)
+</br>
+
+## **Description**
+
+Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
+
+In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
+
+Source [wiki](https://en.wikipedia.org/wiki/Asia)
+
+---
+
+## <a name="europe"></a>**Europe**
+
+**Population:** 746,419,440 (2018)
+</br>
+
+## **Description**
+
+Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
+
+Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europe)
+
+---
+
 ## <a name="north_america"></a>**North America**
 
 **Population:** 592,296,233 (2021)
@@ -165,6 +194,21 @@ North America is a continent in the Northern Hemisphere and almost entirely with
 North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population. 
 
 Source [wiki](https://en.wikipedia.org/wiki/North_America)
+
+---
+
+## <a name="oceania"></a>**Oceania**
+
+**Population:** 41,570,842 (2018)
+</br>
+
+## **Description**
+
+Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
+
+Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
+
+Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
@@ -185,50 +229,6 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="europe"></a>**Europe**
-
-**Population:** 746,419,440 (2018)
-</br>
-
-## **Description**
-
-Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
-
-Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
-
-Source [wiki](https://en.wikipedia.org/wiki/Europe)
-
----
-
-## <a name="antarctica"></a>**Antarctica**
-
-**Population:** 1,000 to 5,000 (Seasonal)
-</br>
-
-## **Description**
-
-Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
-
-Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
-
-Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
-
----
-
-## <a name="oceania"></a>**Oceania**
-
-**Population:** 41,570,842 (2018)
-</br>
-
-## **Description**
-
-Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
-
-Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
-
-Source [wiki](https://en.wikipedia.org/wiki/Oceania)
-
----
 # <a name="countries"></a> ***Countries***
 
 ## <a name="afghanistan"></a>**Afghanistan**
