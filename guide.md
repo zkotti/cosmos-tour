@@ -1269,9 +1269,25 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 ---
 ## Cosmos Quotes
 
-<img width="300" height="300" src="media/quotes/CosmosQuotesInspirational.png">
+<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
 
 * Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
+
+<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
+
+* Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
+
+<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
+
+* Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
+
+<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
+
+* Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
+
+<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
+
+* Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
 
 
 ---
