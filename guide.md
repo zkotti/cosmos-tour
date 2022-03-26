@@ -69,6 +69,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Germany](#germany)
     * [Ghana](#ghana)
     * [Greece](#greece)
+    * [Ireland](#ireland)
     * [Israel](#israel)
     * [Italy](#italy)
     * [Japan](#japan)
@@ -567,6 +568,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+
+---
+
+## <a name="ireland"></a>**Ireland**
+
+<img width="300" height="300" src="media/flags/ie.svg"> 
+
+**Capital:** Dublin
+</br>
+**Official Language:** Irish, English
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 5,035,283 (2020)
 
 ---
 
