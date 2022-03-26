@@ -48,6 +48,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Afghanistan](#afghanistan)
     * [Albania](#albania)
     * [Algeria](#algeria)
+    * [Andorra](#andorra)
     * [Argentina](#argentina)
     * [Armenia](#armenia)
     * [Australia](#australia)
@@ -266,6 +267,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Algerian dinar (DZD)
 </br>
 **Population:** 43,851,044 (2020)
+
+---
+
+## <a name="andorra"></a>**Andorra**
+
+<img width="300" height="300" src="media/flags/ad.svg">
+
+**Capital:** Andorra la Vella
+</br>
+**Official Language:** Catalan
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 77,265	 (2020)
 
 ---
 
