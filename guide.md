@@ -50,6 +50,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
     * [Algeria](#algeria)
     * [Andorra](#andorra)
     * [Angola](#angola)
+    * [Antigua and Barbuda](#antigua)
     * [Argentina](#argentina)
     * [Armenia](#armenia)
     * [Australia](#australia)
@@ -296,6 +297,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 **Currency:** Angolan kwanza (AOA)
 </br>
 **Population:** 32,866,272	 (2020)
+
+---
+
+## <a name="antigua"></a>**Antigua and Barbuda**
+
+<img width="300" height="300" src="media/flags/ag.svg">
+
+**Capital:** Saint John's
+</br>
+**Official Language:** English
+</br>
+**Currency:** Eastern Caribbean dollar (XCD)
+</br>
+**Population:** 97,929	 (2020)
 
 ---
 
