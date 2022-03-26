@@ -925,6 +925,8 @@ Earth is an ellipsoid with a circumference of about 40,000 km. It is the densest
 Earth formed over 4.5 billion years ago. During the first billion years of Earth's history, the ocean formed and then life developed within it. Life spread globally and began to affect Earth's atmosphere and surface, leading to Earth's Great Oxidation Event two billion years ago. Humans emerged 300,000 years ago, and have reached a population of almost 8 billion today. Humans depend on Earth's biosphere and natural resources for their survival, but have increasingly impacted Earth's environment. Today, humanity's impact on Earth's climate, soils, waters and ecosystems is unsustainable, threatening people's lives and causing widespread extinction of other life. <br>
 Source [wiki](https://en.wikipedia.org/wiki/Earth)
 
+Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DCzYE)
+
 ---
 
 ## <a name="jupiter"></a>**Jupiter**
@@ -948,6 +950,8 @@ Surrounding Jupiter is a faint planetary ring system and a powerful magnetospher
 Pioneer 10 was the first spacecraft to visit Jupiter, making its closest approach to the planet in December 1973.[17] Jupiter has since been explored on several occasions by robotic spacecraft, beginning with the Pioneer and Voyager flyby missions from 1973 to 1979, and later by the Galileo orbiter, which arrived at Jupiter in 1995.[18] In 2007, the New Horizons visited Jupiter using its gravity to increase its speed, bending its trajectory en route to Pluto. The latest probe to visit the planet, Juno, entered orbit around Jupiter in July 2016.[19][20] Future targets for exploration in the Jupiter system include the probable ice-covered liquid ocean of Europa.[21] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Jupiter)
 
+Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=PtkqwslbLY8)
+
 ---
 
 ## <a name="mars"></a>**Mars**
@@ -968,6 +972,8 @@ The days and seasons are comparable to those of Earth, because the rotation peri
 
 Mars has been explored by several uncrewed spacecraft. Mariner 4 was the first spacecraft to visit Mars; launched by NASA on 28 November 1964, it made its closest approach to the planet on 15 July 1965. Mariner 4 detected the weak Martian radiation belt, measured at about 0.1% that of Earth, and captured the first images of another planet from deep space.[21] The latest spacecraft to successfully land on Mars are CNSA's Tianwen-1 lander and Zhurong rover, landed on 14 May 2021.[22] The Zhurong rover was successfully deployed on 22 May 2021, which makes China the second country to successfully deploy a rover on Mars, after the United States.[22] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Mars)
+
+Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXhoY)
 
 ---
 
@@ -990,6 +996,8 @@ Mercury rotates in a way that is unique in the Solar System. It is tidally locke
 Mercury's axis has the smallest tilt of any of the Solar System's planets (about 1⁄30 degree). Its orbital eccentricity is the largest of all known planets in the Solar System;[b] at perihelion, Mercury's distance from the Sun is only about two-thirds (or 66%) of its distance at aphelion. Mercury's surface appears heavily cratered and is similar in appearance to the Moon's, indicating that it has been geologically inactive for billions of years. Having almost no atmosphere to retain heat, it has surface temperatures that vary diurnally more than on any other planet in the Solar System, ranging from 100 K (−173 °C; −280 °F) at night to 700 K (427 °C; 800 °F) during the day across the equatorial regions.[19] The polar regions are constantly below 180 K (−93 °C; −136 °F). The planet has no known natural satellites. <br>
 Source [wiki](<https://en.wikipedia.org/wiki/Mercury_(planet)>)
 
+Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnNuhRHs)
+
 ---
 
 ## <a name="neptune"></a>**Neptune**
@@ -1010,6 +1018,8 @@ Being composed primarily of gases and liquids, it has no well-defined "solid sur
 
 Neptune is not visible to the unaided eye and is the only planet in the Solar System found by mathematical prediction rather than by empirical observation. Unexpected changes in the orbit of Uranus led Alexis Bouvard to deduce that its orbit was subject to gravitational perturbation by an unknown planet. After Bouvard's death, the position of Neptune was predicted from his observations, independently, by John Couch Adams and Urbain Le Verrier. Neptune was subsequently observed with a telescope on 23 September 1846[1] by Johann Galle within a degree of the position predicted by Le Verrier. Its largest moon, Triton, was discovered shortly thereafter, though none of the planet's remaining 13 known moons were located telescopically until the 20th century. The planet's distance from Earth gives it a very small apparent size, making it challenging to study with Earth-based telescopes. Neptune was visited by Voyager 2, when it flew by the planet on 25 August 1989; Voyager 2 remains the only spacecraft to have visited Neptune.[17][18] The advent of the Hubble Space Telescope and large ground-based telescopes with adaptive optics has recently allowed for additional detailed observations from afar. <br>
 Source [wiki](https://en.wikipedia.org/wiki/Neptune)
+
+Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7zZKXfE)
 
 ---
 
@@ -1032,6 +1042,8 @@ Pluto is the ninth-largest and tenth-most-massive known object directly orbiting
 Pluto has five known moons: Charon (the largest, with a diameter just over half that of Pluto), Styx, Nix, Kerberos, and Hydra. Pluto and Charon are sometimes considered a binary system because the barycenter of their orbits does not lie within either body. <br>
 Source [wiki](https://en.wikipedia.org/wiki/Pluto)
 
+Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70bd-M)
+
 ---
 
 ## <a name="saturn"></a>**Saturn**
@@ -1052,6 +1064,8 @@ Saturn's interior is most likely composed of a core of iron–nickel and rock (s
 
 The planet's most notable feature is its prominent ring system, which is composed mainly of ice particles, with a smaller amount of rocky debris and dust. At least 83 moons[29] are known to orbit Saturn, of which 53 are officially named; this does not include the hundreds of moonlets in its rings. Titan, Saturn's largest moon and the second largest in the Solar System, is larger than the planet Mercury, although less massive, and is the only moon in the Solar System to have a substantial atmosphere.[30] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Saturn)
+
+Video [Saturn 101 | National Geographic](https://www.youtube.com/watch?v=epZdZaEQhS0)
 
 ---
 
@@ -1074,6 +1088,8 @@ As with gas giants, ice giants also lack a well defined "solid surface." Uranus'
 Like the other giant planets, Uranus has a ring system, a magnetosphere, and numerous moons. The Uranian system has a unique configuration because its axis of rotation is tilted sideways, nearly into the plane of its solar orbit. Its north and south poles, therefore, lie where most other planets have their equators.[22] In 1986, images from Voyager 2 showed Uranus as an almost featureless planet in visible light, without the cloud bands or storms associated with the other giant planets.[22] Voyager 2 remains the only spacecraft to visit the planet.[23] Observations from Earth have shown seasonal change and increased weather activity as Uranus approached its equinox in 2007. Wind speeds can reach 250 metres per second (900 km/h; 560 mph).[24] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Uranus)
 
+Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFOiOGk)
+
 ---
 
 ## <a name="venus"></a>**Venus**
@@ -1094,6 +1110,8 @@ Venus is a terrestrial planet and is sometimes called Earth's "sister planet" be
 
 As one of the brightest objects in the sky, Venus has been a major fixture in human culture for as long as records have existed. It has been made sacred to gods of many cultures, and has been a prime inspiration for writers and poets as the "morning star" and "evening star". Venus was the first planet to have its motions plotted across the sky, as early as the second millennium BC.[27] <br>
 Source [wiki](https://en.wikipedia.org/wiki/Venus)
+
+Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9fjow)
 
 ---
 
