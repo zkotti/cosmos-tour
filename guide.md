@@ -36,6 +36,15 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 ---
 
+## Historic Milestones
+
+
+<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
+
+Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
+
+
+---
 
 
 * ## [Continents](#continents) 
