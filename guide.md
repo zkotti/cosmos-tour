@@ -135,12 +135,12 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 * ## [Galaxies](#galaxies)
 
-    * [Milky Way](#milky_way)
     * [Andromeda](#andromeda)
 	* [Cigar](#cigar)
     * [Cosmos Redshift 7](#cosmos_redshift_7)
     * [Hoag's Object](#hoags_object)
     * [Mayall's Object](#mayalls_object)
+    * [Milky Way](#milky_way)
 
 * ## [Stars](#stars)
 
@@ -1137,19 +1137,6 @@ Water on most of these planets are likely to have evaporated early in the system
 We will probably never reach another galaxy in our lifetime but [Hubble Space Telescope](https://hubblesite.org) has given us the opportunity to take a good look to the mysteries of the universe.
 
 ---
-
-## <a name="milky_way"></a>**Milky Way**
-
-<img width="500" height="350" src="media/galaxies/milkyway.jpg"> 
-
-owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
-
-
-## **Description**
-The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
-<br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
-
----
 ## <a name="andromeda"></a>**Andromeda**
 
 <img width="500" height="400" src="media/galaxies/Andromeda.jpg"> 
@@ -1220,7 +1207,18 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 <br> Source [wiki](https://en.wikipedia.org/wiki/Mayall%27s_Object)
 
 ---
+## <a name="milky_way"></a>**Milky Way**
 
+<img width="500" height="350" src="media/galaxies/milkyway.jpg"> 
+
+owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
+
+
+## **Description**
+The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
+
+---
 # <a name="stars"></a> ***Stars***
 
 ## <a name="polaris"></a>**Polaris**
