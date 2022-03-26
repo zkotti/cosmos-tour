@@ -1,30 +1,49 @@
 # **WELCOME TO COSMOS**
 
-
 ## Guided tour of the cosmos
-### By the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
+### By the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
 ---
 
 ## About the term Cosmos
 
-* According to Cambridge dictionary, the __cosmos__ is the universe considered as a system with an order and pattern.
+- According to Cambridge dictionary, the **cosmos** is the universe considered as a system with an order and pattern.
 
 Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmos)
 
-* The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe. 
+- The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
+
 ## Diffrence between Cosmos and Universe
 
-It is common that the words __cosmos__ and __universe__ are used synonymously as they refer to the same concept which is the world or nature. However, there is diffrence between the terms. __Universe__  seems to have either a narrower or smaller scope than __cosmos__. But, __cosmos__ signifies a larger and more complex system. 
+It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is diffrence between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
 
 Source [Diffrence between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
 ---
+
+## Origins of the Universe
+
+The most well-supported idea for the creation of our universe revolves around an event known as the big bang. This theory arose from the discovery that other galaxies are rapidly moving away from our own in all directions, as if driven by a powerful old explosive force.
+
+In the 1920s, a Belgian priest called Georges Lemaître proposed the big bang theory, claiming that the cosmos began with a single primordial atom. The concept was bolstered by Edwin Hubble's discoveries that galaxies are rushing away from us in all directions, as well as Arno Penzias and Robert Wilson's discovery of cosmic microwave radiation in the 1960s, which they interpreted as echoes of the big bang.
+
+The pace of the big bang has been clarified due to further research. Here's the theory: The cosmos was exceedingly compressed in the first 10^-43 seconds of its existence, less than a million billion billionth the size of a single atom. The four fundamental forces—gravity, electromagnetism, and the strong and weak nuclear forces—are considered to have been forged into a single force in such an incomprehensibly dense, energetic state, but our present theories haven't yet figured out how such a single, unified force would work. We'd need to understand how gravity works on a subatomic scale to pull this off, something we currently can't do.
+
+The extremely close quarters are also believed to have allowed the universe's earliest particles to mix, blend, and settle into approximately the same temperature. Then, in a fraction of a second, all that matter and energy spread outward more or less uniformly, with minor differences given by quantum-scale fluctuations. Inflation, a hypothesis of rapid expansion, could explain why the universe's temperature and matter distribution are so uniform.
+
+The cosmos continued to grow after inflation, although at a considerably slower rate. It's still a mystery what fueled inflation.
+
+Video [Origins of the Universe 101 | National Geographic](https://www.youtube.com/watch?v=HdPzOWlLrbE)
+
+Source [National Geographic](https://www.nationalgeographic.com/science/article/origins-of-the-universe)
+
+---
+
 ## Universe Facts
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
@@ -36,119 +55,116 @@ Source [Diffrence between Cosmos and Universe](http://www.differencebetween.net/
 - The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
 - A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
 - In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
-- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of  and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
+- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
 - There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
-- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.    
+- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.
 
-Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/), 
-[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13), 
+Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
+[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
 [SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
 
 ## Historic Milestones
 
-
 <img  src="media/history/milestones-universe-history-e1500155641224.jpg">
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
-
 ---
 
+- ## [Continents](#continents)
 
-* ## [Continents](#continents) 
+  - [Africa](#africa)
+  - [Antarctica](#antarctica)
+  - [Asia](#asia)
+  - [Europe](#europe)
+  - [North America](#north_america)
+  - [Oceania](#oceania)
+  - [South America](#south_america)
 
-    * [Africa](#africa)
-    * [Antarctica](#antarctica)
-    * [Asia](#asia)
-    * [Europe](#europe)
-    * [North America](#north_america)
-    * [Oceania](#oceania)
-    * [South America](#south_america)
+- ## [Countries](#countries)
 
-* ## [Countries](#countries) 
+  - [Afghanistan](#afghanistan)
+  - [Albania](#albania)
+  - [Algeria](#algeria)
+  - [Andorra](#andorra)
+  - [Angola](#angola)
+  - [Antigua and Barbuda](#antigua)
+  - [Argentina](#argentina)
+  - [Armenia](#armenia)
+  - [Australia](#australia)
+  - [Belarus](#belarus)
+  - [Belgium](#belgium)
+  - [Brazil](#brazil)
+  - [Bulgaria](#bulgaria)
+  - [Burkina Faso](#burkinafaso)
+  - [Cameroon](#cameroon)
+  - [Canada](#canada)
+  - [Chile](#chile)
+  - [China](#china)
+  - [Colombia](#colombia)
+  - [Cyprus](#cyprus)
+  - [Egypt](#egypt)
+  - [England](#england)
+  - [France](#france)
+  - [Germany](#germany)
+  - [Ghana](#ghana)
+  - [Greece](#greece)
+  - [Ireland](#ireland)
+  - [Israel](#israel)
+  - [Italy](#italy)
+  - [Japan](#japan)
+  - [Lithuania](#lithuania)
+  - [Mexico](#mexico)
+  - [Norway](#norway)
+  - [Philippines](#philippines)
+  - [Romania](#romania)
+  - [Russia](#russia)
+  - [Scotland](#scotland)
+  - [Slovakia](#slovakia)
+  - [Spain](#spain)
+  - [Switzerland](#switzerland)
+  - [Ukraine](#ukraine)
+  - [United Arab Emirates](#uae)
+  - [United States](#usa)
+  - [Uruguay](#uruguay)
 
-    * [Afghanistan](#afghanistan)
-    * [Albania](#albania)
-    * [Algeria](#algeria)
-    * [Andorra](#andorra)
-    * [Angola](#angola)
-    * [Antigua and Barbuda](#antigua)
-    * [Argentina](#argentina)
-    * [Armenia](#armenia)
-    * [Australia](#australia)
-    * [Belarus](#belarus)
-    * [Belgium](#belgium)
-    * [Brazil](#brazil)
-    * [Bulgaria](#bulgaria)
-    * [Burkina Faso](#burkinafaso)
-    * [Cameroon](#cameroon)
-    * [Canada](#canada)
-    * [Chile](#chile)
-    * [China](#china)
-    * [Colombia](#colombia)
-    * [Cyprus](#cyprus)
-    * [Egypt](#egypt)
-    * [England](#england)
-    * [France](#france)
-    * [Germany](#germany)
-    * [Ghana](#ghana)
-    * [Greece](#greece)
-    * [Ireland](#ireland)
-    * [Israel](#israel)
-    * [Italy](#italy)
-    * [Japan](#japan)
-    * [Lithuania](#lithuania)
-    * [Mexico](#mexico)
-    * [Norway](#norway)
-    * [Philippines](#philippines)
-    * [Romania](#romania)
-    * [Russia](#russia)
-    * [Scotland](#scotland)
-    * [Slovakia](#slovakia)
-    * [Spain](#spain)
-    * [Switzerland](#switzerland)
-    * [Ukraine](#ukraine)
-    * [United Arab Emirates](#uae)
-    * [United States](#usa)
-    * [Uruguay](#uruguay)
+- ## [Planets](#planets)
 
-* ## [Planets](#planets)
+  - [Earth](#earth)
+  - [Jupiter](#jupiter)
+    - [Mars](#mars)
+  - [Mercury](#mercury)
+  - [Neptune](#neptune)
+    - [Pluto](#pluto)
+  - [Saturn](#saturn)
+  - [Uranus](#uranus)
+    - [Venus](#venus)
 
-    * [Earth](#earth)
-	* [Jupiter](#jupiter)
-    * [Mars](#mars)
-	* [Mercury](#mercury)
-	* [Neptune](#neptune)
-    * [Pluto](#pluto)
-	* [Saturn](#saturn)
-	* [Uranus](#uranus)
-    * [Venus](#venus)
+- ## [Earth-like Planets](#earthlikeplanets)
 
-* ## [Earth-like Planets](#earthlikeplanets)
-    
-    * [Kepler-442b](#kepler442b)
-	* [Kepler-452b](#kepler452b)
-	* [Proxima Centauri b](#proximacentaurib)
-    * [TRAPPIST-1e](#trappist1e)
+  - [Kepler-442b](#kepler442b)
+  - [Kepler-452b](#kepler452b)
+  - [Proxima Centauri b](#proximacentaurib)
+    - [TRAPPIST-1e](#trappist1e)
 
-* ## [Galaxies](#galaxies)
+- ## [Galaxies](#galaxies)
 
-    * [Andromeda](#andromeda)
-	* [Cigar](#cigar)
-    * [Cosmos Redshift 7](#cosmos_redshift_7)
-    * [Hoag's Object](#hoags_object)
-    * [Mayall's Object](#mayalls_object)
-    * [Milky Way](#milky_way)
+  - [Andromeda](#andromeda)
+  - [Cigar](#cigar)
+    - [Cosmos Redshift 7](#cosmos_redshift_7)
+    - [Hoag's Object](#hoags_object)
+    - [Mayall's Object](#mayalls_object)
+    - [Milky Way](#milky_way)
 
-* ## [Stars](#stars)
+- ## [Stars](#stars)
 
-    * [Polaris](#polaris)
+  - [Polaris](#polaris)
 
-* ## [Oceans](#oceans)
+- ## [Oceans](#oceans)
 
-# <a name="continents"></a> ***Continents***
+# <a name="continents"></a> **_Continents_**
 
 ## <a name="africa"></a>**Africa**
 
@@ -174,7 +190,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
 
-Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.  
+Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.
 
 Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
@@ -204,7 +220,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
 Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
 
-Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast. 
+Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast.
 
 Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
@@ -219,7 +235,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
 North America is a continent in the Northern Hemisphere and almost entirely within the Western Hemisphere. It can also be described as the northern subcontinent of a single continent, America. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.
 
-North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population. 
+North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population.
 
 Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
@@ -257,7 +273,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-# <a name="countries"></a> ***Countries***
+# <a name="countries"></a> **_Countries_**
 
 ## <a name="afghanistan"></a>**Afghanistan**
 
@@ -311,7 +327,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 </br>
 **Currency:** Euro (EUR)
 </br>
-**Population:** 77,265	 (2020)
+**Population:** 77,265 (2020)
 
 ---
 
@@ -325,7 +341,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 </br>
 **Currency:** Angolan kwanza (AOA)
 </br>
-**Population:** 32,866,272	 (2020)
+**Population:** 32,866,272 (2020)
 
 ---
 
@@ -339,7 +355,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 </br>
 **Currency:** Eastern Caribbean dollar (XCD)
 </br>
-**Population:** 97,929	 (2020)
+**Population:** 97,929 (2020)
 
 ---
 
@@ -391,11 +407,11 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 **Capital:** Minsk
 </br>
-**Official Language:** Belarusian, Russian 
+**Official Language:** Belarusian, Russian
 </br>
 **Currency:** Belarusian ruble (BYN)
 </br>
-**Population:** 9,349,645  (2021)
+**Population:** 9,349,645 (2021)
 
 ---
 
@@ -441,7 +457,6 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-
 ## <a name="burkina faso"></a>**Burkina Faso**
 
 <img width="300" height="300" src="media/flags/bf.svg">
@@ -455,7 +470,6 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Population:** 21,510,181 (2020)
 
 ---
-
 
 ## <a name="cameroon"></a>**Cameroon**
 
@@ -529,7 +543,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ## <a name="cyprus"></a>**Cyprus**
 
-<img width="300" height="300" src="media/flags/cy.svg"> 
+<img width="300" height="300" src="media/flags/cy.svg">
 
 **Capital:** Nicosia
 </br>
@@ -575,7 +589,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ## <a name="france"></a>**France**
 
-<img width="300" height="300" src="media/flags/fr.svg"> 
+<img width="300" height="300" src="media/flags/fr.svg">
 
 **Capital:** Paris
 </br>
@@ -589,7 +603,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ## <a name="germany"></a>**Germany**
 
-<img width="300" height="300" src="media/flags/de.svg"> 
+<img width="300" height="300" src="media/flags/de.svg">
 
 **Capital:** Berlin
 </br>
@@ -603,7 +617,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ## <a name="ghana"></a>**Ghana**
 
-<img width="300" height="300" src="media/flags/gh.svg"> 
+<img width="300" height="300" src="media/flags/gh.svg">
 
 **Capital:** Accra
 </br>
@@ -617,7 +631,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ## <a name="greece"></a>**Greece**
 
-<img width="300" height="300" src="media/flags/gr.svg"> 
+<img width="300" height="300" src="media/flags/gr.svg">
 
 **Capital:** Athens
 </br>
@@ -631,7 +645,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ## <a name="ireland"></a>**Ireland**
 
-<img width="300" height="300" src="media/flags/ie.svg"> 
+<img width="300" height="300" src="media/flags/ie.svg">
 
 **Capital:** Dublin
 </br>
@@ -884,7 +898,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-# <a name="planets"></a> ***Planets***
+# <a name="planets"></a> **_Planets_**
 
 We still can not visit others planets but using the SpaceEngine (available on [steam](https://store.steampowered.com/app/314650/SpaceEngine)) you can discover much more about the universe.
 
@@ -892,7 +906,7 @@ We still can not visit others planets but using the SpaceEngine (available on [s
 
 ## <a name="earth"></a>**Earth**
 
-<img width="300" height="300" src="media/planets/earth.jpg"> 
+<img width="300" height="300" src="media/planets/earth.jpg">
 
 owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 
@@ -915,7 +929,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Earth)
 
 ## <a name="jupiter"></a>**Jupiter**
 
-<img width="550" height="300" src="media/planets/jupiter.png"> 
+<img width="550" height="300" src="media/planets/jupiter.png">
 
 owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/planet-jupiter.html)
 
@@ -938,7 +952,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Jupiter)
 
 ## <a name="mars"></a>**Mars**
 
-<img width="500" height="300" src="media/planets/mars.jpg"> 
+<img width="500" height="300" src="media/planets/mars.jpg">
 
 owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist-says-Martians-can-help-humans-live-on-Red-Planet-1599337)
 
@@ -947,6 +961,7 @@ owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist
 **Official Language:** N/A
 
 ## **Description**
+
 Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[17][18] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a striking reddish appearance in the sky.[19] Mars is a terrestrial planet with a thin atmosphere, with surface features such as impact craters, valleys, dunes, and polar ice caps.
 
 The days and seasons are comparable to those of Earth, because the rotation period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars is the site of Olympus Mons, the largest volcano and highest known mountain on any planet in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System. The smooth Borealis basin in the Northern Hemisphere covers 40% of the planet and may be a giant impact feature.[20] Mars has two moons, Phobos and Deimos, which are small and irregularly shaped.
@@ -958,7 +973,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Mars)
 
 ## <a name="mercury"></a>**Mercury**
 
-<img width="470" height="300" src="media/planets/mercury.jpg"> 
+<img width="470" height="300" src="media/planets/mercury.jpg">
 
 owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but-really-hot-stuff/)
 
@@ -973,13 +988,13 @@ Mercury is the smallest planet in the Solar System and the closest to the Sun. I
 Mercury rotates in a way that is unique in the Solar System. It is tidally locked with the Sun in a 3:2 spin–orbit resonance,[17] meaning that relative to the fixed stars, it rotates on its axis exactly three times for every two revolutions it makes around the Sun.[a][18] As seen from the Sun, in a frame of reference that rotates with the orbital motion, it appears to rotate only once every two Mercurian years. An observer on Mercury would therefore see only one day every two Mercurian years.
 
 Mercury's axis has the smallest tilt of any of the Solar System's planets (about 1⁄30 degree). Its orbital eccentricity is the largest of all known planets in the Solar System;[b] at perihelion, Mercury's distance from the Sun is only about two-thirds (or 66%) of its distance at aphelion. Mercury's surface appears heavily cratered and is similar in appearance to the Moon's, indicating that it has been geologically inactive for billions of years. Having almost no atmosphere to retain heat, it has surface temperatures that vary diurnally more than on any other planet in the Solar System, ranging from 100 K (−173 °C; −280 °F) at night to 700 K (427 °C; 800 °F) during the day across the equatorial regions.[19] The polar regions are constantly below 180 K (−93 °C; −136 °F). The planet has no known natural satellites. <br>
-Source [wiki](https://en.wikipedia.org/wiki/Mercury_(planet))
+Source [wiki](<https://en.wikipedia.org/wiki/Mercury_(planet)>)
 
 ---
 
 ## <a name="neptune"></a>**Neptune**
 
-<img width="400" height="300" src="media/planets/neptune.jpg"> 
+<img width="400" height="300" src="media/planets/neptune.jpg">
 
 owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
@@ -1000,7 +1015,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Neptune)
 
 ## <a name="pluto"></a>**Pluto**
 
-<img width="600" height="300" src="media/planets/pluto.jpg"> 
+<img width="600" height="300" src="media/planets/pluto.jpg">
 
 owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
 
@@ -1021,7 +1036,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Pluto)
 
 ## <a name="saturn"></a>**Saturn**
 
-<img width="400" height="300" src="media/planets/saturn.jpg"> 
+<img width="400" height="300" src="media/planets/saturn.jpg">
 
 owned by [techexplorist.com](https://www.techexplorist.com/saturn-flashing-auroras-making-astronomers-scratch-head/29185/)
 
@@ -1042,7 +1057,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Saturn)
 
 ## <a name="uranus"></a>**Uranus**
 
-<img width="500" height="300" src="media/planets/uranus.jpg"> 
+<img width="500" height="300" src="media/planets/uranus.jpg">
 
 owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 
@@ -1063,7 +1078,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Uranus)
 
 ## <a name="venus"></a>**Venus**
 
-<img width="460" height="350" src="media/planets/venus.jpg"> 
+<img width="460" height="350" src="media/planets/venus.jpg">
 
 owned by [scitechdaily.com](https://scitechdaily.com/planetary-researchers-surprised-to-find-a-ring-of-fire-on-venus/)
 
@@ -1082,7 +1097,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Venus)
 
 ---
 
-# <a name="earthlikeplanets"></a> ***Earth-like Planets***
+# <a name="earthlikeplanets"></a> **_Earth-like Planets_**
 
 To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface.
 
@@ -1094,7 +1109,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 ## **Description**
 
-This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015. 
+This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015.
 One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
 
 ---
@@ -1105,7 +1120,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 ## **Description**
 
-This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone. 
+This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone.
 At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
 
 ---
@@ -1116,7 +1131,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 ## **Description**
 
-Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration.  The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
+Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration. The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
 Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
 
 ---
@@ -1127,19 +1142,20 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 ## **Description**
 
-Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds. 
+Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds.
 Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
 
 ---
 
-# <a name="galaxies"></a> ***Galaxies***
+# <a name="galaxies"></a> **_Galaxies_**
 
 We will probably never reach another galaxy in our lifetime but [Hubble Space Telescope](https://hubblesite.org) has given us the opportunity to take a good look to the mysteries of the universe.
 
 ---
+
 ## <a name="andromeda"></a>**Andromeda**
 
-<img width="500" height="400" src="media/galaxies/Andromeda.jpg"> 
+<img width="500" height="400" src="media/galaxies/Andromeda.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
@@ -1151,48 +1167,52 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andromeda_Galaxy)
 
 ---
-## <a name="cigar"></a>**Cigar**
 
+## <a name="cigar"></a>**Cigar**
 
 <img width="500" height="350" src="media/galaxies/Cigar.jpg">
 
 owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
 ## **Description**
+
 Messier 82 (also known as NGC 3034, Cigar Galaxy or M82) is a starburst galaxy approximately 12 million light-years away in the constellation Ursa Major. A member of the M81 Group, it is about five times more luminous than the Milky Way and has a center one hundred times more luminous.
 
 The starburst activity is thought to have been triggered by interaction with neighboring galaxy M81 galaxy. SN 2014J, a type Ia supernova, was discovered in the galaxy on 21 January 2014. In 2014, in studying M82, scientists discovered the brightest pulsar yet known, designated M82 X-2.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Messier_82)
 
 ---
-## <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
 
+## <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
 
 <img width="500" height="350" src="media/galaxies/CosmosRedshift7.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
 ## **Description**
+
 Cosmos Redshift 7 (also known as COSMOS Redshift 7, Galaxy Cosmos Redshift 7, Galaxy CR7 or CR7) is a high-redshift Lyman-alpha emitter galaxy. At a redshift z = 6.6, the galaxy is observed as it was about 800 million years after the Big Bang, during the epoch of reionisation. With a light travel time of 12.9 billion years, it is one of the oldest, most distant galaxies known.
 
 CR7 shows some of the expected signatures of Population III stars i.e. the first generation of stars produced during early galaxy formation. These signatures were detected in a bright pocket of blue stars; the rest of the galaxy contains redder Population II stars.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Cosmos_Redshift_7)
 
 ---
-## <a name="hoags_object"></a>**Hoag's Object**
 
+## <a name="hoags_object"></a>**Hoag's Object**
 
 <img width="500" height="350" src="media/galaxies/Hoags_object.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
 ## **Description**
+
 Hoag's Object is a non-typical galaxy of the type known as a ring galaxy. It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has approximately eight billion stars, and is roughly 100,000 light years across.
 
 A nearly perfect ring of young hot blue stars circles the older yellow nucleus of this ring galaxy c. 600 million light-years away in the constellation Serpens. The diameter of the 6 arcsecond inner core of the galaxy is about 17±0.7 kly (5.3±0.2 kpc) while the surrounding ring has an inner 28″ diameter of 75±3 kly (24.8±1.1 kpc) and an outer 45″ diameter of 121±4 kly (39.9±1.7 kpc). The galaxy is estimated to have a mass of 700 billion suns. By comparison, the Milky Way galaxy has an estimated diameter of 150-200 kly and consists of between 100 and 500 billion stars and a mass of around 1.54 trillion suns.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Hoag%27s_Object)
 
 ---
+
 ## <a name="mayalls_object"></a>**Mayall's Object**
 
 <img width="500" height="350" src="media/galaxies/mayallsObject.jpg">
@@ -1207,19 +1227,21 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 <br> Source [wiki](https://en.wikipedia.org/wiki/Mayall%27s_Object)
 
 ---
+
 ## <a name="milky_way"></a>**Milky Way**
 
-<img width="500" height="350" src="media/galaxies/milkyway.jpg"> 
+<img width="500" height="350" src="media/galaxies/milkyway.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
-
 ## **Description**
+
 The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
 
 ---
-# <a name="stars"></a> ***Stars***
+
+# <a name="stars"></a> **_Stars_**
 
 ## <a name="polaris"></a>**Polaris**
 
@@ -1234,7 +1256,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 ---
 
-# <a name="oceans"></a> ***Oceans***
+# <a name="oceans"></a> **_Oceans_**
 
 <img width="500" height="350" src="media/oceans/earths_ocean.jpg">
 
@@ -1248,47 +1270,47 @@ The oceans of Earth are unique in our Solar System. No other planet in our Solar
 
 The oceans of Earth serve many functions, especially affecting the weather and temperature. They moderate the Earth's temperature by absorbing incoming solar radiation (stored as heat energy). The always-moving ocean currents distribute this heat energy around the globe. This heats the land and air during winter and cools it during summer.
 
-The Earth's oceans are all connected to one another. Until the year 2000, there were four recognized oceans: the Pacific, Atlantic, Indian, and Arctic. In the Spring of 2000, the International Hydrographic Organization delimited a new ocean, the Southern Ocean (it surrounds Antarctica and extends to 60 degrees latitude).                     
+The Earth's oceans are all connected to one another. Until the year 2000, there were four recognized oceans: the Pacific, Atlantic, Indian, and Arctic. In the Spring of 2000, the International Hydrographic Organization delimited a new ocean, the Southern Ocean (it surrounds Antarctica and extends to 60 degrees latitude).  
 <br> Source [enchantedlearning](https://www.enchantedlearning.com/subjects/ocean/)
 
 ## **Area and depth of the major oceans**
 
 | **Ocean** | **Area (million km2)** | **Average depth (m)** |
-|:---------:|:----------------------:|:---------------------:|
-|  Pacific  |           166          |          4282         |
-|  Atlantic |           87           |          3926         |
-|   Indian  |           73           |          3963         |
-|   Arctic  |           14           |          1205         |
-|  Southern |           20           |          4000         |
+| :-------: | :--------------------: | :-------------------: |
+|  Pacific  |          166           |         4282          |
+| Atlantic  |           87           |         3926          |
+|  Indian   |           73           |         3963          |
+|  Arctic   |           14           |         1205          |
+| Southern  |           20           |         4000          |
 
 <br> Source [pressbooks](https://rwu.pressbooks.pub/webboceanography/chapter/1-1-overview-of-the-oceans/)
 
-
 ---
+
 ## Cosmos Quotes
 
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
 
-* Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
+- Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
 
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
 
-* Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
+- Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
 
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
 
-* Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
+- Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
 
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
 
-* Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
+- Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
 
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
 
-* Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
-
+- Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
 
 ---
+
 ### Credits
 
-Country flags are available [here](https://flagicons.lipis.dev/) 
+Country flags are available [here](https://flagicons.lipis.dev/)
