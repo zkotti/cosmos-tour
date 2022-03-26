@@ -160,6 +160,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 - ## [Stars](#stars)
 
+  - [Sun](#sun)
   - [Polaris](#polaris)
 
 - ## [Oceans](#oceans)
@@ -1260,6 +1261,24 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 ---
 
 # <a name="stars"></a> **_Stars_**
+
+---
+
+## <a name="sun"></a>**Sun**
+
+<img width="500" height="475" src="media/stars/Sun.jpeg">
+
+owned by [pexels.com](https://www.pexels.com/el-gr/photo/87611/)
+
+## **Description**
+
+Our Sun is a 4.5 billion-year-old star at the heart of our solar system, a hot, incandescent ball of hydrogen and helium. The Sun is around 93 million miles (150 million kilometers) away from Earth, and life as we know it would not be possible without its energy.
+
+Our solar system's largest object is the Sun. To fill the Sun's volume, 1.3 million Earths would be required. Its gravity binds the solar system together, keeping everything in orbit around it in place, from the largest planets to the tiniest bits of debris. The Sun's core, where temperatures may reach 27 million degrees Fahrenheit (15 million degrees Celsius), is its hottest part. The Sun's activity has an impact on the nature of space throughout the solar system, from its violent eruptions to the continuous stream of charged particles it emits.
+
+Source [Nasa](https://solarsystem.nasa.gov/solar-system/sun/overview/)
+
+---
 
 ## <a name="polaris"></a>**Polaris**
 
