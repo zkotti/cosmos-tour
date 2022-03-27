@@ -78,6 +78,40 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 ---
 
+## End of the Universe
+
+Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
+
+### The big rip
+
+Not only is the universe expanding, its expanding equally in all directions. And because space is expanding, galaxies are getting farther apart. The space within each galaxy is expanding too, but right now, the galaxy's own gravity is strong enough to hold it together.
+
+The big rip would start once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
+
+Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe. 
+
+### The big crunch
+
+This is the least terrifying end-of-universe scenario. If astrophysicists are wrong about dark energy and there's actually less of it than we think, or its grasp on matter decreases over time, gravity would eventually become the most powerful force in the universe.
+
+If that happens, then after trillions of years, the rate that the universe expands would decrease and the universe would start to shrink. Galaxies would crash into each other and merge as the universe starts collapsing on itself.
+
+A shrinking universe would drive temperatures higher. The cosmic background radiation would be so hot that it would cook stars from the outside in. The intense heat would rip atoms apart in the final minutes before the Big Crunch. Black holes would then swallow up everything since objects are packed so tightly into dense clumps.
+
+The black holes would then converge into one mega black hole that contains the entirety of the universe. The Big Crunch moment would happen instantly as the black hole swallows itself.
+
+Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it. 
+
+### The big freeze or heat death
+
+In this end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
+
+Right now the universe is not uniform — it's speckled with clumps of matter and energy in the form of things like galaxies, stars, and black holes. But the expansion would stretch everything out until everything is evenly spread through the universe. When that happens, objects can gain or lose energy. The gas clouds that form stars would dissipate, black holes would evaporate and eventually even light particles would fizzle out. The universe would be completely snuffed out forever.
+
+Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
+
+---
+
 ## Historic Milestones
 
 <img  src="media/history/milestones-universe-history-e1500155641224.jpg">
