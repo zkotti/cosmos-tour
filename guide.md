@@ -102,6 +102,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Barbados](#barbados)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
+  - [Belize](#belize)
   - [Brazil](#brazil)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
@@ -517,6 +518,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 11,492,641 (2020)
+
+---
+
+## <a name="belize"></a>**Belize**
+
+<img width="300" height="300" src="media/flags/bz.svg">
+
+**Capital:** Belmopan
+</br>
+**Official Language:** English
+</br>
+**Currency:** Belize dollar (BZD)
+</br>
+**Population:** 397,628 (2020)
 
 ---
 
