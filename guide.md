@@ -1554,8 +1554,10 @@ In Western astrology, and formerly astronomy, the zodiac is divided into twelve 
 
 These astrological signs form a celestial coordinate system, or more specifically an ecliptic coordinate system, which takes the ecliptic as the origin of latitude and the Sun's position at vernal equinox as the origin of longitude.
 
-<img width="300" height="300" src="media\zodiac\Zodiac_Constellations.png">
+<img width="500" height="350" src="media\zodiac\Zodiac_Constellations.jpg">
+
 <br>
+
 Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 
