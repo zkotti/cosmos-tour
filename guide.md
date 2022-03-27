@@ -131,6 +131,8 @@
 
 - ## [Zodiac](#zodiac)
 
+- ## [Frequent Quetions](#frequent_quetions)
+  - [1. Quetions about stars](#frequent_quetions_stars)
 - ## [Memes](#memes)
   - [Meme 1.](#meme_1)
   - [Meme 2.](#meme_2)
@@ -1590,6 +1592,16 @@ These astrological signs form a celestial coordinate system, or more specificall
 <br>
 
 Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
+
+---
+
+# <a name="frequent_quetions"></a> **Frequent Quetions**
+
+# <a name="frequent_quetions_stars"></a> **1. Quetions about stars**
+  - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
+  - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
+  - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
+
 
 ---
 
