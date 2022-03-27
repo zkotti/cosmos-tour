@@ -18,11 +18,11 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
 
-## Diffrence between Cosmos and Universe
+## Difference between Cosmos and Universe
 
 It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is diffrence between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
 
-Source [Diffrence between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
+Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
 ---
 
