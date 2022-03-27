@@ -128,7 +128,7 @@
 
 - ## [Zodiac](#zodiac)
 
-- ## [Memes](#Memes)
+- ## [Memes](#memes)
   - [Meme 1.](#meme_1)
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
@@ -1584,7 +1584,7 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ---
 
-# <a name="Memes"></a> **_Memes_**
+# <a name="memes"></a> **_Memes_**
 
 Even though Astronomy is such a difficult topic it can also be used for fun and entertainment. You just need to find a way to present it more approachable. Website "Starlust" use astronomy as an inspiration for memes to make peoples life more colorfull.
 These are some excamples of what they offer to their users.
