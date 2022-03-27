@@ -128,6 +128,7 @@
 
 - ## [Zodiac](#zodiac)
 
+- ## [Memes](#memes)
 ---
 
 # <a name="cosmos"></a> **_Cosmos_**
@@ -1590,13 +1591,10 @@ These are some excamples of what they offer to their users.
 ## <a name="meme_2"></a>**Meme 2.**
 <img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
 
-## <a name="meme_3"></a>**Meme 3.**
-<img width="500" height="350" src="media\memes\flat-earth-solar-system-meme.jpg">
-
-## <a name="meme_4"></a>**Meme 4.**
+## <a name="meme_4"></a>**Meme 3.**
 <img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
-## <a name="meme_5"></a>**Meme 5.**
+## <a name="meme_5"></a>**Meme 4.**
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
 
 <br>
