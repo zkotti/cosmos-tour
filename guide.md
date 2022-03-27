@@ -78,6 +78,23 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 
 ---
 
+## The Cosmic Table
+
+|       **Topic**       |  **First Appearance**  |
+| :-------------------: | :--------------------: |
+|  Observable Universe  |         0 sec.         |
+|     Superclusters     |   11,000,000,000 yr.   |
+| Clusters of Galaxies  |    6,000,000,000 yr.   |
+|        Galaxies       |     700,000,000 yr.    |
+|     Star Clusters     |     500,000,000 yr.    |
+|   Planetary Systems   |     180,000,000 yr.    |
+|         Stars         |     180,000,000 yr.    |
+|         Earth         |    9,500,000,000 yr.   |
+
+Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
+
+---
+
 ## End of the Universe
 
 Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
