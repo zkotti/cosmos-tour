@@ -1577,8 +1577,32 @@ These astrological signs form a celestial coordinate system, or more specificall
 
 Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
-
 ---
+
+# <a name="Memes"></a> **Memes**
+
+Even though Astronomy is such a difficult topic it can also be used for fun and entertainment. You just need to find a way to present it more approachable. Website "Starlust" use astronomy as an inspiration for memes to make peoples life more colorfull.
+These are some excamples of what they offer to their users.
+
+## <a name="meme_1"></a>**Meme 1.**
+<img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
+
+## <a name="meme_2"></a>**Meme 2.**
+<img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
+
+## <a name="meme_3"></a>**Meme 3.**
+<img width="500" height="350" src="media\memes\flat-earth-solar-system-meme.jpg">
+
+## <a name="meme_4"></a>**Meme 4.**
+<img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
+
+## <a name="meme_5"></a>**Meme 5.**
+<img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
+
+<br>
+
+source (https://starlust.org/space-memes/)
+
 
 ### Credits
 
