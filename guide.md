@@ -57,6 +57,17 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 ---
 
+## Flat-Earth Theory
+
+The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
+
+Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted. 
+
+Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
+[Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+
+---
+
 ## Universe Facts
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
