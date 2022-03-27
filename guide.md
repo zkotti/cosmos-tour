@@ -5,148 +5,19 @@
 ### By the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
 ---
+- ## [Cosmos](#cosmos)
 
-## About the term Cosmos
+  - [About the term Cosmos](#about_the_term_cosmos)
+  - [Difference between Cosmos and Universe](#difference_between_cosmos_and_universe)
+  - [Origins of the Universe](#origins_of_the_universe)
+  - [Religious Cosmology](#religious_cosmology)
+  - [Flat-Earth Theory](#flat-earth_theory)
+  - [Universe Facts](#universe_facts)
+  - [The Cosmic Table](#the_cosmic_table)
+  - [Flat-Earth Theory](#end_of_the_universe)
+  - [Historic Milestones](#historic_milestones)
+  
 
-- According to Cambridge dictionary, the **cosmos** is the universe considered as a system with an order and pattern.
-
-Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmos)
-
-- The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe.
-
-Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
-
----
-
-## Difference between Cosmos and Universe
-
-It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
-
-Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
-
----
-
-## Origins of the Universe
-
-The most well-supported idea for the creation of our universe revolves around an event known as the big bang. This theory arose from the discovery that other galaxies are rapidly moving away from our own in all directions, as if driven by a powerful old explosive force.
-
-In the 1920s, a Belgian priest called Georges Lemaître proposed the big bang theory, claiming that the cosmos began with a single primordial atom. The concept was bolstered by Edwin Hubble's discoveries that galaxies are rushing away from us in all directions, as well as Arno Penzias and Robert Wilson's discovery of cosmic microwave radiation in the 1960s, which they interpreted as echoes of the big bang.
-
-The pace of the big bang has been clarified due to further research. Here's the theory: The cosmos was exceedingly compressed in the first 10^-43 seconds of its existence, less than a million billion billionth the size of a single atom. The four fundamental forces—gravity, electromagnetism, and the strong and weak nuclear forces—are considered to have been forged into a single force in such an incomprehensibly dense, energetic state, but our present theories haven't yet figured out how such a single, unified force would work. We'd need to understand how gravity works on a subatomic scale to pull this off, something we currently can't do.
-
-The extremely close quarters are also believed to have allowed the universe's earliest particles to mix, blend, and settle into approximately the same temperature. Then, in a fraction of a second, all that matter and energy spread outward more or less uniformly, with minor differences given by quantum-scale fluctuations. Inflation, a hypothesis of rapid expansion, could explain why the universe's temperature and matter distribution are so uniform.
-
-The cosmos continued to grow after inflation, although at a considerably slower rate. It's still a mystery what fueled inflation.
-
-Video [Origins of the Universe 101 | National Geographic](https://www.youtube.com/watch?v=HdPzOWlLrbE)
-
-Source [National Geographic](https://www.nationalgeographic.com/science/article/origins-of-the-universe)
-
----
-
-## Religious Cosmology
-
-**Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
-
-1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
-2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
-3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
-
-Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
-[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
-
----
-
-## Flat-Earth Theory
-
-The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
-
-Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted. 
-
-Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
-[Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
-
----
-
-## Universe Facts
-
-- There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
-- A black hole is created when big stars explode. Its gravitational force is so strong that nothing can escape from it – luckily the closest black hole is about 10,000 light-years from Earth.
-- When venturing into space, astronauts wear spacesuits which have to be warmed, cooled, pressurised and supplied with fresh air. This takes six hours for them to put on!
-- The universe has no centre and is constantly expanding (getting bigger) every second – making it impossible to reach the edge.
-- The Earth is about 4.5 billion years old – but that’s only a third of the age of the universe – which is 13.5 billion years old!
-- The Earth is tiny in comparison with the rest of the universe – it could fit into the sun 1.3 million times.
-- The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
-- A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
-- In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
-- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
-- There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
-- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.
-
-Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
-[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
-[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
-
----
-
-## The Cosmic Table
-
-|       **Topic**       |  **First Appearance**  |
-| :-------------------: | :--------------------: |
-|  Observable Universe  |         0 sec.         |
-|     Superclusters     |   11,000,000,000 yr.   |
-| Clusters of Galaxies  |    6,000,000,000 yr.   |
-|        Galaxies       |     700,000,000 yr.    |
-|     Star Clusters     |     500,000,000 yr.    |
-|   Planetary Systems   |     180,000,000 yr.    |
-|         Stars         |     180,000,000 yr.    |
-|         Earth         |    9,500,000,000 yr.   |
-
-Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
-
----
-
-## End of the Universe
-
-Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
-
-### The big rip
-
-Not only is the universe expanding, its expanding equally in all directions. And because space is expanding, galaxies are getting farther apart. The space within each galaxy is expanding too, but right now, the galaxy's own gravity is strong enough to hold it together.
-
-The big rip would start once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
-
-Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe. 
-
-### The big crunch
-
-This is the least terrifying end-of-universe scenario. If astrophysicists are wrong about dark energy and there's actually less of it than we think, or its grasp on matter decreases over time, gravity would eventually become the most powerful force in the universe.
-
-If that happens, then after trillions of years, the rate that the universe expands would decrease and the universe would start to shrink. Galaxies would crash into each other and merge as the universe starts collapsing on itself.
-
-A shrinking universe would drive temperatures higher. The cosmic background radiation would be so hot that it would cook stars from the outside in. The intense heat would rip atoms apart in the final minutes before the Big Crunch. Black holes would then swallow up everything since objects are packed so tightly into dense clumps.
-
-The black holes would then converge into one mega black hole that contains the entirety of the universe. The Big Crunch moment would happen instantly as the black hole swallows itself.
-
-Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it. 
-
-### The big freeze or heat death
-
-In this end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
-
-Right now the universe is not uniform — it's speckled with clumps of matter and energy in the form of things like galaxies, stars, and black holes. But the expansion would stretch everything out until everything is evenly spread through the universe. When that happens, objects can gain or lose energy. The gas clouds that form stars would dissipate, black holes would evaporate and eventually even light particles would fizzle out. The universe would be completely snuffed out forever.
-
-Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
-
----
-
-## Historic Milestones
-
-<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
-
-Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
-
----
 
 - ## [Continents](#continents)
 
@@ -256,6 +127,152 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Quote 5.](#quote_5)
 
 - ## [Zodiac](#zodiac)
+
+---
+
+# <a name="cosmos"></a> **_Cosmos_**
+## <a name="about_the_term_cosmos"></a>**About the term Cosmos**
+
+
+- According to Cambridge dictionary, the **cosmos** is the universe considered as a system with an order and pattern.
+
+Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmos)
+
+- The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
+
+---
+## <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
+
+
+It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
+
+Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
+
+---
+## <a name="origins_of_the_universe"></a>**Origins of the Universe**
+
+
+The most well-supported idea for the creation of our universe revolves around an event known as the big bang. This theory arose from the discovery that other galaxies are rapidly moving away from our own in all directions, as if driven by a powerful old explosive force.
+
+In the 1920s, a Belgian priest called Georges Lemaître proposed the big bang theory, claiming that the cosmos began with a single primordial atom. The concept was bolstered by Edwin Hubble's discoveries that galaxies are rushing away from us in all directions, as well as Arno Penzias and Robert Wilson's discovery of cosmic microwave radiation in the 1960s, which they interpreted as echoes of the big bang.
+
+The pace of the big bang has been clarified due to further research. Here's the theory: The cosmos was exceedingly compressed in the first 10^-43 seconds of its existence, less than a million billion billionth the size of a single atom. The four fundamental forces—gravity, electromagnetism, and the strong and weak nuclear forces—are considered to have been forged into a single force in such an incomprehensibly dense, energetic state, but our present theories haven't yet figured out how such a single, unified force would work. We'd need to understand how gravity works on a subatomic scale to pull this off, something we currently can't do.
+
+The extremely close quarters are also believed to have allowed the universe's earliest particles to mix, blend, and settle into approximately the same temperature. Then, in a fraction of a second, all that matter and energy spread outward more or less uniformly, with minor differences given by quantum-scale fluctuations. Inflation, a hypothesis of rapid expansion, could explain why the universe's temperature and matter distribution are so uniform.
+
+The cosmos continued to grow after inflation, although at a considerably slower rate. It's still a mystery what fueled inflation.
+
+Video [Origins of the Universe 101 | National Geographic](https://www.youtube.com/watch?v=HdPzOWlLrbE)
+
+Source [National Geographic](https://www.nationalgeographic.com/science/article/origins-of-the-universe)
+
+---
+## <a name="religious_cosmology"></a>**Religious Cosmology**
+
+
+**Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
+
+1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
+2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
+3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
+
+Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
+[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
+
+---
+## <a name="flat-earth_theory"></a>**Flat-Earth Theory**
+
+
+The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
+
+Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted. 
+
+Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
+[Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+
+---
+## <a name="universe_facts"></a>**Universe Facts**
+
+
+- There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
+- A black hole is created when big stars explode. Its gravitational force is so strong that nothing can escape from it – luckily the closest black hole is about 10,000 light-years from Earth.
+- When venturing into space, astronauts wear spacesuits which have to be warmed, cooled, pressurised and supplied with fresh air. This takes six hours for them to put on!
+- The universe has no centre and is constantly expanding (getting bigger) every second – making it impossible to reach the edge.
+- The Earth is about 4.5 billion years old – but that’s only a third of the age of the universe – which is 13.5 billion years old!
+- The Earth is tiny in comparison with the rest of the universe – it could fit into the sun 1.3 million times.
+- The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
+- A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
+- In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
+- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
+- There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
+- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.
+
+Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
+[indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
+[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
+
+---
+## <a name="the_cosmic_table"></a>**The Cosmic Table**
+
+
+|       **Topic**       |  **First Appearance**  |
+| :-------------------: | :--------------------: |
+|  Observable Universe  |         0 sec.         |
+|     Superclusters     |   11,000,000,000 yr.   |
+| Clusters of Galaxies  |    6,000,000,000 yr.   |
+|        Galaxies       |     700,000,000 yr.    |
+|     Star Clusters     |     500,000,000 yr.    |
+|   Planetary Systems   |     180,000,000 yr.    |
+|         Stars         |     180,000,000 yr.    |
+|         Earth         |    9,500,000,000 yr.   |
+
+Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
+
+---
+## <a name="end_of_the_universe"></a>**End of the Universe**
+
+
+Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
+
+### The big rip
+
+Not only is the universe expanding, its expanding equally in all directions. And because space is expanding, galaxies are getting farther apart. The space within each galaxy is expanding too, but right now, the galaxy's own gravity is strong enough to hold it together.
+
+The big rip would start once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
+
+Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe. 
+
+### The big crunch
+
+This is the least terrifying end-of-universe scenario. If astrophysicists are wrong about dark energy and there's actually less of it than we think, or its grasp on matter decreases over time, gravity would eventually become the most powerful force in the universe.
+
+If that happens, then after trillions of years, the rate that the universe expands would decrease and the universe would start to shrink. Galaxies would crash into each other and merge as the universe starts collapsing on itself.
+
+A shrinking universe would drive temperatures higher. The cosmic background radiation would be so hot that it would cook stars from the outside in. The intense heat would rip atoms apart in the final minutes before the Big Crunch. Black holes would then swallow up everything since objects are packed so tightly into dense clumps.
+
+The black holes would then converge into one mega black hole that contains the entirety of the universe. The Big Crunch moment would happen instantly as the black hole swallows itself.
+
+Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it. 
+
+### The big freeze or heat death
+
+In this end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
+
+Right now the universe is not uniform — it's speckled with clumps of matter and energy in the form of things like galaxies, stars, and black holes. But the expansion would stretch everything out until everything is evenly spread through the universe. When that happens, objects can gain or lose energy. The gas clouds that form stars would dissipate, black holes would evaporate and eventually even light particles would fizzle out. The universe would be completely snuffed out forever.
+
+Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
+
+---
+## <a name="historic_milestones"></a>**Historic Milestones**
+
+
+<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
+
+Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
+
+
 
   
 
