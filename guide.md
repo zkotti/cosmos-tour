@@ -44,6 +44,19 @@ Source [National Geographic](https://www.nationalgeographic.com/science/article/
 
 ---
 
+## Religious Cosmology
+
+**Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
+
+1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
+2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
+3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
+
+Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
+[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
+
+---
+
 ## Universe Facts
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
