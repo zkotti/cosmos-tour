@@ -98,6 +98,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Azerbaijan](#azerbaijan)
   - [Bahamas](#bahamas)
   - [Bahrain](#bahrain)
+  - [Bangladesh](#bangladesh)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -459,6 +460,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Bahraini dinar (BHD)
 </br>
 **Population:** 1,701,575		 (2020)
+
+---
+
+## <a name="bangladesh"></a>**Bangladesh**
+
+<img width="300" height="300" src="media/flags/bd.svg">
+
+**Capital:** Dhaka
+</br>
+**Official Language:** Bengali
+</br>
+**Currency:** Bangladeshi taka (BDT)
+</br>
+**Population:** 164,689,383	 (2020)
 
 ---
 
