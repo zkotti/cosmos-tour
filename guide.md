@@ -90,13 +90,14 @@
   - [Mars](#mars)
   - [Mercury](#mercury)
   - [Neptune](#neptune)
-  - [Pluto](#pluto)
   - [Saturn](#saturn)
   - [Uranus](#uranus)
   - [Venus](#venus)
 
 - ## [Dwarf Planets](#dwarfplanets)
   
+  - [Pluto](#pluto)
+
 - ## [Earth-like Planets](#earthlikeplanets)
 
   - [Kepler-442b](#kepler442b)
@@ -1240,29 +1241,6 @@ Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7z
 
 ---
 
-## <a name="pluto"></a>**Pluto**
-
-<img width="600" height="300" src="media/planets/pluto.jpg">
-
-owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
-
-**Capital:** N/A
-</br>
-**Official Language:** N/A
-
-## **Description**
-
-Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It was the first object to be discovered in the Kuiper belt, and remains the largest known body in that area. After Pluto was discovered in 1930, it was declared to be the ninth planet from the Sun. Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term planet—excluding Pluto and reclassifying it as a dwarf planet.
-
-Pluto is the ninth-largest and tenth-most-massive known object directly orbiting the Sun. It is the largest known trans-Neptunian object by volume but is less massive than Eris. Like other Kuiper belt objects, Pluto is primarily made of ice and rock and is relatively small—one-sixth the mass of the Moon and one-third its volume. It has a moderately eccentric and inclined orbit during which it ranges from 30 to 49 astronomical units or AU (4.4–7.4 billion km) from the Sun. This means that Pluto periodically comes closer to the Sun than Neptune, but a stable orbital resonance with Neptune prevents them from colliding. Light from the Sun takes 5.5 hours to reach Pluto at its average distance (39.5 AU).
-
-Pluto has five known moons: Charon (the largest, with a diameter just over half that of Pluto), Styx, Nix, Kerberos, and Hydra. Pluto and Charon are sometimes considered a binary system because the barycenter of their orbits does not lie within either body. <br>
-Source [wiki](https://en.wikipedia.org/wiki/Pluto)
-
-Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70bd-M)
-
----
-
 ## <a name="saturn"></a>**Saturn**
 
 <img width="400" height="300" src="media/planets/saturn.jpg">
@@ -1332,10 +1310,32 @@ Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9f
 
 ---
 
-
 # <a name="dwarfplanets"></a> **_Dwarf Planets_**
 
 According to the International Astronomical Union, a dwarf planet is a celestial body that -orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
+
+---
+
+## <a name="pluto"></a>**Pluto**
+
+<img width="600" height="300" src="media/planets/pluto.jpg">
+
+owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
+
+**Capital:** N/A
+</br>
+**Official Language:** N/A
+
+## **Description**
+
+Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It was the first object to be discovered in the Kuiper belt, and remains the largest known body in that area. After Pluto was discovered in 1930, it was declared to be the ninth planet from the Sun. Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term planet—excluding Pluto and reclassifying it as a dwarf planet.
+
+Pluto is the ninth-largest and tenth-most-massive known object directly orbiting the Sun. It is the largest known trans-Neptunian object by volume but is less massive than Eris. Like other Kuiper belt objects, Pluto is primarily made of ice and rock and is relatively small—one-sixth the mass of the Moon and one-third its volume. It has a moderately eccentric and inclined orbit during which it ranges from 30 to 49 astronomical units or AU (4.4–7.4 billion km) from the Sun. This means that Pluto periodically comes closer to the Sun than Neptune, but a stable orbital resonance with Neptune prevents them from colliding. Light from the Sun takes 5.5 hours to reach Pluto at its average distance (39.5 AU).
+
+Pluto has five known moons: Charon (the largest, with a diameter just over half that of Pluto), Styx, Nix, Kerberos, and Hydra. Pluto and Charon are sometimes considered a binary system because the barycenter of their orbits does not lie within either body. <br>
+Source [wiki](https://en.wikipedia.org/wiki/Pluto)
+
+Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70bd-M)
 
 ---
 
