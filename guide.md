@@ -95,6 +95,8 @@
   - [Uranus](#uranus)
   - [Venus](#venus)
 
+- ## [Dwarf Planets](#dwarfplanets)
+  
 - ## [Earth-like Planets](#earthlikeplanets)
 
   - [Kepler-442b](#kepler442b)
@@ -1330,9 +1332,16 @@ Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9f
 
 ---
 
+
+# <a name="dwarfplanets"></a> **_Dwarf Planets_**
+
+According to the International Astronomical Union, a dwarf planet is a celestial body that -orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
+
+---
+
 # <a name="earthlikeplanets"></a> **_Earth-like Planets_**
 
-To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface.
+To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface. the main difference between a dwarf planet and a planet is size. Because they are smaller, dwarf planets lack the gravitational forces needed to pull in and accumulate all of the material found in their orbits.
 
 ---
 
