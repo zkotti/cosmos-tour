@@ -97,6 +97,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Austria](#austria)
   - [Azerbaijan](#azerbaijan)
   - [Bahamas](#bahamas)
+  - [Bahrain](#bahrain)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -444,6 +445,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Bahamian dollar (BSD)
 </br>
 **Population:** 393,244	 (2020)
+
+---
+
+## <a name="bahrain"></a>**Bahrain**
+
+<img width="300" height="300" src="media/flags/bh.svg">
+
+**Capital:** Manama
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Bahraini dinar (BHD)
+</br>
+**Population:** 1,701,575		 (2020)
 
 ---
 
