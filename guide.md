@@ -95,6 +95,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Armenia](#armenia)
   - [Australia](#australia)
   - [Austria](#austria)
+  - [Azerbaijan](#azerbaijan)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -414,6 +415,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 9,006,398	 (2020)
+
+---
+
+## <a name="azerbaijan"></a>**Azerbaijan**
+
+<img width="300" height="300" src="media/flags/az.svg">
+
+**Capital:** Baku
+</br>
+**Official Language:** Azerbaijani
+</br>
+**Currency:** Azerbaijani manat (AZN)
+</br>
+**Population:** 10,139,177	 (2020)
 
 ---
 
