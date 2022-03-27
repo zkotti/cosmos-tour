@@ -96,6 +96,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Australia](#australia)
   - [Austria](#austria)
   - [Azerbaijan](#azerbaijan)
+  - [Bahamas](#bahamas)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -429,6 +430,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Azerbaijani manat (AZN)
 </br>
 **Population:** 10,139,177	 (2020)
+
+---
+
+## <a name="bahamas"></a>**Bahamas**
+
+<img width="300" height="300" src="media/flags/bs.svg">
+
+**Capital:** Nassau
+</br>
+**Official Language:** English
+</br>
+**Currency:** Bahamian dollar (BSD)
+</br>
+**Population:** 393,244	 (2020)
 
 ---
 
