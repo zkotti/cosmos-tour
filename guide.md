@@ -94,6 +94,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Argentina](#argentina)
   - [Armenia](#armenia)
   - [Australia](#australia)
+  - [Austria](#austria)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -399,6 +400,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Australian dollar (AUD)
 </br>
 **Population:** 23,401,892 (2016)
+
+---
+
+## <a name="austria"></a>**Austria**
+
+<img width="300" height="300" src="media/flags/at.svg">
+
+**Capital:** Vienna
+</br>
+**Official Language:** German
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 9,006,398	 (2020)
 
 ---
 
