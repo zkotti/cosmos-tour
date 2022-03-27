@@ -99,6 +99,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
   - [Bahamas](#bahamas)
   - [Bahrain](#bahrain)
   - [Bangladesh](#bangladesh)
+  - [Barbados](#barbados)
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Brazil](#brazil)
@@ -474,6 +475,20 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 **Currency:** Bangladeshi taka (BDT)
 </br>
 **Population:** 164,689,383	 (2020)
+
+---
+
+## <a name="barbados"></a>**Barbados**
+
+<img width="300" height="300" src="media/flags/bb.svg">
+
+**Capital:** Bridgetown
+</br>
+**Official Language:** English
+</br>
+**Currency:** Barbados Dollar (BBD)
+</br>
+**Population:** 287,375	 (2020)
 
 ---
 
