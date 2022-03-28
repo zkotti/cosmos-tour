@@ -1207,9 +1207,7 @@ We still can not visit others planets but using the SpaceEngine (available on [s
 
 owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1233,9 +1231,7 @@ Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DC
 
 owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/planet-jupiter.html)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1259,9 +1255,7 @@ Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=Ptkqws
 
 owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist-says-Martians-can-help-humans-live-on-Red-Planet-1599337)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1283,9 +1277,7 @@ Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXh
 
 owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but-really-hot-stuff/)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1307,9 +1299,7 @@ Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnN
 
 owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1331,9 +1321,7 @@ Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7z
 
 owned by [techexplorist.com](https://www.techexplorist.com/saturn-flashing-auroras-making-astronomers-scratch-head/29185/)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1355,9 +1343,7 @@ Video [Saturn 101 | National Geographic](https://www.youtube.com/watch?v=epZdZaE
 
 owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1379,9 +1365,7 @@ Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFO
 
 owned by [scitechdaily.com](https://scitechdaily.com/planetary-researchers-surprised-to-find-a-ring-of-fire-on-venus/)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1409,9 +1393,7 @@ According to the International Astronomical Union, a dwarf planet is a celestial
 
 owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
 
-**Capital:** N/A
-</br>
-**Official Language:** N/A
+<br>
 
 **Description**
 
@@ -1432,6 +1414,8 @@ Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70b
 <img width="500" height="375" src="media/planets/eris.jpg">
 
 owned by [nationalgeographic.com](https://www.nationalgeographic.com/science/article/111026-pluto-twin-eris-dwarf-planets-occultation-space-science)
+
+<br>
 
 **Description**
 
