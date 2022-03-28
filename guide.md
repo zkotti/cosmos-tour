@@ -161,6 +161,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Cosmos Movies](cosmos_movies)
   - [Midnight Sky](#movie_1)
+  - [Gravity](#movie_2)
 
 
 ---
@@ -1846,6 +1847,10 @@ source [starlust](https://starlust.org/space-memes/)
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 <img width="500" height="350" src="media\movies\midnightsky.jpg">
 In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
+
+### <a name="movie_2"></a>**Gravity (2013)**
+<img width="500" height="350" src="media\movies\gravity.jpg">
+On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
 
 ---
 
