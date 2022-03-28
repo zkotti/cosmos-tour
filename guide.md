@@ -80,6 +80,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Russia](#russia)
   - [Scotland](#scotland)
   - [Slovakia](#slovakia)
+  - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
   - [Ukraine](#ukraine)
@@ -158,6 +159,11 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
+
+- ### [Cosmos Movies](cosmos_movies)
+  - [Midnight Sky](#movie_1)
+  - [Gravity](#movie_2)
+
 
 ---
 
@@ -1129,6 +1135,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="slovenia"></a>**Slovenia**
+
+<img width="300" height="300" src="media/flags/si.svg">
+
+**Capital:** [Ljubljana](https://www.google.com/maps/search/Ljubljana)
+</br>
+**Official Language:** Slovenian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 2,078,938 (2020)
+
+---
+
 ### <a name="spain"></a>**Spain**
 
 <img width="300" height="300" src="media/flags/es.svg">
@@ -1843,6 +1863,18 @@ These are some excamples of what they offer to their users.
 <br>
 
 source [starlust](https://starlust.org/space-memes/)
+
+---
+
+## <a name="cosmos_movies"></a> **Cosmos Movies**
+
+### <a name="movie_1"></a>**The Midnight Sky (2020)**
+<img width="500" height="350" src="media\movies\midnightsky.jpg">
+In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
+
+### <a name="movie_2"></a>**Gravity (2013)**
+<img width="500" height="350" src="media\movies\gravity.jpg">
+On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
 
 ---
 
