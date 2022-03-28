@@ -139,6 +139,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
   - [Drake equation.](#drake_equation)
+  - [Kardashev scale.](#kardashev_scale)
 
 - ### [Cosmos Quotes](#quotes)
 
@@ -1716,7 +1717,7 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 
 **Description**
 
-Extraterrestrial life,[n 1] sometimes colloquially referred to as alien life, is hypothetical life that may occur outside Earth and which did not originate on Earth. Such life might range from simple prokaryotes (or comparable life forms) to intelligent beings and even sapient beings, possibly bringing forth civilizations that might be far more advanced than humanity.
+Extraterrestrial life, sometimes colloquially referred to as alien life, is hypothetical life that may occur outside Earth and which did not originate on Earth. Such life might range from simple prokaryotes (or comparable life forms) to intelligent beings and even sapient beings, possibly bringing forth civilizations that might be far more advanced than humanity.
 
 Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
@@ -1731,6 +1732,29 @@ owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg
 When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
 
 Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https://earthsky.org/space/most-stars-have-planets-in-habitable-zone) , [keckobservatory](https://keckobservatory.org/one_in_five_stars_has_earth_sized_planet_in_habitable_zone)
+
+### <a names="kardashev_scale"></a>**Kardashev scale**
+
+The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964.The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV through VI) and the use of metrics other than pure power.Carl Sagan’s modified Kardashev scale, which allows for continuous values, put humanity at a meagre 0.7. Some predict that our total power consumption could hit Type I levels on Sagan’s scale in around 200 years, but we are still incredibly far from realising Type II or III status
+
+<img width="800" height="309" src="media/extraterrestrial_life/Kardashev_scale.png">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
+
+According to the Kardashev Scale, civilizations can be divides into three basic categories, based on the amount of energy they are able to use.
+
+Type I civilizations (Planetary civilizations), are those who have utilized their whole planet energy. A planetary civilization could possibly be able to control its planet's natural phenomena.
+
+Type II civilizations (Stellar civilizations), are capable to use their whole star energy. Stellar civilizations could have made constructions like a Dyson sphere, a hypothetical megastructure that completely encompasses a star and captures a large percentage of its solar power output.
+
+Type III civilizations (Galactic civilizations), are those who have harnessed the energy of its entire Galaxy and possibly colonized it.
+
+<img width="800" height="450" src="media/extraterrestrial_life/Dyson.png">
+3D rendering of a Dyson sphere utilizing large, orbiting panels.
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:A_Dyson_Swarm_Superstructure_(21983905140).png)
+
+Sources [wiki](https://en.wikipedia.org/wiki/Kardashev_scale) , [astrobites](https://astrobites.org/2016/03/15/classifying-civilisations-an-introduction-to-the-kardashev-scale) , [wiki](https://en.wikipedia.org/wiki/Dyson_sphere)
+
 
 
 ---
