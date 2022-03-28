@@ -943,6 +943,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="monaco"></a>**Monaco**
+
+<img width="300" height="300" src="media/flags/monaco.svg">
+
+**Capital:** City of Monaco
+</br>
+**Official Language:** French
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 38.350 (2020)
+
+---
+
 ### <a name="norway"></a>**Norway**
 
 <img width="300" height="300" src="media/flags/no.svg">
