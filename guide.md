@@ -3,6 +3,7 @@
 A guided tour of the cosmos by the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
 ---
+
 ## Table of contents
 
 - ### [Cosmos](#cosmos)
@@ -16,8 +17,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [The Cosmic Table](#the_cosmic_table)
   - [Flat-Earth Theory](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
-  
-
 
 - ### [Continents](#continents)
 
@@ -70,6 +69,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Japan](#japan)
   - [Lithuania](#lithuania)
   - [Mexico](#mexico)
+  - [Monaco](#monaco)
   - [Norway](#norway)
   - [Philippines](#philippines)
   - [Romania](#romania)
@@ -95,7 +95,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Venus](#venus)
 
 - ### [Dwarf Planets](#dwarfplanets)
-  
+
   - [Pluto](#pluto)
 
 - ### [Earth-like Planets](#earthlikeplanets)
@@ -138,11 +138,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
-### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
 
+### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
 
 - According to Cambridge dictionary, the **cosmos** is the universe considered as a system with an order and pattern.
 
@@ -153,16 +154,16 @@ Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmo
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
-### <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
 
+### <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
 
 It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
 
 Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
 ---
-### <a name="origins_of_the_universe"></a>**Origins of the Universe**
 
+### <a name="origins_of_the_universe"></a>**Origins of the Universe**
 
 The most well-supported idea for the creation of our universe revolves around an event known as the big bang. This theory arose from the discovery that other galaxies are rapidly moving away from our own in all directions, as if driven by a powerful old explosive force.
 
@@ -179,8 +180,8 @@ Video [Origins of the Universe 101 | National Geographic](https://www.youtube.co
 Source [National Geographic](https://www.nationalgeographic.com/science/article/origins-of-the-universe)
 
 ---
-### <a name="religious_cosmology"></a>**Religious Cosmology**
 
+### <a name="religious_cosmology"></a>**Religious Cosmology**
 
 **Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
 
@@ -192,19 +193,19 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 [Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
 
 ---
-### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
+### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
 The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
 
-Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted. 
+Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
 
 ---
-### <a name="universe_facts"></a>**Universe Facts**
 
+### <a name="universe_facts"></a>**Universe Facts**
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
 - A black hole is created when big stars explode. Its gravitational force is so strong that nothing can escape from it – luckily the closest black hole is about 10,000 light-years from Earth.
@@ -224,25 +225,25 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 [SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
+
 ### <a name="the_cosmic_table"></a>**The Cosmic Table**
 
-
-|       **Topic**       |  **First Appearance**  |
-| :-------------------: | :--------------------: |
-|  Observable Universe  |         0 sec.         |
-|     Superclusters     |   11,000,000,000 yr.   |
-| Clusters of Galaxies  |    6,000,000,000 yr.   |
-|        Galaxies       |     700,000,000 yr.    |
-|     Star Clusters     |     500,000,000 yr.    |
-|   Planetary Systems   |     180,000,000 yr.    |
-|         Stars         |     180,000,000 yr.    |
-|         Earth         |    9,500,000,000 yr.   |
+|      **Topic**       | **First Appearance** |
+| :------------------: | :------------------: |
+| Observable Universe  |        0 sec.        |
+|    Superclusters     |  11,000,000,000 yr.  |
+| Clusters of Galaxies |  6,000,000,000 yr.   |
+|       Galaxies       |   700,000,000 yr.    |
+|    Star Clusters     |   500,000,000 yr.    |
+|  Planetary Systems   |   180,000,000 yr.    |
+|        Stars         |   180,000,000 yr.    |
+|        Earth         |  9,500,000,000 yr.   |
 
 Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
 
 ---
-### <a name="end_of_the_universe"></a>**End of the Universe**
 
+### <a name="end_of_the_universe"></a>**End of the Universe**
 
 Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
 
@@ -252,7 +253,7 @@ Not only is the universe expanding, its expanding equally in all directions. And
 
 The big rip would start once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
 
-Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe. 
+Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe.
 
 #### The big crunch
 
@@ -264,7 +265,7 @@ A shrinking universe would drive temperatures higher. The cosmic background radi
 
 The black holes would then converge into one mega black hole that contains the entirety of the universe. The Big Crunch moment would happen instantly as the black hole swallows itself.
 
-Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it. 
+Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it.
 
 #### The big freeze or heat death
 
@@ -275,8 +276,8 @@ Right now the universe is not uniform — it's speckled with clumps of matter an
 Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
 
 ---
-### <a name="historic_milestones"></a>**Historic Milestones**
 
+### <a name="historic_milestones"></a>**Historic Milestones**
 
 <img  src="media/history/milestones-universe-history-e1500155641224.jpg">
 
@@ -544,7 +545,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Euro (EUR)
 </br>
-**Population:** 9,006,398	 (2020)
+**Population:** 9,006,398 (2020)
 
 ---
 
@@ -558,7 +559,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Azerbaijani manat (AZN)
 </br>
-**Population:** 10,139,177	 (2020)
+**Population:** 10,139,177 (2020)
 
 ---
 
@@ -572,7 +573,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Bahamian dollar (BSD)
 </br>
-**Population:** 393,244	 (2020)
+**Population:** 393,244 (2020)
 
 ---
 
@@ -586,7 +587,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Bahraini dinar (BHD)
 </br>
-**Population:** 1,701,575		 (2020)
+**Population:** 1,701,575 (2020)
 
 ---
 
@@ -600,7 +601,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Bangladeshi taka (BDT)
 </br>
-**Population:** 164,689,383	 (2020)
+**Population:** 164,689,383 (2020)
 
 ---
 
@@ -614,7 +615,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 </br>
 **Currency:** Barbados Dollar (BBD)
 </br>
-**Population:** 287,375	 (2020)
+**Population:** 287,375 (2020)
 
 ---
 
@@ -958,6 +959,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="monaco"></a>**Monaco**
+
+<img width="300" height="300" src="media/flags/monaco.svg">
+
+**Capital:** City of Monaco
+</br>
+**Official Language:** French
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 38.350 (2020)
+
+---
+
 ### <a name="norway"></a>**Norway**
 
 <img width="300" height="300" src="media/flags/no.svg">
@@ -1147,14 +1162,15 @@ owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 
 **Description**
 
-Earth is the third planet from the Sun and the only astronomical object known to harbor life. While large amounts of water can be found throughout the Solar System, only Earth sustains liquid surface water. About 71% of Earth's surface is made up of the ocean, dwarfing Earth's polar ice, lakes and rivers. The remaining 29% of Earth's surface is land, consisting of continents and islands. Earth's surface layer is formed of several slowly moving tectonic plates, interacting to produce mountain ranges, volcanoes and earthquakes. Earth's liquid outer core generates the magnetic field that shapes Earth's magnetosphere, deflecting destructive solar winds.
+The Earth is the third planet from the Sun and the only known astronomical object to have life on it. Although there is plenty of water across the Solar System, only Earth has liquid surface water. The oceans, lakes, rivers and dwarfing Earth's polar ice, cover over 71% of the Earth's surface. Mountain ranges, volcanoes, and earthquakes are generated by the interaction of several slowly moving tectonic plates that make up the Earth's surface layer. The magnetic field that forms Earth's magnetosphere and deflects destructive solar winds is generated by the liquid outer core of the planet.
 
-Earth's atmosphere consists mostly of nitrogen and oxygen. More solar energy is received by tropical regions than polar regions and is redistributed by atmospheric and ocean circulation. Water vapor is widely present in the atmosphere and forms clouds that cover most of the planet. Greenhouse gases in the atmosphere like carbon dioxide (CO2) trap a part of the energy from the Sun close to the surface. A region's climate is governed by latitude, but also by elevation and proximity to moderating oceans. Severe weather, such as tropical cyclones, thunderstorms, and heatwaves, occurs in most areas and greatly impacts life.
+Nitrogen and oxygen make up the majority of the Earth's atmosphere. Tropical regions receive more solar energy than polar regions, which is then redistributed by air and ocean circulation. Carbon dioxide (CO2) and other greenhouse gases in the atmosphere trap a portion of the Sun's energy near the surface. The climate of a region is influenced by latitude, elevation, and proximity to moderating oceans. Severe weather, such as tropical cyclones, thunderstorms, and heat waves, may occur in almost any location and significantly impact life.
 
-Earth is an ellipsoid with a circumference of about 40,000 km. It is the densest planet in the Solar System. Of the four rocky planets, it is the largest and most massive. Earth is about eight light minutes away from the Sun and orbits it, taking a year (about 365.25 days) to complete one revolution. Earth rotates around its own axis in a day. Earth's axis of rotation is tilted with respect to its orbital plane with the Sun, producing seasons. Earth is orbited by one permanent natural satellite, the Moon, which orbits Earth at 380,000 km (1.3 light seconds) and is roughly a quarter as wide as Earth. The Moon always faces the Earth with the same side through tidal locking and causes tides, stabilizes Earth's axis and gradually slows its rotation.
+The Earth is an ellipse with a circumference of approximately 40,000 kilometers. It is the Solar System's densest planet. It is the biggest and most massive of the four rocky planets. The earth orbits the Sun, taking a year (about 365.25 days) to complete one revolution and is about eight light minutes away from it. Seasons are caused by the tilt of the Earth's axis of rotation in relation to its orbital plane with the Sun. The Moon, Earth's only permanent natural satellite, revolves at 380,000 km (1.3 light seconds) and is about a fourth the size of Earth. Through tidal locking, the Moon constantly faces the Earth on the same side, causing tides, stabilizing the Earth's axis, and progressively slowing its rotation.
 
-Earth formed over 4.5 billion years ago. During the first billion years of Earth's history, the ocean formed and then life developed within it. Life spread globally and began to affect Earth's atmosphere and surface, leading to Earth's Great Oxidation Event two billion years ago. Humans emerged 300,000 years ago, and have reached a population of almost 8 billion today. Humans depend on Earth's biosphere and natural resources for their survival, but have increasingly impacted Earth's environment. Today, humanity's impact on Earth's climate, soils, waters and ecosystems is unsustainable, threatening people's lives and causing widespread extinction of other life. <br>
-Source [wiki](https://en.wikipedia.org/wiki/Earth)
+Over 4.5 billion years ago, the Earth was formed. The ocean created throughout the first billion years of Earth's existence, and life developed inside it. Life expanded over the world, affecting the atmosphere and surface of the Earth, resulting in the Earth's Great Oxidation Event two billion years ago. Humans first appeared 300,000 years ago and have now reached a population of almost 8 billion. Humans rely on the biosphere and natural resources of the Earth to survive, yet they are having an increasingly negative influence on the ecosystem. Humanity's current influence on the Earth's climate, soils, waters, and ecosystems is unsustainable, endangering people's lives and triggering widespread extinction of other species.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Earth)
 
 Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DCzYE)
 
@@ -1172,14 +1188,15 @@ owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/pla
 
 **Description**
 
-Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third brightest natural object in the Earth's night sky after the Moon and Venus. People have been observing it since prehistoric times; it was named after the Roman god Jupiter, the king of the gods.
+Jupiter is the Solar System's biggest planet and the fifth planet from the Sun. It is a gas giant with a mass slightly less than one-thousandth that of the Sun, but more than two and a half times that of all the other planets in the Solar System combined. After the Moon and Venus, Jupiter is the third brightest natural object in the Earth's night sky. It was named after the Roman god Jupiter, the king of the gods, and has been seen since prehistoric times.
 
-Jupiter is primarily composed of hydrogen, but helium constitutes one-quarter of its mass and one-tenth of its volume. It likely has a rocky core of heavier elements,[16] but, like the other giant planets, Jupiter lacks a well-defined solid surface. The ongoing contraction of its interior generates heat greater than the amount received from the Sun. Because of its rapid rotation, the planet's shape is an oblate spheroid; it has a slight but noticeable bulge around the equator. The outer atmosphere is visibly segregated into several bands at different latitudes, with turbulence and storms along their interacting boundaries. A prominent result of this is the Great Red Spot, a giant storm known to have existed since at least the 17th century when telescopes first saw it.
+Although Jupiter is mostly made up of hydrogen, helium accounts for one-quarter of its mass and one-tenth of its volume. Jupiter, like the other giant planets, is thought to have a rocky core with heavy components, although it lacks a well-defined solid surface. The heat generated by its interior contraction is larger than the heat absorbed from the Sun. The planet's shape is an oblate spheroid, with a minor but perceptible bulge near the equator due to its fast spin. At different latitudes, the outer atmosphere is visually divided into many bands, with turbulence and storms at their interacting boundaries. The Great Red Spot, a massive storm that has been seen by telescopes since at least the 17th century, is one of the prominent results of this.
 
-Surrounding Jupiter is a faint planetary ring system and a powerful magnetosphere. Jupiter's magnetic tail is nearly 800 million km (5.3 AU; 500 million mi) long, covering nearly the entire distance to Saturn's orbit. Jupiter has 80 known moons and possibly many more,[6] including the four large Galilean moons discovered by Galileo Galilei in 1610: Io, Europa, Ganymede, and Callisto. Io and Europa are about the size of Earth's Moon; Callisto is almost the size of the planet Mercury, and Ganymede is even larger.
+Jupiter is surrounded by a robust magnetosphere and a faint planetary ring system. Jupiter's magnetic tail is over 800 million kilometers long (5.3 AU; 500 million miles) and spans nearly the entire distance between Jupiter and Saturn's orbit. Io, Europa, Ganymede, and Callisto are the four massive Galilean moons discovered by Galileo Galilei in 1610. Jupiter has 80 known moons and possibly many more. Io and Europa are almost the same size as Earth's Moon; Callisto is about as big as Mercury, and Ganymede is considerably bigger.
 
-Pioneer 10 was the first spacecraft to visit Jupiter, making its closest approach to the planet in December 1973.[17] Jupiter has since been explored on several occasions by robotic spacecraft, beginning with the Pioneer and Voyager flyby missions from 1973 to 1979, and later by the Galileo orbiter, which arrived at Jupiter in 1995.[18] In 2007, the New Horizons visited Jupiter using its gravity to increase its speed, bending its trajectory en route to Pluto. The latest probe to visit the planet, Juno, entered orbit around Jupiter in July 2016.[19][20] Future targets for exploration in the Jupiter system include the probable ice-covered liquid ocean of Europa.[21] <br>
-Source [wiki](https://en.wikipedia.org/wiki/Jupiter)
+Pioneer 10 was the first spacecraft to visit Jupiter, arriving in December 1973 at its closest approach. Since then, robotic spacecraft have visited Jupiter on multiple times, beginning with the Pioneer and Voyager flyby missions in 1973 and 1979, and subsequently with the Galileo orbiter, which arrived in 1995. The New Horizons spacecraft visited Jupiter in 2007, utilizing its gravity to accelerate and bend its trajectory on its way to Pluto. Juno, the most recent spacecraft to visit Jupiter, entered orbit around the planet in July 2016. The likely ice-covered liquid ocean of Europa is a future target for investigation in Jupiter's system.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Jupiter)
 
 Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=PtkqwslbLY8)
 
@@ -1565,25 +1582,31 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 ## <a name="quotes"></a> **_Cosmos Quotes_**
 
 ### <a name="quote_1"></a>**Quote 1.**
+
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
 
 - Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
+
 ### <a name="quote_2"></a>**Quote 2.**
+
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
 
 - Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
 
 ### <a name="quote_3"></a>**Quote 3.**
+
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
 
 - Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
 
 ### <a name="quote_4"></a>**Quote 4.**
+
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
 
 - Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
 
 ### <a name="quote_5"></a>**Quote 5.**
+
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
 
 - Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
@@ -1609,10 +1632,10 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 ## <a name="frequent_questions"></a> **Frequent questions**
 
 ### <a name="frequent_questions_stars"></a> **1. questions about stars**
-  - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
-  - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
-  - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
+- How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
+- How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
+- What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
 ---
 
@@ -1622,15 +1645,19 @@ Even though Astronomy is such a difficult topic it can also be used for fun and 
 These are some excamples of what they offer to their users.
 
 ### <a name="meme_1"></a>**Meme 1.**
+
 <img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
 
 ### <a name="meme_2"></a>**Meme 2.**
+
 <img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
 
 ### <a name="meme_3"></a>**Meme 3.**
+
 <img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
 ### <a name="meme_4"></a>**Meme 4.**
+
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
 
 <br>
@@ -1638,6 +1665,7 @@ These are some excamples of what they offer to their users.
 source [starlust](https://starlust.org/space-memes/)
 
 ---
+
 ## Credits
 
 Country flags are available [here](https://flagicons.lipis.dev/)
