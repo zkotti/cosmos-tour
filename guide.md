@@ -80,6 +80,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Russia](#russia)
   - [Scotland](#scotland)
   - [Slovakia](#slovakia)
+  - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
   - [Ukraine](#ukraine)
