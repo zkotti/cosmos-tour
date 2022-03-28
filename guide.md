@@ -133,6 +133,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
+  - [Drake equation.](#drake_equation)
+
 - ### [Cosmos Quotes](#quotes)
 
   - [Quote 1.](#quote_1)
