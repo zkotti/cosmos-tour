@@ -117,8 +117,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Milky Way](#milky_way)
 
 - ### [Natural Satellites](#natural_satellites)
+
   - [Moon](#moon)
-  
 
 - ### [Stars](#stars)
 
@@ -1344,12 +1344,13 @@ owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 
 **Description**
 
-Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars), grandfather of Zeus (Jupiter) and father of Cronus (Saturn). It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn. For this reason, scientists often classify Uranus and Neptune as "ice giants" to distinguish them from the other giant planets.
+Uranus is the planet closest to the Sun. Its name is a reference to Uranus, the Greek god of the sky, who was the great-grandfather of Ares (Mars), grandfather of Zeus (Jupiter), and father of Cronus (Saturn), according to Greek mythology. It possesses the Solar System's third-largest planetary radius and fourth-largest planetary mass. Uranus and Neptune are chemically similar, although their bulk chemical compositions differ from those of Jupiter and Saturn the larger gas giants. As a result, Uranus and Neptune are frequently referred to as "ice giants" to distinguish them from the other giant planets.
 
-As with gas giants, ice giants also lack a well defined "solid surface." Uranus's atmosphere is similar to Jupiter's and Saturn's in its primary composition of hydrogen and helium, but it contains more "ices" such as water, ammonia, and methane, along with traces of other hydrocarbons.[17] It has the coldest planetary atmosphere in the Solar System, with a minimum temperature of 49 K (−224 °C; −371 °F), and has a complex, layered cloud structure with water thought to make up the lowest clouds and methane the uppermost layer of clouds.[17] The interior of Uranus is mainly composed of ices and rock.[16]
+Ice giants, like gas giants, lack a precisely articulated "solid surface." Uranus' atmosphere has a basic composition of hydrogen and helium comparable to Jupiter's and Saturn's, but it also includes additional "ices" such water, ammonia, and methane, as well as traces of other hydrocarbons. It possesses the coldest planetary atmosphere in the Solar System, with a minimum temperature of 49 K (224 °C; 371 °F) and a complex, layered cloud structure, with water assumed to make up the lowest clouds and methane the highest. Uranus' interior is mostly made up of ice and rock.
 
-Like the other giant planets, Uranus has a ring system, a magnetosphere, and numerous moons. The Uranian system has a unique configuration because its axis of rotation is tilted sideways, nearly into the plane of its solar orbit. Its north and south poles, therefore, lie where most other planets have their equators.[22] In 1986, images from Voyager 2 showed Uranus as an almost featureless planet in visible light, without the cloud bands or storms associated with the other giant planets.[22] Voyager 2 remains the only spacecraft to visit the planet.[23] Observations from Earth have shown seasonal change and increased weather activity as Uranus approached its equinox in 2007. Wind speeds can reach 250 metres per second (900 km/h; 560 mph).[24] <br>
-Source [wiki](https://en.wikipedia.org/wiki/Uranus)
+Uranus has a ring system, a magnetosphere, and multiple moons, just like the other major planets. Because its axis of rotation is tilted sideways, nearly into the plane of its solar orbit, the Uranian system has a distinct configuration. As a result, its north and south poles are located where the equators of most other planets are located. In 1986, images from the Voyager 2 spacecraft revealed Uranus to be a nearly featureless planet in visible light, lacking the cloud bands and storms seen on other big planets. The only spacecraft to visit the planet is Voyager 2. As Uranus reached its equinox in 2007, observations from Earth revealed seasonal changes and increasing weather activity. Wind speeds of up to 250 meters per second (900 km/h; 560 mph) have been recorded.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Uranus)
 
 Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFOiOGk)
 
@@ -1550,21 +1551,22 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 <br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
 
 ---
+
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
 
 ---
+
 ### <a name="moon"></a>**Moon**
+
 The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia), it is the largest natural satellite in the Solar System relative to the size of a major planet, the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term. It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.
 
 Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
-
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
 
-
-
 ---
+
 ## <a name="stars"></a> **_Stars_**
 
 ---
