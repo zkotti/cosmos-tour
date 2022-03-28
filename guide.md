@@ -69,6 +69,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Japan](#japan)
   - [Lithuania](#lithuania)
   - [Mexico](#mexico)
+  - [Monaco](#monaco)
   - [Norway](#norway)
   - [Philippines](#philippines)
   - [Romania](#romania)
