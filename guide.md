@@ -1724,7 +1724,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
 Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy. 
 
-<img width="300" height="300" src="media/extraterrestrial_life/Drake_equation.svg">
+<img width="300" height="300" src="media/extraterrestrial_life/Drake_equation.jpg">
 
 owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
