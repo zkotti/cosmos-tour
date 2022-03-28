@@ -1,11 +1,11 @@
 # **WELCOME TO COSMOS**
 
-## Guided tour of the cosmos
-
-### By the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
+A guided tour of the cosmos by the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
 ---
-- ## [Cosmos](#cosmos)
+# Table of contents
+
+- ### [Cosmos](#cosmos)
 
   - [About the term Cosmos](#about_the_term_cosmos)
   - [Difference between Cosmos and Universe](#difference_between_cosmos_and_universe)
@@ -19,7 +19,7 @@
   
 
 
-- ## [Continents](#continents)
+- ### [Continents](#continents)
 
   - [Africa](#africa)
   - [Antarctica](#antarctica)
@@ -29,7 +29,7 @@
   - [Oceania](#oceania)
   - [South America](#south_america)
 
-- ## [Countries](#countries)
+- ### [Countries](#countries)
 
   - [Afghanistan](#afghanistan)
   - [Albania](#albania)
@@ -83,7 +83,7 @@
   - [United States](#usa)
   - [Uruguay](#uruguay)
 
-- ## [Planets](#planets)
+- ### [Planets](#planets)
 
   - [Earth](#earth)
   - [Jupiter](#jupiter)
@@ -94,18 +94,18 @@
   - [Uranus](#uranus)
   - [Venus](#venus)
 
-- ## [Dwarf Planets](#dwarfplanets)
+- ### [Dwarf Planets](#dwarfplanets)
   
   - [Pluto](#pluto)
 
-- ## [Earth-like Planets](#earthlikeplanets)
+- ### [Earth-like Planets](#earthlikeplanets)
 
   - [Kepler-442b](#kepler442b)
   - [Kepler-452b](#kepler452b)
   - [Proxima Centauri b](#proximacentaurib)
   - [TRAPPIST-1e](#trappist1e)
 
-- ## [Galaxies](#galaxies)
+- ### [Galaxies](#galaxies)
 
   - [Andromeda](#andromeda)
   - [Cigar](#cigar)
@@ -114,14 +114,14 @@
   - [Mayall's Object](#mayalls_object)
   - [Milky Way](#milky_way)
 
-- ## [Stars](#stars)
+- ### [Stars](#stars)
 
   - [Sun](#sun)
   - [Polaris](#polaris)
 
-- ## [Oceans](#oceans)
+- ### [Oceans](#oceans)
 
-- ## [Cosmos Quotes](#quotes)
+- ### [Cosmos Quotes](#quotes)
 
   - [Quote 1.](#quote_1)
   - [Quote 2.](#quote_2)
@@ -129,19 +129,19 @@
   - [Quote 4.](#quote_4)
   - [Quote 5.](#quote_5)
 
-- ## [Zodiac](#zodiac)
+- ### [Zodiac](#zodiac)
 
-- ## [Frequent questions](#frequent_questions)
+- ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
-- ## [Memes](#memes)
+- ### [Memes](#memes)
   - [Meme 1.](#meme_1)
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
 ---
 
-# <a name="cosmos"></a> **_Cosmos_**
-## <a name="about_the_term_cosmos"></a>**About the term Cosmos**
+## <a name="cosmos"></a> **_Cosmos_**
+### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
 
 
 - According to Cambridge dictionary, the **cosmos** is the universe considered as a system with an order and pattern.
@@ -153,7 +153,7 @@ Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmo
 Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
-## <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
+### <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
 
 
 It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
@@ -161,7 +161,7 @@ It is common that the words **cosmos** and **universe** are used synonymously as
 Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
 ---
-## <a name="origins_of_the_universe"></a>**Origins of the Universe**
+### <a name="origins_of_the_universe"></a>**Origins of the Universe**
 
 
 The most well-supported idea for the creation of our universe revolves around an event known as the big bang. This theory arose from the discovery that other galaxies are rapidly moving away from our own in all directions, as if driven by a powerful old explosive force.
@@ -179,7 +179,7 @@ Video [Origins of the Universe 101 | National Geographic](https://www.youtube.co
 Source [National Geographic](https://www.nationalgeographic.com/science/article/origins-of-the-universe)
 
 ---
-## <a name="religious_cosmology"></a>**Religious Cosmology**
+### <a name="religious_cosmology"></a>**Religious Cosmology**
 
 
 **Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
@@ -192,7 +192,7 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 [Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
 
 ---
-## <a name="flat-earth_theory"></a>**Flat-Earth Theory**
+### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
 
 The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
@@ -203,7 +203,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
 
 ---
-## <a name="universe_facts"></a>**Universe Facts**
+### <a name="universe_facts"></a>**Universe Facts**
 
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
@@ -224,7 +224,7 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 [SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
-## <a name="the_cosmic_table"></a>**The Cosmic Table**
+### <a name="the_cosmic_table"></a>**The Cosmic Table**
 
 
 |       **Topic**       |  **First Appearance**  |
@@ -241,12 +241,12 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
 
 ---
-## <a name="end_of_the_universe"></a>**End of the Universe**
+### <a name="end_of_the_universe"></a>**End of the Universe**
 
 
 Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
 
-### The big rip
+#### The big rip
 
 Not only is the universe expanding, its expanding equally in all directions. And because space is expanding, galaxies are getting farther apart. The space within each galaxy is expanding too, but right now, the galaxy's own gravity is strong enough to hold it together.
 
@@ -254,7 +254,7 @@ The big rip would start once the pull of the universe's expansion gets stronger 
 
 Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe. 
 
-### The big crunch
+#### The big crunch
 
 This is the least terrifying end-of-universe scenario. If astrophysicists are wrong about dark energy and there's actually less of it than we think, or its grasp on matter decreases over time, gravity would eventually become the most powerful force in the universe.
 
@@ -266,7 +266,7 @@ The black holes would then converge into one mega black hole that contains the e
 
 Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it. 
 
-### The big freeze or heat death
+#### The big freeze or heat death
 
 In this end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
 
@@ -275,25 +275,21 @@ Right now the universe is not uniform — it's speckled with clumps of matter an
 Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
 
 ---
-## <a name="historic_milestones"></a>**Historic Milestones**
+### <a name="historic_milestones"></a>**Historic Milestones**
 
 
 <img  src="media/history/milestones-universe-history-e1500155641224.jpg">
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
+## <a name="continents"></a> **_Continents_**
 
-
-  
-
-# <a name="continents"></a> **_Continents_**
-
-## <a name="africa"></a>**Africa**
+### <a name="africa"></a>**Africa**
 
 **Population:** 1,275,920,972 (2018)
 </br>
 
-## **Description**
+**Description**
 
 Africa is the world's second-largest and second-most populous continent, after Asia in both cases. At about 30.3 million km2 (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area. With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. Africa's population is the youngest amongst all the continents; the median age in 2012 was 19.7, when the worldwide median age was 30.4. Despite a wide range of natural resources, Africa is the least wealthy continent per capita, in part due to geographic impediments, legacies of European colonization in Africa and the Cold War, predatory/neo-colonialistic activities by Western nations and China, and undemocratic rule and deleterious policies. Despite this low concentration of wealth, recent economic expansion and the large and young population make Africa an important economic market in the broader global context.
 
@@ -303,12 +299,12 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ---
 
-## <a name="antarctica"></a>**Antarctica**
+### <a name="antarctica"></a>**Antarctica**
 
 **Population:** 1,000 to 5,000 (Seasonal)
 </br>
 
-## **Description**
+**Description**
 
 Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
 
@@ -318,12 +314,12 @@ Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
 ---
 
-## <a name="asia"></a>**Asia**
+### <a name="asia"></a>**Asia**
 
 **Population:** 4,560,667,108 (2018)
 </br>
 
-## **Description**
+**Description**
 
 Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
 
@@ -333,12 +329,12 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
 ---
 
-## <a name="europe"></a>**Europe**
+### <a name="europe"></a>**Europe**
 
 **Population:** 746,419,440 (2018)
 </br>
 
-## **Description**
+**Description**
 
 Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
 
@@ -348,12 +344,12 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
 ---
 
-## <a name="north_america"></a>**North America**
+### <a name="north_america"></a>**North America**
 
 **Population:** 592,296,233 (2021)
 </br>
 
-## **Description**
+**Description**
 
 North America is a continent in the Northern Hemisphere and almost entirely within the Western Hemisphere. It can also be described as the northern subcontinent of a single continent, America. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.
 
@@ -363,12 +359,12 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
 ---
 
-## <a name="oceania"></a>**Oceania**
+### <a name="oceania"></a>**Oceania**
 
 **Population:** 41,570,842 (2018)
 </br>
 
-## **Description**
+**Description**
 
 Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
 
@@ -378,12 +374,12 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ---
 
-## <a name="south_america"></a>**South America**
+### <a name="south_america"></a>**South America**
 
 **Population:** 423,581,078 (2018)
 </br>
 
-## **Description**
+**Description**
 
 South America is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere. It can also be described as the southern subregion of a single continent called America.
 
@@ -395,9 +391,9 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-# <a name="countries"></a> **_Countries_**
+## <a name="countries"></a> **_Countries_**
 
-## <a name="afghanistan"></a>**Afghanistan**
+### <a name="afghanistan"></a>**Afghanistan**
 
 <img width="300" height="300" src="media/flags/af.svg">
 
@@ -411,7 +407,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="albania"></a>**Albania**
+### <a name="albania"></a>**Albania**
 
 <img width="300" height="300" src="media/flags/al.svg">
 
@@ -425,7 +421,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="algeria"></a>**Algeria**
+### <a name="algeria"></a>**Algeria**
 
 <img width="300" height="300" src="media/flags/dz.svg">
 
@@ -439,7 +435,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="andorra"></a>**Andorra**
+### <a name="andorra"></a>**Andorra**
 
 <img width="300" height="300" src="media/flags/ad.svg">
 
@@ -453,7 +449,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="angola"></a>**Angola**
+### <a name="angola"></a>**Angola**
 
 <img width="300" height="300" src="media/flags/ao.svg">
 
@@ -467,7 +463,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="antigua"></a>**Antigua and Barbuda**
+### <a name="antigua"></a>**Antigua and Barbuda**
 
 <img width="300" height="300" src="media/flags/ag.svg">
 
@@ -481,7 +477,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="argentina"></a>**Argentina**
+### <a name="argentina"></a>**Argentina**
 
 <img width="300" height="300" src="media/flags/ar.svg">
 
@@ -495,7 +491,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="armenia"></a>**Armenia**
+### <a name="armenia"></a>**Armenia**
 
 <img width="300" height="300" src="media/flags/am.svg">
 
@@ -509,7 +505,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="australia"></a>**Australia**
+### <a name="australia"></a>**Australia**
 
 <img width="300" height="300" src="media/flags/au.svg">
 
@@ -523,7 +519,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="austria"></a>**Austria**
+### <a name="austria"></a>**Austria**
 
 <img width="300" height="300" src="media/flags/at.svg">
 
@@ -537,7 +533,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="azerbaijan"></a>**Azerbaijan**
+### <a name="azerbaijan"></a>**Azerbaijan**
 
 <img width="300" height="300" src="media/flags/az.svg">
 
@@ -551,7 +547,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="bahamas"></a>**Bahamas**
+### <a name="bahamas"></a>**Bahamas**
 
 <img width="300" height="300" src="media/flags/bs.svg">
 
@@ -565,7 +561,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="bahrain"></a>**Bahrain**
+### <a name="bahrain"></a>**Bahrain**
 
 <img width="300" height="300" src="media/flags/bh.svg">
 
@@ -579,7 +575,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="bangladesh"></a>**Bangladesh**
+### <a name="bangladesh"></a>**Bangladesh**
 
 <img width="300" height="300" src="media/flags/bd.svg">
 
@@ -593,7 +589,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="barbados"></a>**Barbados**
+### <a name="barbados"></a>**Barbados**
 
 <img width="300" height="300" src="media/flags/bb.svg">
 
@@ -607,7 +603,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="belarus"></a>**Belarus**
+### <a name="belarus"></a>**Belarus**
 
 <img width="300" height="300" src="media/flags/by.svg">
 
@@ -621,7 +617,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="belgium"></a>**Belgium**
+### <a name="belgium"></a>**Belgium**
 
 <img width="300" height="300" src="media/flags/be.svg">
 
@@ -635,7 +631,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="belize"></a>**Belize**
+### <a name="belize"></a>**Belize**
 
 <img width="300" height="300" src="media/flags/bz.svg">
 
@@ -649,7 +645,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="brazil"></a>**Brazil**
+### <a name="brazil"></a>**Brazil**
 
 <img width="300" height="300" src="media/flags/br.svg">
 
@@ -663,7 +659,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="bulgaria"></a>**Bulgaria**
+### <a name="bulgaria"></a>**Bulgaria**
 
 <img width="300" height="300" src="media/flags/bg.svg">
 
@@ -677,7 +673,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="burkina faso"></a>**Burkina Faso**
+### <a name="burkina faso"></a>**Burkina Faso**
 
 <img width="300" height="300" src="media/flags/bf.svg">
 
@@ -691,7 +687,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="cameroon"></a>**Cameroon**
+### <a name="cameroon"></a>**Cameroon**
 
 <img width="300" height="300" src="media/flags/cm.svg">
 
@@ -705,7 +701,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="canada"></a>**Canada**
+### <a name="canada"></a>**Canada**
 
 <img width="300" height="300" src="media/flags/ca.svg">
 
@@ -719,7 +715,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="chile"></a>**Chile**
+### <a name="chile"></a>**Chile**
 
 <img width="300" height="300" src="media/flags/cl.svg">
 
@@ -733,7 +729,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="china"></a>**China**
+### <a name="china"></a>**China**
 
 <img width="300" height="300" src="media/flags/cn.svg">
 
@@ -747,7 +743,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="colombia"></a>**Colombia**
+### <a name="colombia"></a>**Colombia**
 
 <img width="300" height="300" src="media/flags/co.svg">
 
@@ -761,7 +757,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ---
 
-## <a name="cyprus"></a>**Cyprus**
+### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg">
 
@@ -777,7 +773,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
-## <a name="egypt"></a>**Egypt**
+### <a name="egypt"></a>**Egypt**
 
 <img width="300" height="300" src="media/flags/eg.svg">
 
@@ -791,7 +787,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
-## <a name="england"></a>**England**
+### <a name="england"></a>**England**
 
 <img width="300" height="300" src="media/flags/gb-eng.svg">
 
@@ -807,7 +803,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="france"></a>**France**
+### <a name="france"></a>**France**
 
 <img width="300" height="300" src="media/flags/fr.svg">
 
@@ -821,7 +817,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="germany"></a>**Germany**
+### <a name="germany"></a>**Germany**
 
 <img width="300" height="300" src="media/flags/de.svg">
 
@@ -835,7 +831,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="ghana"></a>**Ghana**
+### <a name="ghana"></a>**Ghana**
 
 <img width="300" height="300" src="media/flags/gh.svg">
 
@@ -849,7 +845,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="greece"></a>**Greece**
+### <a name="greece"></a>**Greece**
 
 <img width="300" height="300" src="media/flags/gr.svg">
 
@@ -863,7 +859,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="ireland"></a>**Ireland**
+### <a name="ireland"></a>**Ireland**
 
 <img width="300" height="300" src="media/flags/ie.svg">
 
@@ -877,7 +873,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="israel"></a>**Israel**
+### <a name="israel"></a>**Israel**
 
 <img width="300" height="300" src="media/flags/il.svg">
 
@@ -891,7 +887,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="italy"></a>**Italy**
+### <a name="italy"></a>**Italy**
 
 <img width="300" height="300" src="media/flags/it.svg">
 
@@ -905,7 +901,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="japan"></a>**Japan**
+### <a name="japan"></a>**Japan**
 
 <img width="300" height="300" src="media/flags/jp.svg">
 
@@ -919,7 +915,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="lithuania"></a>**Lithuania**
+### <a name="lithuania"></a>**Lithuania**
 
 <img width="300" height="300" src="media/flags/lt.svg">
 
@@ -933,7 +929,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="mexico"></a>**Mexico**
+### <a name="mexico"></a>**Mexico**
 
 <img width="300" height="300" src="media/flags/mx.svg">
 
@@ -947,7 +943,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="norway"></a>**Norway**
+### <a name="norway"></a>**Norway**
 
 <img width="300" height="300" src="media/flags/no.svg">
 
@@ -961,7 +957,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="philippines"></a>**Philippines**
+### <a name="philippines"></a>**Philippines**
 
 <img width="300" height="300" src="media/flags/ph.svg">
 
@@ -975,7 +971,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="romania"></a>**Romania**
+### <a name="romania"></a>**Romania**
 
 <img width="300" height="300" src="media/flags/ro.svg">
 
@@ -989,7 +985,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="russia"></a>**Russia**
+### <a name="russia"></a>**Russia**
 
 <img width="300" height="300" src="media/flags/ru.svg">
 
@@ -1003,7 +999,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="scotland"></a>**Scotland**
+### <a name="scotland"></a>**Scotland**
 
 <img width="300" height="300" src="media/flags/gb-sct.svg">
 
@@ -1017,7 +1013,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="slovakia"></a>**Slovakia**
+### <a name="slovakia"></a>**Slovakia**
 
 <img width="300" height="300" src="media/flags/sk.svg">
 
@@ -1031,7 +1027,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="spain"></a>**Spain**
+### <a name="spain"></a>**Spain**
 
 <img width="300" height="300" src="media/flags/es.svg">
 
@@ -1045,7 +1041,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-## <a name="switzerland"></a>**Switzerland**
+### <a name="switzerland"></a>**Switzerland**
 
 <img width="300" height="300" src="media/flags/ch.svg">
 
@@ -1062,7 +1058,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-## <a name="ukraine"></a>**Ukraine**
+### <a name="ukraine"></a>**Ukraine**
 
 <img width="300" height="300" src="media/flags/ua.svg">
 
@@ -1076,7 +1072,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-## <a name="uae"></a>**United Arab Emirates**
+### <a name="uae"></a>**United Arab Emirates**
 
 <img width="300" height="300" src="media/flags/ae.svg">
 
@@ -1090,7 +1086,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-## <a name="usa"></a>**United States**
+### <a name="usa"></a>**United States**
 
 <img width="300" height="300" src="media/flags/us.svg">
 
@@ -1104,7 +1100,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-## <a name="uruguay"></a>**Uruguay**
+### <a name="uruguay"></a>**Uruguay**
 
 <img width="300" height="300" src="media/flags/uy.svg">
 
@@ -1118,13 +1114,13 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
-# <a name="planets"></a> **_Planets_**
+## <a name="planets"></a> **_Planets_**
 
 We still can not visit others planets but using the SpaceEngine (available on [steam](https://store.steampowered.com/app/314650/SpaceEngine)) you can discover much more about the universe.
 
 ---
 
-## <a name="earth"></a>**Earth**
+### <a name="earth"></a>**Earth**
 
 <img width="300" height="300" src="media/planets/earth.jpg">
 
@@ -1134,7 +1130,7 @@ owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Earth is the third planet from the Sun and the only astronomical object known to harbor life. While large amounts of water can be found throughout the Solar System, only Earth sustains liquid surface water. About 71% of Earth's surface is made up of the ocean, dwarfing Earth's polar ice, lakes and rivers. The remaining 29% of Earth's surface is land, consisting of continents and islands. Earth's surface layer is formed of several slowly moving tectonic plates, interacting to produce mountain ranges, volcanoes and earthquakes. Earth's liquid outer core generates the magnetic field that shapes Earth's magnetosphere, deflecting destructive solar winds.
 
@@ -1149,7 +1145,7 @@ Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DC
 
 ---
 
-## <a name="jupiter"></a>**Jupiter**
+### <a name="jupiter"></a>**Jupiter**
 
 <img width="550" height="300" src="media/planets/jupiter.png">
 
@@ -1159,7 +1155,7 @@ owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/pla
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Jupiter is the fifth planet from the Sun and the largest in the Solar System. It is a gas giant with a mass more than two and a half times that of all the other planets in the Solar System combined, but slightly less than one-thousandth the mass of the Sun. Jupiter is the third brightest natural object in the Earth's night sky after the Moon and Venus. People have been observing it since prehistoric times; it was named after the Roman god Jupiter, the king of the gods.
 
@@ -1174,7 +1170,7 @@ Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=Ptkqws
 
 ---
 
-## <a name="mars"></a>**Mars**
+### <a name="mars"></a>**Mars**
 
 <img width="500" height="300" src="media/planets/mars.jpg">
 
@@ -1184,7 +1180,7 @@ owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[17][18] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a striking reddish appearance in the sky.[19] Mars is a terrestrial planet with a thin atmosphere, with surface features such as impact craters, valleys, dunes, and polar ice caps.
 
@@ -1197,7 +1193,7 @@ Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXh
 
 ---
 
-## <a name="mercury"></a>**Mercury**
+### <a name="mercury"></a>**Mercury**
 
 <img width="470" height="300" src="media/planets/mercury.jpg">
 
@@ -1207,7 +1203,7 @@ owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. It is named after the Roman god Mercurius (Mercury), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes (Ἑρμῆς). Like Venus, Mercury orbits the Sun within Earth's orbit as an inferior planet, and its apparent distance from the Sun as viewed from Earth never exceeds 28°. This proximity to the Sun means the planet can only be seen near the western horizon after sunset or the eastern horizon before sunrise, usually in twilight. At this time, it may appear as a bright star-like object, but is more difficult to observe than Venus. From Earth, the planet telescopically displays the complete range of phases, similar to Venus and the Moon, which recurs over its synodic period of approximately 116 days.
 
@@ -1220,7 +1216,7 @@ Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnN
 
 ---
 
-## <a name="neptune"></a>**Neptune**
+### <a name="neptune"></a>**Neptune**
 
 <img width="400" height="300" src="media/planets/neptune.jpg">
 
@@ -1230,7 +1226,7 @@ owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, and slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere. It is referred to as one of the solar system's two ice giant planets (the other one being its near-twin Uranus).
 
@@ -1243,7 +1239,7 @@ Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7z
 
 ---
 
-## <a name="saturn"></a>**Saturn**
+### <a name="saturn"></a>**Saturn**
 
 <img width="400" height="300" src="media/planets/saturn.jpg">
 
@@ -1253,7 +1249,7 @@ owned by [techexplorist.com](https://www.techexplorist.com/saturn-flashing-auror
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Saturn is the sixth planet from the Sun and the second-largest in the Solar System, after Jupiter. It is a gas giant with an average radius of about nine and a half times that of Earth.[22][23] It only has one-eighth the average density of Earth; however, with its larger volume, Saturn is over 95 times more massive.[24][25][26]
 
@@ -1266,7 +1262,7 @@ Video [Saturn 101 | National Geographic](https://www.youtube.com/watch?v=epZdZaE
 
 ---
 
-## <a name="uranus"></a>**Uranus**
+### <a name="uranus"></a>**Uranus**
 
 <img width="500" height="300" src="media/planets/uranus.jpg">
 
@@ -1276,7 +1272,7 @@ owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Uranus is the seventh planet from the Sun. Its name is a reference to the Greek god of the sky, Uranus, who, according to Greek mythology, was the great-grandfather of Ares (Mars), grandfather of Zeus (Jupiter) and father of Cronus (Saturn). It has the third-largest planetary radius and fourth-largest planetary mass in the Solar System. Uranus is similar in composition to Neptune, and both have bulk chemical compositions which differ from that of the larger gas giants Jupiter and Saturn. For this reason, scientists often classify Uranus and Neptune as "ice giants" to distinguish them from the other giant planets.
 
@@ -1289,7 +1285,7 @@ Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFO
 
 ---
 
-## <a name="venus"></a>**Venus**
+### <a name="venus"></a>**Venus**
 
 <img width="460" height="350" src="media/planets/venus.jpg">
 
@@ -1299,7 +1295,7 @@ owned by [scitechdaily.com](https://scitechdaily.com/planetary-researchers-surpr
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Venus is the second planet from the Sun. It is named after the Roman goddess of love and beauty. As the brightest natural object in Earth's night sky after the Moon, Venus can cast shadows and can be visible to the naked eye in broad daylight.[18][19] Venus's orbit is smaller than that of Earth, but its maximal elongation is 47°, and thus it can be seen not only near the Sun in the morning or evening, but also a couple of hours before or after sunrise or sunset, depending on the observer's latitude and on the positions of Venus and the Sun. Most of the time, it can be seen either in the morning or in the evening. At some times, it may even be seen a while in a completely dark sky. Venus orbits the Sun every 224.7 Earth days.[20] It has a synodic day length of 117 Earth days and a sidereal rotation period of 243 Earth days. As a consequence, it takes longer to rotate about its axis than any other planet in the Solar System, and does so in the opposite direction to all but Uranus. This means that the Sun rises from its western horizon and sets in its east.[21] Venus does not have any moons, a distinction it shares only with Mercury among the planets in the Solar System.[22]
 
@@ -1312,13 +1308,13 @@ Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9f
 
 ---
 
-# <a name="dwarfplanets"></a> **_Dwarf Planets_**
+## <a name="dwarfplanets"></a> **_Dwarf Planets_**
 
 According to the International Astronomical Union, a dwarf planet is a celestial body that -orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
 
 ---
 
-## <a name="pluto"></a>**Pluto**
+### <a name="pluto"></a>**Pluto**
 
 <img width="600" height="300" src="media/planets/pluto.jpg">
 
@@ -1328,7 +1324,7 @@ owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-
 </br>
 **Official Language:** N/A
 
-## **Description**
+**Description**
 
 Pluto (minor-planet designation: 134340 Pluto) is a dwarf planet in the Kuiper belt, a ring of bodies beyond the orbit of Neptune. It was the first object to be discovered in the Kuiper belt, and remains the largest known body in that area. After Pluto was discovered in 1930, it was declared to be the ninth planet from the Sun. Beginning in the 1990s, its status as a planet was questioned following the discovery of several objects of similar size in the Kuiper belt and the scattered disc, including the dwarf planet Eris. This led the International Astronomical Union (IAU) in 2006 to formally define the term planet—excluding Pluto and reclassifying it as a dwarf planet.
 
@@ -1341,69 +1337,69 @@ Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70b
 
 ---
 
-# <a name="earthlikeplanets"></a> **_Earth-like Planets_**
+## <a name="earthlikeplanets"></a> **_Earth-like Planets_**
 
 To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface. the main difference between a dwarf planet and a planet is size. Because they are smaller, dwarf planets lack the gravitational forces needed to pull in and accumulate all of the material found in their orbits.
 
 ---
 
-## <a name="kepler442b"></a>**Kepler-442b**
+### <a name="kepler442b"></a>**Kepler-442b**
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-## **Description**
+**Description**
 
 This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015.
 One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
 
 ---
 
-## <a name="kepler452b"></a>**Kepler-452b**
+### <a name="kepler452b"></a>**Kepler-452b**
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-## **Description**
+**Description**
 
 This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone.
 At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
 
 ---
 
-## <a name="proximacentaurib"></a>**Proxima Centauri b**
+### <a name="proximacentaurib"></a>**Proxima Centauri b**
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-## **Description**
+**Description**
 
 Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration. The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
 Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
 
 ---
 
-## <a name="trappist1e"></a>**TRAPPIST-1e**
+### <a name="trappist1e"></a>**TRAPPIST-1e**
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-## **Description**
+**Description**
 
 Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds.
 Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
 
 ---
 
-# <a name="galaxies"></a> **_Galaxies_**
+## <a name="galaxies"></a> **_Galaxies_**
 
 We will probably never reach another galaxy in our lifetime but [Hubble Space Telescope](https://hubblesite.org) has given us the opportunity to take a good look to the mysteries of the universe.
 
 ---
 
-## <a name="andromeda"></a>**Andromeda**
+### <a name="andromeda"></a>**Andromeda**
 
 <img width="500" height="400" src="media/galaxies/Andromeda.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
-## **Description**
+**Description**
 
 The Andromeda Galaxy, also known as Messier 31, M31, or NGC 224 and originally the Andromeda Nebula, is a barred spiral galaxy approximately 2.5 million light-years (770 kiloparsecs) from Earth and the nearest large galaxy to the Milky Way. The galaxy's name stems from the area of Earth's sky in which it appears, the constellation of Andromeda, which itself is named after the Ethiopian (or Phoenician) princess who was the wife of Perseus in Greek mythology.
 
@@ -1412,13 +1408,13 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 
 ---
 
-## <a name="cigar"></a>**Cigar**
+### <a name="cigar"></a>**Cigar**
 
 <img width="500" height="350" src="media/galaxies/Cigar.jpg">
 
 owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
-## **Description**
+**Description**
 
 Messier 82 (also known as NGC 3034, Cigar Galaxy or M82) is a starburst galaxy approximately 12 million light-years away in the constellation Ursa Major. A member of the M81 Group, it is about five times more luminous than the Milky Way and has a center one hundred times more luminous.
 
@@ -1427,13 +1423,13 @@ The starburst activity is thought to have been triggered by interaction with nei
 
 ---
 
-## <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
+### <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
 
 <img width="500" height="350" src="media/galaxies/CosmosRedshift7.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
-## **Description**
+**Description**
 
 Cosmos Redshift 7 (also known as COSMOS Redshift 7, Galaxy Cosmos Redshift 7, Galaxy CR7 or CR7) is a high-redshift Lyman-alpha emitter galaxy. At a redshift z = 6.6, the galaxy is observed as it was about 800 million years after the Big Bang, during the epoch of reionisation. With a light travel time of 12.9 billion years, it is one of the oldest, most distant galaxies known.
 
@@ -1442,13 +1438,13 @@ CR7 shows some of the expected signatures of Population III stars i.e. the first
 
 ---
 
-## <a name="hoags_object"></a>**Hoag's Object**
+### <a name="hoags_object"></a>**Hoag's Object**
 
 <img width="500" height="350" src="media/galaxies/Hoags_object.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
-## **Description**
+**Description**
 
 Hoag's Object is a non-typical galaxy of the type known as a ring galaxy. It is named after Arthur Hoag, who discovered it in 1950 and identified it as either a planetary nebula or a peculiar galaxy. The galaxy has approximately eight billion stars, and is roughly 100,000 light years across.
 
@@ -1457,13 +1453,13 @@ A nearly perfect ring of young hot blue stars circles the older yellow nucleus o
 
 ---
 
-## <a name="mayalls_object"></a>**Mayall's Object**
+### <a name="mayalls_object"></a>**Mayall's Object**
 
 <img width="500" height="350" src="media/galaxies/mayallsObject.jpg">
 
 owned by [nasa.com](https://www.jpl.nasa.gov/images/pia10385-arp-148-mayalls-object)
 
-## **Description**
+**Description**
 
 Mayall's Object (also classified under the Atlas of Peculiar Galaxies as Arp 148) is the result of two colliding galaxies located 500 million light years away within the constellation of Ursa Major. It was discovered by American astronomer Nicholas U. Mayall of the Lick Observatory on 13 March 1940, using the Crossley reflector. When first discovered, Mayall's Object was described as a peculiar nebula, shaped like a question mark. Originally theorized to represent a galaxy reacting with the intergalactic medium, it is now thought to represent the collision of two galaxies, resulting in a new object consisting of a ring-shaped galaxy with a tail emerging from it. It is thought that the collision between the two galaxies created a shockwave that initially drew matter into the center which then formed the ring.
 
@@ -1472,30 +1468,30 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 ---
 
-## <a name="milky_way"></a>**Milky Way**
+### <a name="milky_way"></a>**Milky Way**
 
 <img width="500" height="350" src="media/galaxies/milkyway.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
-## **Description**
+**Description**
 
 The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
 
 ---
 
-# <a name="stars"></a> **_Stars_**
+## <a name="stars"></a> **_Stars_**
 
 ---
 
-## <a name="sun"></a>**Sun**
+### <a name="sun"></a>**Sun**
 
 <img width="500" height="475" src="media/stars/Sun.jpeg">
 
 owned by [pexels.com](https://www.pexels.com/el-gr/photo/87611/)
 
-## **Description**
+**Description**
 
 Our Sun is a 4.5 billion-year-old star at the heart of our solar system, a hot, incandescent ball of hydrogen and helium. The Sun is around 93 million miles (150 million kilometers) away from Earth, and life as we know it would not be possible without its energy.
 
@@ -1507,26 +1503,26 @@ Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2
 
 ---
 
-## <a name="polaris"></a>**Polaris**
+### <a name="polaris"></a>**Polaris**
 
 <img width="600" height="350" src="media/stars/Polaris.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
 
-## **Description**
+**Description**
 
 Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
 
 ---
 
-# <a name="oceans"></a> **_Oceans_**
+## <a name="oceans"></a> **_Oceans_**
 
 <img width="500" height="350" src="media/oceans/earths_ocean.jpg">
 
 owned by [nasa.com](https://visibleearth.nasa.gov/images/73963/bathymetry)
 
-## **Description**
+### **Description**
 
 Oceans cover about 70% of the Earth's surface. The oceans contain roughly 97% of the Earth's water supply.
 
@@ -1537,7 +1533,7 @@ The oceans of Earth serve many functions, especially affecting the weather and t
 The Earth's oceans are all connected to one another. Until the year 2000, there were four recognized oceans: the Pacific, Atlantic, Indian, and Arctic. In the Spring of 2000, the International Hydrographic Organization delimited a new ocean, the Southern Ocean (it surrounds Antarctica and extends to 60 degrees latitude).  
 <br> Source [enchantedlearning](https://www.enchantedlearning.com/subjects/ocean/)
 
-## **Area and depth of the major oceans**
+### **Area and depth of the major oceans**
 
 | **Ocean** | **Area (million km2)** | **Average depth (m)** |
 | :-------: | :--------------------: | :-------------------: |
@@ -1551,35 +1547,35 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 
 ---
 
-# <a name="quotes"></a> **_Cosmos Quotes_**
+## <a name="quotes"></a> **_Cosmos Quotes_**
 
-## <a name="quote_1"></a>**Quote 1.**
+### <a name="quote_1"></a>**Quote 1.**
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
 
 - Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
-## <a name="quote_2"></a>**Quote 2.**
+### <a name="quote_2"></a>**Quote 2.**
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
 
 - Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
 
-## <a name="quote_3"></a>**Quote 3.**
+### <a name="quote_3"></a>**Quote 3.**
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
 
 - Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
 
-## <a name="quote_4"></a>**Quote 4.**
+### <a name="quote_4"></a>**Quote 4.**
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
 
 - Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
 
-## <a name="quote_5"></a>**Quote 5.**
+### <a name="quote_5"></a>**Quote 5.**
 <img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
 
 - Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
 
 ---
 
-# <a name="zodiac"></a> **Zodiac**
+## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped region of the sky that extends approximately 8° north or south (as measured in celestial latitude) of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year. The paths of the Moon and visible planets are within the belt of the zodiac.
 
@@ -1595,9 +1591,9 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ---
 
-# <a name="frequent_questions"></a> **Frequent questions**
+## <a name="frequent_questions"></a> **Frequent questions**
 
-# <a name="frequent_questions_stars"></a> **1. questions about stars**
+### <a name="frequent_questions_stars"></a> **1. questions about stars**
   - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
   - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
   - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
@@ -1605,21 +1601,21 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ---
 
-# <a name="memes"></a> **_Memes_**
+## <a name="memes"></a> **_Memes_**
 
 Even though Astronomy is such a difficult topic it can also be used for fun and entertainment. You just need to find a way to present it more approachable. Website "Starlust" use astronomy as an inspiration for memes to make peoples life more colorfull.
 These are some excamples of what they offer to their users.
 
-## <a name="meme_1"></a>**Meme 1.**
+### <a name="meme_1"></a>**Meme 1.**
 <img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
 
-## <a name="meme_2"></a>**Meme 2.**
+### <a name="meme_2"></a>**Meme 2.**
 <img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
 
-## <a name="meme_3"></a>**Meme 3.**
+### <a name="meme_3"></a>**Meme 3.**
 <img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
-## <a name="meme_4"></a>**Meme 4.**
+### <a name="meme_4"></a>**Meme 4.**
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
 
 <br>
@@ -1627,6 +1623,6 @@ These are some excamples of what they offer to their users.
 source [starlust](https://starlust.org/space-memes/)
 
 ---
-### Credits
+## Credits
 
 Country flags are available [here](https://flagicons.lipis.dev/)
