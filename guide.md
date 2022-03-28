@@ -3,7 +3,7 @@
 A guided tour of the cosmos by the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
 
 ---
-# Table of contents
+## Table of contents
 
 - ### [Cosmos](#cosmos)
 
