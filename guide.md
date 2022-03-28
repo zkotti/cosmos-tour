@@ -1558,6 +1558,7 @@ The Moon is Earth's only natural satellite. At about one-quarter the diameter of
 Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
+**Watch the video below**
 
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
 
