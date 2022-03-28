@@ -62,6 +62,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [France](#france)
   - [Germany](#germany)
   - [Ghana](#ghana)
+  - [Guatemala](#guatemala)
   - [Greece](#greece)
   - [Ireland](#ireland)
   - [Israel](#israel)
@@ -865,6 +866,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Cedi (GHS)
 </br>
 **Population:** 31,072,940 (2020)
+
+---
+
+### <a name="guatemala"></a>**Guatemala**
+
+<img width="300" height="300" src="media/flags/gua.svg">
+
+**Capital:** Guatemala City
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Guatemalan quetzal (GTQ)
+</br>
+**Population:** 16.86 million (2020)
 
 ---
 
