@@ -99,6 +99,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Dwarf Planets](#dwarfplanets)
 
   - [Pluto](#pluto)
+  - [Eris](#eris)
 
 - ### [Earth-like Planets](#earthlikeplanets)
 
@@ -1407,6 +1408,24 @@ Pluto has five known moons: Charon (the biggest, with a diameter just over half 
 Source [wikipedia](https://en.wikipedia.org/wiki/Pluto)
 
 Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70bd-M)
+
+---
+
+### <a name="eris"></a>**Eris**
+
+<img width="500" height="375" src="media/planets/eris.jpg">
+
+owned by [nationalgeographic.com](https://www.nationalgeographic.com/science/article/111026-pluto-twin-eris-dwarf-planets-occultation-space-science)
+
+**Description**
+
+Eris is the Solar System's most massive and second-largest dwarf planet. It has a high-eccentricity orbit and is a trans-Neptunian object (TNO) in the scattered disk. A Palomar Observatory-based team lead by Mike Brown found Eris in January 2005, and it was confirmed later that year. It was named after the Greco-Roman goddess of strife and discord in September 2006. Eris is the Solar System's ninth-most massive object orbiting the Sun, and the Solar System's sixteenth-most massive object overall (counting moons). It is also the world's biggest object that has yet to be visited by a spacecraft. Eris has a diameter of 2,326 12 kilometers (1,445 7 miles), and its mass is 0.28% that of the Earth and 27% that of Pluto, despite Pluto being somewhat bigger by volume. Eris may complete one rotation every 25.9 hours, making its day similar to ours in length. Sources, however, differ on the rotation period.
+
+Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.3 astronomical units (1.4411010 km; 8.95109 mi) in February 2016, more than three times that of Neptune or Pluto. Until the discovery of 2018 VG18 in 2018, Eris and Dysnomia were the most distant known natural objects in the Solar System, with the exception of long-period comets.
+
+Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
+
+Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 ---
 
