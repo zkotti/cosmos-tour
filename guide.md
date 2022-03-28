@@ -1128,6 +1128,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="slovenia"></a>**Slovenia**
+
+<img width="300" height="300" src="media/flags/si.svg">
+
+**Capital:** [Ljubljana](https://www.google.com/maps/search/Ljubljana)
+</br>
+**Official Language:** Slovenian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 2,078,938 (2020)
+
+---
+
 ### <a name="spain"></a>**Spain**
 
 <img width="300" height="300" src="media/flags/es.svg">
