@@ -142,6 +142,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Drake equation.](#drake_equation)
   - [Kardashev scale.](#kardashev_scale)
   - [Fermi paradox.](#fermi_paradox)
+  - [Zoo hypothesis.](#zoo_hypothesis)
 
 - ### [Cosmos Quotes](#quotes)
 
@@ -1787,6 +1788,20 @@ Maybe no civilization has managed to travel with speed greater than the speed of
 But why the universe is so silent?
 
 Sources [wiki](https://en.wikipedia.org/wiki/Fermi_paradox) , [nickbostrom](https://www.nickbostrom.com/papers/fermi.pdf)
+
+### <a names="zoo_planetarium_hypothesis"></a>**Zoo and Planetarium hypothesis.**
+
+The zoo hypothesis is one of many theoretical explanations for the Fermi paradox and speculates on the assumed behavior and existence of technologically advanced extraterrestrial life and the reasons they refrain from contacting Earth.
+
+According to zoo hypothesis, extraterrestrials have fenced humanity in, and observing, studying or protecting it, allowing Earth to be developed freely and have natural sociocultural development, similarly to people observing animals at a zoo.
+
+If there is a vast number of extraterrestrial civilizations, however, this theory may break down under the uniformity of motive concept because every civilization should agree to not act and interact with humanity. It would take just a single extraterrestrial civilization to decide to act contrary to the imperative within human range of detection for it to be undone, and the probability of such a violation of hegemony increases with the number of civilizations.
+
+The planetarium hypothesis, conceived in 2001 by Stephen Baxter, also attempts to provide a solution to the Fermi paradox by holding that our astronomical observations represent an illusion, created by a Type III civilization (Kardashev scale) capable of manipulating matter and energy on galactic scales. He postulates that we do not see evidence of extraterrestrial life because the universe has been engineered so that it appears empty of other life.
+
+Both zoo and planetarium hypothesis are considered by researchers highly speculative and more aligned with theological theories.
+
+Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](https://www.nickbostrom.com/papers/fermi.pdf) , [wiki](https://en.wikipedia.org/wiki/Planetarium_hypothesis)
 
 ---
 
