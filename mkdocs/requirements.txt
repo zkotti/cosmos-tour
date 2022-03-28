@@ -1,0 +1,3 @@
+mkdocs
+mkdocs-same-dir
+mkdocs-bootswatch

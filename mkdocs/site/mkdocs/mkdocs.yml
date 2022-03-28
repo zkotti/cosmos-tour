@@ -1,0 +1,18 @@
+site_name: cosmos-tour
+site_description:  A guided tour of the Universe
+copyright: Made available under the <a href="https://unlicense.org/">Unlicense</a>.
+
+docs_dir: '../'
+site_dir: site
+use_directory_urls: False
+
+nav:
+  - Guide: guide.md
+  - Contributing: CONTRIBUTING-en.md
+  
+theme:
+  name: sandstone
+
+plugins:
+  - search
+  - same-dir
