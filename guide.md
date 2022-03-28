@@ -67,7 +67,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Israel](#israel)
   - [Italy](#italy)
   - [Japan](#japan)
+  - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
+  - [Luxemburg](#luxemburg)
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [Norway](#norway)
@@ -410,8 +412,8 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 </br>
 **Population:** 38,928,346 (2020)
 <br>
-Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Afghanistan>)
+Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
 
 ---
 
@@ -427,8 +429,8 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 </br>
 **Population:** 2,877,797 (2020)
 <br>
-Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Albania>)
+Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
 
 ---
 
@@ -445,7 +447,7 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 **Population:** 43,851,044 (2020)
 <br>
 Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. The country is the largest country by total area in Africa and in the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea. It has a semi-arid geography, with most of the population living in the fertile north and the Sahara dominating the geography of the south. Algeria covers an area of 2,381,741 square kilometres (919,595 sq mi), making it the world's tenth largest nation by area, and the largest nation in Africa. With a population of 44 million, Algeria is the ninth-most populous country in Africa, and the 32nd-most populous country in the world. The capital and largest city is Algiers, located in the far north on the Mediterranean coast.
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Algeria>)
+<br>Source [wiki](https://en.wikipedia.org/wiki/Algeria)
 
 ---
 
@@ -462,7 +464,7 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 **Population:** 77,265 (2020)
 <br>
 Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Roman Catholic Diocese of Urgell. The present principality was formed by a charter in 1278. It is headed by two co-princes: the Bishop of Urgell in Catalonia, Spain and the President of France. Its capital and largest city is Andorra la Vella.
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Andorra>)
+<br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
 
 ---
 
@@ -478,8 +480,8 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 </br>
 **Population:** 32,866,272 (2020)
 <br>
-Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Angola>)
+Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
 
 ---
 
@@ -935,6 +937,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="liechtenstein"></a>**Liechtenstein**
+
+<img width="300" height="300" src="media/flags/lcht.svg">
+
+**Capital:** Vaduz
+</br>
+**Official Language:** German
+</br>
+**Currency:** Swiss Franc (CHF)
+</br>
+**Population:** 38,896 (2020)
+
+---
+
 ### <a name="lithuania"></a>**Lithuania**
 
 <img width="300" height="300" src="media/flags/lt.svg">
@@ -946,6 +962,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+
+---
+
+### <a name="luxemburg"></a>**Luxemburg**
+
+<img width="300" height="300" src="media/flags/lxmb.svg">
+
+**Capital:** Luxemburg City
+</br>
+**Official Language:** Luxembourgish
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 633,622 (2020)
 
 ---
 
@@ -1218,12 +1248,13 @@ owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist
 
 **Description**
 
-Mars is the fourth planet from the Sun and the second-smallest planet in the Solar System, being larger than only Mercury. In English, Mars carries the name of the Roman god of war and is often referred to as the "Red Planet".[17][18] The latter refers to the effect of the iron oxide prevalent on Mars's surface, which gives it a striking reddish appearance in the sky.[19] Mars is a terrestrial planet with a thin atmosphere, with surface features such as impact craters, valleys, dunes, and polar ice caps.
+Mars is the fourth planet from the Sun and the Solar System's second-smallest planet, only Mercury being smaller. Mars is known as the "Red Planet" in English because it carries the name of the Roman god of war. The latter refers to the reddish appearance of Mars in the sky as a result of the iron oxide present on its surface. Mars is a terrestrial planet with a thin atmosphere, impact craters, valleys, dunes, and polar ice caps on its surface.
 
-The days and seasons are comparable to those of Earth, because the rotation period as well as the tilt of the rotational axis relative to the ecliptic plane are similar. Mars is the site of Olympus Mons, the largest volcano and highest known mountain on any planet in the Solar System, and of Valles Marineris, one of the largest canyons in the Solar System. The smooth Borealis basin in the Northern Hemisphere covers 40% of the planet and may be a giant impact feature.[20] Mars has two moons, Phobos and Deimos, which are small and irregularly shaped.
+Because their rotation period and tilt of the rotational axis relative to the ecliptic plane are similar, the days and seasons are analogous to those of Earth. Mars is home to Olympus Mons, the Solar System's tallest volcano and highest known mountain, as well as Valles Marineris, one of the Solar System's greatest canyons. The smooth Borealis basin, which encompasses 40% of the earth in the Northern Hemisphere, might represent a massive impact structure. Phobos and Deimos, Mars' two moons, are tiny and oddly shaped.
 
-Mars has been explored by several uncrewed spacecraft. Mariner 4 was the first spacecraft to visit Mars; launched by NASA on 28 November 1964, it made its closest approach to the planet on 15 July 1965. Mariner 4 detected the weak Martian radiation belt, measured at about 0.1% that of Earth, and captured the first images of another planet from deep space.[21] The latest spacecraft to successfully land on Mars are CNSA's Tianwen-1 lander and Zhurong rover, landed on 14 May 2021.[22] The Zhurong rover was successfully deployed on 22 May 2021, which makes China the second country to successfully deploy a rover on Mars, after the United States.[22] <br>
-Source [wiki](https://en.wikipedia.org/wiki/Mars)
+Several uncrewed spacecrafts have visited Mars. Mariner 4 was the first spacecraft to visit Mars, arriving on the planet on July 15, 1965, after being launched by NASA on November 28, 1964. Mariner 4 discovered the weak Martian radiation belt, which is only 0.1 percent that of Earth, and took the first deep-space photos of another planet. CNSA's Tianwen-1 lander and Zhurong rover were the most recent spacecraft to safely land on Mars, on May 14, 2021. The Zhurong rover was successfully deployed on May 22, 2021, making China the second country after the United States to successfully deploy a rover on Mars.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Mars)
 
 Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXhoY)
 
@@ -1241,12 +1272,13 @@ owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but
 
 **Description**
 
-Mercury is the smallest planet in the Solar System and the closest to the Sun. Its orbit around the Sun takes 87.97 Earth days, the shortest of all the Sun's planets. It is named after the Roman god Mercurius (Mercury), god of commerce, messenger of the gods, and mediator between gods and mortals, corresponding to the Greek god Hermes (Ἑρμῆς). Like Venus, Mercury orbits the Sun within Earth's orbit as an inferior planet, and its apparent distance from the Sun as viewed from Earth never exceeds 28°. This proximity to the Sun means the planet can only be seen near the western horizon after sunset or the eastern horizon before sunrise, usually in twilight. At this time, it may appear as a bright star-like object, but is more difficult to observe than Venus. From Earth, the planet telescopically displays the complete range of phases, similar to Venus and the Moon, which recurs over its synodic period of approximately 116 days.
+Mercury is the smallest and nearest planet to the Sun in the Solar System. Its orbit around the Sun is the shortest of all the Sun's planets, taking 87.97 Earth days. It is named after Mercurius (Mercury), the Roman god of commerce, messenger of the gods, and mediator between gods and mortals, who corresponds to the Greek god Hermes. Mercury, like Venus, orbits the Sun as an inferior planet inside Earth's orbit, and its apparent distance from the Sun as seen from Earth never surpasses 28°. Due to its close closeness to the Sun, the planet may only be seen in twilight near the western horizon after sunset or near the eastern horizon before sunrise. It appears to be a bright star-like object at this time, but it is more difficult to see than Venus. From Earth, the planet, like Venus and the Moon, telescopically displays the full spectrum of phases, which recur about every 116 days.
 
-Mercury rotates in a way that is unique in the Solar System. It is tidally locked with the Sun in a 3:2 spin–orbit resonance,[17] meaning that relative to the fixed stars, it rotates on its axis exactly three times for every two revolutions it makes around the Sun.[a][18] As seen from the Sun, in a frame of reference that rotates with the orbital motion, it appears to rotate only once every two Mercurian years. An observer on Mercury would therefore see only one day every two Mercurian years.
+Mercury rotates in a way that no other planet in the Solar System does. It is tidally locked with the Sun in a 3:2 spin–orbit resonance, which means that it rotates on its axis three times for every two revolutions it makes around the Sun, relative to the fixed stars. It appears to rotate just once every two Mercurian years as seen from the Sun in a frame of reference that rotates with the orbital motion. As a result, an observer on Mercury would only witness one day every two Mercurian years.
 
-Mercury's axis has the smallest tilt of any of the Solar System's planets (about 1⁄30 degree). Its orbital eccentricity is the largest of all known planets in the Solar System;[b] at perihelion, Mercury's distance from the Sun is only about two-thirds (or 66%) of its distance at aphelion. Mercury's surface appears heavily cratered and is similar in appearance to the Moon's, indicating that it has been geologically inactive for billions of years. Having almost no atmosphere to retain heat, it has surface temperatures that vary diurnally more than on any other planet in the Solar System, ranging from 100 K (−173 °C; −280 °F) at night to 700 K (427 °C; 800 °F) during the day across the equatorial regions.[19] The polar regions are constantly below 180 K (−93 °C; −136 °F). The planet has no known natural satellites. <br>
-Source [wiki](<https://en.wikipedia.org/wiki/Mercury_(planet)>)
+Mercury has the shortest tilt of any planet in the Solar System (about 1⁄30 degree). Mercury's orbital eccentricity is the highest of any known planets in the Solar System; its distance from the Sun during perihelion is only around two-thirds (or 66%) of its distance at aphelion. Mercury's surface is extensively cratered and resembles the Moon's in appearance, indicating that it has been geologically dormant for billions of years. Its surface temperatures change more diurnally than any other planet in the Solar System, ranging from 100 K (173 °C; 280 °F) at night to 700 K (427 °C; 800 °F) during the day throughout the equatorial regions, owing to the lack of an atmosphere to retain heat. The polar regions are constantly below 180 K (−93 °C; −136 °F). The planet has no known natural satellites.
+
+Source [wikipedia](<https://en.wikipedia.org/wiki/Mercury_(planet)>)
 
 Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnNuhRHs)
 
@@ -1264,12 +1296,13 @@ owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
 **Description**
 
-Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, and slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere. It is referred to as one of the solar system's two ice giant planets (the other one being its near-twin Uranus).
+Neptune is the eighth and most distant of the Solar System's planets from the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet. Its mass is 17 times that of Earth, and it is somewhat more massive than Uranus, its near-twin. Because its greater mass provokes more gravitational compression of its atmosphere, Neptune is denser and physically smaller than Uranus. It is one of the two ice giant planets in the solar system (the other one being its near-twin Uranus).
 
-Being composed primarily of gases and liquids, it has no well-defined "solid surface." The planet orbits the Sun once every 164.8 years at an average distance of 30.1 AU (4.5 billion km; 2.8 billion mi). It is named after the Roman god of the sea and has the astronomical symbol ♆, representing Neptune's trident.[d]
+It has no well-defined "solid surface" because it is mostly made up of gases and liquids. At an average distance of 30.1 AU (4.5 billion km; 2.8 billion mi), the planet orbits the Sun once every 164.8 years. It has the astronomical symbol ♆, which represents Neptune's trident, and is named after the Roman god of the sea.
 
-Neptune is not visible to the unaided eye and is the only planet in the Solar System found by mathematical prediction rather than by empirical observation. Unexpected changes in the orbit of Uranus led Alexis Bouvard to deduce that its orbit was subject to gravitational perturbation by an unknown planet. After Bouvard's death, the position of Neptune was predicted from his observations, independently, by John Couch Adams and Urbain Le Verrier. Neptune was subsequently observed with a telescope on 23 September 1846[1] by Johann Galle within a degree of the position predicted by Le Verrier. Its largest moon, Triton, was discovered shortly thereafter, though none of the planet's remaining 13 known moons were located telescopically until the 20th century. The planet's distance from Earth gives it a very small apparent size, making it challenging to study with Earth-based telescopes. Neptune was visited by Voyager 2, when it flew by the planet on 25 August 1989; Voyager 2 remains the only spacecraft to have visited Neptune.[17][18] The advent of the Hubble Space Telescope and large ground-based telescopes with adaptive optics has recently allowed for additional detailed observations from afar. <br>
-Source [wiki](https://en.wikipedia.org/wiki/Neptune)
+Neptune is the only planet in the Solar System that was discovered by mathematical prediction rather than direct observation. Alexis Bouvard deduced that Uranus' orbit was vulnerable to gravitational disturbance by an undiscovered planet because of unexpected variations in its orbit. Following Bouvard's death, John Couch Adams and Urbain Le Verrier separately projected Neptune's position based on his observations. Johann Galle sighted Neptune using a telescope on September 23, 1846, within a degree of the location predicted by Le Verrier. Triton, the planet's biggest moon, was discovered soon after, but none of the planet's remaining 13 known moons were detected telescopically until the 20th century. Because of its great distance from Earth, the planet appears to be incredibly small, making it difficult to investigate with Earth-based telescopes. When Voyager 2 flew by Neptune on August 25, 1989, it was the sole spacecraft to have visited the planet; Voyager 2 remains the only spacecraft to have visited Neptune. The Hubble Space Telescope, as well as big ground-based telescopes with adaptive optics, have lately made it possible to make more precise views from afar.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Neptune)
 
 Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7zZKXfE)
 
