@@ -68,6 +68,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Italy](#italy)
   - [Japan](#japan)
   - [Lithuania](#lithuania)
+  - [Luxemburg](#luxemburg)
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [Norway](#norway)
@@ -942,6 +943,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+
+---
+
+### <a name="luxemburg"></a>**Luxemburg**
+
+<img width="300" height="300" src="media/flags/lxmb.svg">
+
+**Capital:** Luxemburg City
+</br>
+**Official Language:** Luxembourgish
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 633,622 (2020)
 
 ---
 
