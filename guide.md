@@ -136,6 +136,10 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Oceans](#oceans)
 
+- ### [Extraterrestrial life](#extraterrestrial_life)
+
+  - [Drake equation.](#drake_equation)
+
 - ### [Cosmos Quotes](#quotes)
 
   - [Quote 1.](#quote_1)
@@ -1705,6 +1709,29 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 | Southern  |           20           |         4000          |
 
 <br> Source [pressbooks](https://rwu.pressbooks.pub/webboceanography/chapter/1-1-overview-of-the-oceans/)
+
+---
+
+## <a name="extraterrestrial_life"></a> **_Extraterrestrial life_**
+
+**Description**
+
+Extraterrestrial life,[n 1] sometimes colloquially referred to as alien life, is hypothetical life that may occur outside Earth and which did not originate on Earth. Such life might range from simple prokaryotes (or comparable life forms) to intelligent beings and even sapient beings, possibly bringing forth civilizations that might be far more advanced than humanity.
+
+Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
+
+### <a names="drake_equation"></a>**Drake equation.**
+
+Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy. 
+
+<img src="media/extraterrestrial_life/Drake_equation.svg">
+
+owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
+
+When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
+
+Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https://earthsky.org/space/most-stars-have-planets-in-habitable-zone) , [keckobservatory](https://keckobservatory.org/one_in_five_stars_has_earth_sized_planet_in_habitable_zone)
+
 
 ---
 
