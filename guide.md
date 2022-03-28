@@ -418,7 +418,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 <img width="300" height="300" src="media/flags/af.svg">
 
-**Capital:** Kabul
+**Capital:** [Kabul](https://www.google.com/maps/search/Kabul)
 </br>
 **Official Language:** Pashto, Dari
 </br>
@@ -435,7 +435,7 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 
 <img width="300" height="300" src="media/flags/al.svg">
 
-**Capital:** Tirana
+**Capital:** [Tirana](https://www.google.com/maps/search/Tirana)
 </br>
 **Official Language:** Albanian
 </br>
@@ -452,7 +452,7 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 
 <img width="300" height="300" src="media/flags/dz.svg">
 
-**Capital:** Algiers
+**Capital:** [Algiers](https://www.google.com/maps/search/Algiers)
 </br>
 **Official Language:** Arabic and Tamazight
 </br>
@@ -469,7 +469,7 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 
 <img width="300" height="300" src="media/flags/ad.svg">
 
-**Capital:** Andorra la Vella
+**Capital:** [Andorra la Vella](https://www.google.com/maps/search/Andorra%20la%20Vella)
 </br>
 **Official Language:** Catalan
 </br>
@@ -486,7 +486,7 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 
 <img width="300" height="300" src="media/flags/ao.svg">
 
-**Capital:** Luanda
+**Capital:** [Luanda](https://www.google.com/maps/search/Luanda)
 </br>
 **Official Language:** Portuguese
 </br>
@@ -503,7 +503,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/ag.svg">
 
-**Capital:** Saint John's
+**Capital:** [Saint John's](https://www.google.com/maps/search/Saint%20John's)
 </br>
 **Official Language:** English
 </br>
@@ -517,7 +517,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/ar.svg">
 
-**Capital:** Buenos Aires
+**Capital:** [Buenos Aires](https://www.google.com/maps/search/Buenos%20Aires)
 </br>
 **Official Language:** Spanish
 </br>
@@ -531,7 +531,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/am.svg">
 
-**Capital:** Yerevan
+**Capital:** [Yerevan](https://www.google.com/maps/search/Yerevan)
 </br>
 **Official Language:** Armenian
 </br>
@@ -545,7 +545,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/au.svg">
 
-**Capital:** Canberra
+**Capital:** [Canberra](https://www.google.com/maps/search/Canberra)
 </br>
 **Official Language:** None at the federal level
 </br>
@@ -559,7 +559,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/at.svg">
 
-**Capital:** Vienna
+**Capital:** [Vienna](https://www.google.com/maps/search/Vienna)
 </br>
 **Official Language:** German
 </br>
@@ -573,7 +573,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/az.svg">
 
-**Capital:** Baku
+**Capital:** [Baku](https://www.google.com/maps/search/Baku)
 </br>
 **Official Language:** Azerbaijani
 </br>
@@ -587,7 +587,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bs.svg">
 
-**Capital:** Nassau
+**Capital:** [Nassau](https://www.google.com/maps/search/Nassau)
 </br>
 **Official Language:** English
 </br>
@@ -601,7 +601,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bh.svg">
 
-**Capital:** Manama
+**Capital:** [Manama](https://www.google.com/maps/search/Manama)
 </br>
 **Official Language:** Arabic
 </br>
@@ -615,7 +615,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bd.svg">
 
-**Capital:** Dhaka
+**Capital:** [Dhaka](https://www.google.com/maps/search/Dhaka)
 </br>
 **Official Language:** Bengali
 </br>
@@ -629,7 +629,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bb.svg">
 
-**Capital:** Bridgetown
+**Capital:** [Bridgetown](https://www.google.com/maps/search/Bridgetown)
 </br>
 **Official Language:** English
 </br>
@@ -643,7 +643,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/by.svg">
 
-**Capital:** Minsk
+**Capital:** [Minsk](https://www.google.com/maps/search/Minsk)
 </br>
 **Official Language:** Belarusian, Russian
 </br>
@@ -657,7 +657,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/be.svg">
 
-**Capital:** Brussels
+**Capital:** [Brussels](https://www.google.com/maps/search/Brussels)
 </br>
 **Official Language:** Dutch, French, German
 </br>
@@ -671,7 +671,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bz.svg">
 
-**Capital:** Belmopan
+**Capital:** [Belmopan](https://www.google.com/maps/search/Belmopan)
 </br>
 **Official Language:** English
 </br>
@@ -685,7 +685,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/br.svg">
 
-**Capital:** Brasilia
+**Capital:** [Brasilia](https://www.google.com/maps/search/Brasilia)
 </br>
 **Official Language:** Portuguese
 </br>
@@ -699,7 +699,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bg.svg">
 
-**Capital:** Sofia
+**Capital:** [Sofia](https://www.google.com/maps/search/Sofia)
 </br>
 **Official Language:** Bulgarian
 </br>
@@ -713,7 +713,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/bf.svg">
 
-**Capital:** Ouagadougou
+**Capital:** [Ouagadougou](https://www.google.com/maps/search/Ouagadougou)
 </br>
 **Official Language:** French
 </br>
@@ -727,7 +727,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/cm.svg">
 
-**Capital:** Yaoundé
+**Capital:** [Yaoundé](https://www.google.com/maps/search/Yaoundé)
 </br>
 **Official Language:** French, English
 </br>
@@ -741,7 +741,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/ca.svg">
 
-**Capital:** Ottawa
+**Capital:** [Ottawa](https://www.google.com/maps/search/Ottawa)
 </br>
 **Official Language:** French, English
 </br>
@@ -755,7 +755,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/cl.svg">
 
-**Capital:** Santiago
+**Capital:** [Santiago](https://www.google.com/maps/search/Santiago)
 </br>
 **Official Language:** Spanish
 </br>
@@ -769,7 +769,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/cn.svg">
 
-**Capital:** Beijing
+**Capital:** [Beijing](https://www.google.com/maps/search/Beijing)
 </br>
 **Official Language:** Mandarin
 </br>
@@ -783,7 +783,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/co.svg">
 
-**Capital:** Bogotá
+**Capital:** [Bogotá](https://www.google.com/maps/search/Bogotá)
 </br>
 **Official Language:** Spanish
 </br>
@@ -797,7 +797,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 <img width="300" height="300" src="media/flags/cy.svg">
 
-**Capital:** Nicosia
+**Capital:** [Nicosia](https://www.google.com/maps/search/Nicosia)
 </br>
 **Official Language:** Greek, Turkish
 </br>
@@ -813,7 +813,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 <img width="300" height="300" src="media/flags/eg.svg">
 
-**Capital:** Cairo
+**Capital:** [Cairo](https://www.google.com/maps/search/Cairo)
 </br>
 **Official Language:** Arabic
 </br>
@@ -827,7 +827,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 <img width="300" height="300" src="media/flags/gb-eng.svg">
 
-**Capital:** London
+**Capital:** [London](https://www.google.com/maps/search/London)
 </br>
 **Official Language:** English
 </br>
@@ -843,7 +843,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/fr.svg">
 
-**Capital:** Paris
+**Capital:** [Paris](https://www.google.com/maps/search/Paris)
 </br>
 **Official Language:** French
 </br>
@@ -857,7 +857,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/de.svg">
 
-**Capital:** Berlin
+**Capital:** [Berlin](https://www.google.com/maps/search/Berlin)
 </br>
 **Official Language:** German
 </br>
@@ -871,7 +871,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/gh.svg">
 
-**Capital:** Accra
+**Capital:** [Accra](https://www.google.com/maps/search/Accra)
 </br>
 **Official Language:** English
 </br>
@@ -885,7 +885,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/gua.svg">
 
-**Capital:** Guatemala City
+**Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
 </br>
 **Official Language:** Spanish
 </br>
@@ -899,7 +899,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/gr.svg">
 
-**Capital:** Athens
+**Capital:** [Athens](https://www.google.com/maps/search/Athens)
 </br>
 **Official Language:** Greek
 </br>
@@ -913,7 +913,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ie.svg">
 
-**Capital:** Dublin
+**Capital:** [Dublin](https://www.google.com/maps/search/Dublin)
 </br>
 **Official Language:** Irish, English
 </br>
@@ -927,7 +927,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/il.svg">
 
-**Capital:** Jerusalem
+**Capital:** [Jerusalem](https://www.google.com/maps/search/Jerusalem)
 </br>
 **Official Language:** Hebrew
 </br>
@@ -941,7 +941,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/it.svg">
 
-**Capital:** Rome
+**Capital:** [Rome](https://www.google.com/maps/search/Rome)
 </br>
 **Official Language:** Italian
 </br>
@@ -955,7 +955,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/jp.svg">
 
-**Capital:** Tokyo
+**Capital:** [Tokyo](https://www.google.com/maps/search/Tokyo)
 </br>
 **Official Language:** Japanese
 </br>
@@ -969,7 +969,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/lcht.svg">
 
-**Capital:** Vaduz
+**Capital:** [Vaduz](https://www.google.com/maps/search/Vaduz)
 </br>
 **Official Language:** German
 </br>
@@ -983,7 +983,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/lt.svg">
 
-**Capital:** Vilnius
+**Capital:** [Vilnius](https://www.google.com/maps/search/Vilnius)
 </br>
 **Official Language:** Lithuanian
 </br>
@@ -997,7 +997,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/lxmb.svg">
 
-**Capital:** Luxemburg City
+**Capital:** [Luxemburg City](https://www.google.com/maps/search/Luxemburg%20City)
 </br>
 **Official Language:** Luxembourgish
 </br>
@@ -1011,7 +1011,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/mx.svg">
 
-**Capital:** Mexico City
+**Capital:** [Mexico City](https://www.google.com/maps/search/Mexico%20City)
 </br>
 **Official Language:** None at federal level
 </br>
@@ -1025,7 +1025,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/monaco.svg">
 
-**Capital:** City of Monaco
+**Capital:** [City of Monaco](https://www.google.com/maps/search/City%20of%20Monaco)
 </br>
 **Official Language:** French
 </br>
@@ -1039,7 +1039,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/no.svg">
 
-**Capital:** Oslo
+**Capital:** [Oslo](https://www.google.com/maps/search/Oslo)
 </br>
 **Official Language:** Norwegian
 </br>
@@ -1053,7 +1053,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ph.svg">
 
-**Capital:** Manila
+**Capital:** [Manila](https://www.google.com/maps/search/Manila)
 </br>
 **Official Language:** Filipino, English
 </br>
@@ -1067,7 +1067,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ro.svg">
 
-**Capital:** Bucharest
+**Capital:** [Bucharest](https://www.google.com/maps/search/Bucharest)
 </br>
 **Official Language:** Romanian
 </br>
@@ -1081,7 +1081,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ru.svg">
 
-**Capital:** Moscow
+**Capital:** [Moscow](https://www.google.com/maps/search/Moscow)
 </br>
 **Official Language:** Russian
 </br>
@@ -1095,7 +1095,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/gb-sct.svg">
 
-**Capital:** Edinburgh
+**Capital:** [Edinburgh](https://www.google.com/maps/search/Edinburgh)
 </br>
 **Official Language:** English, Scottish Gaelic
 </br>
@@ -1109,7 +1109,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/sk.svg">
 
-**Capital:** Bratislava
+**Capital:** [Bratislava](https://www.google.com/maps/search/Bratislava)
 </br>
 **Official Language:** Slovak
 </br>
@@ -1123,7 +1123,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/es.svg">
 
-**Capital:** Madrid
+**Capital:** [Madrid](https://www.google.com/maps/search/Madrid)
 </br>
 **Official Language:** Spanish
 </br>
@@ -1137,7 +1137,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ch.svg">
 
-**Capital:** Bern
+**Capital:** [Bern](https://www.google.com/maps/search/Bern)
 </br>
 **Official Language:** German, French, Italian, Romansh
 </br>
@@ -1154,7 +1154,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 <img width="300" height="300" src="media/flags/ua.svg">
 
-**Capital:** Kyiv
+**Capital:** [Kyiv](https://www.google.com/maps/search/Kyiv)
 </br>
 **Official Language:** Ukrainian
 </br>
@@ -1168,7 +1168,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 <img width="300" height="300" src="media/flags/ae.svg">
 
-**Capital:** Abu Dhabi
+**Capital:** [Abu Dhabi](https://www.google.com/maps/search/Abu%20Dhabi)
 </br>
 **Official Language:** Arabic
 </br>
@@ -1182,7 +1182,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 <img width="300" height="300" src="media/flags/us.svg">
 
-**Capital:** Washington, D.C.
+**Capital:** [Washington, D.C.](https://www.google.com/maps/search/Washington,%20D.C.)
 </br>
 **Official Language:** English
 </br>
@@ -1196,7 +1196,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 <img width="300" height="300" src="media/flags/uy.svg">
 
-**Capital:** Montevideo
+**Capital:** [Montevideo](https://www.google.com/maps/search/Montevideo)
 </br>
 **Official Language:** Spanish
 </br>
