@@ -159,6 +159,10 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
 
+- ### [Cosmos Movies](cosmos_movies)
+  - [Midnight Sky](#movie_1)
+
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -1834,6 +1838,14 @@ These are some excamples of what they offer to their users.
 <br>
 
 source [starlust](https://starlust.org/space-memes/)
+
+---
+
+## <a name="cosmos_movies"></a> **Cosmos Movies**
+
+### <a name="movie_1"></a>**The Midnight Sky (2020)**
+<img width="500" height="350" src="media\movies\midnightsky.jpg">
+In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
 
 ---
 
