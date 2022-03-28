@@ -13,6 +13,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Origins of the Universe](#origins_of_the_universe)
   - [Religious Cosmology](#religious_cosmology)
   - [Flat-Earth Theory](#flat-earth_theory)
+  - [Simulation Theory](#simulation_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
   - [Flat-Earth Theory](#end_of_the_universe)
