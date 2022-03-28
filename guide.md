@@ -214,6 +214,16 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ---
 
+### <a name="simulation_theory"></a>**Simulation Theory**
+
+The simulation hypothesis is a proposal regarding the nature of existence which posits that all of existence is an artificial simulation, such as a computer simulation.[1] Some versions rely on the development of a simulated reality, a proposed technology that would be able to convince its inhabitants that the simulation was "real".
+
+The simulation hypothesis bears a close resemblance to various other skeptical scenarios from throughout the history of philosophy. The hypothesis was popularized in its current form by Nick Bostrom. The suggestion that such a hypothesis is compatible with all human perceptual experiences is thought to have significant epistemological consequences in the form of philosophical skepticism. Versions of the hypothesis have also been featured in science fiction, appearing as a central plot device in many stories and films.
+
+Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+
+---
+
 ### <a name="universe_facts"></a>**Universe Facts**
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
