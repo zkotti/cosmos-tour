@@ -141,6 +141,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
   - [Drake equation.](#drake_equation)
   - [Kardashev scale.](#kardashev_scale)
+  - [Fermi paradox.](#fermi_paradox)
 
 - ### [Cosmos Quotes](#quotes)
 
@@ -1755,7 +1756,7 @@ Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https:
 
 ### <a names="kardashev_scale"></a>**Kardashev scale**
 
-The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964.The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV through VI) and the use of metrics other than pure power.Carl Sagan’s modified Kardashev scale, which allows for continuous values, put humanity at a meagre 0.7. Some predict that our total power consumption could hit Type I levels on Sagan’s scale in around 200 years, but we are still incredibly far from realising Type II or III status
+The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964.The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV through VI) and the use of metrics other than pure power.Carl Sagan’s modified Kardashev scale, which allows for continuous values, put humanity at a meagre 0.7. Some predict that our total power consumption could hit Type I levels on Sagan’s scale in around 200 years, but we are still incredibly far from realising Type II or III status.
 
 <img width="800" height="309" src="media/extraterrestrial_life/Kardashev_scale.png">
 
@@ -1771,11 +1772,21 @@ Type III civilizations (Galactic civilizations), are those who have harnessed th
 
 <img width="800" height="450" src="media/extraterrestrial_life/Dyson.png">
 3D rendering of a Dyson sphere utilizing large, orbiting panels.
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:A_Dyson_Swarm_Superstructure_(21983905140).png)
+<br> owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:A_Dyson_Swarm_Superstructure_(21983905140).png)
 
 Sources [wiki](https://en.wikipedia.org/wiki/Kardashev_scale) , [astrobites](https://astrobites.org/2016/03/15/classifying-civilisations-an-introduction-to-the-kardashev-scale) , [wiki](https://en.wikipedia.org/wiki/Dyson_sphere)
 
+### <a names="fermi_paradox"></a>**Fermi paradox.**
 
+The Fermi paradox is the conflict between the lack of clear, obvious evidence for extraterrestrial life and various high estimates for their existence. As a 2015 article put it, "If life is so easy, someone from somewhere must have come calling by now."
+
+The great Italian-born physicist Enrico Fermi once asked some colleagues he was having lunch with the question: “Where are they?”, referring to the absence of any signs of extraterrestrial intelligences. This absence puzzled him, and his question later became known as Fermi’s paradox. 
+
+Maybe no civilization has managed to travel with speed greater than the speed of light. But even at speeds close to 10% of the speed of light a civilization could cross the entire Galaxy in the span of a million years. A number like that seems far too big, but it is actually just the 0.0077% of the age of the Galaxy. So there was plently of time for civilizations to colonize the entire Galaxy.
+
+But why the universe is so silent?
+
+Sources [wiki](https://en.wikipedia.org/wiki/Fermi_paradox) , [nickbostrom](https://www.nickbostrom.com/papers/fermi.pdf)
 
 ---
 
