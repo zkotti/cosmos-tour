@@ -408,8 +408,8 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 </br>
 **Population:** 38,928,346 (2020)
 <br>
-Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Afghanistan>)
+Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
 
 ---
 
@@ -425,8 +425,8 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 </br>
 **Population:** 2,877,797 (2020)
 <br>
-Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Albania>)
+Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
 
 ---
 
@@ -443,7 +443,7 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 **Population:** 43,851,044 (2020)
 <br>
 Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. The country is the largest country by total area in Africa and in the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea. It has a semi-arid geography, with most of the population living in the fertile north and the Sahara dominating the geography of the south. Algeria covers an area of 2,381,741 square kilometres (919,595 sq mi), making it the world's tenth largest nation by area, and the largest nation in Africa. With a population of 44 million, Algeria is the ninth-most populous country in Africa, and the 32nd-most populous country in the world. The capital and largest city is Algiers, located in the far north on the Mediterranean coast.
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Algeria>)
+<br>Source [wiki](https://en.wikipedia.org/wiki/Algeria)
 
 ---
 
@@ -460,7 +460,7 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 **Population:** 77,265 (2020)
 <br>
 Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Roman Catholic Diocese of Urgell. The present principality was formed by a charter in 1278. It is headed by two co-princes: the Bishop of Urgell in Catalonia, Spain and the President of France. Its capital and largest city is Andorra la Vella.
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Andorra>)
+<br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
 
 ---
 
@@ -476,8 +476,8 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 </br>
 **Population:** 32,866,272 (2020)
 <br>
-Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda. 
-<br>Source [wiki](<https://en.wikipedia.org/wiki/Angola>)
+Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
 
 ---
 
@@ -1292,12 +1292,13 @@ owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
 **Description**
 
-Neptune is the eighth and farthest-known Solar planet from the Sun. In the Solar System, it is the fourth-largest planet by diameter, the third-most-massive planet, and the densest giant planet. It is 17 times the mass of Earth, and slightly more massive than its near-twin Uranus. Neptune is denser and physically smaller than Uranus because its greater mass causes more gravitational compression of its atmosphere. It is referred to as one of the solar system's two ice giant planets (the other one being its near-twin Uranus).
+Neptune is the eighth and most distant of the Solar System's planets from the Sun. It is the fourth-largest planet in the Solar System by diameter, the third-most-massive planet, and the densest giant planet. Its mass is 17 times that of Earth, and it is somewhat more massive than Uranus, its near-twin. Because its greater mass provokes more gravitational compression of its atmosphere, Neptune is denser and physically smaller than Uranus. It is one of the two ice giant planets in the solar system (the other one being its near-twin Uranus).
 
-Being composed primarily of gases and liquids, it has no well-defined "solid surface." The planet orbits the Sun once every 164.8 years at an average distance of 30.1 AU (4.5 billion km; 2.8 billion mi). It is named after the Roman god of the sea and has the astronomical symbol ♆, representing Neptune's trident.[d]
+It has no well-defined "solid surface" because it is mostly made up of gases and liquids. At an average distance of 30.1 AU (4.5 billion km; 2.8 billion mi), the planet orbits the Sun once every 164.8 years. It has the astronomical symbol ♆, which represents Neptune's trident, and is named after the Roman god of the sea.
 
-Neptune is not visible to the unaided eye and is the only planet in the Solar System found by mathematical prediction rather than by empirical observation. Unexpected changes in the orbit of Uranus led Alexis Bouvard to deduce that its orbit was subject to gravitational perturbation by an unknown planet. After Bouvard's death, the position of Neptune was predicted from his observations, independently, by John Couch Adams and Urbain Le Verrier. Neptune was subsequently observed with a telescope on 23 September 1846[1] by Johann Galle within a degree of the position predicted by Le Verrier. Its largest moon, Triton, was discovered shortly thereafter, though none of the planet's remaining 13 known moons were located telescopically until the 20th century. The planet's distance from Earth gives it a very small apparent size, making it challenging to study with Earth-based telescopes. Neptune was visited by Voyager 2, when it flew by the planet on 25 August 1989; Voyager 2 remains the only spacecraft to have visited Neptune.[17][18] The advent of the Hubble Space Telescope and large ground-based telescopes with adaptive optics has recently allowed for additional detailed observations from afar. <br>
-Source [wiki](https://en.wikipedia.org/wiki/Neptune)
+Neptune is the only planet in the Solar System that was discovered by mathematical prediction rather than direct observation. Alexis Bouvard deduced that Uranus' orbit was vulnerable to gravitational disturbance by an undiscovered planet because of unexpected variations in its orbit. Following Bouvard's death, John Couch Adams and Urbain Le Verrier separately projected Neptune's position based on his observations. Johann Galle sighted Neptune using a telescope on September 23, 1846, within a degree of the location predicted by Le Verrier. Triton, the planet's biggest moon, was discovered soon after, but none of the planet's remaining 13 known moons were detected telescopically until the 20th century. Because of its great distance from Earth, the planet appears to be incredibly small, making it difficult to investigate with Earth-based telescopes. When Voyager 2 flew by Neptune on August 25, 1989, it was the sole spacecraft to have visited the planet; Voyager 2 remains the only spacecraft to have visited Neptune. The Hubble Space Telescope, as well as big ground-based telescopes with adaptive optics, have lately made it possible to make more precise views from afar.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Neptune)
 
 Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7zZKXfE)
 
