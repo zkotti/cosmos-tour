@@ -106,6 +106,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Kepler-452b](#kepler452b)
   - [Proxima Centauri b](#proximacentaurib)
   - [TRAPPIST-1e](#trappist1e)
+  - [Gliese 667 Cc](#gliese667cc)
 
 - ### [Galaxies](#galaxies)
 
@@ -1457,6 +1458,16 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds.
 Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
+
+---
+
+### <a name="gliese667cc"></a>**Gliese 667 Cc **
+
+owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+**Description**
+
+Gliese 667 Cc is a earth-like exoplanet, which is located approximately 22 light years away from the planet Earth. It was discovered with the European Southern Observatory's 3.6-meter telescope in Chile -using the radical velocity method- and according to NASA's Jet Propultion Laboratory, Gliese 667 Cc is estimated to be more than 4.5 times bigger in size than Earth. Moreover, Gliese is located way closer to its star, than the earth is to the sun, as it orbits its host star completely in less than 30 days. However, despite the striking distance, the environment of Gliese 667 Cc is still considered earth-like, due to the fact that its star is a Red Dwarf, which temperatures are considerabelly lower than our Sun's.
 
 ---
 
