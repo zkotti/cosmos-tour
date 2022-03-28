@@ -1223,22 +1223,19 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Earth)
 
 Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DCzYE)
 
-
 ## **Earth's 7 wonders**
 
-| Wonder | Date of construction | Builder | Notable features | Date of destruction | Cause of destruction |
-|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Great Pyramid of Giza](https://www.newworldencyclopedia.org/entry/Great_Pyramid_of_Giza) | 2650 - 2500 B.C.E. | Egyptians | Built as the tomb of Fourth dynasty Egyptian pharaoh Khufu. | Still standing | - |
-| [Hanging Gardens of Babylon](https://www.newworldencyclopedia.org/entry/Hanging_Gardens_of_Babylon) | 600 B.C.E. | Babylonians | Herodotus claimed the outer walls were 56 miles in length, 80 feet thick and 320 feet high (although some archaeological findings suggest otherwise). | After first century B.C.E. | Earthquake |
-| [Temple of Artemis at Ephesus](https://www.newworldencyclopedia.org/entry/Temple_of_Artemis) | 550 B.C.E. | Lydians, Persians, Greeks | Dedicated to the Greek goddess Artemis, the temple was begun by Croesus of Lydia and took 120 years to build. It was destroyed by arson in 356 B.C.E., rebuilt and destroyed during a raid by the Goths in 262, rebuilt again and finally demolished by a mob led by St. John Chrysostom. | 356 B.C.E. and 401 C.E. | Arson and later demolition |
-| [Statue of Zeus at Olympia](https://www.newworldencyclopedia.org/entry/Statue_of_Zeus_at_Olympia) | 435 B.C.E. | Greeks | Occupied the whole width of the aisle of the temple that was built to house it, and was 40 feet tall. | fifth and sixth centuries C.E. | Fire |
-| [Mausoleum of Maussollos at Halicarnassus](https://www.newworldencyclopedia.org/entry/Mausoleum_of_Maussollos) | 351 B.C.E. | Persians, Greeks | Stood approximately 135 feet tall with each of the four sides adorned with sculptural reliefs. Origin of the word mausoleum. | by 1494 C.E. | Earthquake |
-| [Colossus of Rhodes](https://www.newworldencyclopedia.org/entry/Colossus_of_Rhodes) | 292 - 280 B.C.E. | Hellenistic Greece | A giant statue of the Greek god Helios roughly the same size as today's Statue of Liberty in New York. | 224 B.C.E. | Earthquake |
-| [Lighthouse of Alexandria](https://www.newworldencyclopedia.org/entry/Lighthouse_of_Alexandria) | Third century B.C.E. | Hellenistic Egypt | Between 383 feet to 440 feet tall it was among the tallest man-made structures on Earth for many centuries. | 1303 - 1480 C.E. | Earthquake |
+|                                                     Wonder                                                     | Date of construction |          Builder          |                                                                                                                                     Notable features                                                                                                                                      |      Date of destruction       |    Cause of destruction    |
+| :------------------------------------------------------------------------------------------------------------: | :------------------: | :-----------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------: | :------------------------: |
+|           [Great Pyramid of Giza](https://www.newworldencyclopedia.org/entry/Great_Pyramid_of_Giza)            |  2650 - 2500 B.C.E.  |         Egyptians         |                                                                                                                Built as the tomb of Fourth dynasty Egyptian pharaoh Khufu.                                                                                                                |         Still standing         |             -              |
+|      [Hanging Gardens of Babylon](https://www.newworldencyclopedia.org/entry/Hanging_Gardens_of_Babylon)       |      600 B.C.E.      |        Babylonians        |                                                                   Herodotus claimed the outer walls were 56 miles in length, 80 feet thick and 320 feet high (although some archaeological findings suggest otherwise).                                                                   |   After first century B.C.E.   |         Earthquake         |
+|          [Temple of Artemis at Ephesus](https://www.newworldencyclopedia.org/entry/Temple_of_Artemis)          |      550 B.C.E.      | Lydians, Persians, Greeks | Dedicated to the Greek goddess Artemis, the temple was begun by Croesus of Lydia and took 120 years to build. It was destroyed by arson in 356 B.C.E., rebuilt and destroyed during a raid by the Goths in 262, rebuilt again and finally demolished by a mob led by St. John Chrysostom. |    356 B.C.E. and 401 C.E.     | Arson and later demolition |
+|       [Statue of Zeus at Olympia](https://www.newworldencyclopedia.org/entry/Statue_of_Zeus_at_Olympia)        |      435 B.C.E.      |          Greeks           |                                                                                           Occupied the whole width of the aisle of the temple that was built to house it, and was 40 feet tall.                                                                                           | fifth and sixth centuries C.E. |            Fire            |
+| [Mausoleum of Maussollos at Halicarnassus](https://www.newworldencyclopedia.org/entry/Mausoleum_of_Maussollos) |      351 B.C.E.      |     Persians, Greeks      |                                                                               Stood approximately 135 feet tall with each of the four sides adorned with sculptural reliefs. Origin of the word mausoleum.                                                                                |          by 1494 C.E.          |         Earthquake         |
+|              [Colossus of Rhodes](https://www.newworldencyclopedia.org/entry/Colossus_of_Rhodes)               |   292 - 280 B.C.E.   |    Hellenistic Greece     |                                                                                          A giant statue of the Greek god Helios roughly the same size as today's Statue of Liberty in New York.                                                                                           |           224 B.C.E.           |         Earthquake         |
+|        [Lighthouse of Alexandria](https://www.newworldencyclopedia.org/entry/Lighthouse_of_Alexandria)         | Third century B.C.E. |     Hellenistic Egypt     |                                                                                        Between 383 feet to 440 feet tall it was among the tallest man-made structures on Earth for many centuries.                                                                                        |        1303 - 1480 C.E.        |         Earthquake         |
 
 Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World)
-
-
 
 ---
 
@@ -1400,7 +1397,7 @@ Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9f
 
 ## <a name="dwarfplanets"></a> **_Dwarf Planets_**
 
-According to the International Astronomical Union, a dwarf planet is a celestial body that -orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
+According to the International Astronomical Union, a dwarf planet is a celestial body that orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
 
 ---
 
