@@ -67,6 +67,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Israel](#israel)
   - [Italy](#italy)
   - [Japan](#japan)
+  - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
   - [Mexico](#mexico)
@@ -929,6 +930,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+
+---
+
+### <a name="liechtenstein"></a>**Liechtenstein**
+
+<img width="300" height="300" src="media/flags/lcht.svg">
+
+**Capital:** Vaduz
+</br>
+**Official Language:** German
+</br>
+**Currency:** Swiss Franc (CHF)
+</br>
+**Population:** 38,896 (2020)
 
 ---
 
