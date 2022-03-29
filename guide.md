@@ -201,6 +201,14 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 4.](#meme_4)
   - [Meme 5.](#meme_5)
 
+- ### [Cosmos Books](#cosmos_books)
+
+  - [A Brief History of Time](#book_1)
+  - [The Human Cosmos: A Secret History of the Stars](#book_2)
+  - [Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky](#book_3)
+  - [Cosmos](#book_4)
+  - [Missions To Mars](#book_5)
+
 - ### [Cosmos Movies](#cosmos_movies)
 
   - [Midnight Sky](#movie_1)
@@ -2404,6 +2412,46 @@ These are some excamples of what they offer to their users.
 <br>
 
 source [starlust](https://starlust.org/space-memes/)
+
+---
+## <a name="cosmos_books"></a>**Cosmos Books**
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+### <a name="book_1"></a>**A Brief History of Time**
+
+<img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
+<br>Author: Stephen Hawking, 
+Publisher: Bantam (1988)
+<br>
+
+### <a name="book_2"></a>**The Human Cosmos: A Secret History of the Stars**
+
+<img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
+<br>Author: Jo Marchant, 
+Publisher: Canongate Books (2020)
+<br>
+
+### <a name="book_3"></a>**Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky)**
+
+<img width="500" height="350" src="media\books\Constellations.webp">
+<br>Author: Govert Schilling, 
+Cartographer: Wil Tirion, 
+Publisher: Black Dog & Leventhal (2019)
+<br>
+
+### <a name="book_4"></a>**Cosmos**
+
+<img width="500" height="350" src="media\books\Cosmos.webp">
+<br>Author: Carl Sagan, 
+Publisher: Random House (1980)
+<br>
+
+### <a name="book_5"></a>**Missions To Mars**
+
+<img width="500" height="350" src="media\books\Missions_To_Mars.webp">
+<br>Author: Larry S. Crumpler, 
+Publisher: Harper Design (2021)
+<br>
 
 ---
 
