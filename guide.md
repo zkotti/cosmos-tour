@@ -217,6 +217,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
   - [Margaret Hamilton](#Margaret_Hamilton)
+  - [Nelson Mandela](#Mandela)
 
 
 ---
@@ -2494,7 +2495,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
-## <a name="personalities"></a> **Admired Personalities**
+## <a name="personalities"></a> **_Admired Personalities_**
 
 ### <a name="Gandhi"></a>**Mahatma Gandhi**
 
@@ -2518,6 +2519,17 @@ Hamilton has published more than 130 papers, proceedings, and reports, about six
 On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
 
 source [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+
+---
+
+### <a name="Mandela"></a>**Nelson Mandela**
+
+<img width="300" height="300" src="media/personalities/Mandela.jpg">
+
+Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997. 
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 ---
 
