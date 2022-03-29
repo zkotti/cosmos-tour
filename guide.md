@@ -407,7 +407,15 @@ Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
+---
+
 ## <a name="continents"></a> **_Continents_**
+
+<img src="media\continents\world-continent-map.jpg">
+<br>
+<br>
+
+---
 
 ### <a name="africa"></a>**Africa**
 
