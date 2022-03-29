@@ -88,6 +88,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [Norway](#norway)
+  - [Peru](#peru)
   - [Philippines](#philippines)
   - [Romania](#romania)
   - [Russia](#russia)
@@ -1284,6 +1285,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Norwegian krone (NOK)
 </br>
 **Population:** 5,421,241 (2020)
+
+---
+
+### <a name="peru"></a>**Peru**
+
+<img width="300" height="300" src="media/flags/pe.svg">
+
+**Capital:** [Lima](https://www.google.com/maps/search/Lima)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Peruvian Nuevo Sol (PEN)
+</br>
+**Population:** 32,970,000 (2020)
 
 ---
 
