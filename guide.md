@@ -72,6 +72,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Egypt](#egypt)
   - [England](#england)
   - [Fiji](#fiji)
+  - [Finland](#finland)
   - [France](#france)
   - [Germany](#germany)
   - [Ghana](#ghana)
@@ -1057,6 +1058,24 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Fijian Dolar (FJD)
 </br>
 **Population:** 896.444 (2020)
+
+---
+
+###
+
+<a name="finland"></a>**Finland**
+
+<img width="300" height="300" src="media/flags/gb-fi.svg">
+
+**Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
+</br>
+**Official Language:** Finnish, Swedish 
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 5,531,000 (2020)
+
+---
 
 ### <a name="france"></a>**France**
 
