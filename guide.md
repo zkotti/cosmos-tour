@@ -1159,7 +1159,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/in.svg">
 
-**Capital:** New Delhi
+**Capital:**[New Delhi](https://www.google.com/maps/search/New%20Delhi)
 </br>
 **Official Language:** Hindi, English
 </br>
@@ -1173,7 +1173,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/id.svg">
 
-**Capital:** Jakarta
+**Capital:** [Jakarta](https://www.google.com/maps/search/Jakarta)
 </br>
 **Official Language:** Indonesian
 </br>
@@ -1187,7 +1187,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/ir.svg">
 
-**Capital:** Tehran
+**Capital:** [Tehran](https://www.google.com/maps/search/Tehran)
 </br>
 **Official Language:** Persian
 </br>
@@ -1201,7 +1201,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/iq.svg">
 
-**Capital:** Baghdad
+**Capital:** [Baghdad](https://www.google.com/maps/search/Baghdad)
 </br>
 **Official Language:** Arabic, Kurdish
 </br>
@@ -1264,6 +1264,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+
+---
+
+### <a name="kenya"></a>**Kenya**
+
+<img width="300" height="300" src="media/flags/ke.svg">
+
+**Capital:** [Nairobi](https://www.google.com/maps/search/Nairobi)
+</br>
+**Official Language:** English, Swahili
+</br>
+**Currency:** Kenyan shilling (KES)
+</br>
+**Population:** 53,771,296 (2020)
 
 ---
 
