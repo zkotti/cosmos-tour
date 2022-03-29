@@ -203,6 +203,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Gravity](#movie_2)
   - [Interstellar](#movie_3)
   - [Europa Report](#movie_4)
+  - [Apollo 13](#movie_5)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -2394,6 +2395,10 @@ A team of explorers travel through a wormhole in space in an attempt to ensure h
 ### <a name="movie_4"></a>**Europa Report (2013)**
 <img width="500" height="350" src="media/movies/europa_report.jpg">
 An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+
+### <a name="movie_5"></a>**Apollo 13 (1995)**
+<img width="500" height="350" src="media/movies/apollo13.jpg">
+he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing and turns the mission into one of seeking scientific and mechanical solutions to get the three men home safely.
 
 ---
 
