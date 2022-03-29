@@ -143,12 +143,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Oceans](#oceans)
 
+  - [Overview](#overview)
   - [Atlantic Ocean](#atlantic_ocean)
   - [Arctic Ocean](#arctic_ocean)
   - [Indian Ocean](#indian_ocean)
   - [Pacific Ocean](#pacific_ocean)
   - [Southern Ocean](#southern_ocean)
-  
+
 
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
@@ -1722,7 +1723,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 ---
 
-## <a name="oceans"></a> **_Oceans_**
+## <a name="overview"></a> **Overview**
 
 <img width="500" height="350" src="media/oceans/earths_ocean.jpg">
 
@@ -1750,6 +1751,29 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 | Southern  |           20           |         4000          |
 
 <br> Source [pressbooks](https://rwu.pressbooks.pub/webboceanography/chapter/1-1-overview-of-the-oceans/)
+
+---
+
+## <a name="atlantic_ocean"></a> **Atlantic Ocean**
+
+<img width="500" height="350" src="media/oceans/earths_ocean.jpg">
+
+owned by [britannica.com](https://www.britannica.com/place/Atlantic-Ocean)
+
+### **Description**
+
+Atlantic Ocean, covering approximately 20% of Earth’s surface and separating the continents of Europe and Africa to the east from those of North and South America to the west. The ocean’s name, derived from Greek mythology, means the “Sea of Atlas.” It is second in size to the Pacific Ocean.
+
+The area of the Atlantic without its dependent seas is approximately 31,568,000 square miles (81,760,000 square km), and with them its area is about 32,870,000 square miles (85,133,000 square km). It has an average depth (with its seas) of 11,962 feet (3,646 metres) and a maximum depth of 27,493 feet (8,380 metres) in the Puerto Rico Trench, north of the island of Puerto Rico.
+
+The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between Europe and Africa to the east, and the Americas to the west. As one component of the interconnected World Ocean, it is connected in the north to the Arctic Ocean, to the Pacific Ocean in the southwest, the Indian Ocean in the southeast, and the Southern Ocean in the south (other definitions describe the Atlantic as extending southward to Antarctica).
+
+Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below −2 °C (28 °F) to over 30 °C (86 °F). 
+
+The Coriolis effect circulates North Atlantic water in a clockwise direction, whereas South Atlantic water circulates counter-clockwise. On average, the Atlantic is the saltiest major ocean; surface water salinity in the open ocean ranges from 33 to 37 parts per thousand (3.3–3.7%) by mass and varies with latitude and season. Evaporation, precipitation, river inflow and sea ice melting influence surface salinity values. Although the lowest salinity values are just north of the equator (because of heavy tropical rainfall), in general, the lowest values are in the high latitudes and along coasts where large rivers enter. Maximum salinity values occur at about 25° north and south, in subtropical regions with low rainfall and high evaporation.
+
+<br> Source [enchantedlearning](https://en.wikipedia.org/wiki/Atlantic_Ocean#Water_characteristics)
+
 
 ---
 
