@@ -234,7 +234,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   
-
+- ### [Youtube Videos](#videos)
+  - [Earth 101 | National Geographic](#Earth101)
+  - [Mars 101 | National Geographic](#Mars101)
 
 ---
 
@@ -2667,3 +2669,18 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
+
+## <a name="videos"></a> **Youtube Videos**
+  ### <a name="Earth101"></a>**Earth 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=HCDVN7DCzYE
+" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
+alt="Earth Image" width="240" height="180"/></a>
+
+---
+
+ ### <a name="Mars101"></a>**Mars 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
+" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
+alt="Mars Image" width="240" height="180"/></a>
+
+---
