@@ -217,6 +217,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
   - [Nelson Mandela](#Mandela)
+  - [Martin Luther King](#Luther_King)
 
 
 ---
@@ -2516,7 +2517,18 @@ Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African
 
 source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
+---
 
+### <a name="Luther_King"></a>**Martin Luther King**
+
+<img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
+
+Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+
+---
 
 ## Credits
 
