@@ -218,6 +218,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mahatma Gandhi](#Gandhi)
   - [Nelson Mandela](#Mandela)
   - [Martin Luther King](#Luther_King)
+  - [Albert Einstein](#Einstein)
+  
 
 
 ---
@@ -2529,6 +2531,19 @@ Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 196
 source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ---
+
+### <a name="Einstein"></a>**Albert Einstein**
+
+<img width="300" height="300" src="media/personalities/Einstein.jpg">
+
+Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are together the two pillars of modern physics. His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed "the world's most famous equation".
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
+
+
+
+
 
 ## Credits
 
