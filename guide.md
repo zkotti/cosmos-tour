@@ -1058,7 +1058,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="denmark"></a>**Denmark**
 
-<img width="300" height="300" src="media/media/flags/dk.svg">
+<img width="300" height="300" src="media/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
 </br>
