@@ -68,6 +68,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [China](#china)
   - [Colombia](#colombia)
   - [Cyprus](#cyprus)
+  - [Denmark](#denmark)
   - [Egypt](#egypt)
   - [England](#england)
   - [France](#france)
@@ -994,6 +995,19 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Population:** 1,207,359 (2020)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+### <a name="denmark"></a>**Denmark**
+<img width="300" height="300" src="media/media/flags/dk.svg">
+
+**Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
+</br>
+**Official Language:** Danish
+</br>
+**Currency:** Danish kroner (DKK)
+</br>
+**Population:** 5,834,950 (2021)
 
 ---
 
