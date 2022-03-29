@@ -191,6 +191,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Midnight Sky](#movie_1)
   - [Gravity](#movie_2)
   - [Interstellar](#movie_3)
+  - [Europa Report](#movie_4)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -2214,6 +2215,10 @@ On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an ast
 ### <a name="movie_3"></a>**Interstellar (2014)**
 <img width="500" height="350" src="media/movies/interstellar.jpg">
 A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+
+### <a name="movie_4"></a>**Europa Report (2013)**
+<img width="500" height="350" src="media/movies/europa_report.jpg">
+An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
 ---
 
