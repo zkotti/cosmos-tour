@@ -58,6 +58,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Brunei](#brunei)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
+  - [Burundi](#burundi)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
   - [Chile](#chile)
@@ -847,6 +848,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 21,510,181 (2020)
+
+---
+
+### <a name="burundi"></a>**Burundi**
+
+<img width="300" height="300" src="media/flags/bi.svg">
+
+**Capital:** [Bujumbura](https://www.google.com/maps/search/Bujumbura)
+</br>
+**Official Language:** French, Kinyarwanda
+</br>
+**Currency:** Burundian franc (BIF)
+</br>
+**Population:** 12,847,976 (2020)
 
 ---
 
