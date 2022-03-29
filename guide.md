@@ -116,6 +116,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Dwarf Planets](#dwarfplanets)
 
+  - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
 
@@ -1691,6 +1692,27 @@ Video [Venus 101 | National Geographic](https://www.youtube.com/watch?v=BvXa1n9f
 ## <a name="dwarfplanets"></a> **_Dwarf Planets_**
 
 According to the International Astronomical Union, a dwarf planet is a celestial body that orbits the sun, has enough mass to assume a nearly round shape, has not cleared the neighborhood around its orbit and is not a moon.
+
+---
+
+### <a name="ceres"></a>**Ceres**
+
+<img width="600" height="300" src="media/planets/ceres.jpg">
+
+owned by [britannica.com](https://www.britannica.com/place/Ceres-dwarf-planet)
+
+<br>
+
+**Description**
+
+Ceres (/ˈsɪəriːz/;[17] minor-planet designation: 1 Ceres) is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. Originally considered a planet, it was reclassified as an asteroid in the 1850s after the discovery of dozens of other objects in similar orbits. In 2006, it was reclassified again as a dwarf planet – the only one always inside Neptune's orbit – because, at 940 km (580 mi) in diameter, it is the only asteroid large enough for its gravity to make it plastic and to maintain it as a spheroid.
+
+Ceres's small size means that even at its brightest it is too dim to be seen by the naked eye, except under extremely dark skies. Its apparent magnitude ranges from 6.7 to 9.3, peaking at opposition (when it is closest to Earth) once every 15- to 16-month synodic period. Its surface features are barely visible even with the most powerful telescopes, and little was known of them until the robotic NASA spacecraft Dawn approached Ceres for its orbital mission in 2015.
+
+Dawn found Ceres's surface to be a mixture of water ice and hydrated minerals such as carbonates and clay. Gravity data suggest Ceres to be partially differentiated into a muddy (ice-rock) mantle/core and a less-dense but stronger crust that is at most 30% ice by volume. Ceres's small size means that any internal ocean of liquid water it may once have possessed has likely frozen by now. It is not completely frozen, however: brines still flow through the outer mantle and reach the surface, allowing cryovolcanoes such as Ahuna Mons to form at the rate of about one every 50 million years. This makes Ceres the closest known cryovolcanic body to the Sun, and the brines provide a potential habitat for microbial life.
+
+In January 2014, emissions of water vapor were detected around Ceres, creating a tenuous, transient atmosphere known as an exosphere. This was unexpected because asteroids typically do not emit vapor, a hallmark of comets.
+Source [wikipedia](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
 
 ---
 
