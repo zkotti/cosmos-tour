@@ -2676,11 +2676,15 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 " target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
 alt="Earth Image" width="240" height="180"/></a>
 
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
 ---
 
  ### <a name="Mars101"></a>**Mars 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
 " target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
 alt="Mars Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
 
 ---
