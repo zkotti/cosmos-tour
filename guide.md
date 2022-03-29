@@ -50,6 +50,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Belgium](#belgium)
   - [Belize](#belize)
   - [Benin](#benin)
+  - [Bhutan](#bhutan)
   - [Brazil](#brazil)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
@@ -730,6 +731,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 11,977,976 (2020)
+
+---
+
+### <a name="bhutan"></a>**Bhutan**
+
+<img width="300" height="300" src="media/flags/bt.svg">
+
+**Capital:** [Thimphu](https://www.google.com/maps/search/Thimphu)
+</br>
+**Official Language:** Nepali
+</br>
+**Currency:** Bhutanese ngultrum (BTN)
+</br>
+**Population:** 7,547,937 (2020)
 
 ---
 
