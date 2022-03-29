@@ -1927,6 +1927,30 @@ As the youngest of the major oceans, the Indian Ocean has active spreading ridge
 
 ---
 
+## <a name="pacific_ocean"></a> **Pacific Ocean**
+
+<img width="500" height="350" src="media/oceans/pacific_ocean.webp">
+
+owned by [britannica.com](https://www.britannica.com/place/Pacific-Ocean)
+
+### **Description**
+
+Pacific Ocean, body of salt water extending from the 60° S parallel in the south to the Arctic in the north and lying between the continents of Asia and Australia on the west and North America and South America on the east.Of the three major oceans, the Pacific is by far the largest, occupying about one-third of the surface of the globe. Its area, excluding the South China Sea, encompasses about 62.5 million square miles (161.76 million square km). It has double the area and more than double the water volume of the Atlantic Ocean—the next largest division of the hydrosphere—and its area more than exceeds that of the whole land surface of the globe. The Pacific Ocean stretches from the Bering Strait to 60° S latitude through more than 120° of latitude, nearly 9,000 miles (about 14,500 km). Its greatest latitudinal extent measures some 12,000 miles (about 19,000 km) along latitude 5° N, between the coasts of Colombia in South America and the Malay Peninsula in Asia. The mean depth of the Pacific (excluding adjacent seas) is 14,040 feet (4,280 metres), and its greatest known depth is 36,201 feet (11,034 metres)—in the Mariana Trench—also the greatest depth found in any ocean.
+
+Though the peoples of Asia and Oceania have traveled the Pacific Ocean since prehistoric times, the eastern Pacific was first sighted by Europeans in the early 16th century when Spanish explorer Vasco Núñez de Balboa crossed the Isthmus of Panama in 1513 and discovered the great "Southern Sea" which he named Mar del Sur (in Spanish). The ocean's current name was coined by Portuguese explorer Ferdinand Magellan during the Spanish circumnavigation of the world in 1521, as he encountered favorable winds on reaching the ocean. He called it Mar Pacífico, which in both Portuguese and Spanish means 'peaceful sea'.
+
+The volume of the Pacific Ocean, representing about 50.1 percent of the world's oceanic water, has been estimated at some 714 million cubic kilometers (171 million cubic miles). Surface water temperatures in the Pacific can vary from −1.4 °C (29.5 °F), the freezing point of seawater, in the poleward areas to about 30 °C (86 °F) near the equator. Salinity also varies latitudinally, reaching a maximum of 37 parts per thousand in the southeastern area. The water near the equator, which can have a salinity as low as 34 parts per thousand, is less salty than that found in the mid-latitudes because of abundant equatorial precipitation throughout the year. The lowest counts of less than 32 parts per thousand are found in the far north as less evaporation of seawater takes place in these frigid areas. The motion of Pacific waters is generally clockwise in the Northern Hemisphere (the North Pacific gyre) and counter-clockwise in the Southern Hemisphere. The North Equatorial Current, driven westward along latitude 15°N by the trade winds, turns north near the Philippines to become the warm Japan or Kuroshio Current.
+
+The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.
+
+
+
+<br> Source [britannica](https://www.britannica.com/place/Pacific-Ocean)
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Pacific_Ocean)
+
+
+---
+
 ## <a name="extraterrestrial_life"></a> **_Extraterrestrial life_**
 
 **Description**
