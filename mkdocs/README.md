@@ -1,12 +1,9 @@
 # cosmos-tour-website
 
-The guide you know and love, now in static website format powered by the sheer awesomeness of [Mkdocs](https://www.mkdocs.org/).
-
-Building is not automated on push to save contributors from countless headaches caused by merge conflicts. Ideally this directory would be hosted on its own repo (with a [repository dispatch event action set up in this one](https://github.community/t/triggering-by-other-repository/16163) to facilitate autobuilds) <sup>but who's gonna do that for no extra credit?</sup>
+The guide you know and love, now in static website format powered by [Mkdocs](https://www.mkdocs.org/). [Access the web version](https://e-panourgia.github.io/cosmos-tour/) or build it yourself!
 
 ## Requirements
 
- - computer
  - Python >= 3.6
  - requirements.txt
 
@@ -16,4 +13,8 @@ Building is not automated on push to save contributors from countless headaches 
 mkdocs build
 ```
 
-okthxbai 
+## Contribute
+
+- Edit only the build configuration file (mkdocs.yml) - not the built website, otherwise your changes will be lost on the next build.
+- Add any new packages used to requirements.txt - and make sure that the minimum required Python version does not need to be updated as well.
+- Keep the [Mkdocs user guide](https://www.mkdocs.org/user-guide/) open in a browser tab - it's invaluable when working with Mkdocs!
