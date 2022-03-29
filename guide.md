@@ -29,6 +29,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Oceania](#oceania)
   - [South America](#south_america)
 
+- ### [Comets](#comets)
+
 - ### [Countries](#countries)
 
   - [Afghanistan](#afghanistan)
@@ -471,6 +473,20 @@ South America is bordered on the west by the Pacific Ocean and on the north and 
 South America has an area of 17,840,000 square kilometers (6,890,000 sq mi). Its population as of 2018 has been estimated at more than 423 million. South America ranks fourth in area (after Asia, Africa, and North America) and fifth in population (after Asia, Africa, Europe, and North America). Brazil is by far the most populous South American country, with more than half of the continent's population, followed by Colombia, Argentina, Venezuela and Peru. In recent decades, Brazil has also generated half of the continent's GDP and has become the continent's first regional power.
 
 Source [wiki](https://en.wikipedia.org/wiki/South_America)
+
+---
+
+## <a name="comets"></a> **Comets**
+
+<img width="500" height="350" src="media/comets/Deep_Impact_HRI.jpeg">
+
+owned by [wiki](#https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg)
+
+**Description**
+
+A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing. This produces a visible atmosphere and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. Comets have been observed and recorded since ancient times by many cultures and religions.
+
+Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
 ---
 
@@ -2004,15 +2020,20 @@ Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 ti
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
 
 ---
+## <a name="space_exploration"></a> **Space Exploration**
 
-## <a name="history"></a> **History**
+---
+
+### <a name="history"></a> **History**
 
 <img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg)
 
 **Description**
+
 "Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board." The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible
+
 <br> Source [wiki](https://en.wikipedia.org/wiki/Spaceflight)
 
 ---
