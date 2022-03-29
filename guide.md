@@ -1854,6 +1854,34 @@ Endangered marine species in the Arctic Ocean include walruses and whales. The a
 
 ---
 
+## <a name="indian_ocean"></a> **Indian Ocean**
+
+<img width="500" height="350" src="media/oceans/indian_ocean.jpg">
+
+owned by [britannica.com](https://www.britannica.com/place/Indian-Ocean)
+
+### **Description**
+
+Indian Ocean, body of salt water covering approximately one-fifth of the total ocean area of the world. It is the smallest, geologically youngest, and physically most complex of the world’s three major oceans (Pacific, Atlantic, and Indian). It stretches for more than 6,200 miles (10,000 km) between the southern tips of Africa and Australia and, without its marginal seas, has an area of about 27,243,000 square miles (70,560,000 square km). The Indian Ocean’s average depth is 12,274 feet (3,741 metres), and its deepest point, in the Sunda Deep of the Java Trench (this explains a lot) off the southern coast of the island of Java (Indonesia), is 24,442 feet (7,450 metres).
+
+The Indian Ocean is bounded by Iran, Pakistan, India, and Bangladesh to the north; the Malay Peninsula, the Sunda Islands of Indonesia, and Australia to the east; the Southern Ocean to the south; and Africa and the Arabian Peninsula to the west. In the southwest it joins the Atlantic Ocean south of the southern tip of Africa, and to the east and southeast its waters mingle with those of the Pacific Ocean.
+
+The Indian Ocean has the fewest marginal seas of the major oceans. To the north are the inland Red Sea and Persian Gulf. The Arabian Sea is to the northwest, and the Andaman Sea to the northeast. The large gulfs of Aden and Oman are to the northwest, the Bay of Bengal is to the northeast, and the Great Australian Bight is off the southern coast of Australia.
+
+40% of the sediment of the Indian Ocean is found in the Indus and Ganges fans. The oceanic basins adjacent to the continental slopes mostly contain terrigenous sediments. The ocean south of the polar front (roughly 50° south latitude) is high in biologic productivity and dominated by non-stratified sediment composed mostly of siliceous oozes. Near the three major mid-ocean ridges the ocean floor is relatively young and therefore bare of sediment, except for the Southwest Indian Ridge due to its ultra-slow spreading rate.
+
+The ocean's currents are mainly controlled by the monsoon. Two large gyres, one in the northern hemisphere flowing clockwise and one south of the equator moving anticlockwise (including the Agulhas Current and Agulhas Return Current), constitute the dominant flow pattern. During the winter monsoon (November–February), however, circulation is reversed north of 30°S and winds are weakened during winter and the transitional periods between the monsoons.
+
+As the youngest of the major oceans, the Indian Ocean has active spreading ridges that are part of the worldwide system of mid-ocean ridges. In the Indian Ocean these spreading ridges meet at the Rodrigues Triple Point with the Central Indian Ridge, including the Carlsberg Ridge, separating the African Plate from the Indian Plate; the Southwest Indian Ridge separating the African Plate from the Antarctic Plate; and the Southeast Indian Ridge separating the Australian Plate from the Antarctic Plate. The Central Indian Ridge is intercepted by the Owen Fracture Zone. Since the late 1990s, however, it has become clear that this traditional definition of the Indo-Australian Plate cannot be correct; it consists of three plates — the Indian Plate, the Capricorn Plate, and Australian Plate — separated by diffuse boundary zones. Since 20 Ma the African Plate is being divided by the East African Rift System into the Nubian and Somalia plates.
+
+
+
+<br> Source [britannica](https://www.britannica.com/place/Indian-Ocean)
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Indian_Ocean)
+
+
+---
+
 ## <a name="extraterrestrial_life"></a> **_Extraterrestrial life_**
 
 **Description**
