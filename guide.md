@@ -61,6 +61,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Burundi](#burundi)
   - [Cote d'Ivoire](#cote_d_ivoire)
   - [Cabo Verde](#cabo_verde)
+  - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
   - [Chile](#chile)
@@ -892,6 +893,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cape Verdean escudo (CVE)
 </br>
 **Population:** 5,928,976 (2020)
+
+---
+
+### <a name="cambodia"></a>**Cambodia**
+
+<img width="300" height="300" src="media/flags/kh.svg">
+
+**Capital:** [Phnom Penh](https://www.google.com/maps/search/Phnom+Penh)
+</br>
+**Official Language:** Khmer
+</br>
+**Currency:** Cambodian riel (KHR)
+</br>
+**Population:** 16,928,976 (2020)
 
 ---
 
