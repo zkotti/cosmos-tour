@@ -166,6 +166,11 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Midnight Sky](#movie_1)
   - [Gravity](#movie_2)
 
+  - ### [Cosmos Series](cosmos_series)
+  - [Cosmos: A Personal Voyage](#cosmos_1)
+  - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
+  - [Cosmos: Possible Worlds](#cosmos_3)
+
 
 ---
 
@@ -1901,6 +1906,59 @@ In the aftermath of a global catastrophe, a lone scientist in the Arctic races t
 ### <a name="movie_2"></a>**Gravity (2013)**
 <img width="500" height="350" src="media\movies\gravity.jpg">
 On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
+
+---
+
+## <a name="cosmos_series"></a> **Cosmos Series**
+
+**Description**
+
+Cosmos is a collection of three science documentary television series presented first by Carl Dagan and then by Neil deGrasse Tyson.
+
+### <a name="cosmos_1"></a>*Cosmos: A Personal Voyage (1980)**
+
+<img width="500" height="350" src="media\series\cosmos1.jpg">
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
+
+Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.
+
+Creators: Ann Druyan, Carl Sagan, Steven Soter
+
+Stars: Carl Sagan, Jaromír Hanzlík, Jonathan Fahn
+
+IMDb Rating: 9.3
+
+source [imdb](https://www.imdb.com/title/tt0081846/)
+
+### <a name="cosmos_2"></a>*Cosmos: A Spacetime Odyssey (2014)**
+
+<img width="500" height="350" src="media\series\cosmos2.jpg">
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
+
+An exploration of our discovery of the laws of nature and coordinates in space and time.
+
+Creators: Ann Druyan, Steven Soter
+
+Stars: Neil deGrasse, TysonChristopher, EmersonKeythe Farley
+
+IMDb Rating: 9.3
+
+source [imdb](https://www.imdb.com/title/tt2395695/)
+
+### <a name="cosmos_3"></a>*Cosmos: Possible Worlds (2020)**
+
+<img width="500" height="350" src="media\series\cosmos3.jpg">
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
+
+Following the wildly successful "Cosmos: A Spacetime Odyssey," Neil deGrasse Tyson returns as host to translate more revelations of science into a lavish transporting experience, taking audiences on a series of spiritual voyages of exploration. The show reveals previously uncharted realms, including lost worlds, worlds yet to come, and the worlds that humans may one day inhabit. Ann Druyan, original creative collaborator to Carl Sagan, whose iconic docuseries "Cosmos" provided inspiration for this series, serves as executive producer alongside Seth MacFarlane.
+
+Creators: Ann Druyan, Brannon Braga
+
+Stars: Neil deGrasse, Seth MacFarlane, Sasha Sagan
+
+IMDb Rating: 9.1
+
+source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
