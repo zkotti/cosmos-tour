@@ -1183,6 +1183,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="iran"></a>**Iran**
+
+<img width="300" height="300" src="media/flags/ir.svg">
+
+**Capital:** Tehran
+</br>
+**Official Language:** Persian
+</br>
+**Currency:** Iranian rial (IRR)
+</br>
+**Population:** 83,992,949 (2020)
+
+---
+
 ### <a name="ireland"></a>**Ireland**
 
 <img width="300" height="300" src="media/flags/ie.svg">
