@@ -481,7 +481,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 <img width="500" height="350" src="media/comets/Deep_Impact_HRI.jpeg">
 
-owned by [wiki](# https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg)
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg)
 
 **Description**
 
@@ -495,14 +495,14 @@ Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
 <img width="500" height="350" src="media/comets/oumuamua.jpg">
 
-owned by [nasa](# https://solarsystem.nasa.gov/internal_resources/3577)
+owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
 The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
-source [nasa] (# https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
 
 ---
 
@@ -2049,7 +2049,6 @@ owned by [wiki.com](https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_
 **Description**
 
 "Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board." The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible
-
 <br> Source [wiki](https://en.wikipedia.org/wiki/Spaceflight)
 
 ---
