@@ -1120,7 +1120,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <a name="finland"></a>**Finland**
 
-<img width="300" height="300" src="media/flags/gb-fi.svg">
+<img width="300" height="300" src="media/flags/fi.svg">
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
