@@ -71,6 +71,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Denmark](#denmark)
   - [Egypt](#egypt)
   - [England](#england)
+  - [Fiji](#fiji)
   - [France](#france)
   - [Germany](#germany)
   - [Ghana](#ghana)
@@ -1042,6 +1043,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 England is the biggest of the four countries that are part of the United Kingdom.
 
 ---
+
+###
+
+<a name="fiji"></a>**Fiji**
+
+<img width="300" height="300" src="media/flags/gb-fj.svg">
+
+**Capital:** [Suva](https://www.google.com/maps/search/Suva)
+</br>
+**Official Language:** English, Fijian, Hindi 
+</br>
+**Currency:** Fijian Dolar (FJD)
+</br>
+**Population:** 896.444 (2020)
 
 ### <a name="france"></a>**France**
 
