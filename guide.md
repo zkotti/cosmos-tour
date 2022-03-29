@@ -33,6 +33,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
   - [Oumuamua](#oumuamua)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
+  - [81P/Wild (Wild 2)](#81P_Wild)
 
 - ### [Countries](#countries)
 
@@ -532,6 +533,20 @@ owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/12
 Discovered Oct. 22, 1969 at Alma-Ata Observatory, Russia. Klim Ivanovic Churyumov found an image of this comet while examining a photographic plate of another comet (32P/Comas Solá) taken by Svetlana Ivanova Gerasimenko on 11 September 1969.Comet 67P/ Churyumov-Gerasimenko made history as the first comet to be orbited and landed upon by robots from Earth. The Rosetta spacecraft, carrying the Philae lander, rendezvoused with this comet in August 2014 and to escorted it on its journey to the inner solar system and back out again. Rosetta is a mission of the European Space Agency (ESA) for which NASA is providing key instruments and support.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/)
+
+---
+
+### <a name="81P_Wild"></a> **81P/Wild (Wild 2)**
+
+<img width="500" height="350" src="media/comets/81P_Wild.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/635_Wild_2_stereo_pair_03_12_04_732.jpg)
+
+**Description**
+<br>
+81P/Wild (Wild 2) (Wild is pronounced vilt) is a small comet with the shape of a flattened sphere and measures about 1.03 x 1.24 x 1.71 miles (1.65 x 2 x 2.75 kilometers). It takes Wild 2 nearly six and a half years (6.41) to orbit the Sun once. Wild 2 last reached perihelion (closest approach to the Sun) in 2016.Comet Wild 2 is known as a fresh periodic comet. Wild 2 orbits the Sun between Mars and Jupiter, but it did not always travel the course of its orbit here. Originally, this comet's orbit lay between that of Uranus and Jupiter. On 10 Sept. 10, 1974, gravitational interactions between this comet and the planet Jupiter pulled the comet's orbit into a new shape. Paul Wild discovered this comet during its first revolution of the Sun on the new orbit
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/81p-wild/in-depth/)
 
 ---
 
