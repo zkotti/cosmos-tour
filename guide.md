@@ -60,6 +60,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Burkina Faso](#burkinafaso)
   - [Burundi](#burundi)
   - [Cote d'Ivoire](#cote_d_ivoire)
+  - [Cabo Verde](#cabo_verde)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
   - [Chile](#chile)
@@ -877,6 +878,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 21,510,181 (2020)
+
+---
+
+### <a name="cabo_verde"></a>**Cabo Verde**
+
+<img width="300" height="300" src="media/flags/ci.svg">
+
+**Capital:** [Praia](https://www.google.com/maps/search/Praia)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** Cape Verdean escudo (CVE)
+</br>
+**Population:** 5,928,976 (2020)
 
 ---
 
