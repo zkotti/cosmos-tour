@@ -1197,6 +1197,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
+### <a name="iraq"></a>**Iraq**
+
+<img width="300" height="300" src="media/flags/iq.svg">
+
+**Capital:** Baghdad
+</br>
+**Official Language:** Arabic, Kurdish
+</br>
+**Currency:** Iraqi dinar (IQD)
+</br>
+**Population:** 40,222,493 (2020)
+
+---
+
 ### <a name="ireland"></a>**Ireland**
 
 <img width="300" height="300" src="media/flags/ie.svg">
