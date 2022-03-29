@@ -78,10 +78,15 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ghana](#ghana)
   - [Guatemala](#guatemala)
   - [Greece](#greece)
+  - [India](#india)
+  - [Indonesia](#indonesia)
+  - [Iran](#iran)
+  - [Iraq](#iraq)
   - [Ireland](#ireland)
   - [Israel](#israel)
   - [Italy](#italy)
   - [Japan](#japan)
+  - [Kenya](#kenya)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -1147,6 +1152,34 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+
+---
+
+### <a name="india"></a>**India**
+
+<img width="300" height="300" src="media/flags/in.svg">
+
+**Capital:** New Delhi
+</br>
+**Official Language:** Hindi, English
+</br>
+**Currency:** Indian rupee (INR)
+</br>
+**Population:** 1,380,004,385 (2020)
+
+---
+
+### <a name="indonesia"></a>**Indonesia**
+
+<img width="300" height="300" src="media/flags/id.svg">
+
+**Capital:** Jakarta
+</br>
+**Official Language:** Indonesian
+</br>
+**Currency:** Indonesian rupiah (IDR)
+</br>
+**Population:** 273,523,615 (2020)
 
 ---
 
