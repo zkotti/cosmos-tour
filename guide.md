@@ -30,6 +30,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [South America](#south_america)
 
 - ### [Comets](#comets)
+
   - [Oumuamua](#oumuamua)
 
 - ### [Countries](#countries)
@@ -159,7 +160,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [SpaceX](#spaceX)
   - [Blue Origin](#blue_origin)
 
-
 - ### [Stars](#stars)
 
   - [Sun](#sun)
@@ -173,7 +173,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Indian Ocean](#indian_ocean)
   - [Pacific Ocean](#pacific_ocean)
   - [Southern Ocean](#southern_ocean)
-
 
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
@@ -195,6 +194,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
 - ### [Memes](#memes)
+
   - [Meme 1.](#meme_1)
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
@@ -202,6 +202,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 5.](#meme_5)
 
 - ### [Cosmos Movies](#cosmos_movies)
+
   - [Midnight Sky](#movie_1)
   - [Gravity](#movie_2)
   - [Interstellar](#movie_3)
@@ -212,7 +213,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cosmos: A Personal Voyage](#cosmos_1)
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
-
 
 ---
 
@@ -263,9 +263,22 @@ Source [National Geographic](https://www.nationalgeographic.com/science/article/
 1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
 2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
 3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
+4. The Ancient Greeks believed that in the beginning, the world was in a state of nothingness which they called **Chaos**. Suddenly, from light, came **Gaia** (Mother Earth) and from her came **Uranus** (the sky) along with other old gods (called primordials) like **Pontus** (the primordial god of the oceans). Gaia and Uranus had 12 children, the Titans. The most important of the 12 children were **Kronos** and **Rhea**.
+
+Gaia gave birth to monsters called cyclops and monsters called Hecatoncheires (the hundred handed ones). Uranus, disgusted by the monsters, threw them in **Tartarus**. Gaia was angered by Uranus and wanted revenge on him. Gaia used her son Kronos, who chopped off Uranus' genitals. Kronos then threw Uranus into the ocean. From the blood of his genitals, came the goddess of love and beauty—**Aphrodite**.
+
+Kronos married his sister Rhea and gave birth to 6 children, who were called the gods. Kronos, who was afraid of a prophecy delivered to him which stated that one day his children would cut him up, swallowed each of his children the second they were born. Rhea did not like this, so she saved **Zeus** and gave Kronos a rock to eat instead. Zeus was raised by **Amaltheia**. In some versions of the story, Amaltheia was a nymph. In other versions she was a goat. Zeus grew up in a mountain cave in Crete. When he was old enough, he tricked Kronos into drinking a mixture of wine and mustard with the help of Metis. Metis later had a child with Zeus named **Athena**. Kronos vomited up the rest of the gods, who, being immortal, had been growing up completely undigested in Kronos' stomach. Zeus and other gods then had a big war with the Titans. Zeus won with the help of the hundred handed ones and the cyclops. After they won the war Zeus cut Kronos into pieces and threw them into Tartarus.
+
+Zeus was, from then on, the leader of the gods. Poseidon took over the oceans. Hades took over the Underworld. Zeus married his sister Hera and crowned her Queen of Olympus.
+4. The Ancient Greeks believed that in the beginning, the world was in a state of nothingness which they called **Chaos**. Suddenly, from light, came **Gaia** (Mother Earth) and from her came **Uranus** (the sky) along with other old gods (called primordials) like **Pontus** (the primordial god of the oceans). Gaia and Uranus had 12 children, the Titans. The most important of the 12 children were **Kronos** and **Rhea**.
+Gaia gave birth to monsters called cyclops and monsters called Hecatoncheires (the hundred handed ones). Uranus, disgusted by the monsters, threw them in **Tartarus**. Gaia was angered by Uranus and wanted revenge on him. Gaia used her son Kronos, who chopped off Uranus' genitals. Kronos then threw Uranus into the ocean. From the blood of his genitals, came the goddess of love and beauty—**Aphrodite**.
+
+Kronos married his sister Rhea and gave birth to 6 children, who were called the gods. Kronos, who was afraid of a prophecy delivered to him which stated that one day his children would cut him up, swallowed each of his children the second they were born. Rhea did not like this, so she saved **Zeus** and gave Kronos a rock to eat instead. Zeus was raised by **Amaltheia**. In some versions of the story, Amaltheia was a nymph. In other versions she was a goat. Zeus grew up in a mountain cave in Crete. When he was old enough, he tricked Kronos into drinking a mixture of wine and mustard with the help of Metis. Metis later had a child with Zeus named **Athena**. Kronos vomited up the rest of the gods, who, being immortal, had been growing up completely undigested in Kronos' stomach. Zeus and other gods then had a big war with the Titans. Zeus won with the help of the hundred handed ones and the cyclops. After they won the war Zeus cut Kronos into pieces and threw them into Tartarus.
+
+Zeus was, from then on, the leader of the gods. Poseidon took over the oceans. Hades took over the Underworld. Zeus married his sister Hera and crowned her Queen of Olympus.
 
 Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
-[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
+[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf),[The Greek creation myth](https://simple.wikipedia.org/wiki/Greek_mythology)
 
 ---
 
@@ -499,7 +512,7 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
-The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
+The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
@@ -1044,6 +1057,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 ---
 
 ### <a name="denmark"></a>**Denmark**
+
 <img width="300" height="300" src="media/media/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
@@ -1094,7 +1108,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
-**Official Language:** English, Fijian, Hindi 
+**Official Language:** English, Fijian, Hindi
 </br>
 **Currency:** Fijian Dolar (FJD)
 </br>
@@ -1110,7 +1124,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
-**Official Language:** Finnish, Swedish 
+**Official Language:** Finnish, Swedish
 </br>
 **Currency:** Euro (EUR)
 </br>
@@ -1820,7 +1834,7 @@ Ceres's small size means that even at its brightest it is too dim to be seen by 
 Dawn found Ceres's surface to be a mixture of water ice and hydrated minerals such as carbonates and clay. Gravity data suggest Ceres to be partially differentiated into a muddy (ice-rock) mantle/core and a less-dense but stronger crust that is at most 30% ice by volume. Ceres's small size means that any internal ocean of liquid water it may once have possessed has likely frozen by now. It is not completely frozen, however: brines still flow through the outer mantle and reach the surface, allowing cryovolcanoes such as Ahuna Mons to form at the rate of about one every 50 million years. This makes Ceres the closest known cryovolcanic body to the Sun, and the brines provide a potential habitat for microbial life.
 
 In January 2014, emissions of water vapor were detected around Ceres, creating a tenuous, transient atmosphere known as an exosphere. This was unexpected because asteroids typically do not emit vapor, a hallmark of comets.
-Source [wikipedia](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
+Source [wikipedia](<https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)>)
 
 ---
 
@@ -2036,6 +2050,7 @@ Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 ti
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
 
 ---
+
 ## <a name="space_exploration"></a> **Space Exploration**
 
 ---
@@ -2044,7 +2059,7 @@ Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 ti
 
 <img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg)
+owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
 **Description**
 
@@ -2133,12 +2148,11 @@ The area of the Atlantic without its dependent seas is approximately 31,568,000 
 
 The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between Europe and Africa to the east, and the Americas to the west. As one component of the interconnected World Ocean, it is connected in the north to the Arctic Ocean, to the Pacific Ocean in the southwest, the Indian Ocean in the southeast, and the Southern Ocean in the south (other definitions describe the Atlantic as extending southward to Antarctica).
 
-Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below −2 °C (28 °F) to over 30 °C (86 °F). 
+Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below −2 °C (28 °F) to over 30 °C (86 °F).
 
 The Coriolis effect circulates North Atlantic water in a clockwise direction, whereas South Atlantic water circulates counter-clockwise. On average, the Atlantic is the saltiest major ocean; surface water salinity in the open ocean ranges from 33 to 37 parts per thousand (3.3–3.7%) by mass and varies with latitude and season. Evaporation, precipitation, river inflow and sea ice melting influence surface salinity values. Although the lowest salinity values are just north of the equator (because of heavy tropical rainfall), in general, the lowest values are in the high latitudes and along coasts where large rivers enter. Maximum salinity values occur at about 25° north and south, in subtropical regions with low rainfall and high evaporation.
 
 <br> Source [britannica](https://www.britannica.com/place/Atlantic-Ocean)
-
 
 ---
 
@@ -2171,7 +2185,6 @@ Endangered marine species in the Arctic Ocean include walruses and whales. The a
 <br> Source [britannica](https://www.britannica.com/place/Arctic-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Arctic_Ocean)
 
-
 ---
 
 ## <a name="indian_ocean"></a> **Indian Ocean**
@@ -2194,11 +2207,8 @@ The ocean's currents are mainly controlled by the monsoon. Two large gyres, one 
 
 As the youngest of the major oceans, the Indian Ocean has active spreading ridges that are part of the worldwide system of mid-ocean ridges. In the Indian Ocean these spreading ridges meet at the Rodrigues Triple Point with the Central Indian Ridge, including the Carlsberg Ridge, separating the African Plate from the Indian Plate; the Southwest Indian Ridge separating the African Plate from the Antarctic Plate; and the Southeast Indian Ridge separating the Australian Plate from the Antarctic Plate. The Central Indian Ridge is intercepted by the Owen Fracture Zone. Since the late 1990s, however, it has become clear that this traditional definition of the Indo-Australian Plate cannot be correct; it consists of three plates — the Indian Plate, the Capricorn Plate, and Australian Plate — separated by diffuse boundary zones. Since 20 Ma the African Plate is being divided by the East African Rift System into the Nubian and Somalia plates.
 
-
-
 <br> Source [britannica](https://www.britannica.com/place/Indian-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Indian_Ocean)
-
 
 ---
 
@@ -2218,11 +2228,8 @@ The volume of the Pacific Ocean, representing about 50.1 percent of the world's 
 
 The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.
 
-
-
 <br> Source [britannica](https://www.britannica.com/place/Pacific-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Pacific_Ocean)
-
 
 ---
 
@@ -2244,12 +2251,8 @@ The Southern Ocean, geologically the youngest of the oceans, was formed when Ant
 
 With a northern limit at 60°S, the Southern Ocean differs from the other oceans in that its largest boundary, the northern boundary, does not abut a landmass (as it did with the first edition of Limits of Oceans and Seas). Instead, the northern limit is with the Atlantic, Indian and Pacific Oceans.
 
-
-
-
 <br> Source [britannica](https://www.britannica.com/place/Southern-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Southern_Ocean)
-
 
 ---
 
@@ -2263,13 +2266,13 @@ Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
 ### <a names="drake_equation"></a>**Drake equation.**
 
-Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy. 
+Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy.
 
 <img width="750" height="300" src="media/extraterrestrial_life/Drake_equation.jpg">
 
 owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
-When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
+When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R\*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
 
 Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https://earthsky.org/space/most-stars-have-planets-in-habitable-zone) , [keckobservatory](https://keckobservatory.org/one_in_five_stars_has_earth_sized_planet_in_habitable_zone)
 
@@ -2299,7 +2302,7 @@ Sources [wiki](https://en.wikipedia.org/wiki/Kardashev_scale) , [astrobites](htt
 
 The Fermi paradox is the conflict between the lack of clear, obvious evidence for extraterrestrial life and various high estimates for their existence. As a 2015 article put it, "If life is so easy, someone from somewhere must have come calling by now."
 
-The great Italian-born physicist Enrico Fermi once asked some colleagues he was having lunch with the question: “Where are they?”, referring to the absence of any signs of extraterrestrial intelligences. This absence puzzled him, and his question later became known as Fermi’s paradox. 
+The great Italian-born physicist Enrico Fermi once asked some colleagues he was having lunch with the question: “Where are they?”, referring to the absence of any signs of extraterrestrial intelligences. This absence puzzled him, and his question later became known as Fermi’s paradox.
 
 Maybe no civilization has managed to travel with speed greater than the speed of light. But even at speeds close to 10% of the speed of light a civilization could cross the entire Galaxy in the span of a million years. A number like that seems far too big, but it is actually just the 0.0077% of the age of the Galaxy. So there was plently of time for civilizations to colonize the entire Galaxy.
 
@@ -2417,22 +2420,27 @@ source [starlust](https://starlust.org/space-memes/)
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
+
 <img width="500" height="350" src="media\movies\midnightsky.jpg">
 In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
+
 <img width="500" height="350" src="media\movies\gravity.jpg">
 On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
+
 <img width="500" height="350" src="media/movies/interstellar.jpg">
 A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
+
 <img width="500" height="350" src="media/movies/europa_report.jpg">
 An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
+
 <img width="500" height="350" src="media/movies/apollo13.jpg">
 he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing and turns the mission into one of seeking scientific and mechanical solutions to get the three men home safely.
 
@@ -2444,7 +2452,7 @@ he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13
 
 Cosmos is a collection of three science documentary television series presented first by Carl Dagan and then by Neil deGrasse Tyson.
 
-### <a name="cosmos_1"></a>*Cosmos: A Personal Voyage (1980)**
+### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
 <img width="500" height="350" src="media\series\cosmos1.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
@@ -2459,7 +2467,7 @@ IMDb Rating: 9.3
 
 source [imdb](https://www.imdb.com/title/tt0081846/)
 
-### <a name="cosmos_2"></a>*Cosmos: A Spacetime Odyssey (2014)**
+### <a name="cosmos_2"></a>\*Cosmos: A Spacetime Odyssey (2014)\*\*
 
 <img width="500" height="350" src="media\series\cosmos2.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
@@ -2474,7 +2482,7 @@ IMDb Rating: 9.3
 
 source [imdb](https://www.imdb.com/title/tt2395695/)
 
-### <a name="cosmos_3"></a>*Cosmos: Possible Worlds (2020)**
+### <a name="cosmos_3"></a>\*Cosmos: Possible Worlds (2020)\*\*
 
 <img width="500" height="350" src="media\series\cosmos3.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
