@@ -87,6 +87,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Luxemburg](#luxemburg)
   - [Mexico](#mexico)
   - [Monaco](#monaco)
+  - [New Zealand](#new_zealand)
   - [Norway](#norway)
   - [Peru](#peru)
   - [Philippines](#philippines)
@@ -1271,6 +1272,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 38.350 (2020)
+
+---
+
+### <a name="new_zealand"></a>**New Zealand**
+
+<img width="300" height="300" src="media/flags/nz.svg">
+
+**Capital:** [Wellington](https://www.google.com/maps/search/Wellington)
+</br>
+**Official Language:** Te reo Māori, New Zealand Sign Language, English
+</br>
+**Currency:** New Zealand Dollar (NZD)
+</br>
+**Population:** 5,084,000 (2020)
 
 ---
 
