@@ -1777,6 +1777,38 @@ The Coriolis effect circulates North Atlantic water in a clockwise direction, wh
 
 ---
 
+## <a name="arctic_ocean"></a> **Arctic Ocean**
+
+<img width="500" height="350" src="media/oceans/arctic_ocean.gif">
+
+owned by [britannica.com](https://www.britannica.com/place/Arctic-Ocean)
+
+### **Description**
+
+According to Britannica, Arctic Ocean -smallest of the world’s oceans- centring approximately on the North Pole. The Arctic Ocean and its marginal seas—the Chukchi, East Siberian, Laptev, Kara, Barents, White, Greenland, and Beaufort and, according to some oceanographers, also the Bering and Norwegian—are the least-known basins and bodies of water in the world ocean as a result of their remoteness, hostile weather, and perennial or seasonal ice cover. This is changing, however, because the Arctic may exhibit a strong response to global change and may be capable of initiating dramatic climatic changes through alterations induced in the oceanic thermohaline circulation by its cold, southward-moving currents or through its effects on the global albedo resulting from changes in its total ice cover.
+
+Although the Arctic Ocean is by far the smallest of Earth’s oceans, having only a little more than one-sixth the area of the next largest, the Indian Ocean, its area of 5,440,000 square miles (14,090,000 square km) is five times larger than that of the largest sea, the Mediterranean. The deepest sounding obtained in Arctic waters is 18,050 feet (5,502 metres), but the average depth is only 3,240 feet (987 metres) (Britannica, 2022).
+
+The first surface crossing of the ocean was led by Wally Herbert in 1969, in a dog sled expedition from Alaska to Svalbard, with air support. The first nautical transit of the north pole was made in 1958 by the submarine USS Nautilus, and the first surface nautical transit occurred in 1977 by the icebreaker NS Arktika.
+
+Since 1937, Soviet and Russian manned drifting ice stations have extensively monitored the Arctic Ocean. Scientific settlements were established on the drift ice and carried thousands of kilometres by ice floes.
+
+In World War II, the European region of the Arctic Ocean was heavily contested: the Allied commitment to resupply the Soviet Union via its northern ports was opposed by German naval and air forces.
+
+Since 1954 commercial airlines have flown over the Arctic Ocean
+
+The crystalline basement rocks of mountains around the Arctic Ocean were recrystallized or formed during the Ellesmerian orogeny, the regional phase of the larger Caledonian orogeny in the Paleozoic Era. Regional subsidence in the Jurassic and Triassic periods led to significant sediment deposition, creating many of the reservoirs for current day oil and gas deposits. During the Cretaceous period, the Canadian Basin opened, and tectonic activity due to the assembly of Alaska caused hydrocarbons to migrate toward what is now Prudhoe Bay. At the same time, sediments shed off the rising Canadian Rockies built out the large Mackenzie Delta.
+
+Due to the pronounced seasonality of 2–6 months of midnight sun and polar night in the Arctic Ocean, the primary production of photosynthesizing organisms such as ice algae and phytoplankton is limited to the spring and summer months (March/April to September).[67] Important consumers of primary producers in the central Arctic Ocean and the adjacent shelf seas include zooplankton, especially copepods (Calanus finmarchicus, Calanus glacialis, and Calanus hyperboreus) and euphausiids, as well as ice-associated fauna (e.g., amphipods). These primary consumers form an important link between the primary producers and higher trophic levels. The composition of higher trophic levels in the Arctic Ocean varies with region (Atlantic side vs. Pacific side) and with the sea-ice cover. Secondary consumers in the Barents Sea, an Atlantic-influenced Arctic shelf sea, are mainly sub-Arctic species including herring, young cod, and capelin. In ice-covered regions of the central Arctic Ocean, polar cod is a central predator of primary consumers. The apex predators in the Arctic Ocean—marine mammals such as seals, whales, and polar bears—prey upon fish.
+
+Endangered marine species in the Arctic Ocean include walruses and whales. The area has a fragile ecosystem, and it is especially exposed to climate change, because it warms faster than the rest of the world. Lion's mane jellyfish are abundant in the waters of the Arctic, and the banded gunnel is the only species of gunnel that lives in the ocean.
+
+<br> Source [britannica](https://www.britannica.com/place/Arctic-Ocean)
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Arctic_Ocean)
+
+
+---
+
 ## <a name="extraterrestrial_life"></a> **_Extraterrestrial life_**
 
 **Description**
