@@ -49,6 +49,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Belarus](#belarus)
   - [Belgium](#belgium)
   - [Belize](#belize)
+  - [Benin](#benin)
   - [Brazil](#brazil)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
@@ -715,6 +716,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Belize dollar (BZD)
 </br>
 **Population:** 397,628 (2020)
+
+---
+
+### <a name="benin"></a>**Benin**
+
+<img width="300" height="300" src="media/flags/bj.svg">
+
+**Capital:** [Porto-Novo](https://www.google.com/maps/search/Porto-Novo)
+</br>
+**Official Language:** French
+</br>
+**Currency:** West African CFA franc (XOF)
+</br>
+**Population:** 11,977,976 (2020)
 
 ---
 
