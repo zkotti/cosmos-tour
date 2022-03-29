@@ -1981,6 +1981,33 @@ The climate patterns of the Northern and Southern Hemispheres generally mirror e
 
 ---
 
+## <a name="southern_ocean"></a> **Southern Ocean**
+
+<img width="500" height="350" src="media/oceans/southern_ocean.jpg">
+
+owned by [britannica.com](https://www.britannica.com/place/Southern-Ocean)
+
+### **Description**
+
+Southern Ocean, also called Antarctic Ocean, body of salt water covering approximately one-sixteenth of Earth’s total ocean area. The Southern Ocean is made up of the portions of the world ocean south of the Pacific, Atlantic, and Indian oceans and their tributary seas surrounding Antarctica below 60° S. It is unbroken by any other continental landmass. Its narrowest constriction is the Drake Passage, 600 miles (about 1,000 km) wide, between South America and the tip of the Antarctic Peninsula. In terms of area, only the Arctic Ocean is smaller.
+
+The maximum depth of the Southern Ocean, using the definition that it lies south of 60th parallel, was surveyed by the Five Deeps Expedition in early February 2019. The expedition's multibeam sonar team identified the deepest point at 60° 28' 46"S, 025° 32' 32"W, with a depth of 7,434 metres (24,390 ft). The expedition leader and chief submersible pilot Victor Vescovo, has proposed naming this deepest point in the Southern Ocean the "Factorian Deep", based on the name of the crewed submersible DSV Limiting Factor, in which he successfully visited the bottom for the first time on February 3, 2019.
+
+The Antarctic Treaty was signed on 1 December 1959 and came into force on 23 June 1961. Among other provisions, this treaty limits military activity in the Antarctic to the support of scientific research.
+
+The Southern Ocean, geologically the youngest of the oceans, was formed when Antarctica and South America moved apart, opening the Drake Passage, roughly 30 million years ago. The separation of the continents allowed the formation of the Antarctic Circumpolar Current.
+
+With a northern limit at 60°S, the Southern Ocean differs from the other oceans in that its largest boundary, the northern boundary, does not abut a landmass (as it did with the first edition of Limits of Oceans and Seas). Instead, the northern limit is with the Atlantic, Indian and Pacific Oceans.
+
+
+
+
+<br> Source [britannica](https://www.britannica.com/place/Southern-Ocean)
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Southern_Ocean)
+
+
+---
+
 ## <a name="extraterrestrial_life"></a> **_Extraterrestrial life_**
 
 **Description**
