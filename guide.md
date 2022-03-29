@@ -214,7 +214,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
 
-- ### [Admired Personalities](#cosmos_series)
+- ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
 
 
