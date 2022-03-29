@@ -1756,7 +1756,7 @@ The Earth's oceans are all connected to one another. Until the year 2000, there 
 
 ## <a name="atlantic_ocean"></a> **Atlantic Ocean**
 
-<img width="500" height="350" src="media/oceans/earths_ocean.jpg">
+<img width="500" height="350" src="media/oceans/atlantic_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Atlantic-Ocean)
 
@@ -1772,7 +1772,7 @@ Surface water temperatures, which vary with latitude, current systems, and seaso
 
 The Coriolis effect circulates North Atlantic water in a clockwise direction, whereas South Atlantic water circulates counter-clockwise. On average, the Atlantic is the saltiest major ocean; surface water salinity in the open ocean ranges from 33 to 37 parts per thousand (3.3–3.7%) by mass and varies with latitude and season. Evaporation, precipitation, river inflow and sea ice melting influence surface salinity values. Although the lowest salinity values are just north of the equator (because of heavy tropical rainfall), in general, the lowest values are in the high latitudes and along coasts where large rivers enter. Maximum salinity values occur at about 25° north and south, in subtropical regions with low rainfall and high evaporation.
 
-<br> Source [enchantedlearning](https://en.wikipedia.org/wiki/Atlantic_Ocean#Water_characteristics)
+<br> Source [britannica](https://www.britannica.com/place/Atlantic-Ocean)
 
 
 ---
