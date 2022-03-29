@@ -166,7 +166,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Midnight Sky](#movie_1)
   - [Gravity](#movie_2)
 
-  - ### [Cosmos Series](cosmos_series)
+- ### [Cosmos Series](cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
