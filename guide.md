@@ -216,6 +216,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
+  - [Margaret Hamilton](#Margaret_Hamilton)
 
 
 ---
@@ -2503,6 +2504,20 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
 
 source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
+
+---
+
+### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
+
+<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+
+Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+
+On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+
+source [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
 ---
 
