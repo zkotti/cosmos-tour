@@ -553,6 +553,8 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/8
 
 ## <a name="countries"></a> **_Countries_**
 
+Country flags are available [here](https://flagicons.lipis.dev/)
+
 ### <a name="afghanistan"></a>**Afghanistan**
 
 <img width="300" height="300" src="media/flags/af.svg">
@@ -2617,10 +2619,3 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
-
-
----
-
-## Credits
-
-Country flags are available [here](https://flagicons.lipis.dev/)
