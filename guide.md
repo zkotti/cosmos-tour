@@ -151,6 +151,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Natural Satellites](#natural_satellites)
 
   - [Moon](#moon)
+  - [Europa](#europa)
+  - [Io](#io)
+  - [Phobos](#phobos)
 
 - ### [Space Exploration](#space_exploration)
 
@@ -2096,11 +2099,42 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia), it is the largest natural satellite in the Solar System relative to the size of a major planet, the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term. It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.
 
 Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.
-<br>Source [wiki](https://en.wikipedia.org/wiki/Moon)
+
+Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 **Watch the video below**
 
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
+
+---
+
+### <a name="europa"></a>**Europa**
+
+<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+
+Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
+
+---
+
+### <a name="io"></a>**Io**
+
+<img width="500" height="350" src="media/natural_satellites/io.jpg">
+
+Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
+
+---
+
+### <a name="phobos"></a>**Phobos**
+
+<img width="500" height="350" src="media/natural_satellites/phobos.jpg">
+
+Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
 
 ---
 
