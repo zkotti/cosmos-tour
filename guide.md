@@ -216,6 +216,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
+  - [Margaret Hamilton](#Margaret_Hamilton)
   - [Nelson Mandela](#Mandela)
   - [Martin Luther King](#Luther_King)
 
@@ -2508,6 +2509,20 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 ---
 
+### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
+
+<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+
+Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+
+On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+
+source [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+
+---
+
 ### <a name="Mandela"></a>**Nelson Mandela**
 
 <img width="300" height="300" src="media/personalities/Mandela.jpg">
@@ -2524,7 +2539,6 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 <img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
 
 Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
-
 
 source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
