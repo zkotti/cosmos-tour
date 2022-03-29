@@ -1,0 +1,17 @@
+name: Website Pinger
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: PING - Dispatch initiating repository event
+        run: |
+          # send ping to website repo to build and deploy
+          curl -X POST https://api.github.com/repos/e-panourgia/e-panourgia.github.io/dispatches \
+          -H 'Accept: application/vnd.github.everest-preview+json' \
+          -u ${{ secrets.GITHUB_TOKEN }} \
+          --data '{"event_type": "ping", "client_payload": {}}'
