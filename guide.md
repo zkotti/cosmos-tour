@@ -2395,7 +2395,7 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ## <a name="frequent_questions"></a> **Frequent questions**
 
-### <a name="frequent_questions_stars"></a> **1. questions about stars**
+### <a name="frequent_questions_stars"></a> **1. Questions about Stars**
 
 - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
 - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
