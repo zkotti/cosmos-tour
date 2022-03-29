@@ -170,6 +170,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sun](#sun)
   - [Polaris](#polaris)
 
+- ### [Asteroids](#asteroids)
+
+  - [Overview](#overview_asteroids)
+  - [Ceres](#ceres_asteroid)
+  - [Pallas](#pallas)
+  - [Vesta](#vesta)
+
 - ### [Oceans](#oceans)
 
   - [Overview](#overview)
@@ -2179,6 +2186,89 @@ owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integ
 
 Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
+
+---
+
+## <a name="asteroids"></a>**Asteroids**
+
+---
+
+### <a name="Overview"></a>**Overview**
+<b>Asteroids</b> are small, rocky objects that orbit the Sun. Asteroids orbit the Sun like planets, butthey are much smaller than planets. There are lots of asteroids in our solar system. Most of them are located in the main asteroid belt – a region between the orbits of Mars and Jupiter.
+<br>
+Millions of asteroids exist: many are shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets. 
+
+Asteroids are somewhat arbitrarily differentiated from comets and meteoroids. In the case of comets, the difference is one of composition: while asteroids are mainly composed of mineral and rock, comets are primarily composed of dust and ice. Furthermore, asteroids formed closer to the sun, preventing the development of cometary ice. The difference between asteroids and meteoroids is mainly one of size: meteoroids have a diameter of one meter or less, whereas asteroids have a diameter of greater than one meter. Finally, meteoroids can be composed of either cometary or asteroidal materials.
+<br>
+Only one asteroid, Vesta, which has a relatively reflective surface, is normally visible to the naked eye, and this is only in very dark skies when it is favorably positioned. Rarely, small asteroids passing close to Earth may be visible to the naked eye for a short time.[6] As of March 2020, the Minor Planet Center had data on 930,000 minor planets in the inner and outer Solar System, of which about 545,000 had enough information to be given numbered designations.
+<br>
+The United Nations declared 30 June as International Asteroid Day to educate the public about asteroids. The date of International Asteroid Day commemorates the anniversary of the Tunguska asteroid impact over Siberia, Russian Federation, on 30 June 1908.
+<br>
+In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be hit [by a devastating asteroid], but we're not 100 percent sure when.". Also in 2018, physicist Stephen Hawking, in his final book Brief Answers to the Big Questions, considered an asteroid collision to be the biggest threat to the planet. In June 2018, the US National Science and Technology Council warned that America is unprepared for an asteroid impact event, and has developed and released the "National Near-Earth Object Preparedness Strategy Action Plan" to better prepare.According to expert testimony in the United States Congress in 2013, NASA would require at least five years of preparation before a mission to intercept an asteroid could be launched.
+<br><br>
+<img width="500" height="350" src="media\asteroids\asteroids.jpg">
+
+<br>Discovery timeline:
+<br>10 by 1849
+<br>1 Ceres, 1801
+<br>2 Pallas – 1802
+<br>3 Juno – 1804
+<br>4 Vesta – 1807
+<br>5 Astraea – 1845
+<br>6 Hebe – July 1847
+<br>7 Iris – August 1847
+<br>8 Flora – October 1847
+<br>9 Metis – 25 April 1848
+<br>10 Hygiea – 12 April 1849 
+<br>100 asteroids by 1868
+<br>1,000 by 1921
+<br>10,000 by 1989
+<br>100,000 by 2005
+<br>1,000,000 by 2020
+<br> Source [wiki](https://en.wikipedia.org/wiki/Asteroid)
+<br>
+<br>
+<b>Ceres, Pallas, and Vesta are the three largest asteroids. Even though they are much smaller than the planets (Ceres, the largest asteroid, has only 1% the mass of the Moon), they are still capable of causing changes in the orbits of Mars and the Earth.</b>
+
+---
+
+### <a name="ceres_asteroid"></a>**Ceres**
+<br>
+<img width="600" height="300" src="media/planets/ceres.jpg">
+<br>
+<b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. Originally considered a planet, it was reclassified as an asteroid in the 1850s after the discovery of dozens of other objects in similar orbits. In 2006, it was reclassified again as a dwarf planet – the only one always inside Neptune's orbit – because, at 940 km (580 mi) in diameter, it is the only asteroid large enough for its gravity to make it plastic and to maintain it as a spheroid.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
+
+---
+
+### <a name="pallas"></a>**Pallas**
+<br>
+<img width="600" height="300" src="media\asteroids\Pallas.jpg">
+<br>
+<b>Pallas</b> is the second asteroid to have been discovered, after Ceres. It is believed to have a mineral composition similar to carbonaceous chondrite meteorites, like Ceres, though significantly less hydrated than Ceres. It is the third-largest asteroid in the Solar System by both volume and mass, and is a likely remnant protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
+
+During the planetary formation era of the Solar System, objects grew in size through an accretion process to approximately the size of Pallas. Most of these protoplanets were incorporated into the growth of larger bodies, which became the planets, whereas others were ejected by the planets or destroyed in collisions with each other. Pallas, Vesta and Ceres appear to be the only intact bodies from this early stage of planetary formation to survive within the orbit of Neptune.
+
+When Pallas was discovered by the German astronomer Heinrich Wilhelm Matthäus Olbers on 28 March 1802, it was considered to be a planet, as were other asteroids in the early 19th century. The discovery of many more asteroids after 1845 eventually led to the separate listing of "minor" planets from "major" planets, and the realization in the 1950s that such small bodies did not form in the same way as (other) planets led to the gradual abandonment of the term "minor planet" in favor of "asteroid" (or, for larger bodies such as Pallas, "planetoid").
+
+With an orbital inclination of 34.8°, Pallas's orbit is unusually highly inclined to the plane of the asteroid belt, making Pallas relatively inaccessible to spacecraft, and its orbital eccentricity is nearly as large as that of Pluto.
+<br> Source [wiki](https://en.wikipedia.org/wiki/2_Pallas)
+
+---
+
+### <a name="vesta"></a>**Vesta**
+<br>
+<img width="600" height="300" src="media\asteroids\Vesta.jpg">
+<br>
+<b>Vesta</b> is one of the largest objects in the asteroid belt, with a mean diameter of 525 kilometres (326 mi).[10] It was discovered by the German astronomer Heinrich Wilhelm Matthias Olbers on 29 March 1807[8] and is named after Vesta, the virgin goddess of home and hearth from Roman mythology.
+
+Vesta is thought to be the second-largest asteroid, both by mass and by volume, after the dwarf planet Ceres, though in volume it overlaps with the uncertainty in the measurements of 2 Pallas. Measurements give it a nominal volume only slightly larger than that of Pallas (about 5% greater, which is the magnitude of the uncertainties in measurement), but it is 25% to 30% more massive. It constitutes an estimated 9% of the mass of the asteroid belt.Vesta is the only known remaining rocky protoplanet (with a differentiated interior) of the kind that formed the terrestrial planets. Numerous fragments of Vesta were ejected by collisions one and two billion years ago that left two enormous craters occupying much of Vesta's southern hemisphere. Debris from these events has fallen to Earth as howardite–eucrite–diogenite (HED) meteorites, which have been a rich source of information about Vesta.
+
+Vesta is the brightest asteroid visible from Earth. It is regularly as bright as magnitude 5.1, at which times it is faintly visible to the naked eye. Its maximum distance from the Sun is slightly greater than the minimum distance of Ceres from the Sun, though its orbit lies entirely within that of Ceres.
+
+NASA's Dawn spacecraft entered orbit around Vesta on 16 July 2011 for a one-year exploration and left the orbit of Vesta on 5 September 2012 en route to its final destination, Ceres. Researchers continue to examine data collected by Dawn for additional insights into the formation and history of Vesta.
+<br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
 
 ---
 
