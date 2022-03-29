@@ -32,6 +32,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Comets](#comets)
 
   - [Oumuamua](#oumuamua)
+  - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
 
 - ### [Countries](#countries)
 
@@ -518,6 +519,20 @@ The first known interstellar object to visit our solar system, was discovered Oc
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
+
+---
+
+### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
+
+<img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/1297_ESA_Rosetta_NavCam_20150131_Mosaic.jpg)
+
+**Description**
+<br>
+Discovered Oct. 22, 1969 at Alma-Ata Observatory, Russia. Klim Ivanovic Churyumov found an image of this comet while examining a photographic plate of another comet (32P/Comas Solá) taken by Svetlana Ivanova Gerasimenko on 11 September 1969.Comet 67P/ Churyumov-Gerasimenko made history as the first comet to be orbited and landed upon by robots from Earth. The Rosetta spacecraft, carrying the Philae lander, rendezvoused with this comet in August 2014 and to escorted it on its journey to the inner solar system and back out again. Rosetta is a mission of the European Space Agency (ESA) for which NASA is providing key instruments and support.
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/)
 
 ---
 
