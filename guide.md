@@ -193,6 +193,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
+  - [2. quetion about multiple universe](#frequent_questions_multiple_universe)]
 - ### [Memes](#memes)
 
   - [Meme 1.](#meme_1)
@@ -2385,6 +2386,7 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
 - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
+### <a name="frequent_questions_multiple_universe"></a> **2. Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
 ---
 
 ## <a name="memes"></a> **_Memes_**
