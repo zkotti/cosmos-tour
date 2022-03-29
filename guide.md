@@ -1160,7 +1160,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/in.svg">
 
-**Capital:**[New Delhi](https://www.google.com/maps/search/New%20Delhi)
+**Capital:** [New Delhi](https://www.google.com/maps/search/New%20Delhi)
 </br>
 **Official Language:** Hindi, English
 </br>
@@ -2005,7 +2005,7 @@ Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 ti
 
 ---
 
-## <a name="spaceflight"></a> **Spaceflight**
+## <a name="history"></a> **History**
 
 <img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
 
