@@ -16,7 +16,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Simulation Theory](#simulation_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
-  - [Flat-Earth Theory](#end_of_the_universe)
+  - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
 
 - ### [Continents](#continents)
