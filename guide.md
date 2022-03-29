@@ -245,6 +245,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
   - [Mars 101 | National Geographic](#Mars101)
+  - [Universe Size Comparison](#universe_size)
 
 ---
 
@@ -2788,5 +2789,13 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+
+ ### <a name="universe_size"></a>**Universe Size Comparison**
+  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg" 
+alt="Universe Image" width="240" height="180"/></a>
+
+Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
 
 ---
