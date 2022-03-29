@@ -53,6 +53,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Bhutan](#bhutan)
   - [Bolivia](#bolivia)
   - [Bosnia and Herzegovina](#bosnia)
+  - [Botswana](#botswana)
   - [Brazil](#brazil)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
@@ -775,6 +776,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bosnia and Herzegovina convertible mark (BAM)
 </br>
 **Population:** 3,928,976 (2020)
+
+---
+
+### <a name="botswana"></a>**Botswana**
+
+<img width="300" height="300" src="media/flags/bw.svg">
+
+**Capital:** [Gaborone](https://www.google.com/maps/search/Gaborone)
+</br>
+**Official Language:** English
+</br>
+**Currency:** Botswana pula (BWP)
+</br>
+**Population:** 2,931,976 (2020)
 
 ---
 
