@@ -26,6 +26,7 @@ Making Changes
 -  Make commits of logical units.
 -  Follow our `coding style`.
 -  Check again your code to assure nothing else was accidentally broken.
+-  If adding a new Markdown file, it may be worth checking out whether it should also appear on the [website version of the guide](https://e-panourgia.github.io/cosmos-tour/). If so, it should be included in the `nav` section of [mkdocs.yml](https://github.com/zkotti/cosmos-tour/blob/main/mkdocs/mkdocs.yml).
 
 Submitting Changes
 ------------------
