@@ -220,6 +220,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Nelson Mandela](#Mandela)
   - [Martin Luther King](#Luther_King)
   - [Albert Einstein](#Einstein)
+  - [Stephen Hawking](#Stephen_Hawking)
   
 
 
@@ -2555,9 +2556,18 @@ Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
+---
+
+### <a name="Stephen_Hawking"></a>**Stephen Hawking**
+
+<img width="300" height="300" src="media/personalities/Stephen_Hawking.jpg">
+
+Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 
-
+---
 
 ## Credits
 
