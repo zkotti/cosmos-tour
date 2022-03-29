@@ -1104,7 +1104,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <a name="fiji"></a>**Fiji**
 
-<img width="300" height="300" src="media/flags/gb-fj.svg">
+<img width="300" height="300" src="media/flags/fj.svg">
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
