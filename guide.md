@@ -51,6 +51,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Belize](#belize)
   - [Benin](#benin)
   - [Bhutan](#bhutan)
+  - [Bolivia](#bolivia)
   - [Brazil](#brazil)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
@@ -745,6 +746,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bhutanese ngultrum (BTN)
 </br>
 **Population:** 7,547,937 (2020)
+
+---
+
+### <a name="bolivia"></a>**Bolivia**
+
+<img width="300" height="300" src="media/flags/bo.svg">
+
+**Capital:** [Sucre](https://www.google.com/maps/search/Sucre)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Bolivian boliviano (BOB)
+</br>
+**Population:** 11,977,976 (2020)
 
 ---
 
