@@ -125,9 +125,15 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
   - [Moon](#moon)
 
-- ### [Spaceflight](#spaceflight)
+- ### [Space Exploration](#space_exploration)
 
-  -
+  - [History](#history)
+  - [Major Milestones](#major_milestones)
+  - [The Moon Race](#the_moon_race)
+  - [Modern Spaceflight](#modern_spaceflight)
+  - [NASA](#nasa)
+  - [SpaceX](#spaceX)
+  - [Blue Origin](#blue_origin)
 
 
 - ### [Stars](#stars)
@@ -136,6 +142,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Polaris](#polaris)
 
 - ### [Oceans](#oceans)
+
+  - [Atlantic Ocean](#atlantic_ocean)
+  - [Arctic Ocean](#arctic_ocean)
+  - [Indian Ocean](#indian_ocean)
+  - [Pacific Ocean](#pacific_ocean)
+  - [Southern Ocean](#southern_ocean)
+  
 
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
@@ -1541,7 +1554,7 @@ Water on most of these planets are likely to have evaporated early in the system
 
 ---
 
-### <a name="gliese667cc"></a>**Gliese 667 Cc **
+### <a name="gliese667cc"></a>**Gliese 667 Cc**
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
