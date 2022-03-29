@@ -233,6 +233,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Albert Einstein](#Einstein)
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
+  - [Alan Turing](#Alan_Turing)
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
@@ -2659,7 +2660,6 @@ Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was a
 
 source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
-
 ---
 
 ### <a name="Neil_Armstrong"></a>**Neil Armstrong**
@@ -2669,6 +2669,18 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
+
+---
+
+### <a name="Alan_Turing"></a>**Alan Turing**
+
+<img width="300" height="300" src="media/personalities/alan_turing.jpg">
+
+Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
 
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
