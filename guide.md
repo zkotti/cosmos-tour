@@ -2489,6 +2489,19 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
+## <a name="personalities"></a> **Admired Personalities**
+
+### <a name="Gandhi"></a>**Mahatma Gandhi**
+
+<img width="300" height="300" src="media/personalities/Gandhi.jpg">
+
+
+Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
+
+source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
+
+---
+
 ## Credits
 
 Country flags are available [here](https://flagicons.lipis.dev/)
