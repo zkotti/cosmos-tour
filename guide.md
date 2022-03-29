@@ -2521,7 +2521,7 @@ Hamilton has published more than 130 papers, proceedings, and reports, about six
 
 On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
 
-source [Margaret Hamilton (software engineer)](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
 ---
 
