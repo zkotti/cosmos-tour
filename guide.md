@@ -55,6 +55,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Bosnia and Herzegovina](#bosnia)
   - [Botswana](#botswana)
   - [Brazil](#brazil)
+  - [Brunei](#brunei)
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
   - [Cameroon](#cameroon)
@@ -804,6 +805,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
+
+---
+
+### <a name="brunei"></a>**Brunei**
+
+<img width="300" height="300" src="media/flags/bn.svg">
+
+**Capital:** [Bandar Seri Begawan](https://www.google.com/maps/search/Bandar+Seri+Begawan)
+</br>
+**Official Language:** Malay
+</br>
+**Currency:** Brunei dollar (BND)
+</br>
+**Population:** 4,928,976 (2020)
 
 ---
 
