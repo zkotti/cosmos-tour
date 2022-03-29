@@ -16,7 +16,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Simulation Theory](#simulation_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
-  - [Flat-Earth Theory](#end_of_the_universe)
+  - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
 
 - ### [Continents](#continents)
@@ -32,6 +32,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Comets](#comets)
 
   - [Oumuamua](#oumuamua)
+  - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
+  - [81P/Wild (Wild 2)](#81P_Wild)
 
 - ### [Countries](#countries)
 
@@ -193,6 +195,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
+  - [2. quetion about multiple universe](#frequent_questions_multiple_universe)]
 - ### [Memes](#memes)
 
   - [Meme 1.](#meme_1)
@@ -221,6 +224,17 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cosmos: A Personal Voyage](#cosmos_1)
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
+
+- ### [Admired Personalities](#personalities)
+  - [Mahatma Gandhi](#Gandhi)
+  - [Margaret Hamilton](#Margaret_Hamilton)
+  - [Nelson Mandela](#Mandela)
+  - [Martin Luther King](#Luther_King)
+  - [Albert Einstein](#Einstein)
+  - [Stephen Hawking](#Stephen_Hawking)
+  - [Neil Armstrong](#Neil_Armstrong)
+  
+
 
 ---
 
@@ -517,7 +531,37 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/o
 
 ---
 
+### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
+
+<img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/1297_ESA_Rosetta_NavCam_20150131_Mosaic.jpg)
+
+**Description**
+<br>
+Discovered Oct. 22, 1969 at Alma-Ata Observatory, Russia. Klim Ivanovic Churyumov found an image of this comet while examining a photographic plate of another comet (32P/Comas Solá) taken by Svetlana Ivanova Gerasimenko on 11 September 1969.Comet 67P/ Churyumov-Gerasimenko made history as the first comet to be orbited and landed upon by robots from Earth. The Rosetta spacecraft, carrying the Philae lander, rendezvoused with this comet in August 2014 and to escorted it on its journey to the inner solar system and back out again. Rosetta is a mission of the European Space Agency (ESA) for which NASA is providing key instruments and support.
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/)
+
+---
+
+### <a name="81P_Wild"></a> **81P/Wild (Wild 2)**
+
+<img width="500" height="350" src="media/comets/81P_Wild.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/635_Wild_2_stereo_pair_03_12_04_732.jpg)
+
+**Description**
+<br>
+81P/Wild (Wild 2) (Wild is pronounced vilt) is a small comet with the shape of a flattened sphere and measures about 1.03 x 1.24 x 1.71 miles (1.65 x 2 x 2.75 kilometers). It takes Wild 2 nearly six and a half years (6.41) to orbit the Sun once. Wild 2 last reached perihelion (closest approach to the Sun) in 2016.Comet Wild 2 is known as a fresh periodic comet. Wild 2 orbits the Sun between Mars and Jupiter, but it did not always travel the course of its orbit here. Originally, this comet's orbit lay between that of Uranus and Jupiter. On 10 Sept. 10, 1974, gravitational interactions between this comet and the planet Jupiter pulled the comet's orbit into a new shape. Paul Wild discovered this comet during its first revolution of the Sun on the new orbit
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/81p-wild/in-depth/)
+
+---
+
 ## <a name="countries"></a> **_Countries_**
+
+Country flags are available [here](https://flagicons.lipis.dev/)
 
 ### <a name="afghanistan"></a>**Afghanistan**
 
@@ -1056,7 +1100,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="denmark"></a>**Denmark**
 
-<img width="300" height="300" src="media/media/flags/dk.svg">
+<img width="300" height="300" src="media/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
 </br>
@@ -1102,7 +1146,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <a name="fiji"></a>**Fiji**
 
-<img width="300" height="300" src="media/flags/gb-fj.svg">
+<img width="300" height="300" src="media/flags/fj.svg">
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
@@ -1118,7 +1162,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <a name="finland"></a>**Finland**
 
-<img width="300" height="300" src="media/flags/gb-fi.svg">
+<img width="300" height="300" src="media/flags/fi.svg">
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
@@ -2376,12 +2420,13 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ## <a name="frequent_questions"></a> **Frequent questions**
 
-### <a name="frequent_questions_stars"></a> **1. questions about stars**
+### <a name="frequent_questions_stars"></a> **1. Questions about Stars**
 
 - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
 - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
 - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
+### <a name="frequent_questions_multiple_universe"></a> **2. Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
 ---
 
 ## <a name="memes"></a> **_Memes_**
@@ -2393,17 +2438,25 @@ These are some excamples of what they offer to their users.
 
 <img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
 
+<br>
+
 ### <a name="meme_2"></a>**Meme 2.**
 
 <img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
+
+<br>
 
 ### <a name="meme_3"></a>**Meme 3.**
 
 <img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
+<br>
+
 ### <a name="meme_4"></a>**Meme 4.**
 
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
+
+<br>
 
 ### <a name="meme_5"></a>**Meme 5.**
 
@@ -2537,6 +2590,80 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
-## Credits
+## <a name="personalities"></a> **_Admired Personalities_**
 
-Country flags are available [here](https://flagicons.lipis.dev/)
+### <a name="Gandhi"></a>**Mahatma Gandhi**
+
+<img width="300" height="300" src="media/personalities/Gandhi.jpg">
+
+
+Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
+
+source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
+
+---
+
+### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
+
+<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+
+Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+
+On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+
+---
+
+### <a name="Mandela"></a>**Nelson Mandela**
+
+<img width="300" height="300" src="media/personalities/Mandela.jpg">
+
+Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997. 
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
+
+---
+
+### <a name="Luther_King"></a>**Martin Luther King**
+
+<img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
+
+Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+
+---
+
+### <a name="Einstein"></a>**Albert Einstein**
+
+<img width="300" height="300" src="media/personalities/Einstein.jpg">
+
+Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are together the two pillars of modern physics. His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed "the world's most famous equation".
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
+
+---
+
+### <a name="Stephen_Hawking"></a>**Stephen Hawking**
+
+<img width="300" height="300" src="media/personalities/Stephen_Hawking.jpg">
+
+Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
+
+
+---
+
+### <a name="Neil_Armstrong"></a>**Neil Armstrong**
+
+<img width="300" height="300" src="media/personalities/Neil_Armstrong.jpg">
+
+Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
