@@ -115,6 +115,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [United States](#usa)
   - [Uruguay](#uruguay)
   - [Venezuela](#venezuela)
+  - [Vietnam](#vietnam)
 
 - ### [Planets](#planets)
 
@@ -1823,6 +1824,20 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Bolívar digital (VED)
 </br>
 **Population:** 28,436,000 (2020)
+
+---
+
+### <a name="vietnam"></a>**Vietnam**
+
+<img width="300" height="300" src="media/flags/vt.svg">
+
+**Capital:** [Hanoi](https://www.google.com/maps/search/Hanoi+Vietnam)
+</br>
+**Official Language:** Vietnamese
+</br>
+**Currency:** đồng (₫) (VND)
+</br>
+**Population:** 97,339,000 (2020)
 
 ---
 
