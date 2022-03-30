@@ -255,6 +255,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mars 101 | National Geographic](#Mars101)
   - [Universe Size Comparison](#universe_size)
 
+- ### [Astrophotography](#astrophotography)
+  - [Pillars Of Creation](#pillars_of_creation)
+  - [Hubble eXtreme Deep Field](#hxdf)
+  - [The Blue Marble](#the_blue_marble)
+  - [Pale Blue Dot](#pale_blue_dot)
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -3057,5 +3063,57 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 alt="Universe Image" width="240" height="180"/></a>
 
 Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
+
+---
+
+## <a name="astrophotography"></a> **Astrophotography**
+
+### <a name="pillars_of_creation"></a> **Pillars of Creation**
+![Pillars of Creation image](media/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
+
+**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his sermon "The Condescension of Christ"
+
+The photo was taken on April 1, 1995 and it was named as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph were were Jeff Hester and Paul Scowen. The region was rephotographed by ESA's Herschel Space Observatory in 2011, and again by Hubble in 2014 with a newer camera. The photo depicted above is the 2014 version of the photograph. 
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
+
+---
+
+### <a name="hxdf"></a> **Hubble eXtreme Deep Field**
+![Hubble eXtreme Deep Field image](media/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
+ 
+>The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
+
+**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total of two million seconds (about 23 days) of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
+
+**The HXDF** contains about 5,500 galaxies, the oldest of which are seen as they were 13.2 billion years ago. The faintest galaxies are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remnants of galaxies after major collisions during their elderly years. Many of the smaller galaxies in the image are very young galaxies that eventually developed into major galaxies, similar to the Milky Way and other galaxies in our galactic neighborhood.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
+
+---
+
+### <a name="the_blue_marble"></a> **The Blue Marble**
+![The Blue Marble image](media/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
+
+**The Blue Marble** is an image of Earth taken on December 7, 1972, from a distance of about 29,000 kilometers (18,000 miles) from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
+
+It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is clearly visible. The Asian mainland is on the horizon.The picture was curated by chromatic editing and cropping due to the height of geostationary satellites being insufficient.
+
+The photograph, taken on **December 7, 1972**, is one of the most widely distributed photographic images in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the slightly gibbous Earth had the appearance and size of a glass marble, hence the name.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
+
+---
+
+### <a name="pale_blue_dot"></a> **Pale Blue Dot**
+![Pale Blue Dot image](media/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
+
+**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a record distance of about 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System
+
+In the photograph, Earth's apparent size is less than a pixel. The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera.
+
+Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
 ---
