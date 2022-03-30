@@ -18,6 +18,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [The Cosmic Table](#the_cosmic_table)
   - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
+  - [Five Weird Things That Happen in Outer Space](#weird_things)
 
 - ### [Continents](#continents)
 
@@ -420,6 +421,19 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 ---
 
+
+### <a name="weird_things"></a>**Five Weird Things That Happen in Outer Space**
+
+Space is weird. But just how weird might suprize you. Specifically, universe  is dominated by invisible electromagnetic forces that we typically don’t feel. In addition, it is full of bizarre types of matter that we never experience on Earth. Here’s five unearthly things that happen almost exclusively in outer space :
+1. **Plasma**
+2. **Extreme Temperatures**
+3. **Cosmic Alchemy**
+4. **Magnetic Explosions**
+5. **Supersonic Shocks**
+
+If you want to learn more information about the weird things happen in outer space you can visit the origin source  : [nasa](https://www.nasa.gov/feature/goddard/2021/five-weird-things-that-happen-in-outer-space)
+
+---
 ## <a name="continents_map"></a>**_Continents_**
 
 <img src="media\continents\world-continent-map.jpg">
