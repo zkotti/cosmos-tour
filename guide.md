@@ -156,6 +156,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Natural Satellites](#natural_satellites)
 
+  - [Overview](#satellies_overview)
   - [Moon](#moon)
   - [Europa](#europa)
   - [Io](#io)
@@ -2331,6 +2332,34 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 ---
 
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
+
+---
+
+### <a name="satellies_overview"></a>**Overview**
+
+<img width="500" height="350" src="media\natural_satellites\Moons_of_solar_system_v7.jpg">
+
+A natural satellite is, in the most common usage, an astronomical body that orbits a planet, dwarf planet, or small Solar System body (or sometimes another natural satellite). Natural satellites are often colloquially referred to as moons, a derivation from the Moon of Earth.
+
+There are 171 moons, or natural satellites, orbiting the planets in our solar system; Earth, Mars, Jupiter, Saturn, Uranus, and Neptune have 1, 2, 66, 62, 27, and 13 moons, respectively. 
+
+What are natural satellites used for?
+
+A natural satellite in astronomy is a smaller body which moves around a larger body. The smaller body is held in orbit by gravitation. The term is used for moons which go around planets, and it is also used for small galaxies which orbit larger galaxies.
+
+Source [wiki](https://en.wikipedia.org/wiki/Natural_satellite)
+<br>Source [List of moons](https://www.britannica.com/topic/list-of-moons-2033266)
+
+
+---
+
+### <a name="europa"></a>**Europa**
+
+<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+
+Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 ---
 
