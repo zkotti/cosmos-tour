@@ -114,6 +114,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [United Arab Emirates](#uae)
   - [United States](#usa)
   - [Uruguay](#uruguay)
+  - [Venezuela](#venezuela)
 
 - ### [Planets](#planets)
 
@@ -1808,6 +1809,20 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+
+---
+
+### <a name="venezuela"></a>**Venezuela**
+
+<img width="300" height="300" src="media/flags/vz.svg">
+
+**Capital:** [Caracas](https://www.google.com/maps/search/Caracas)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Bolívar digital (VED)
+</br>
+**Population:** 28,436,000 (2020)
 
 ---
 
