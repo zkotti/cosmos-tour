@@ -19,6 +19,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
   - [Five Weird Things That Happen in Outer Space](#weird_things)
+  - [Career in Space](#jobs)
 
 - ### [Continents](#continents)
 
@@ -432,6 +433,25 @@ Space is weird. But just how weird might suprize you. Specifically, universe  is
 5. **Supersonic Shocks**
 
 If you want to learn more information about the weird things happen in outer space you can visit the origin source  : [nasa](https://www.nasa.gov/feature/goddard/2021/five-weird-things-that-happen-in-outer-space)
+
+---
+
+
+### <a name="jobs"></a>**Career in Space**
+
+Let's see nine careers options if universe is your broad area of interest.
+
+1. **Astronomy**
+2. **Astronauts**
+3. **Space Technology**
+4. **Engineering**
+5. **Space Research/Academics**
+6. **Space Law**
+7. **Space Tourism**
+8. **Space Architecture**
+9. **Space Medicine/Psychology**
+
+If you want to read more information about careers in space you can visit the origin source : [jobs](https://www.indiatoday.in/education-today/jobs-and-careers/story/career-in-space-9-career-options-to-choose-if-space-is-your-broad-area-of-interest-1792259-2021-04-18)
 
 ---
 ## <a name="continents_map"></a>**_Continents_**
