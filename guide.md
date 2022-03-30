@@ -169,7 +169,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Blue Origin](#blue_origin)
 
 - ### [Stars](#stars)
-
+  - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
 
@@ -2368,6 +2368,19 @@ As the many benefits of space activity have become evident, other countries have
 ---
 
 ## <a name="stars"></a> **_Stars_**
+
+---
+
+### <a name="betelgeuse"></a>**Betelgeuse**
+
+<img width="358" height="550" src="media/stars/Betelgeuse.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
+
+**Description**
+
+Betelgeuse belongs in the constellation of Orion and is one of the largest stars that can be seen with the naked eye. It also considered that it is a single isolated runaway star and that it is usually in the top 10 brightest stars in the sky. Additionally, Betelgeuse is the first extrasolar star that its photosphere's angular size was measured (0.042 to 0.056 arcseconds)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Betelgeuse)
 
 ---
 
