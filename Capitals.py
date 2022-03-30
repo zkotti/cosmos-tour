@@ -3,8 +3,11 @@ new_lines = ""
 for line in all_lines:
     if "**Capital:**" in line:
         sp = line.strip().split(" ", 1)
-        new_lines += sp[0] + " [" + sp[1] + "]" \
-                     + "(" + "https://www.google.com/maps/search/" + sp[1].replace(" ", "%20") + ")" + "\n"
+        if "http" in sp[1]:
+            new_lines += line
+        else:
+            new_lines += sp[0] + " [" + sp[1] + "]" \
+                         + "(" + "https://www.google.com/maps/search/" + sp[1].replace(" ", "%20") + ")" + "\n"
     else:
         new_lines += line
 
