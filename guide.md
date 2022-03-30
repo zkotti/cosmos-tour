@@ -214,6 +214,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
   - [Meme 5.](#meme_5)
+  - [Meme 6.](#meme_6)
 
 - ### [Cosmos Books](#cosmos_books)
 
@@ -245,7 +246,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
-  
+
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
   - [Mars 101 | National Geographic](#Mars101)
@@ -2149,7 +2150,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 <img width="500" height="350" src="media/natural_satellites/europa.jpg">
 
-Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
+Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter).
 
 Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
@@ -2159,7 +2160,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 <img width="500" height="350" src="media/natural_satellites/io.jpg">
 
-Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
+Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers.
 
 Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
 
@@ -2169,7 +2170,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
 
 <img width="500" height="350" src="media/natural_satellites/phobos.jpg">
 
-Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
+Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic.
 
 Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
 
@@ -2234,7 +2235,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 ### <a name="Overview"></a>**Overview**
 <b>Asteroids</b> are small, rocky objects that orbit the Sun. Asteroids orbit the Sun like planets, butthey are much smaller than planets. There are lots of asteroids in our solar system. Most of them are located in the main asteroid belt – a region between the orbits of Mars and Jupiter.
 <br>
-Millions of asteroids exist: many are shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets. 
+Millions of asteroids exist: many are shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets.
 
 Asteroids are somewhat arbitrarily differentiated from comets and meteoroids. In the case of comets, the difference is one of composition: while asteroids are mainly composed of mineral and rock, comets are primarily composed of dust and ice. Furthermore, asteroids formed closer to the sun, preventing the development of cometary ice. The difference between asteroids and meteoroids is mainly one of size: meteoroids have a diameter of one meter or less, whereas asteroids have a diameter of greater than one meter. Finally, meteoroids can be composed of either cometary or asteroidal materials.
 <br>
@@ -2257,7 +2258,7 @@ In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be 
 <br>7 Iris – August 1847
 <br>8 Flora – October 1847
 <br>9 Metis – 25 April 1848
-<br>10 Hygiea – 12 April 1849 
+<br>10 Hygiea – 12 April 1849
 <br>100 asteroids by 1868
 <br>1,000 by 1921
 <br>10,000 by 1989
@@ -2620,10 +2621,15 @@ These are some excamples of what they offer to their users.
 ### <a name="meme_4"></a>**Meme 4.**
 
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
-
 <br>
 
 ### <a name="meme_5"></a>**Meme 5.**
+
+<img width="350" height="350" src="media\memes\new_telescope_meme.jpg">
+
+<br>
+
+### <a name="meme_6"></a>**Meme 6.**
 
 <img width="350" height="350" src="media\memes\infinite_things.jpg">
 
@@ -2638,36 +2644,36 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 ### <a name="book_1"></a>**A Brief History of Time**
 
 <img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
-<br>Author: Stephen Hawking, 
+<br>Author: Stephen Hawking,
 Publisher: Bantam (1988)
 <br>
 
 ### <a name="book_2"></a>**The Human Cosmos: A Secret History of the Stars**
 
 <img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
-<br>Author: Jo Marchant, 
+<br>Author: Jo Marchant,
 Publisher: Canongate Books (2020)
 <br>
 
 ### <a name="book_3"></a>**Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky)**
 
 <img width="500" height="350" src="media\books\Constellations.webp">
-<br>Author: Govert Schilling, 
-Cartographer: Wil Tirion, 
+<br>Author: Govert Schilling,
+Cartographer: Wil Tirion,
 Publisher: Black Dog & Leventhal (2019)
 <br>
 
 ### <a name="book_4"></a>**Cosmos**
 
 <img width="500" height="350" src="media\books\Cosmos.webp">
-<br>Author: Carl Sagan, 
+<br>Author: Carl Sagan,
 Publisher: Random House (1980)
 <br>
 
 ### <a name="book_5"></a>**Missions To Mars**
 
 <img width="500" height="350" src="media\books\Missions_To_Mars.webp">
-<br>Author: Larry S. Crumpler, 
+<br>Author: Larry S. Crumpler,
 Publisher: Harper Design (2021)
 <br>
 
@@ -2772,11 +2778,11 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 <img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
 
-Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts.
 
 Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
 
-On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
@@ -2786,7 +2792,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 
 <img width="300" height="300" src="media/personalities/Mandela.jpg">
 
-Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997. 
+Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997.
 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
@@ -2797,7 +2803,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 <img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
 
-Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
+Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
@@ -2838,7 +2844,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 <img width="300" height="300" src="media/personalities/alan_turing.jpg">
 
-Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. 
+Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
@@ -2847,7 +2853,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=HCDVN7DCzYE
-" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
+" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg"
 alt="Earth Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -2856,7 +2862,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 
  ### <a name="Mars101"></a>**Mars 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
-" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
+" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg"
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -2864,7 +2870,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 ---
 
  ### <a name="universe_size"></a>**Universe Size Comparison**
-  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg" 
+  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg"
 alt="Universe Image" width="240" height="180"/></a>
 
 Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
