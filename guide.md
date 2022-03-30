@@ -174,6 +174,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
+  - [Most interesting stars](#interestingstars)
 
 - ### [Asteroids](#asteroids)
 
@@ -2446,6 +2447,65 @@ owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integ
 
 Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
+
+---
+
+### <a name="interestingstars"></a>**Most interesting stars**
+
+---
+
+**The Star That Likes To Take A Break Every Once In A While!**
+
+<br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
+This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
+
+<br>So what's interesting about this star? Well, this star likes to disappears every once in a while!
+It was discovered in December 2008 and at first was thought to be just a regular pulsar. Over the next 1 year scientists studied this star and right before when they were about to conclude the observations, this star disappeared! The group of scientists at first thought that there's some problem with their equipment but after several tests it was concluded that the pulsar was no longer there. The star turned off!
+
+<br>We know that about 100 out of 2000 known pulsars stop pulsating but only for a few minutes to hours. This process is called "nulling". Pulsars continuously emits radio pulses and we see them by catching these radio pulses. When they stop, they stop emitting the radio pulses as well, and therefore we can't see them during this period.
+
+<br>Scientists observed this mystery star for about a year and a half in the hope that the pulsar would return and then eventually it did in August 2011, after 580 days! Scientists knew that they have found a rare subspecies of pulsar.It is still a mystery what causes these stars to go invisible. By measuring the radio pulses from the star scientists can measure how fast is it spinning. The massive currents in the magnetosphere of pulsars helps in the spinning of this star and when this current stops flowing the pulsars slows down and eventually stop. But what causes the stoppage of this current flow is not know yet.
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**Swift J1644+57: The Star That Got Eaten By A Blackhole**
+
+<br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
+About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
+<br>
+The event took place in another, smaller galaxy. It was first noticed when scientist received a huge amount of X-rays and γ-rays from a previously quite part of the universe. On further observations it was found that the beam was coming from the center of another galaxy. Later on it was concluded that the beam was coming from a "jet" released after a black hole consumed a star. The jet accelerated away from the site of the event at 99.5% the light's speed!
+
+<br>Most of the galaxies contains a central super-sized black hole. According to the studies it's been suggested that the black hole involved in this event is 1 millions times larger than the mass of Sun!
+
+
+<br>This is what happens when a star fall into a black hole:
+The star is ripped apart by the intense tides and leads to the formation of a gaseous disk that swirls around the black hole and gets heated up to millions of degrees. The innermost gas in the disk spirals towards the black hole, and because of the rapid motion and magnetism a dual, oppositely directed funnels are created through which some particles escape, known as jet. In case of Swift J1644+57 one of these jets pointed straight towards the Earth.
+
+<br>The timing considerations suggested that the star that got devoured was a white dwarf. This is for the first time that scientists witnessed this type of event from the beginning.
+Another interesting fact is that the site of this event is so far away that it took 3.9 billion years for the light from there to reach Earth! So, it's pretty old event in actuality!
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**The Star That's Older Than The Universe!**
+
+<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b>
+
+<br>Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
+
+<br>However, the exact age of the star and the universe cannot be predicted. There are uncertainties in the value. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. I guess we'll never know which one is it (or maybe in distant future), but it's a possibility, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
+
+<br>Facts:
+<br>This star is the oldest star known. There are other features of this star that also suggest that it's a pretty old star. First of all it's a sub-giant star, i.e. it's not a red giant, rather heading towards the red giant stage ('nearing end' stage of a star). Secondly, it belongs to population II group of stars. Population II stars have a low content of metals. Now, in astronomy "metals" is anything that's not hydrogen or helium. Hydrogen and helium are the two elements that were produced by the big bang. So first generation of the stars (population III stars) had no metal at all. The first generation survived for only a few millions of years and then ended their lives in supernova explosions. A second generation of stars, population II, were then formed from the remnant of first generation, and this generation had some degree (but still low amount) of metals in them. Population I are the younger generations stars that has high levels of metal in them. Our Sun is an example of population I stars.
+
+<br>This star was born in a primeval dwarf galaxy and was later on gravitationally shredded and devoured by our emerging Milky Way galaxy over 12 billion years ago. It has an elongated orbit that encircles the milky way. Hence, it passes through our solar neighborhood, making it visible to naked eyes, with a speed of 800,000 miles per hour!
+
+<br>Well, this is the oldest star that we know of. Who knows there are much older stars somewhere out there?
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
 ---
 
