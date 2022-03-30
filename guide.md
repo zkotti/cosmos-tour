@@ -21,7 +21,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Continents](#continents)
 
-  - [The 7 continents](#continents_map)
+  - [The 7 continents](#continents)
   - [Africa](#africa)
   - [Antarctica](#antarctica)
   - [Asia](#asia)
@@ -411,7 +411,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 ---
 
-## <a name="#continents_map"></a>**_Continents_**
+## <a name="continents"></a>**_Continents_**
 
 <img src="media\continents\world-continent-map.jpg">
 <br>
