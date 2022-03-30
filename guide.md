@@ -826,6 +826,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Azerbaijani manat (AZN)
 </br>
 **Population:** 10,139,177 (2020)
+</br>
+**Country Code (cioc):** AZE
+</br>
+**Region:** Asia
 
 ---
 
@@ -840,6 +844,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bahamian dollar (BSD)
 </br>
 **Population:** 393,244 (2020)
+</br>
+**Country Code (cioc):** BAH
+</br>
+**Region:** Americas
 
 ---
 
@@ -854,6 +862,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bahraini dinar (BHD)
 </br>
 **Population:** 1,701,575 (2020)
+</br>
+**Country Code (cioc):** BRN
+</br>
+**Region:** Asia
 
 ---
 
@@ -868,6 +880,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bangladeshi taka (BDT)
 </br>
 **Population:** 164,689,383 (2020)
+</br>
+**Country Code (cioc):** BAN
+</br>
+**Region:** Asia
 
 ---
 
@@ -882,6 +898,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Barbados Dollar (BBD)
 </br>
 **Population:** 287,375 (2020)
+</br>
+**Country Code (cioc):** BAR
+</br>
+**Region:** Americas
 
 ---
 
