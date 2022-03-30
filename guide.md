@@ -2309,6 +2309,9 @@ Humans have always looked at the heavens and wondered about the nature of the ob
 
 ### <a name="major_milestones"></a> **Major Milestones**
 
+<img width="500" height="350" src="media/spaceflight/iss.webp">
+
+owned by [britannica](<https://www.britannica.com/science/space-exploration>)
 
 **Description**
 
