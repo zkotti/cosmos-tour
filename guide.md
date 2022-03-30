@@ -215,6 +215,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
   - [Meme 5.](#meme_5)
+  - [Meme 6.](#meme_6)
 
 - ### [Cosmos Books](#cosmos_books)
 
@@ -2744,6 +2745,12 @@ These are some excamples of what they offer to their users.
 <br>
 
 ### <a name="meme_5"></a>**Meme 5.**
+
+<img width="350" height="350" src="media\memes\new_telescope_meme.jpg">
+
+<br>
+
+### <a name="meme_6"></a>**Meme 6.**
 
 <img width="350" height="350" src="media\memes\infinite_things.jpg">
 
