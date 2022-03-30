@@ -731,6 +731,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Eastern Caribbean dollar (XCD)
 </br>
 **Population:** 97,929 (2020)
+</br>
 **Country Code (cioc):** ANT
 </br>
 **Region:** Americas
@@ -749,6 +750,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Argentine Peso (ARS)
 </br>
 **Population:** 45,195,774 (2020)
+</br>
 **Country Code (cioc):** ARG
 </br>
 **Region:** Americas
@@ -767,6 +769,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Dram (AMD)
 </br>
 **Population:** 2,963,900 (2021)
+</br>
 **Country Code (cioc):** ARM
 </br>
 **Region:** Asia
@@ -785,6 +788,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Australian dollar (AUD)
 </br>
 **Population:** 23,401,892 (2016)
+</br>
 **Country Code (cioc):** AUS
 </br>
 **Region:** Oceania
@@ -803,6 +807,7 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 9,006,398 (2020)
+</br>
 **Country Code (cioc):** AUT
 </br>
 **Region:** Europe
