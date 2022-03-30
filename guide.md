@@ -135,6 +135,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
+  - [Makemake](#makemake)
 
 - ### [Earth-like Planets](#earthlikeplanets)
 
@@ -2148,6 +2149,30 @@ Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.
 Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
 
 Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+
+---
+
+### <a name="makemake"></a>**Makemake**
+
+<img width="500" height="375" src="media\planets\makemake.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
+
+<br>
+
+**Description**
+
+Makemake is a dwarf planet and perhaps the second-largest Kuiper belt object in the classical population, with a diameter approximately two-thirds that of Pluto.It has one known satellite. Its extremely low average temperature, about 40 K (−230 °C), means its surface is covered with methane, ethane, and possibly nitrogen ices.
+
+Makemake was discovered on March 31, 2005 by a team led by Michael E. Brown, and announced on July 29, 2005. It was initially known as 2005 FY9 and later given the minor-planet number 136472. 
+
+Makemake is currently visually the second-brightest Kuiper belt object after Pluto, having a March opposition apparent magnitude of 17.0 it will pass from its present constellation Coma Berenices to Boötes in December 2027. It is bright enough to be visible using a high-end amateur telescope.
+
+Combining the detection in infrared by the Spitzer Space Telescope and Herschel Space Telescope with the similarities of spectrum with Pluto yielded an estimated diameter from 1,360 to 1,480 km.
+
+Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.[49]
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
 
 ---
 
