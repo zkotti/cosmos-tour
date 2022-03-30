@@ -2455,6 +2455,8 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 ---
 
 **The Star That Likes To Take A Break Every Once In A While!**
+<br>
+<img width="600" height="350" src="media\stars\vanishing_star.jpg">
 
 <br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
 This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
@@ -2471,6 +2473,8 @@ It was discovered in December 2008 and at first was thought to be just a regular
 ---
 
 **Swift J1644+57: The Star That Got Eaten By A Blackhole**
+<br>
+<img width="600" height="350" src="media\stars\star_black_hole.webp">
 
 <br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
 About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
@@ -2491,10 +2495,10 @@ Another interesting fact is that the site of this event is so far away that it t
 ---
 
 **The Star That's Older Than The Universe!**
+<br>
+<img width="600" height="350" src="media\stars\oldest_star.webp">
 
-<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b>
-
-<br>Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
+<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b> Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
 
 <br>However, the exact age of the star and the universe cannot be predicted. There are uncertainties in the value. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. I guess we'll never know which one is it (or maybe in distant future), but it's a possibility, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
 
@@ -2504,6 +2508,25 @@ Another interesting fact is that the site of this event is so far away that it t
 <br>This star was born in a primeval dwarf galaxy and was later on gravitationally shredded and devoured by our emerging Milky Way galaxy over 12 billion years ago. It has an elongated orbit that encircles the milky way. Hence, it passes through our solar neighborhood, making it visible to naked eyes, with a speed of 800,000 miles per hour!
 
 <br>Well, this is the oldest star that we know of. Who knows there are much older stars somewhere out there?
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**HV 2112: The Star Inside A Star!**
+<br>
+<img width="600" height="350" src="media\stars\star_inside_star.webp">
+
+<br> <b>4. HV 2112: The Star Inside A Star!</b>
+Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light years away in the nearby dwarf galaxy called the Small Magellanic Cloud, or Nebucula Minor, in the Tucana constellation.
+
+<br>The existence of this star was predicted about 40 years ago by physicist Kip Thorne and astronomer Anna Zytkow! In 1975 they proposed the existence of a hybrid object, known as Thorne-Zytkow object.
+
+<br>Thorne-Zytkow object is a type of star which is formed by the collision of a red giant or supergiant star with a neutron star. Basically what happens is: a star goes into supernova and leads to the formation of a neutron star. But then a passing by red supergiant star collides with the neutron star and absorbs it forming a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
+
+<br>These objects differ from a normal red supergiant in their chemical fingerprints. From the outside it sure looks like a red supergiant but inside it is rich in rubidium, strontium, yttrium, zirconium, molybdenum and lithium. The light emitted from HV2112 was studied and it was found that the light was highly rich in these elements. A normal red supergiant also have these components but not in such high amount.
+
+<br>This star is the only one of its kind! It is the first ever Thorne-Zytkow object to be discovered. But studies are still going on to confirm that HV 2112 is a hybrid star.
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
