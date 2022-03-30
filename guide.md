@@ -916,6 +916,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Belarusian ruble (BYN)
 </br>
 **Population:** 9,349,645 (2021)
+</br>
+**Country Code (cioc):** BLR
+</br>
+**Region:** Europe
 
 ---
 
@@ -930,6 +934,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 11,492,641 (2020)
+</br>
+**Country Code (cioc):** BEL
+</br>
+**Region:** Europe
 
 ---
 
@@ -944,6 +952,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Belize dollar (BZD)
 </br>
 **Population:** 397,628 (2020)
+</br>
+**Country Code (cioc):** BIZ
+</br>
+**Region:** Americas
 
 ---
 
@@ -958,6 +970,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 11,977,976 (2020)
+</br>
+**Country Code (cioc):** BEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -972,6 +988,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bhutanese ngultrum (BTN)
 </br>
 **Population:** 7,547,937 (2020)
+</br>
+**Country Code (cioc):** BHU
+</br>
+**Region:** Asia
 
 ---
 
