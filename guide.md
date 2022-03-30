@@ -176,7 +176,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Asteroids](#asteroids)
 
-  - [Overview](#overview_asteroids)
+  - [Overview](#Overview)
   - [Ceres](#ceres_asteroid)
   - [Pallas](#pallas)
   - [Vesta](#vesta)
