@@ -1006,6 +1006,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bolivian boliviano (BOB)
 </br>
 **Population:** 11,977,976 (2020)
+</br>
+**Country Code (cioc):** BOL
+</br>
+**Region:** Americas
 
 ---
 
@@ -1020,6 +1024,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bosnia and Herzegovina convertible mark (BAM)
 </br>
 **Population:** 3,928,976 (2020)
+</br>
+**Country Code (cioc):** BIH
+</br>
+**Region:** Europe
 
 ---
 
@@ -1034,6 +1042,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Botswana pula (BWP)
 </br>
 **Population:** 2,931,976 (2020)
+</br>
+**Country Code (cioc):** BOT
+</br>
+**Region:** Africa
 
 ---
 
@@ -1048,6 +1060,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
+</br>
+**Country Code (cioc):** BRA
+</br>
+**Region:** Americas
 
 ---
 
@@ -1062,6 +1078,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Brunei dollar (BND)
 </br>
 **Population:** 4,928,976 (2020)
+</br>
+**Country Code (cioc):** BRU
+</br>
+**Region:** Asia
 
 ---
 
