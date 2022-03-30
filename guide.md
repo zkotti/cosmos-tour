@@ -207,6 +207,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
   - [2. quetion about multiple universe](#frequent_questions_multiple_universe)]
+  - [3. questions about planets](#frequent_questions_planets)
 - ### [Memes](#memes)
 
   - [Meme 1.](#meme_1)
@@ -2592,6 +2593,20 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
 ### <a name="frequent_questions_multiple_universe"></a> **2. Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
+
+### <a name="frequent_questions_planets"></a> **3. Questions about Planets**
+- How many planets are there in our solar system? [Answer/ Source](https://space-facts.com/faq/)
+- What is the smallest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What is the largest planet? [Answer/ Source](https://space-facts.com/faq/)
+- Which planet is closest to the Sun? [Answer/ Source](https://space-facts.com/faq/)
+- Which planet is farthest from the Sun? [Answer/ Source](https://space-facts.com/faq/)
+- What is the coldest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What is the hottest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What are the inner planets? [Answer/ Source](https://space-facts.com/faq/)
+- What are the outer planets? [Answer/ Source](https://space-facts.com/faq/)
+- Which planets have rings? [Answer/ Source](https://space-facts.com/faq/)
+- Is there life on other planets? [Answer/ Source](https://space-facts.com/faq/)
+
 ---
 
 ## <a name="memes"></a> **_Memes_**
