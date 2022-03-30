@@ -2294,8 +2294,16 @@ owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More
 
 **Description**
 
-"Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board." The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible
+"Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board". Another definion for space exploration (Britannica, 2018), is that it is considered an investigation, by means of crewed and uncrewed spacecraft, of the reaches of the universe beyond Earth’s atmosphere and the use of the information so gained to increase knowledge of the cosmos and benefit humanity.  The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible.
+
+Humans have always looked at the heavens and wondered about the nature of the objects seen in the night sky. With the development of rockets and the advances in electronics and other technologies in the 20th century, it became possible to send machines and animals and then people above Earth’s atmosphere into outer space. Well before technology made these achievements possible, however, space exploration had already captured the minds of many people, not only aircraft pilots and scientists but also writers and artists. The strong hold that space travel has always had on the imagination may well explain why professional astronauts and laypeople alike consent at their great peril, in the words of Tom Wolfe in The Right Stuff (1979), to sit “on top of an enormous Roman candle, such as a Redstone, Atlas, Titan or Saturn rocket, and wait for someone to light the fuse.” It perhaps also explains why space exploration has been a common and enduring theme in literature and art. As centuries of speculative fiction in books and more recently in films make clear, “one small step for a man, one giant leap for mankind” was taken by the human spirit many times and in many ways before Neil Armstrong stamped humankind’s first footprint on the Moon.
+
+
+
+
+
 <br> Source [wiki](https://en.wikipedia.org/wiki/Spaceflight)
+<br> Source [britannica](https://www.britannica.com/science/space-exploration)
 
 ---
 
