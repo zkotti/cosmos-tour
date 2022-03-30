@@ -2307,6 +2307,27 @@ Humans have always looked at the heavens and wondered about the nature of the ob
 
 ---
 
+### <a name="major_milestones"></a> **Major Milestones**
+
+
+**Description**
+
+The first artificial Earth satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957. The first human to go into space, Yuri Gagarin, was launched, again by the Soviet Union, for a one-orbit journey around Earth on April 12, 1961. Within 10 years of that first human flight, American astronauts walked on the surface of the Moon. Apollo 11 crew members Neil Armstrong and Edwin (“Buzz”) Aldrin made the first lunar landing on July 20, 1969. A total of 12 Americans on six separate Apollo missions set foot on the Moon between July 1969 and December 1972. Since then, no humans have left Earth orbit, but more than 500 men and women have spent as many as 438 consecutive days in space. Starting in the early 1970s, a series of Soviet (Russian from December 1991) space stations, the U.S. Skylab station, and numerous space shuttle flights provided Earth-orbiting bases for varying periods of human occupancy and activity. From November 2, 2000, when its first crew took up residence, to its completion in 2011, the International Space Station (ISS) served as a base for humans living and working in space on a permanent basis. It will continue to be used in this way until at least 2024.
+
+ince 1957 Earth-orbiting satellites and robotic spacecraft journeying away from Earth have gathered valuable data about the Sun, Earth, other bodies in the solar system, and the universe beyond. Robotic spacecraft have landed on the Moon, Venus, Mars, Titan, a comet, and four asteroids, have visited all the major planets, and have flown by Kuiper belt objects and by the nuclei of comets, including Halley’s Comet, traveling in the inner solar system. Scientists have used space-derived data to deepen human understanding of the origin and evolution of galaxies, stars, planets, and other cosmological phenomena.
+
+Orbiting satellites also have provided, and continue to provide, important services to the everyday life of many people on Earth. Meteorologic satellites deliver information on short- and long-term weather patterns and their underlying causes. Other Earth-observation satellites remotely sense land and ocean areas, gathering data that improve management of Earth’s resources and that help in understanding global climate change. Telecommunications satellites allow essentially instantaneous transfer of voice, images, and data on a global basis. Satellites operated by the United States, Russia, China, Japan, India, and Europe give precision navigation, positioning, and timing information that has become essential to many terrestrial users. Earth-observation satellites have also become extremely useful to the military authorities of several countries as complements to their land, sea, and air forces and have provided important security-related information to national leaders.
+
+As the many benefits of space activity have become evident, other countries have joined the Soviet Union and the United States in developing their own space programs. They include a number of western European countries operating both individually and, after 1975, cooperatively through the European Space Agency, as well as China, Japan, Canada, India, Israel, Iran, North Korea, South Korea, and Brazil. By the second decade of the 21st century, more than 50 countries had space agencies or other government bodies carrying out space activities.
+
+
+
+
+
+<br> Source [britannica](https://www.britannica.com/science/space-exploration)
+
+---
+
 ## <a name="stars"></a> **_Stars_**
 
 ---
