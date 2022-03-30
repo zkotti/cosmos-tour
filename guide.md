@@ -21,6 +21,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Continents](#continents)
 
+  - [The 7 continents](#continents_map)
   - [Africa](#africa)
   - [Antarctica](#antarctica)
   - [Asia](#asia)
@@ -409,7 +410,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 ---
 
-## <a name="continents"></a> **_Continents_**
+## <a name="#continents_map"></a>**_Continents_**
 
 <img src="media\continents\world-continent-map.jpg">
 <br>
@@ -418,6 +419,10 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 ---
 
 ### <a name="africa"></a>**Africa**
+
+<br>
+<img width="500" height="350" src="media\continents\africa.jpg.jpg">
+<br>
 
 **Population:** 1,275,920,972 (2018)
 </br>
@@ -434,6 +439,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ### <a name="antarctica"></a>**Antarctica**
 
+<br>
+<img width="500" height="350" src="media\continents\antartica.webp">
+<br>
+
 **Population:** 1,000 to 5,000 (Seasonal)
 </br>
 
@@ -448,6 +457,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 ---
 
 ### <a name="asia"></a>**Asia**
+
+<br>
+<img width="500" height="350" src="media\continents\Asia.png">
+<br>
 
 **Population:** 4,560,667,108 (2018)
 </br>
@@ -464,6 +477,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
 ### <a name="europe"></a>**Europe**
 
+<br>
+<img width="500" height="350" src="media\continents\Europe.png">
+<br>
+
 **Population:** 746,419,440 (2018)
 </br>
 
@@ -478,6 +495,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 ---
 
 ### <a name="north_america"></a>**North America**
+
+<br>
+<img width="500" height="350" src="media\continents\north-america.jpg">
+<br>
 
 **Population:** 592,296,233 (2021)
 </br>
@@ -494,6 +515,10 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
 ### <a name="oceania"></a>**Oceania**
 
+<br>
+<img width="500" height="350" src="media\continents\oceania.jpg">
+<br>
+
 **Population:** 41,570,842 (2018)
 </br>
 
@@ -508,6 +533,10 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 ---
 
 ### <a name="south_america"></a>**South America**
+
+<br>
+<img width="500" height="350" src="media\continents\South_America.png">
+<br>
 
 **Population:** 423,581,078 (2018)
 </br>
