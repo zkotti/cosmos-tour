@@ -287,6 +287,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Baseball](#Baseball)
   - [Rugby](#Rugby)
   - [Golf](#Golf)
+  - [Handball](#Handball)
 
 ---
 
@@ -3655,5 +3656,19 @@ owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shut
 An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Handball"></a>**Handball**
+
+<img width="500" height="350" src="media/Sports/Handball.jpg">
+
+owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-the-top-ten-olympic-sports-to-watch)
+
+**Description**
+
+Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
 
 ---
