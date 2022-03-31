@@ -610,11 +610,11 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 **Description**
 
-South America is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere. It can also be described as the southern subregion of a single continent called America.
+South America belongs mainly in the Southern Hemisphere and entirely in the Western one. Accordingly to the 6 continents theory, it can also be considered as the southern subcontinent of a single continent, America.
 
-South America is bordered on the west by the Pacific Ocean and on the north and east by the Atlantic Ocean; North America and the Caribbean Sea lie to the northwest. The continent generally includes twelve sovereign states: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela; two dependent territories: the Falkland Islands and South Georgia and the South Sandwich Islands; and one internal territory: French Guiana. In addition, the ABC islands of the Kingdom of the Netherlands, Ascension Island (dependency of Saint Helena, Ascension and Tristan da Cunha, a British Overseas Territory), Bouvet Island (dependency of Norway), Panama, and Trinidad and Tobago may also be considered parts of South America.
+Regarding its borders, it has the Pacific Ocean on the west, the Atlantic Ocean on the north and east and  North America and the Caribbean Sea on the northwest. South America includes twelve sovereign states, two dependent territories and one internal , French Guiana. Furthermore, the ABC islands of the Kingdom of the Netherlands, Ascension Island , Bouvet Island (dependency of Norway), Panama, and Trinidad and Tobago can also be considered parts of the continent.
 
-South America has an area of 17,840,000 square kilometers (6,890,000 sq mi). Its population as of 2018 has been estimated at more than 423 million. South America ranks fourth in area (after Asia, Africa, and North America) and fifth in population (after Asia, Africa, Europe, and North America). Brazil is by far the most populous South American country, with more than half of the continent's population, followed by Colombia, Argentina, Venezuela and Peru. In recent decades, Brazil has also generated half of the continent's GDP and has become the continent's first regional power.
+South America covers a land area of 17,840,000 square kilometers (6,890,000 sq mi). In 2018, its population was estimated at about 423 millions. South America is the fourth largest continent by area, following Asia, Africa, and North America and the fifth largest by population, following Asia, Africa, Europe, and North America. The continent's most populous country is Brasil, hosting more than  50% of South America's population.
 
 Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
