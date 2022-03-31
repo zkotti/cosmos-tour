@@ -83,6 +83,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
+  - [Georgia](#georgia)
   - [Germany](#germany)
   - [Ghana](#ghana)
   - [Greece](#greece)
@@ -275,6 +276,17 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Pale Blue Dot](#pale_blue_dot)
   - [The First Image of A Black Hole](#black_hole_image)
 
+- ### [Sports](#Sports)
+  - [Football](#Football)
+  - [Volleyball](#Volleyball)
+  - [Basketball](#Basketball)
+  - [Tennis](#Tennis)
+  - [Cricket](#Cricket)
+  - [Hockey](#Hockey)
+  - [Baseball](#Baseball)
+  - [Rugby](#Rugby)
+  - [Golf](#Golf)
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -335,9 +347,7 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 ### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
-The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
-
-Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted.
+The flat Earth model is an archaic and scientifically debunked view of the Earth's shape as a plane or disk. Many ancient societies, including Greece until the classical period (323 BC), the Near Eastern Bronze Age and Iron Age civilizations until the Hellenistic period (31 BC), and China until the 17th century, believed in a flat Earth cosmography. Flat Earth conspiracy ideas are promoted by modern flat Earth organisations, despite scientific fact and clear impacts of Earth's sphericity. Flat-Earth theories are obviously based on basic scientific errors that are easily debunked.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
@@ -346,9 +356,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis is a proposal regarding the nature of existence which posits that all of existence is an artificial simulation, such as a computer simulation. Some versions rely on the development of a simulated reality, a proposed technology that would be able to convince its inhabitants that the simulation was "real".
-
-The simulation hypothesis bears a close resemblance to various other skeptical scenarios from throughout the history of philosophy. The hypothesis was popularized in its current form by Nick Bostrom. The suggestion that such a hypothesis is compatible with all human perceptual experiences is thought to have significant epistemological consequences in the form of philosophical skepticism. Versions of the hypothesis have also been featured in science fiction, appearing as a central plot device in many stories and films.
+The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
@@ -1397,6 +1405,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
+
+---
+
+### <a name="georgia"></a>**Georgia**
+
+<img width="300" height="300" src="media/flags/ge.svg">
+
+**Capital:** [Tbilisi](https://www.google.com/maps/search/Tbilisi)
+</br>
+**Official Language:** Georgian
+</br>
+**Currency:** Georgian lari (GEL)
+</br>
+**Population:** 3,728,573 (2021)
 
 ---
 
@@ -3491,5 +3513,81 @@ Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
 **In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
 
 Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic-field/)
+
+---
+
+## <a name="Sports"></a> **Sports**
+
+---
+
+### <a name="Football"></a>**Football**
+
+**Description**
+
+Football, better known as soccer in the US and Canada, is the most popular sport in the world, with an estimated following of 4 billion fans. Like some of the other sports on this list, the origins of football as we know it are in England in the 19th century, though history points to people playing similar games as far back as two thousand years, beginning in China. One reason for football’s popularity is that unlike other sports that require expensive equipment, all you need to play football is a ball and your foot. Hence, anyone, rich or poor, can enjoy the sport. It is played all over the world, but is particularly popular in Europe, Central and South America, and Africa.
+
+---
+
+### <a name="Volleyball"></a>**Volleyball**
+
+**Description**
+
+Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
+
+---
+
+### <a name="Basketball"></a>**Basketball**
+
+**Description**
+
+Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+
+---
+
+### <a name="Tennis"></a>**Tennis**
+
+**Description**
+
+An estimated one billion people worldwide follow tennis, tuning in from around the world. In tennis, players on both sides of an elongated net try to hit a ball with a racket so that it either goes past their opponents or bounces on their opponents’ side twice to score points. Pro tennis players, like Roger Federer and Serena Williams, are now household names around the world.
+
+---
+
+### <a name="Cricket"></a>**Cricket**
+
+**Description**
+
+Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
+
+---
+
+### <a name="Hockey"></a>**Hockey**
+
+**Description**
+
+Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+
+---
+
+### <a name="Baseball"></a>**Baseball**
+
+**Description**
+
+America’s national pastime is thought to have descended from the English sports, rounders and cricket. Baseball involves two teams trying to hit a ball with a bat between two white lines, with the batters running around a series of bases to score runs (points). Today, baseball is popular, not only in the US, but also in East Asia and Latin America. The sport has an estimated following of 500 million fans.
+
+---
+
+### <a name="Rugby"></a>**Rugby**
+
+**Description**
+
+Rugby has an estimated following of 475 million people. The sport originated in England and is now most popular in the UK and other Commonwealth countries like Australia and New Zealand. In rugby, two teams try to kick, carry, or pass a ball over an end (goal) line to score points. Rugby is a contact sport involving a lot of tackling, similar to American football. But whereas American football players wear a lot of padding and hard helmets to protect themselves, rugby players wear very little protection.
+
+---
+
+### <a name="Golf"></a>**Golf**
+
+**Description**
+
+An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
 
 ---
