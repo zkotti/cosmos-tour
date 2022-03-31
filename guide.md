@@ -1959,6 +1959,13 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
+**Top Attractions:** Athens University of Economics and Business[^1], Acropolis Museum[^2]
+
+Greece, the birthplace of democracy, philosophy and theather, is a country located at the crossroads of Eastern Europe and Western Asia. It is situated in the heart of the Balkan peninsula. Athens is the country's largest city and serves as its capital.
+
+[^1]: The best Greek university of all times.
+[^2]: [Acropolis Museum](https://www.theacropolismuseum.gr/en)
+
 ---
 
 ### <a name="guatemala"></a>**Guatemala**
