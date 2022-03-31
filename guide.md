@@ -86,6 +86,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cyprus](#cyprus)
   - [Czech Republic](#czech_republic)
   - [Denmark](#denmark)
+  - [Djibouti](#djibouti)
+  - [Dominica](#dominica)
+  - [Dominican Republic](#dominican_republic)
   - [Egypt](#egypt)
   - [England](#england)
   - [Fiji](#fiji)
@@ -1529,6 +1532,60 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DEN
 </br>
 **Region:** Europe
+
+---
+
+### <a name="djibouti"></a>**Djibouti**
+
+<img width="300" height="300" src="media/flags/dj.svg">
+
+**Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
+</br>
+**Official Language:** Arabic, French, Somali
+</br>
+**Currency:** Djiboutian franc (DJF)
+</br>
+**Population:** 8,869,976 (2020)
+</br>
+**Country Code (cioc):** DJI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="dominica"></a>**Dominica**
+
+<img width="300" height="300" src="media/flags/dm.svg">
+
+**Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
+</br>
+**Official Language:** English
+</br>
+**Currency:** East Caribbean dollar (XCD)
+</br>
+**Population:** 71,976 (2020)
+</br>
+**Country Code (cioc):** DMA
+</br>
+**Region:** Americas
+
+---
+
+### <a name="dominican_republic"></a>**Dominican Republic**
+
+<img width="300" height="300" src="media/flags/do.svg">
+
+**Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Dominican peso (DOP)
+</br>
+**Population:** 9,976,976 (2020)
+</br>
+**Country Code (cioc):** DOM
+</br>
+**Region:** Americas
 
 ---
 
