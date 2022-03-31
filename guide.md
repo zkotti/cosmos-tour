@@ -320,6 +320,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Mountains](#mountains)
   - [Mount Everest](#mounteverest)
+  - [Mount Kilimanjaro](#kilimanjaro)
 
 ---
 
@@ -4376,5 +4377,19 @@ owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
 Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+
+---
+
+### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
+
+<img width="550" height="299" src="media/mountains/Kilimanjaro.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+**Description**
+
+Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
 ---
