@@ -495,7 +495,7 @@ If you want to read more information about careers in space you can visit the or
 
 Africa has the  world's second place in both size and population, following Africa. It covers an area of about 30.3 million square kilometres, including the surrounding islands, and occupies 6% of the Earth's total surface area and 20% of the total land area of the planet. According to the average population estimate for 2018, it's population was estimated at 1.3 billions ,about 16% of the world's population and the youngest of all continents, with 50% of Africans being 19 years old or younger.
 
-About it's surroundings, it has the Mediterranian Sea to the north, the Red Sea and the Suez Canal to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. Africa includes Madagascar and several archipelagos. There are  54 fully recognised  states, eight regions and two de facto independent states with limited or no recognition. Africa's largest country by area is Algeria and by population is Nigeria. 
+About it's surroundings, it has the Red Sea and the Suez Canal to the northeast,  the Mediterranian Sea to the north, the Atlantic Ocean to the west and the Indian Ocean to the southeast. Africa includes Madagascar and several archipelagos. There are  54 fully recognised  states, eight regions and two de facto independent states with limited or no recognition. Africa's largest country by area is Algeria and by population is Nigeria. 
 
 Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
@@ -512,9 +512,9 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 **Description**
 
-Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
+Antarctica is the southernmost continent on Earth, where the geographic South Pole is located. It is situated in the Antarctic region of the Southern Hemisphere, almost entirely south of the Antarctic Circle, and is surrounded by the Southern Ocean. With an area of 14.0 million square kilometres, it is the fifth largest continent on the planet after Asia, Africa, North America and South America. For comparison, Antarctica is twice the size of Australia. About 98% of Antarctica's surface is covered by ice with an average thickness of at least 1.9 km.
 
-Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.
+Antarctica is on average the driest, coldest and windiest continent with  the highest average elevation. Since it has an  annual precipitation of 200 mm  along the coast and much less inland, it is considered  a polar desert. It holds frozen about the 70% of fresh water, which if melted would make the global sea levels to raise by over 60 metres (200 ft). Antarctica's lowest measured temperature,and also Earth's, is  −89.2 °C (−128.6 °F). Only cold-adapted organisms can live in Antarctica, including many species of algae, animals (for example mites, nematodes, penguins, seals and sloths), bacteria, fungi, plants and protists. The vegetation, where it occurs, is of tundra type.
 
 Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
