@@ -16,11 +16,14 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Simulation Theory](#simulation_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
-  - [Flat-Earth Theory](#end_of_the_universe)
+  - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
+  - [Five Weird Things That Happen in Outer Space](#weird_things)
+  - [Career in Space](#jobs)
 
 - ### [Continents](#continents)
 
+  - [The 7 continents](#continents_map)
   - [Africa](#africa)
   - [Antarctica](#antarctica)
   - [Asia](#asia)
@@ -30,7 +33,10 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [South America](#south_america)
 
 - ### [Comets](#comets)
+
   - [Oumuamua](#oumuamua)
+  - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
+  - [81P/Wild (Wild 2)](#81P_Wild)
 
 - ### [Countries](#countries)
 
@@ -62,25 +68,44 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
   - [Burundi](#burundi)
-  - [Cote d'Ivoire](#cote_d_ivoire)
   - [Cabo Verde](#cabo_verde)
   - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
+  - [Central African Republic](#central_african_republic)
+  - [Chad](#chad)
   - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Comoros](#comoros)
+  - [Congo](#congo)
+  - [Costa Rica](#costa_rica)
+  - [Cote d'Ivoire](#cote_d_ivoire)
+  - [Croatia](#croatia)
+  - [Cuba](#cuba)
   - [Cyprus](#cyprus)
+  - [Czech Republic](#czech_republic)
   - [Denmark](#denmark)
+  - [Djibouti](#djibouti)
+  - [Dominica](#dominica)
+  - [Dominican Republic](#dominican_republic)
+  - [Ecuador](#ecuador)
   - [Egypt](#egypt)
+  - [El Salvador](#el_salvador)
   - [England](#england)
+  - [Equatorial Guinea](#equatorial_guinea)
+  - [Eritrea](#eritrea)
+  - [Estonia](#estonia)
+  - [Eswatini](#eswatini)
+  - [Ethiopia](#ethiopia)
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
+  - [Georgia](#georgia)
   - [Germany](#germany)
   - [Ghana](#ghana)
-  - [Guatemala](#guatemala)
   - [Greece](#greece)
+  - [Guatemala](#guatemala)
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Iran](#iran)
@@ -110,6 +135,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [United Arab Emirates](#uae)
   - [United States](#usa)
   - [Uruguay](#uruguay)
+  - [Venezuela](#venezuela)
+  - [Vietnam](#vietnam)
 
 - ### [Planets](#planets)
 
@@ -127,6 +154,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
+  - [Makemake](#makemake)
 
 - ### [Earth-like Planets](#earthlikeplanets)
 
@@ -144,10 +172,17 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hoag's Object](#hoags_object)
   - [Mayall's Object](#mayalls_object)
   - [Milky Way](#milky_way)
+  - [Triangulum Galaxy](#triangulum_galaxy)
+  - [Sombrero Galaxy](#sombrero_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
+  - [Overview](#satellies_overview)
   - [Moon](#moon)
+  - [Europa](#europa)
+  - [Io](#io)
+  - [Phobos](#phobos)
+  - [Ganymede](#ganymede)
 
 - ### [Space Exploration](#space_exploration)
 
@@ -159,11 +194,19 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [SpaceX](#spaceX)
   - [Blue Origin](#blue_origin)
 
-
 - ### [Stars](#stars)
-
+  - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
+  - [Vega](#vega)
+  - [Most interesting stars](#interestingstars)
+
+- ### [Asteroids](#asteroids)
+
+  - [Overview](#Overview)
+  - [Ceres](#ceres_asteroid)
+  - [Pallas](#pallas)
+  - [Vesta](#vesta)
 
 - ### [Oceans](#oceans)
 
@@ -173,7 +216,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Indian Ocean](#indian_ocean)
   - [Pacific Ocean](#pacific_ocean)
   - [Southern Ocean](#southern_ocean)
-
 
 - ### [Extraterrestrial life](#extraterrestrial_life)
 
@@ -193,15 +235,33 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Zodiac](#zodiac)
 
 - ### [Frequent questions](#frequent_questions)
-  - [1. questions about stars](#frequent_questions_stars)
+
+  - [Questions about stars](#frequent_questions_stars)
+  - [Question about multiple universe](#frequent_questions_multiple_universe)
+  - [Questions about planets](#frequent_questions_planets)
+
 - ### [Memes](#memes)
+
   - [Meme 1.](#meme_1)
   - [Meme 2.](#meme_2)
   - [Meme 3.](#meme_3)
   - [Meme 4.](#meme_4)
   - [Meme 5.](#meme_5)
+  - [Meme 6.](#meme_6)
+
+- ### [Cosmos Books](#cosmos_books)
+
+  - [A Brief History of Time](#book_1)
+  - [The Human Cosmos: A Secret History of the Stars](#book_2)
+  - [Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky](#book_3)
+  - [Cosmos](#book_4)
+  - [Missions To Mars](#book_5)
+  - [Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System](#book_6)
+  - [Sun Moon Earth](#book_7)
+  - [The Mysteries of the Universe](#book_8)
 
 - ### [Cosmos Movies](#cosmos_movies)
+
   - [Midnight Sky](#movie_1)
   - [Gravity](#movie_2)
   - [Interstellar](#movie_3)
@@ -213,6 +273,44 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
 
+- ### [Admired Personalities](#personalities)
+  - [Mahatma Gandhi](#Gandhi)
+  - [Margaret Hamilton](#Margaret_Hamilton)
+  - [Nelson Mandela](#Mandela)
+  - [Martin Luther King](#Luther_King)
+  - [Albert Einstein](#Einstein)
+  - [Stephen Hawking](#Stephen_Hawking)
+  - [Neil Armstrong](#Neil_Armstrong)
+  - [Alan Turing](#Alan_Turing)
+  - [Ludwig van Beethoven](#Beethoven)
+  
+- ### [Youtube Videos](#videos)
+  - [Earth 101 | National Geographic](#Earth101)
+  - [Mars 101 | National Geographic](#Mars101)
+  - [Universe Size Comparison](#universe_size)
+
+- ### [Astrophotography](#astrophotography)
+  - [Pillars Of Creation](#pillars_of_creation)
+  - [Hubble eXtreme Deep Field](#hxdf)
+  - [The Blue Marble](#the_blue_marble)
+  - [Pale Blue Dot](#pale_blue_dot)
+  - [The First Image of A Black Hole](#black_hole_image)
+
+- ### [Sports](#Sports)
+  - [Top 10 Sports](#Popular_Sports)
+  - [Football](#Football)
+  - [Volleyball](#Volleyball)
+  - [Basketball](#Basketball)
+  - [Tennis](#Tennis)
+  - [Cricket](#Cricket)
+  - [Hockey](#Hockey)
+  - [Baseball](#Baseball)
+  - [Rugby](#Rugby)
+  - [Golf](#Golf)
+  - [Handball](#Handball)
+
+- ### [Mountains](#mountains)
+  - [Mount Everest](#mounteverest)
 
 ---
 
@@ -232,7 +330,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ### <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
 
-It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
+The terms **cosmos** and **universe** are equivalent since they both refer to the same thing: the world or nature. However, **universe** appears to have a narrower scope than **cosmos**, whereas **cosmos** denotes a broader and more complicated system.
 
 Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
@@ -263,17 +361,17 @@ Source [National Geographic](https://www.nationalgeographic.com/science/article/
 1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
 2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
 3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
+4. The Ancient Greeks believed that in the beginning, the only thing that existed was **Chaos**, or in other words, nothingness. Then all of a sudden, from light, came **Gaia** (Mother Earth). Then form Gaia came **Uranus** (the sky). **Kronos** the Titan, Gaia's son, married his sister Rhea and gave birth to 6 children,the gods. When Zeus grew up, he decided to fight the Titans. He won with the help of the hundred handed ones and the cyclops. After the war he cut his father Kronos into pieces and threw them into **Tartarus** (the underworld). Zeus was, from then on, the leader of the gods. Hades took over the Underworld. Poseidon took over the oceans. Zeus married his sister Hera and crowned her Queen of Olympus.
+
 
 Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
-[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf)
+[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf), [The Greek creation myth](https://simple.wikipedia.org/wiki/Greek_mythology)
 
 ---
 
 ### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
-The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
-
-Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted.
+The flat Earth model is an archaic and scientifically debunked view of the Earth's shape as a plane or disk. Many ancient societies, including Greece until the classical period (323 BC), the Near Eastern Bronze Age and Iron Age civilizations until the Hellenistic period (31 BC), and China until the 17th century, believed in a flat Earth cosmography. Flat Earth conspiracy ideas are promoted by modern flat Earth organisations, despite scientific fact and clear impacts of Earth's sphericity. Flat-Earth theories are obviously based on basic scientific errors that are easily debunked.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
@@ -282,9 +380,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis is a proposal regarding the nature of existence which posits that all of existence is an artificial simulation, such as a computer simulation. Some versions rely on the development of a simulated reality, a proposed technology that would be able to convince its inhabitants that the simulation was "real".
-
-The simulation hypothesis bears a close resemblance to various other skeptical scenarios from throughout the history of philosophy. The hypothesis was popularized in its current form by Nick Bostrom. The suggestion that such a hypothesis is compatible with all human perceptual experiences is thought to have significant epistemological consequences in the form of philosophical skepticism. Versions of the hypothesis have also been featured in science fiction, appearing as a central plot device in many stories and films.
+The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
@@ -301,9 +397,9 @@ Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 - The moon is the reason why we have tides and waves on Earth. Along with the sun, it moves billions of tonnes of water each day.
 - A day on Mercury lasts longer than its year! Mercury moves around the sun faster than any other planet – making its year the equivalent of 88 Earth days. While a day on Mercury – the interval between one sunrise and the next – lasts 176 Earth days!
 - In 2006, Pluto was reclassified as a ‘dwarf planet’ after 76 years classified as the outermost planet in our solar system since its discovery in 1930.
-- Only about 4.9% of the mass-energy of the Universe is atoms: the kind of stuff you, me, the stars and galaxies are made of and, of that, only half has been spotted with telescopes. Thus, 95% of the Universe is invisible.
-- There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. Astronauts use radios to stay in communication while in space since radio waves can still be sent and received.
-- Despite searches for intelligent signals, no sign of intelligent extraterrestrial life has been found. In fact, there is a good argument that if such life-forms exist out there, not only should we see signs of them but they should already have come here.
+- Only about 4.9% of the mass-energy of the universe is atoms: the stuff of which you, I, the stars and galaxies are made, and only half of that has been discovered with telescopes. Thus, 95% of the universe is invisible.
+- In space there is no atmosphere, which means that sound has no medium to travel in order to be heard. Astronauts use radios to stay in touch while in space because radio waves can still be sent and received.
+- Despite the search for intelligent signals, no evidence of intelligent extraterrestrial life has yet been found. In fact, there is a good argument that if such life forms exist out there, we should not only see signs of them, but that they should have already come here.
 
 Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
 [indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
@@ -368,18 +464,62 @@ Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
-## <a name="continents"></a> **_Continents_**
+---
+
+
+### <a name="weird_things"></a>**Five Weird Things That Happen in Outer Space**
+
+Space is so complex, that most probably it will shock you. Specifically, invisible electromagnetic forces surround it, that we usually don’t feel. What’s more, it is filled with weird types of matter that we never experience on Earth. Below are mentioned five unearthly things that take place mainly in outer space:
+1. **Plasma**
+2. **Extreme Temperatures**
+3. **Cosmic Alchemy**
+4. **Magnetic Explosions**
+5. **Supersonic Shocks**
+
+If you want to learn more information about the weird things happen in outer space you can visit the origin source  : [nasa](https://www.nasa.gov/feature/goddard/2021/five-weird-things-that-happen-in-outer-space)
+
+---
+
+
+### <a name="jobs"></a>**Career in Space**
+
+Let's see nine careers options if universe is your broad area of interest.
+
+1. **Astronomy**
+2. **Astronauts**
+3. **Space Technology**
+4. **Engineering**
+5. **Space Research/Academics**
+6. **Space Law**
+7. **Space Tourism**
+8. **Space Architecture**
+9. **Space Medicine/Psychology**
+
+If you want to read more information about careers in space you can visit the origin source : [jobs](https://www.indiatoday.in/education-today/jobs-and-careers/story/career-in-space-9-career-options-to-choose-if-space-is-your-broad-area-of-interest-1792259-2021-04-18)
+
+---
+## <a name="continents_map"></a>**_Continents_**
+
+<img src="media\continents\world-continent-map.jpg">
+<br>
+<br>
+
+---
 
 ### <a name="africa"></a>**Africa**
+
+<br>
+<img width="500" height="350" src="media\continents\africa.jpg.jpg">
+<br>
 
 **Population:** 1,275,920,972 (2018)
 </br>
 
 **Description**
 
-Africa is the world's second-largest and second-most populous continent, after Asia in both cases. At about 30.3 million km2 (11.7 million square miles) including adjacent islands, it covers 6% of Earth's total surface area and 20% of its land area. With 1.3 billion people as of 2018, it accounts for about 16% of the world's human population. Africa's population is the youngest amongst all the continents; the median age in 2012 was 19.7, when the worldwide median age was 30.4. Despite a wide range of natural resources, Africa is the least wealthy continent per capita, in part due to geographic impediments, legacies of European colonization in Africa and the Cold War, predatory/neo-colonialistic activities by Western nations and China, and undemocratic rule and deleterious policies. Despite this low concentration of wealth, recent economic expansion and the large and young population make Africa an important economic market in the broader global context.
+Africa has the  world's second place in both size and population, following Africa. It covers an area of about 30.3 million square kilometres, including the surrounding islands, and occupies 6% of the Earth's total surface area and 20% of the total land area of the planet. According to the average population estimate for 2018, it's population was estimated at 1.3 billions ,about 16% of the world's population and the youngest of all continents, with 50% of Africans being 19 years old or younger.
 
-The continent is surrounded by the Mediterranean Sea to the north, the Isthmus of Suez and the Red Sea to the northeast, the Indian Ocean to the southeast and the Atlantic Ocean to the west. The continent includes Madagascar and various archipelagos. It contains 54 fully recognised sovereign states (countries), eight territories and two de facto independent states with limited or no recognition. Algeria is Africa's largest country by area, and Nigeria is its largest by population. African nations cooperate through the establishment of the African Union, which is headquartered in Addis Ababa.
+About it's surroundings, it has the Red Sea and the Suez Canal to the northeast,  the Mediterranian Sea to the north, the Atlantic Ocean to the west and the Indian Ocean to the southeast. Africa includes Madagascar and several archipelagos. There are  54 fully recognised  states, eight regions and two de facto independent states with limited or no recognition. Africa's largest country by area is Algeria and by population is Nigeria. 
 
 Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
@@ -387,14 +527,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 
 ### <a name="antarctica"></a>**Antarctica**
 
+<br>
+<img width="500" height="350" src="media\continents\antartica.webp">
+<br>
+
 **Population:** 1,000 to 5,000 (Seasonal)
 </br>
 
 **Description**
 
-Antarctica is Earth's southernmost continent. Situated almost entirely south of the Antarctic Circle and surrounded by the Southern Ocean, it contains the geographic South Pole. Antarctica is the fifth-largest continent, being nearly twice the size of Australia, and has an area of 14,200,000 km2 (5,500,000 sq mi). Most of Antarctica is covered by ice, with an average thickness of 1.9 km (1.2 mi).
+Antarctica is the southernmost continent on Earth, where the geographic South Pole is located. It is situated in the Antarctic region of the Southern Hemisphere, almost entirely south of the Antarctic Circle, and is surrounded by the Southern Ocean. With an area of 14.0 million square kilometres, it is the fifth largest continent on the planet after Asia, Africa, North America and South America. For comparison, Antarctica is twice the size of Australia. About 98% of Antarctica's surface is covered by ice with an average thickness of at least 1.9 km.
 
-Antarctica is on average the coldest, driest, and windiest of the continents, and has the highest average elevation. It is mainly a polar desert, with annual precipitation of 200 mm (8 in) along the coast and far less inland. About 70% of the world's freshwater reserves are frozen there, which if melted would raise global sea levels by over 60 metres (200 ft). Antarctica holds the record for the lowest measured temperature on Earth, −89.2 °C (−128.6 °F). The average temperature for the third quarter (the coldest part of the year) is −63 °C (−81 °F). Native species of animals include mites, nematodes, penguins, seals and tardigrades. Vegetation consists of tundra.
+Antarctica is on average the driest, coldest and windiest continent with  the highest average elevation. Since it has an  annual precipitation of 200 mm  along the coast and much less inland, it is considered  a polar desert. It holds frozen about the 70% of fresh water, which if melted would make the global sea levels to raise by over 60 metres (200 ft). Antarctica's lowest measured temperature,and also Earth's, is  −89.2 °C (−128.6 °F). Only cold-adapted organisms can live in Antarctica, including many species of algae, animals (for example mites, nematodes, penguins, seals and sloths), bacteria, fungi, plants and protists. The vegetation, where it occurs, is of tundra type.
 
 Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
@@ -402,14 +546,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 
 ### <a name="asia"></a>**Asia**
 
+<br>
+<img width="500" height="350" src="media\continents\Asia.png">
+<br>
+
 **Population:** 4,560,667,108 (2018)
 </br>
 
 **Description**
 
-Asia is Earth's largest and most populous continent, located primarily in the Eastern and Northern Hemispheres. It shares the continental landmass of Eurasia with the continent of Europe, and the continental landmass of Afro-Eurasia with Africa and Europe. Asia covers an area of 44,579,000 square kilometres (17,212,000 sq mi), about 30% of Earth's total land area and 8.7% of the Earth's total surface area. The continent, which has long been home to the majority of the human population, was the site of many of the first civilizations. Its 4.7 billion people constitutes roughly 60% of the world's population.
+Asia is the largest and most populous of all the planet's continents, with its bigger part being located in the Eastern and Northern Hemispheres. With the continent of Europe it makes the continental landmass of Eurasia , and with both Africa and Europe the continental landmass of Afro-Eurasia. Asia occupies an area of 44,579,000 square kilometres (17,212,000 sq mi), which accounts for about 8.7% of the total surface area  and 30% of the land area of the planet. Asia, which has been hosting the biggest part of the human population, was the birthplace of many of the earliest civilizations. Its 4.7 billion inhabitants make up about 60% of the world's population.
 
-In general terms, Asia is bounded on the east by the Pacific Ocean, on the south by the Indian Ocean, and on the north by the Arctic Ocean. The border of Asia with Europe is a historical and cultural construct, as there is no clear physical and geographical separation between them. It is somewhat arbitrary and has moved since its first conception in classical antiquity. The division of Eurasia into two continents reflects East–West cultural, linguistic, and ethnic differences, some of which vary on a spectrum rather than with a sharp dividing line. The most commonly accepted boundaries place Asia to the east of the Suez Canal separating it from Africa; and to the east of the Turkish Straits, the Ural Mountains and Ural River, and to the south of the Caucasus Mountains and the Caspian and Black Seas, separating it from Europe.
+Regarding its surroundings, the continent is bordered by the Pacific Ocean  on the east,  by the Indian Ocean on the south, and  by the Arctic Ocean on the north. Asia's border with Europe is a human construct, as there is not any  physical and natural separation between them. The division of Eurasia into two continents is a result of the several East–West differences regarding their cultures, languages and ethnicities. A commonly accepted division places Asia east of the Suez Canal, which separates it from Africa; and east of the Turkish Straits, the Ural Mountains and the Ural River, and south of the Caucasus Mountains and the Caspian and Black Seas, which separate it from Europe.
 
 Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
@@ -417,14 +565,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 
 ### <a name="europe"></a>**Europe**
 
+<br>
+<img width="500" height="350" src="media\continents\Europe.png">
+<br>
+
 **Population:** 746,419,440 (2018)
 </br>
 
 **Description**
 
-Europe is a continent, also recognised as part of Eurasia, located entirely in the Northern Hemisphere and mostly in the Eastern Hemisphere. Comprising the westernmost peninsulas of the continental landmass of Eurasia, it shares the continental landmass of Afro-Eurasia with both Asia and Africa. It is bordered by the Arctic Ocean to the north, the Atlantic Ocean to the west, the Mediterranean Sea to the south and Asia to the east. Europe is commonly considered to be separated from Asia by the watershed of the Ural Mountains, the Ural River, the Caspian Sea, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Although much of this border is over land, Europe is almost always recognised as its own continent because of its great physical size and the weight of its history and traditions.
+Europe is  located entirely in the Northern Hemisphere and  in the Eastern Hemisphere.It encompasses the westernmost peninsulas of the continental mass of Eurasia and shares the continental mass of Afro-Eurasia with Asia and Africa. It is surrounded by the Arctic Ocean to the north,  the Mediterranean Sea to the south, the Atlantic Ocean to the west, and Asia to the east. Europe's commonly accepted borders with  Asia are  the Ural River, the Caspian Sea, the watershed of the Ural Mountains, the Greater Caucasus, the Black Sea and the waterways of the Turkish Straits. Despite most of its borders are land borders, Europe's great physical size and important history are enough for it to be considered its own continent.
 
-Europe covers about 10.18 million km2 (3.93 million sq mi), or 2% of the Earth's surface (6.8% of land area), making it the second-smallest continent (using the seven-continent model). Politically, Europe is divided into about fifty sovereign states, of which Russia is the largest and most populous, spanning 39% of the continent and comprising 15% of its population. Europe had a total population of about 746 million (about 10% of the world population) in 2018. The European climate is largely affected by warm Atlantic currents that temper winters and summers on much of the continent, even at latitudes along which the climate in Asia and North America is severe. Further from the sea, seasonal differences are more noticeable than close to the coast.
+By covering about 10.18 million km2 (3.93 million sq mi) and  2% of the Earth's surface (6.8% of land area), Europe is considered the second-smallest continent.  Europe is organized into about fifty different sovereign states, out of which Russia is the largest one, since it spans 39% of the continent, and the most populous one, since it comprises about 15% of the continent's population. In 2018, Europe's total population was about 746 million, which translates to 10% of the Earth's population. The continent's climate is heavily influenced by  warm Atlantic currents that moderate summers and winters across most of its land. In places  away from the sea, seasonal differences are a lot more intense than in those near the coast.
 
 Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
@@ -432,14 +584,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
 ### <a name="north_america"></a>**North America**
 
+<br>
+<img width="500" height="350" src="media\continents\north-america.jpg">
+<br>
+
 **Population:** 592,296,233 (2021)
 </br>
 
 **Description**
 
-North America is a continent in the Northern Hemisphere and almost entirely within the Western Hemisphere. It can also be described as the northern subcontinent of a single continent, America. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.
+North America is located in the Nothern Hemisphere and for its main part in th Western Hemisphere. Accordingly to the 6 continents theory, it can be considered as a subcontinent of America. It is surrounded by the Arctic Ocean to the north,  by South America and the Caribbean Sea  to the southeast,  by the Atlantic Ocean to the east, and by the Pacific Ocean to the west and south. Greenland is considered as part of North America geographically due to the fact that it's located on the North American Tectonic Plate.
 
-North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population.
+North America occupies  an area of about 24,709,000 square kilometers (9,540,000 square miles), which translates to  about 16.5% of the planet's land area and about 4.8% of its total surface. It is considered the third largest continent concerning its area, after Asia and Africa and the fourth concerning its population, following Asia, Africa and Europe. According to the United Nations average population estimation for 2021, its population is estimated at 596,592,000 inhabitants, about 7.6% of the world's population.
 
 Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
@@ -447,14 +603,18 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
 ### <a name="oceania"></a>**Oceania**
 
+<br>
+<img width="500" height="350" src="media\continents\oceania.jpg">
+<br>
+
 **Population:** 41,570,842 (2018)
 </br>
 
 **Description**
 
-Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
+Oceania was traditionally divided into the regions of Micronesia, Melanesia and Polynesia. It is located in both Eastern and Western Hemispheres, covering a land area of  8,525,989 square kilometres (3,291,903 sq mi) and hosting over 41 million people. Oceania, in comparison with the other continents, is the smallest one in size and  the second least populated continent after Antarctica.
 
-Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
+The continent has a variety of economies and cultures, since it has some of the higly developed countries with globally competitive financial markets such as  Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, but also some of the less developed economies like the ones of  Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu. It also includes medium-sized economies of  islands such as Palau, Fiji and Tonga. Australia is the number one country in Oceania both in size and population, with Sydney being the largest city.
 
 Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
@@ -462,16 +622,20 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
 ### <a name="south_america"></a>**South America**
 
+<br>
+<img width="500" height="350" src="media\continents\South_America.png">
+<br>
+
 **Population:** 423,581,078 (2018)
 </br>
 
 **Description**
 
-South America is a continent entirely in the Western Hemisphere and mostly in the Southern Hemisphere, with a relatively small portion in the Northern Hemisphere. It can also be described as the southern subregion of a single continent called America.
+South America belongs mainly in the Southern Hemisphere and entirely in the Western one. Accordingly to the 6 continents theory, it can also be considered as the southern subcontinent of a single continent, America.
 
-South America is bordered on the west by the Pacific Ocean and on the north and east by the Atlantic Ocean; North America and the Caribbean Sea lie to the northwest. The continent generally includes twelve sovereign states: Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Guyana, Paraguay, Peru, Suriname, Uruguay, and Venezuela; two dependent territories: the Falkland Islands and South Georgia and the South Sandwich Islands; and one internal territory: French Guiana. In addition, the ABC islands of the Kingdom of the Netherlands, Ascension Island (dependency of Saint Helena, Ascension and Tristan da Cunha, a British Overseas Territory), Bouvet Island (dependency of Norway), Panama, and Trinidad and Tobago may also be considered parts of South America.
+Regarding its borders, it has the Pacific Ocean on the west, the Atlantic Ocean on the north and east and  North America and the Caribbean Sea on the northwest. South America includes twelve sovereign states, two dependent territories and one internal , French Guiana. Furthermore, the ABC islands of the Kingdom of the Netherlands, Ascension Island , Bouvet Island (dependency of Norway), Panama, and Trinidad and Tobago can also be considered parts of the continent.
 
-South America has an area of 17,840,000 square kilometers (6,890,000 sq mi). Its population as of 2018 has been estimated at more than 423 million. South America ranks fourth in area (after Asia, Africa, and North America) and fifth in population (after Asia, Africa, Europe, and North America). Brazil is by far the most populous South American country, with more than half of the continent's population, followed by Colombia, Argentina, Venezuela and Peru. In recent decades, Brazil has also generated half of the continent's GDP and has become the continent's first regional power.
+South America covers a land area of 17,840,000 square kilometers (6,890,000 sq mi). In 2018, its population was estimated at about 423 millions. South America is the fourth largest continent by area, following Asia, Africa, and North America and the fifth largest by population, following Asia, Africa, Europe, and North America. The continent's most populous country is Brasil, hosting more than  50% of South America's population.
 
 Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
@@ -499,14 +663,48 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
+<<<<<<< HEAD
 The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. Because of its shape it was originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour. The fact that, it was accelerating slightly results to a sign of considering the mysterious object a comet.
+=======
+The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
+>>>>>>> e07e77bb7b1ab7c8888c8a9d9d857102204ab2e5
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
 
 ---
 
+### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
+
+<img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/1297_ESA_Rosetta_NavCam_20150131_Mosaic.jpg)
+
+**Description**
+<br>
+Discovered Oct. 22, 1969 at Alma-Ata Observatory, Russia. Klim Ivanovic Churyumov found an image of this comet while examining a photographic plate of another comet (32P/Comas Solá) taken by Svetlana Ivanova Gerasimenko on 11 September 1969.Comet 67P/ Churyumov-Gerasimenko made history as the first comet to be orbited and landed upon by robots from Earth. The Rosetta spacecraft, carrying the Philae lander, rendezvoused with this comet in August 2014 and to escorted it on its journey to the inner solar system and back out again. Rosetta is a mission of the European Space Agency (ESA) for which NASA is providing key instruments and support.
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/67p-churyumov-gerasimenko/in-depth/)
+
+---
+
+### <a name="81P_Wild"></a> **81P/Wild (Wild 2)**
+
+<img width="500" height="350" src="media/comets/81P_Wild.jpg">
+
+owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/635_Wild_2_stereo_pair_03_12_04_732.jpg)
+
+**Description**
+<br>
+81P/Wild (Wild 2) (Wild is pronounced vilt) is a small comet with the shape of a flattened sphere and measures about 1.03 x 1.24 x 1.71 miles (1.65 x 2 x 2.75 kilometers). It takes Wild 2 nearly six and a half years (6.41) to orbit the Sun once. Wild 2 last reached perihelion (closest approach to the Sun) in 2016.Comet Wild 2 is known as a fresh periodic comet. Wild 2 orbits the Sun between Mars and Jupiter, but it did not always travel the course of its orbit here. Originally, this comet's orbit lay between that of Uranus and Jupiter. On 10 Sept. 10, 1974, gravitational interactions between this comet and the planet Jupiter pulled the comet's orbit into a new shape. Paul Wild discovered this comet during its first revolution of the Sun on the new orbit
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/81p-wild/in-depth/)
+
+---
+
 ## <a name="countries"></a> **_Countries_**
+
+Country flags are available [here](https://flagicons.lipis.dev/)
 
 ### <a name="afghanistan"></a>**Afghanistan**
 
@@ -519,6 +717,14 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/o
 **Currency:** Afghan afghani (AFN)
 </br>
 **Population:** 38,928,346 (2020)
+<br>
+**Country Code (cioc):** AFG
+</br>
+**Region:** Asia
+
+**Top Attractions:** Babur Tomb, Qargha Lake, Darul Aman Palace, Band-e-Amir National Park
+<br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g659499-Activities-Afghanistan.html)
+
 <br>
 Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
@@ -537,6 +743,14 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 </br>
 **Population:** 2,877,797 (2020)
 <br>
+**Country Code (cioc):** ALB
+</br>
+**Region:** Europe
+
+**Top Attractions:** Albanian Riviera, Berat, Gjirokastra
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-albania/)
+
+<br>
 Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
 
@@ -553,6 +767,14 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 **Currency:** Algerian dinar (DZD)
 </br>
 **Population:** 43,851,044 (2020)
+<br>
+**Country Code (cioc):** ALG
+</br>
+**Region:** Africa
+
+**Top Attractions:** Le Jardin d'Essai du Hamma, Kasbah of Algiers, Fort Santa Cruz, Emir Abdelkader Mosquee
+<br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g293717-Activities-Algeria.html)
+
 <br>
 Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. The country is the largest country by total area in Africa and in the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea. It has a semi-arid geography, with most of the population living in the fertile north and the Sahara dominating the geography of the south. Algeria covers an area of 2,381,741 square kilometres (919,595 sq mi), making it the world's tenth largest nation by area, and the largest nation in Africa. With a population of 44 million, Algeria is the ninth-most populous country in Africa, and the 32nd-most populous country in the world. The capital and largest city is Algiers, located in the far north on the Mediterranean coast.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Algeria)
@@ -571,6 +793,14 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 </br>
 **Population:** 77,265 (2020)
 <br>
+**Country Code (cioc):** AND
+</br>
+**Region:** Europe
+
+**Top Attractions:** Andorra la Vella,  La Casa de la Vall, Winter Wonderland: Vallnord,  Sant Joan de Caselles Church
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/andorra-and.htm)
+
+<br>
 Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Roman Catholic Diocese of Urgell. The present principality was formed by a charter in 1278. It is headed by two co-princes: the Bishop of Urgell in Catalonia, Spain and the President of France. Its capital and largest city is Andorra la Vella.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
 
@@ -588,6 +818,14 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 </br>
 **Population:** 32,866,272 (2020)
 <br>
+**Country Code (cioc):** ANG
+</br>
+**Region:** Africa
+
+**Top Attractions:** Kissama,  The Tunda Vala Fissure, Dilolo Lake, Dala Waterfalls
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-angola/)
+
+<br>
 Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
 
@@ -604,6 +842,13 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Eastern Caribbean dollar (XCD)
 </br>
 **Population:** 97,929 (2020)
+</br>
+**Country Code (cioc):** ANT
+</br>
+**Region:** Americas
+
+**Top Attractions:** Half Moon Bay, Stingray City, 17 Mile Beach, Dickenson Bay,Nelson's Dockyard National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/antigua-and-barbuda-ant.htm)
 
 ---
 
@@ -618,6 +863,11 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Argentine Peso (ARS)
 </br>
 **Population:** 45,195,774 (2020)
+</br>
+**Country Code (cioc):** ARG
+</br>
+**Region:** Americas
+<br>
 
 ---
 
@@ -632,6 +882,11 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Dram (AMD)
 </br>
 **Population:** 2,963,900 (2021)
+</br>
+**Country Code (cioc):** ARM
+</br>
+**Region:** Asia
+<br>
 
 ---
 
@@ -646,6 +901,11 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Australian dollar (AUD)
 </br>
 **Population:** 23,401,892 (2016)
+</br>
+**Country Code (cioc):** AUS
+</br>
+**Region:** Oceania
+<br>
 
 ---
 
@@ -660,6 +920,11 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 9,006,398 (2020)
+</br>
+**Country Code (cioc):** AUT
+</br>
+**Region:** Europe
+<br>
 
 ---
 
@@ -674,6 +939,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Azerbaijani manat (AZN)
 </br>
 **Population:** 10,139,177 (2020)
+</br>
+**Country Code (cioc):** AZE
+</br>
+**Region:** Asia
 
 ---
 
@@ -688,6 +957,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bahamian dollar (BSD)
 </br>
 **Population:** 393,244 (2020)
+</br>
+**Country Code (cioc):** BAH
+</br>
+**Region:** Americas
 
 ---
 
@@ -702,6 +975,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bahraini dinar (BHD)
 </br>
 **Population:** 1,701,575 (2020)
+</br>
+**Country Code (cioc):** BRN
+</br>
+**Region:** Asia
 
 ---
 
@@ -716,6 +993,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bangladeshi taka (BDT)
 </br>
 **Population:** 164,689,383 (2020)
+</br>
+**Country Code (cioc):** BAN
+</br>
+**Region:** Asia
 
 ---
 
@@ -730,6 +1011,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Barbados Dollar (BBD)
 </br>
 **Population:** 287,375 (2020)
+</br>
+**Country Code (cioc):** BAR
+</br>
+**Region:** Americas
 
 ---
 
@@ -744,6 +1029,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Belarusian ruble (BYN)
 </br>
 **Population:** 9,349,645 (2021)
+</br>
+**Country Code (cioc):** BLR
+</br>
+**Region:** Europe
 
 ---
 
@@ -758,6 +1047,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 11,492,641 (2020)
+</br>
+**Country Code (cioc):** BEL
+</br>
+**Region:** Europe
 
 ---
 
@@ -772,6 +1065,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Belize dollar (BZD)
 </br>
 **Population:** 397,628 (2020)
+</br>
+**Country Code (cioc):** BIZ
+</br>
+**Region:** Americas
 
 ---
 
@@ -786,6 +1083,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 11,977,976 (2020)
+</br>
+**Country Code (cioc):** BEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -800,6 +1101,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bhutanese ngultrum (BTN)
 </br>
 **Population:** 7,547,937 (2020)
+</br>
+**Country Code (cioc):** BHU
+</br>
+**Region:** Asia
 
 ---
 
@@ -814,6 +1119,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bolivian boliviano (BOB)
 </br>
 **Population:** 11,977,976 (2020)
+</br>
+**Country Code (cioc):** BOL
+</br>
+**Region:** Americas
 
 ---
 
@@ -828,6 +1137,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Bosnia and Herzegovina convertible mark (BAM)
 </br>
 **Population:** 3,928,976 (2020)
+</br>
+**Country Code (cioc):** BIH
+</br>
+**Region:** Europe
 
 ---
 
@@ -842,6 +1155,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Botswana pula (BWP)
 </br>
 **Population:** 2,931,976 (2020)
+</br>
+**Country Code (cioc):** BOT
+</br>
+**Region:** Africa
 
 ---
 
@@ -856,6 +1173,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Brazilian Real (BRL)
 </br>
 **Population:** 212,559,417 (2020)
+</br>
+**Country Code (cioc):** BRA
+</br>
+**Region:** Americas
 
 ---
 
@@ -870,6 +1191,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Brunei dollar (BND)
 </br>
 **Population:** 4,928,976 (2020)
+</br>
+**Country Code (cioc):** BRU
+</br>
+**Region:** Asia
 
 ---
 
@@ -884,6 +1209,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Lev (BGN)
 </br>
 **Population:** 6,863,422 (2022)
+</br>
+**Country Code (cioc):** BUL
+</br>
+**Region:** Europe
 
 ---
 
@@ -898,6 +1227,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 21,510,181 (2020)
+</br>
+**Country Code (cioc):** BUR
+</br>
+**Region:** Africa
 
 ---
 
@@ -912,20 +1245,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Burundian franc (BIF)
 </br>
 **Population:** 12,847,976 (2020)
-
----
-
-### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
-
-<img width="300" height="300" src="media/flags/ci.svg">
-
-**Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
 </br>
-**Official Language:** French
+**Country Code (cioc):** BDI
 </br>
-**Currency:** West African CFA franc (XOF)
-</br>
-**Population:** 21,510,181 (2020)
+**Region:** Africa
 
 ---
 
@@ -940,6 +1263,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cape Verdean escudo (CVE)
 </br>
 **Population:** 5,928,976 (2020)
+</br>
+**Country Code (cioc):** CPV
+</br>
+**Region:** Africa
 
 ---
 
@@ -954,6 +1281,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cambodian riel (KHR)
 </br>
 **Population:** 16,928,976 (2020)
+</br>
+**Country Code (cioc):** CAM
+</br>
+**Region:** Asia
 
 ---
 
@@ -968,6 +1299,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 26,545,863 (2020)
+</br>
+**Country Code (cioc):** CMR
+</br>
+**Region:** Africa
 
 ---
 
@@ -982,8 +1317,41 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Canadian Dollar (CAD)
 </br>
 **Population:** 37,742,154 (2020)
+</br>
+**Country Code (cioc):** CAN
+</br>
+**Region:** Americas
 
 ---
+
+### <a name="central_african_republic"></a>**Central African Republic**
+
+<img width="300" height="300" src="media/flags/cf.svg">
+
+**Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="chad"></a>**Chad**
+
+<img width="300" height="300" src="media/flags/td.svg">
+
+**Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 14,939,976 (2020)
+
+---
+
 
 ### <a name="chile"></a>**Chile**
 
@@ -996,6 +1364,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Chilean peso (CLP)
 </br>
 **Population:** 19,116,201 (2020)
+</br>
+**Country Code (cioc):** CHI
+</br>
+**Region:** Americas
 
 ---
 
@@ -1010,6 +1382,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Renminbi (Yuan) (CNY)
 </br>
 **Population:** 1,439,323,776 (2020)
+</br>
+**Country Code (cioc):** CHN
+</br>
+**Region:** Asia
 
 ---
 
@@ -1024,9 +1400,100 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Colombian peso (COP)
 </br>
 **Population:** 50,372,424 (2020)
+</br>
+**Country Code (cioc):** COL
+</br>
+**Region:** Americas
 
 ---
 
+### <a name="comoros"></a>**Comoros**
+
+<img width="300" height="300" src="media/flags/km.svg">
+
+**Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
+</br>
+**Official Language:** Comorian, Arabic, French
+</br>
+**Currency:** Comorian franc (KMF)
+</br>
+**Population:** 8,928,976 (2020)
+
+---
+
+### <a name="congo"></a>**Congo**
+
+<img width="300" height="300" src="media/flags/cg.svg">
+
+**Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Congolese franc (CDF)
+</br>
+**Population:** 47,837,976 (2020)
+
+---
+
+### <a name="costa_rica"></a>**Costa Rica**
+
+<img width="300" height="300" src="media/flags/cr.svg">
+
+**Capital:** [San José](https://www.google.com/maps/search/San+Jose)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Costa Rican colon (CRC)
+</br>
+**Population:** 4,959,976 (2020)
+
+---
+
+### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
+
+<img width="300" height="300" src="media/flags/ci.svg">
+
+**Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
+</br>
+**Official Language:** French
+</br>
+**Currency:** West African CFA franc (XOF)
+</br>
+**Population:** 21,510,181 (2020)
+</br>
+**Country Code (cioc):** CIV
+</br>
+**Region:** Africa
+
+---
+
+### <a name="croatia"></a>**Croatia**
+
+<img width="300" height="300" src="media/flags/hr.svg">
+
+**Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
+</br>
+**Official Language:** Croatian, Bosnian, Serbian
+</br>
+**Currency:** Croatian kuna (HRK)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="cuba"></a>**Cuba**
+
+<img width="300" height="300" src="media/flags/cu.svg">
+
+**Capital:** [Havana](https://www.google.com/maps/search/Havana)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Cuban peso (CUP)
+</br>
+**Population:** 11,964,976 (2020)
+
+---
 ### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg">
@@ -1038,13 +1505,32 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+</br>
+**Country Code (cioc):** CYP
+</br>
+**Region:** Europe
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
 ---
 
+### <a name="czech_republic"></a>**Czech Republic**
+
+<img width="300" height="300" src="media/flags/cz.svg">
+
+**Capital:** [Prague](https://www.google.com/maps/search/Prague)
+</br>
+**Official Language:** Czech
+</br>
+**Currency:** Czech koruna (CZK)
+</br>
+**Population:** 10,890,976 (2020)
+
+---
+
 ### <a name="denmark"></a>**Denmark**
-<img width="300" height="300" src="media/media/flags/dk.svg">
+
+<img width="300" height="300" src="media/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
 </br>
@@ -1053,6 +1539,82 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Danish kroner (DKK)
 </br>
 **Population:** 5,834,950 (2021)
+</br>
+**Country Code (cioc):** DEN
+</br>
+**Region:** Europe
+
+---
+
+### <a name="djibouti"></a>**Djibouti**
+
+<img width="300" height="300" src="media/flags/dj.svg">
+
+**Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
+</br>
+**Official Language:** Arabic, French, Somali
+</br>
+**Currency:** Djiboutian franc (DJF)
+</br>
+**Population:** 8,869,976 (2020)
+</br>
+**Country Code (cioc):** DJI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="dominica"></a>**Dominica**
+
+<img width="300" height="300" src="media/flags/dm.svg">
+
+**Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
+</br>
+**Official Language:** English
+</br>
+**Currency:** East Caribbean dollar (XCD)
+</br>
+**Population:** 71,976 (2020)
+</br>
+**Country Code (cioc):** DMA
+</br>
+**Region:** Americas
+
+---
+
+### <a name="dominican_republic"></a>**Dominican Republic**
+
+<img width="300" height="300" src="media/flags/do.svg">
+
+**Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Dominican peso (DOP)
+</br>
+**Population:** 9,976,976 (2020)
+</br>
+**Country Code (cioc):** DOM
+</br>
+**Region:** Americas
+
+---
+
+### <a name="ecuador"></a>**Ecuador**
+
+<img width="300" height="300" src="media/flags/ec.svg">
+
+**Capital:** [Quito](https://www.google.com/maps/search/Quito)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 15,847,976 (2020)
+</br>
+**Country Code (cioc):** ECU
+</br>
+**Region:** Americas
 
 ---
 
@@ -1067,6 +1629,28 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Egyptian pound (EBP)
 </br>
 **Population:** 102,334,404 (2020)
+</br>
+**Country Code (cioc):** EGY
+</br>
+**Region:** Africa
+
+---
+
+### <a name="el_salvador"></a>**El Salvador**
+
+<img width="300" height="300" src="media/flags/sv.svg">
+
+**Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 6,931,976 (2020)
+</br>
+**Country Code (cioc):** SLV
+</br>
+**Region:** Americas
 
 ---
 
@@ -1081,40 +1665,138 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 56,286,961 (2019)
+</br>
+**Country Code (cioc):** GBR
+</br>
+**Region:** Europe
 
 England is the biggest of the four countries that are part of the United Kingdom.
 
 ---
 
-###
+### <a name="equatorial_guinea"></a>**Equatorial Guinea**
 
-<a name="fiji"></a>**Fiji**
+<img width="300" height="300" src="media/flags/gq.svg">
 
-<img width="300" height="300" src="media/flags/gb-fj.svg">
+**Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** CFA franc (XAF)
+</br>
+**Population:** 1,931,976 (2020)
+</br>
+**Country Code (cioc):** GQE
+</br>
+**Region:** Africa
+
+---
+
+### <a name="eritrea"></a>**Eritrea**
+
+<img width="300" height="300" src="media/flags/er.svg">
+
+**Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
+</br>
+**Official Language:** Tigrinya, Arabic
+</br>
+**Currency:** Nakfa (ERN)
+</br>
+**Population:** 5,939,976 (2020)
+</br>
+**Country Code (cioc):** ERI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="estonia"></a>**Estonia**
+
+<img width="300" height="300" src="media/flags/ee.svg">
+
+**Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
+</br>
+**Official Language:** Estonian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 1,534,926 (2020)
+</br>
+**Country Code (cioc):** EST
+</br>
+**Region:** Europe
+
+---
+
+### <a name="eswatini"></a>**Eswatini**
+
+<img width="300" height="300" src="media/flags/sz.svg">
+
+**Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
+</br>
+**Official Language:** English, Swati, Tshiluba
+</br>
+**Currency:** Lilangeni (SZL)
+</br>
+**Population:** 1,976,000 (2020)
+</br>
+**Country Code (cioc):** ESH
+</br>
+**Region:** Africa
+
+---
+
+### <a name="ethiopia"></a>**Ethiopia**
+
+<img width="300" height="300" src="media/flags/et.svg">
+
+**Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
+</br>
+**Official Language:** Amharic
+</br>
+**Currency:** Ethiopian birr (ETB)
+</br>
+**Population:** 92,976,000 (2020)
+</br>
+**Country Code (cioc):** ETH
+</br>
+**Region:** Africa
+
+---
+
+### <a name="fiji"></a>**Fiji**
+
+<img width="300" height="300" src="media/flags/fj.svg">
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
-**Official Language:** English, Fijian, Hindi 
+**Official Language:** English, Fijian, Hindi
 </br>
 **Currency:** Fijian Dolar (FJD)
 </br>
 **Population:** 896.444 (2020)
+</br>
+**Country Code (cioc):** FIJ
+</br>
+**Region:** Oceania
 
 ---
 
-###
+### <a name="finland"></a>**Finland**
 
-<a name="finland"></a>**Finland**
-
-<img width="300" height="300" src="media/flags/gb-fi.svg">
+<img width="300" height="300" src="media/flags/fi.svg">
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
-**Official Language:** Finnish, Swedish 
+**Official Language:** Finnish, Swedish
 </br>
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,531,000 (2020)
+</br>
+**Country Code (cioc):** FIN
+</br>
+**Region:** Europe
 
 ---
 
@@ -1129,6 +1811,28 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
+</br>
+**Country Code (cioc):** FRA
+</br>
+**Region:** Europe
+
+---
+
+### <a name="georgia"></a>**Georgia**
+
+<img width="300" height="300" src="media/flags/ge.svg">
+
+**Capital:** [Tbilisi](https://www.google.com/maps/search/Tbilisi)
+</br>
+**Official Language:** Georgian
+</br>
+**Currency:** Georgian lari (GEL)
+</br>
+**Population:** 3,728,573 (2021)
+</br>
+**Country Code (cioc):** GEO
+</br>
+**Region:** Asia
 
 ---
 
@@ -1143,6 +1847,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
+</br>
+**Country Code (cioc):** GER
+</br>
+**Region:** Europe
 
 ---
 
@@ -1157,20 +1865,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Cedi (GHS)
 </br>
 **Population:** 31,072,940 (2020)
-
----
-
-### <a name="guatemala"></a>**Guatemala**
-
-<img width="300" height="300" src="media/flags/gua.svg">
-
-**Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
 </br>
-**Official Language:** Spanish
+**Country Code (cioc):** GHA
 </br>
-**Currency:** Guatemalan quetzal (GTQ)
-</br>
-**Population:** 16.86 million (2020)
+**Region:** Africa
 
 ---
 
@@ -1185,6 +1883,28 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+</br>
+**Country Code (cioc):** GRE
+</br>
+**Region:** Europe
+
+---
+
+### <a name="guatemala"></a>**Guatemala**
+
+<img width="300" height="300" src="media/flags/gua.svg">
+
+**Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Guatemalan quetzal (GTQ)
+</br>
+**Population:** 16.86 million (2020)
+</br>
+**Country Code (cioc):** GUA
+</br>
+**Region:** Americas
 
 ---
 
@@ -1199,6 +1919,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indian rupee (INR)
 </br>
 **Population:** 1,380,004,385 (2020)
+</br>
+**Country Code (cioc):** IND
+</br>
+**Region:** Asia
 
 ---
 
@@ -1213,6 +1937,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indonesian rupiah (IDR)
 </br>
 **Population:** 273,523,615 (2020)
+</br>
+**Country Code (cioc):** INA
+</br>
+**Region:** Asia
 
 ---
 
@@ -1227,6 +1955,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iranian rial (IRR)
 </br>
 **Population:** 83,992,949 (2020)
+</br>
+**Country Code (cioc):** IRI
+</br>
+**Region:** Asia
 
 ---
 
@@ -1241,6 +1973,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iraqi dinar (IQD)
 </br>
 **Population:** 40,222,493 (2020)
+</br>
+**Country Code (cioc):** IRQ
+</br>
+**Region:** Asia
 
 ---
 
@@ -1255,6 +1991,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,035,283 (2020)
+</br>
+**Country Code (cioc):** IRL
+</br>
+**Region:** Europe
 
 ---
 
@@ -1269,6 +2009,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Israeli Sheqel (ILS)
 </br>
 **Population:** 8,655,535 (2020)
+</br>
+**Country Code (cioc):** ISR
+</br>
+**Region:** Asia
 
 ---
 
@@ -1283,6 +2027,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+</br>
+**Country Code (cioc):** ITA
+</br>
+**Region:** Europe
 
 ---
 
@@ -1297,6 +2045,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+</br>
+**Country Code (cioc):** JPN
+</br>
+**Region:** Asia
 
 ---
 
@@ -1311,6 +2063,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Kenyan shilling (KES)
 </br>
 **Population:** 53,771,296 (2020)
+</br>
+**Country Code (cioc):** KEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -1325,6 +2081,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Swiss Franc (CHF)
 </br>
 **Population:** 38,896 (2020)
+</br>
+**Country Code (cioc):** LIE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1339,6 +2099,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+</br>
+**Country Code (cioc):** LTU
+</br>
+**Region:** Europe
 
 ---
 
@@ -1353,6 +2117,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 633,622 (2020)
+</br>
+**Country Code (cioc):** LUX
+</br>
+**Region:** Europe
 
 ---
 
@@ -1367,6 +2135,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+</br>
+**Country Code (cioc):** MEX
+</br>
+**Region:** Americas
 
 ---
 
@@ -1381,6 +2153,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 38.350 (2020)
+</br>
+**Country Code (cioc):** MON
+</br>
+**Region:** Europe
 
 ---
 
@@ -1395,6 +2171,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Zealand Dollar (NZD)
 </br>
 **Population:** 5,084,000 (2020)
+</br>
+**Country Code (cioc):** NZL
+</br>
+**Region:** Oceania
 
 ---
 
@@ -1409,6 +2189,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Norwegian krone (NOK)
 </br>
 **Population:** 5,421,241 (2020)
+</br>
+**Country Code (cioc):** NOR
+</br>
+**Region:** Europe
 
 ---
 
@@ -1423,6 +2207,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Peruvian Nuevo Sol (PEN)
 </br>
 **Population:** 32,970,000 (2020)
+</br>
+**Country Code (cioc):** PER
+</br>
+**Region:** Americas
 
 ---
 
@@ -1594,6 +2382,34 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+
+---
+
+### <a name="venezuela"></a>**Venezuela**
+
+<img width="300" height="300" src="media/flags/vz.svg">
+
+**Capital:** [Caracas](https://www.google.com/maps/search/Caracas)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Bolívar digital (VED)
+</br>
+**Population:** 28,436,000 (2020)
+
+---
+
+### <a name="vietnam"></a>**Vietnam**
+
+<img width="300" height="300" src="media/flags/vt.svg">
+
+**Capital:** [Hanoi](https://www.google.com/maps/search/Hanoi+Vietnam)
+</br>
+**Official Language:** Vietnamese
+</br>
+**Currency:** đồng (₫) (VND)
+</br>
+**Population:** 97,339,000 (2020)
 
 ---
 
@@ -1820,7 +2636,7 @@ Ceres's small size means that even at its brightest it is too dim to be seen by 
 Dawn found Ceres's surface to be a mixture of water ice and hydrated minerals such as carbonates and clay. Gravity data suggest Ceres to be partially differentiated into a muddy (ice-rock) mantle/core and a less-dense but stronger crust that is at most 30% ice by volume. Ceres's small size means that any internal ocean of liquid water it may once have possessed has likely frozen by now. It is not completely frozen, however: brines still flow through the outer mantle and reach the surface, allowing cryovolcanoes such as Ahuna Mons to form at the rate of about one every 50 million years. This makes Ceres the closest known cryovolcanic body to the Sun, and the brines provide a potential habitat for microbial life.
 
 In January 2014, emissions of water vapor were detected around Ceres, creating a tenuous, transient atmosphere known as an exosphere. This was unexpected because asteroids typically do not emit vapor, a hallmark of comets.
-Source [wikipedia](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
+Source [wikipedia](<https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)>)
 
 ---
 
@@ -1866,9 +2682,33 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 ---
 
+### <a name="makemake"></a>**Makemake**
+
+<img width="500" height="375" src="media\planets\makemake.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
+
+<br>
+
+**Description**
+
+Makemake is a dwarf planet and perhaps the second-largest Kuiper belt object in the classical population, with a diameter approximately two-thirds that of Pluto.It has one known satellite. Its extremely low average temperature, about 40 K (−230 °C), means its surface is covered with methane, ethane, and possibly nitrogen ices.
+
+Makemake was discovered on March 31, 2005 by a team led by Michael E. Brown, and announced on July 29, 2005. It was initially known as 2005 FY9 and later given the minor-planet number 136472. 
+
+Makemake is currently visually the second-brightest Kuiper belt object after Pluto, having a March opposition apparent magnitude of 17.0 it will pass from its present constellation Coma Berenices to Boötes in December 2027. It is bright enough to be visible using a high-end amateur telescope.
+
+Combining the detection in infrared by the Spitzer Space Telescope and Herschel Space Telescope with the similarities of spectrum with Pluto yielded an estimated diameter from 1,360 to 1,480 km.
+
+Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.[49]
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
+
+---
+
 ## <a name="earthlikeplanets"></a> **_Earth-like Planets_**
 
-To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface. the main difference between a dwarf planet and a planet is size. Because they are smaller, dwarf planets lack the gravitational forces needed to pull in and accumulate all of the material found in their orbits.
+A planet must be small (and thus rocky) and orbit in the "habitable zone" of its star to qualify as possibly life-friendly. The "habitable zone" is informally defined as a position where water can exist in liquid form on a world's surface. The size difference between a dwarf planet and a planet is the most important distinction. Dwarf planets lack the gravitational forces required to pull in and gather all of the material in their orbits due to their relatively small size.
 
 ---
 
@@ -1878,8 +2718,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015.
-One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
+According to NASA, this exoplanet is 33 percent larger than Earth and orbits its star every 112 days. In 2015, the discovery of Kepler-442, a star 1,194 light-years from Earth, was announced. This exoplanet may receive enough light to support a vast biosphere, according to a study published in the Monthly Notices of the Royal Astronomical Society in 2021. The researchers looked at the chances of different planets being able to perform photosynthesis. They discovered that Kepler-442b gets enough radiation from its star. 
 
 ---
 
@@ -1889,8 +2728,8 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone.
-At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
+According to NASA, this planet is the first near-Earth-size planet to orbit a star the size of the sun, having been discovered in 2015. Kepler-452b is 60 times the size of Earth, and its parent star (Kepler-452) is ten times the size of the sun. The exoplanet Kepler-452 orbits in the habitable zone, and it is quite similar to our sun. Kepler-452b, which is 1.6 times the size of Earth, has a "better than even probability" of being rocky, according to its discoverers.
+The star Kepler-452b is 1,400 light-years away from Earth. Kepler-452b orbits its star in just 20 days longer than Earth does.
 
 ---
 
@@ -1900,8 +2739,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration. The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
-Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
+According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-years away from Earth, making it the closest known exoplanet. The exoplanet, found in 2016, has a mass of 1.27 times that of the Earth. Despite being in the habitable zone of its star, Proxima Centauri, the exoplanet is subjected to intense UV radiation. This is due to the fact that it orbits its parent star very closely, with an orbital period of only 11.2 days. 
 
 ---
 
@@ -1911,8 +2749,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds.
-Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
+There are the most Earth-sized planets ever discovered in the habitable zone of a single star orbiting TRAPPIST-1. There are seven worlds in this planetary system. Most of these planets' water is assumed to have evaporated during the creation of the system. However, according to a 2018 study, some of these planets may be able to contain more water than Earth's oceans. TRAPPIST-1e, one of the worlds, is regarded to be the most likely to host life as we know it. 
 
 ---
 
@@ -1922,7 +2759,8 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Gliese 667 Cc is a earth-like exoplanet, which is located approximately 22 light years away from the planet Earth. It was discovered with the European Southern Observatory's 3.6-meter telescope in Chile -using the radical velocity method- and according to NASA's Jet Propultion Laboratory, Gliese 667 Cc is estimated to be more than 4.5 times bigger in size than Earth. Moreover, Gliese is located way closer to its star, than the earth is to the sun, as it orbits its host star completely in less than 30 days. However, despite the striking distance, the environment of Gliese 667 Cc is still considered earth-like, due to the fact that its star is a Red Dwarf, which temperatures are considerabelly lower than our Sun's.
+Gliese 667 Cc is an Earth-like exoplanet that is around 22 light years away from the planet Earth. Gliese 667 Cc was discovered using the radical velocity approach using the European Southern Observatory's 3.6-meter telescope in Chile, and NASA's Jet Propultion Laboratory estimates it to be more than 4.5 times the size of Earth. Furthermore, Gliese is far closer to its star than the earth is to the sun, as it completes an orbit around its star in less than 30 days.
+Despite the great distance, Gliese 667 Cc's environment is nevertheless considered Earth-like, thanks to the fact that its star is a Red Dwarf with temperatures that are significantly lower than our Sun's.
 
 ---
 
@@ -2020,7 +2858,65 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 
 ---
 
+### <a name="triangulum_galaxy"></a>**Triangulum Galaxy**
+
+<img width="500" height="350" src="media\galaxies\Triangulum_Galaxy.jpg">
+
+owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+
+**Description**
+
+The Triangulum Galaxy is a spiral galaxy 2.73 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC 598. The Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way. It is one of the most distant permanent objects that can be viewed with the naked eye.
+
+The galaxy is the smallest spiral galaxy in the Local Group (although the smaller Large and Small Magellanic Clouds may have been spirals before their encounters with the Milky Way), and is believed to be a satellite of the Andromeda Galaxy or on its rebound into the latter due to their interactions, velocities, and proximity to one another in the night sky. It also has an H II nucleus.
+
+Under exceptionally good viewing conditions with no light pollution, the Triangulum Galaxy can be seen with the 20/20 vision naked eye; to those viewers, it will sometimes be the farthest permanent entity visible without magnification. Its light diffuses (spreads) across a little more than a pinprick of the unmagnified sky, the cause of which is its broadness – this astronomers term a diffuse, rather than compact, object.
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+
+---
+
+### <a name="sombrero_galaxy"></a>**Sombrero Galaxy**
+
+<img width="500" height="350" src="media/galaxies/Sombrero_Galaxy.jpg">
+>Image taken by Hubble Space Telescope, October 2, 2004
+
+**Description**
+
+**The Sombrero Galaxy** (also known as Messier Object 104, M104 or NGC 4594) is a spiral galaxy in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs (31.1 million light-years) from our galaxy, within the local supercluster. It has a diameter of approximately 15 kiloparsecs (49,000 light-years), **three-tenths the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. **The dark dust lane and the bulge give it the appearance of a sombrero hat**. Astronomers initially thought the halo was small and light, indicative of a spiral galaxy; but the Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, indicative of a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **making it easily visible with amateur telescopes**, and is considered by some authors to be the galaxy with the highest absolute magnitude within a radius of 10 megaparsecs of the Milky Way.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Sombrero_Galaxy)
+
+---
+
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
+
+---
+
+### <a name="satellies_overview"></a>**Overview**
+
+<img width="500" height="350" src="media\natural_satellites\Moons_of_solar_system_v7.jpg">
+
+A natural satellite is, in the most common usage, an astronomical body that orbits a planet, dwarf planet, or small Solar System body (or sometimes another natural satellite). Natural satellites are often colloquially referred to as moons, a derivation from the Moon of Earth.
+
+There are 171 moons, or natural satellites, orbiting the planets in our solar system; Earth, Mars, Jupiter, Saturn, Uranus, and Neptune have 1, 2, 66, 62, 27, and 13 moons, respectively. 
+
+What are natural satellites used for?
+
+A natural satellite in astronomy is a smaller body which moves around a larger body. The smaller body is held in orbit by gravitation. The term is used for moons which go around planets, and it is also used for small galaxies which orbit larger galaxies.
+
+Source [wiki](https://en.wikipedia.org/wiki/Natural_satellite)
+<br>Source [List of moons](https://www.britannica.com/topic/list-of-moons-2033266)
+
+
+---
+
+### <a name="europa"></a>**Europa**
+
+<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+
+Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 ---
 
@@ -2029,13 +2925,57 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia), it is the largest natural satellite in the Solar System relative to the size of a major planet, the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term. It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.
 
 Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.
-<br>Source [wiki](https://en.wikipedia.org/wiki/Moon)
+
+Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 **Watch the video below**
 
 [![Watch the video](https://img.youtube.com/vi/2iSZMv64wuU/0.jpg)](https://youtu.be/2iSZMv64wuU)
 
 ---
+
+### <a name="europa"></a>**Europa**
+
+<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+
+Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
+
+Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
+
+---
+
+### <a name="io"></a>**Io**
+
+<img width="500" height="350" src="media/natural_satellites/io.jpg">
+
+Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
+
+---
+
+### <a name="phobos"></a>**Phobos**
+
+<img width="500" height="350" src="media/natural_satellites/phobos.jpg">
+
+Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
+
+Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
+
+---
+
+### <a name="ganymede"></a>**Ganymede**
+
+<img width="500" height="350" src="media\natural_satellites\Ganymede.png">
+
+Ganymede, a satellite of Jupiter (Jupiter III), is the largest and most massive of the Solar System's moons. The ninth-largest object (including the Sun) of the Solar System, it is the largest without a substantial atmosphere. It has a diameter of 5,268 km (3,273 mi), making it 26 percent larger than the planet Mercury by volume, although it is only 45 percent as massive. Possessing a metallic core, it has the lowest moment of inertia factor of any solid body in the Solar System and is the only moon known to have a magnetic field. Outward from Jupiter, it is the seventh satellite and the third of the Galilean moons, the first group of objects discovered orbiting another planet. Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons Europa and Io, respectively.
+
+Ganymede is composed of approximately equal amounts of silicate rock and water. It is a fully differentiated body with an iron-rich, liquid core, and an internal ocean that may contain more water than all of Earth's oceans combined.Its surface is composed of two main types of terrain. Dark regions, saturated with impact craters and dated to four billion years ago, cover about a third of it. Lighter regions, crosscut by extensive grooves and ridges and only slightly less ancient, cover the remainder. The cause of the light terrain's disrupted geology is not fully known, but was likely the result of tectonic activity due to tidal heating 
+
+Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
+
+---
+
 ## <a name="space_exploration"></a> **Space Exploration**
 
 ---
@@ -2044,16 +2984,61 @@ Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 ti
 
 <img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg)
+owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
 **Description**
 
-"Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board." The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible
+"Spaceflight (or space flight) is an application of astronautics to fly spacecraft into or through outer space, either with or without humans on board". Another definion for space exploration (Britannica, 2018), is that it is considered an investigation, by means of crewed and uncrewed spacecraft, of the reaches of the universe beyond Earth’s atmosphere and the use of the information so gained to increase knowledge of the cosmos and benefit humanity.  The first theoritical proposal of space travel using rockets was published by Scottish in an 1861 essay. Fifty (50) years later Spaceflight became an possibility with the work of Robert H. Goddard's publication. His application of the de Laval nozzle to liquid fuel rockets improved efficiency enough for interplanetary travel to become possible.
+
+Humans have always looked at the heavens and wondered about the nature of the objects seen in the night sky. With the development of rockets and the advances in electronics and other technologies in the 20th century, it became possible to send machines and animals and then people above Earth’s atmosphere into outer space. Well before technology made these achievements possible, however, space exploration had already captured the minds of many people, not only aircraft pilots and scientists but also writers and artists. The strong hold that space travel has always had on the imagination may well explain why professional astronauts and laypeople alike consent at their great peril, in the words of Tom Wolfe in The Right Stuff (1979), to sit “on top of an enormous Roman candle, such as a Redstone, Atlas, Titan or Saturn rocket, and wait for someone to light the fuse.” It perhaps also explains why space exploration has been a common and enduring theme in literature and art. As centuries of speculative fiction in books and more recently in films make clear, “one small step for a man, one giant leap for mankind” was taken by the human spirit many times and in many ways before Neil Armstrong stamped humankind’s first footprint on the Moon.
+
+
+
+
+
 <br> Source [wiki](https://en.wikipedia.org/wiki/Spaceflight)
+<br> Source [britannica](https://www.britannica.com/science/space-exploration)
+
+---
+
+### <a name="major_milestones"></a> **Major Milestones**
+
+<img width="500" height="350" src="media/spaceflight/iss.webp">
+
+owned by [britannica](<https://www.britannica.com/science/space-exploration>)
+
+**Description**
+
+The first artificial Earth satellite, Sputnik 1, was launched by the Soviet Union on October 4, 1957. The first human to go into space, Yuri Gagarin, was launched, again by the Soviet Union, for a one-orbit journey around Earth on April 12, 1961. Within 10 years of that first human flight, American astronauts walked on the surface of the Moon. Apollo 11 crew members Neil Armstrong and Edwin (“Buzz”) Aldrin made the first lunar landing on July 20, 1969. A total of 12 Americans on six separate Apollo missions set foot on the Moon between July 1969 and December 1972. Since then, no humans have left Earth orbit, but more than 500 men and women have spent as many as 438 consecutive days in space. Starting in the early 1970s, a series of Soviet (Russian from December 1991) space stations, the U.S. Skylab station, and numerous space shuttle flights provided Earth-orbiting bases for varying periods of human occupancy and activity. From November 2, 2000, when its first crew took up residence, to its completion in 2011, the International Space Station (ISS) served as a base for humans living and working in space on a permanent basis. It will continue to be used in this way until at least 2024.
+
+ince 1957 Earth-orbiting satellites and robotic spacecraft journeying away from Earth have gathered valuable data about the Sun, Earth, other bodies in the solar system, and the universe beyond. Robotic spacecraft have landed on the Moon, Venus, Mars, Titan, a comet, and four asteroids, have visited all the major planets, and have flown by Kuiper belt objects and by the nuclei of comets, including Halley’s Comet, traveling in the inner solar system. Scientists have used space-derived data to deepen human understanding of the origin and evolution of galaxies, stars, planets, and other cosmological phenomena.
+
+Orbiting satellites also have provided, and continue to provide, important services to the everyday life of many people on Earth. Meteorologic satellites deliver information on short- and long-term weather patterns and their underlying causes. Other Earth-observation satellites remotely sense land and ocean areas, gathering data that improve management of Earth’s resources and that help in understanding global climate change. Telecommunications satellites allow essentially instantaneous transfer of voice, images, and data on a global basis. Satellites operated by the United States, Russia, China, Japan, India, and Europe give precision navigation, positioning, and timing information that has become essential to many terrestrial users. Earth-observation satellites have also become extremely useful to the military authorities of several countries as complements to their land, sea, and air forces and have provided important security-related information to national leaders.
+
+As the many benefits of space activity have become evident, other countries have joined the Soviet Union and the United States in developing their own space programs. They include a number of western European countries operating both individually and, after 1975, cooperatively through the European Space Agency, as well as China, Japan, Canada, India, Israel, Iran, North Korea, South Korea, and Brazil. By the second decade of the 21st century, more than 50 countries had space agencies or other government bodies carrying out space activities.
+
+
+
+
+
+<br> Source [britannica](https://www.britannica.com/science/space-exploration)
 
 ---
 
 ## <a name="stars"></a> **_Stars_**
+
+---
+
+### <a name="betelgeuse"></a>**Betelgeuse**
+
+<img width="358" height="550" src="media/stars/Betelgeuse.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
+
+**Description**
+
+Betelgeuse belongs in the constellation of Orion and is one of the largest stars that can be seen with the naked eye. It also considered that it is a single isolated runaway star and that it is usually in the top 10 brightest stars in the sky. Additionally, Betelgeuse is the first extrasolar star that its photosphere's angular size was measured (0.042 to 0.056 arcseconds).
+<br> Source [wiki](https://en.wikipedia.org/wiki/Betelgeuse)
 
 ---
 
@@ -2085,6 +3070,184 @@ owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integ
 
 Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
+
+---
+
+### <a name="vega"></a>**Vega**
+
+<img width="480" height="480" src="media/stars/Vega.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
+
+**Description**
+
+Vega belongs in the constellation of Lyra and it is the brightest star in it. Vega is a huge star (approximately 2.1 times massive as the sun) and  it is relatively close to us, at 25 light-years from Earth. It was also the first star besides the sun that we were able to photograph and based on observations it is belileved that it has a circumstellar disk of dust. Lastly, many years ago Vega was used as the North Star is today.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Vega)
+
+---
+
+### <a name="interestingstars"></a>**Most interesting stars**
+
+---
+
+**The Star That Likes To Take A Break Every Once In A While!**
+<br>
+<img width="600" height="350" src="media\stars\vanishing_star.jpg">
+
+<br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
+This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
+
+<br>So what's interesting about this star? Well, this star likes to disappears every once in a while!
+It was discovered in December 2008 and at first was thought to be just a regular pulsar. Over the next 1 year scientists studied this star and right before when they were about to conclude the observations, this star disappeared! The group of scientists at first thought that there's some problem with their equipment but after several tests it was concluded that the pulsar was no longer there. The star turned off!
+
+<br>We know that about 100 out of 2000 known pulsars stop pulsating but only for a few minutes to hours. This process is called "nulling". Pulsars continuously emits radio pulses and we see them by catching these radio pulses. When they stop, they stop emitting the radio pulses as well, and therefore we can't see them during this period.
+
+<br>Scientists observed this mystery star for about a year and a half in the hope that the pulsar would return and then eventually it did in August 2011, after 580 days! Scientists knew that they have found a rare subspecies of pulsar.It is still a mystery what causes these stars to go invisible. By measuring the radio pulses from the star scientists can measure how fast is it spinning. The massive currents in the magnetosphere of pulsars helps in the spinning of this star and when this current stops flowing the pulsars slows down and eventually stop. But what causes the stoppage of this current flow is not know yet.
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**Swift J1644+57: The Star That Got Eaten By A Blackhole**
+<br>
+<img width="600" height="350" src="media\stars\star_black_hole.webp">
+
+<br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
+About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
+<br>
+The event took place in another, smaller galaxy. It was first noticed when scientist received a huge amount of X-rays and γ-rays from a previously quite part of the universe. On further observations it was found that the beam was coming from the center of another galaxy. Later on it was concluded that the beam was coming from a "jet" released after a black hole consumed a star. The jet accelerated away from the site of the event at 99.5% the light's speed!
+
+<br>Most of the galaxies contains a central super-sized black hole. According to the studies it's been suggested that the black hole involved in this event is 1 millions times larger than the mass of Sun!
+
+
+<br>This is what happens when a star fall into a black hole:
+The star is ripped apart by the intense tides and leads to the formation of a gaseous disk that swirls around the black hole and gets heated up to millions of degrees. The innermost gas in the disk spirals towards the black hole, and because of the rapid motion and magnetism a dual, oppositely directed funnels are created through which some particles escape, known as jet. In case of Swift J1644+57 one of these jets pointed straight towards the Earth.
+
+<br>The timing considerations suggested that the star that got devoured was a white dwarf. This is for the first time that scientists witnessed this type of event from the beginning.
+Another interesting fact is that the site of this event is so far away that it took 3.9 billion years for the light from there to reach Earth! So, it's pretty old event in actuality!
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**The Star That's Older Than The Universe!**
+<br>
+<img width="600" height="350" src="media\stars\oldest_star.webp">
+
+<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b> Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
+
+<br>However, the exact age of the star and the universe cannot be predicted. There are uncertainties in the value. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. I guess we'll never know which one is it (or maybe in distant future), but it's a possibility, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
+
+<br>Facts:
+<br>This star is the oldest star known. There are other features of this star that also suggest that it's a pretty old star. First of all it's a sub-giant star, i.e. it's not a red giant, rather heading towards the red giant stage ('nearing end' stage of a star). Secondly, it belongs to population II group of stars. Population II stars have a low content of metals. Now, in astronomy "metals" is anything that's not hydrogen or helium. Hydrogen and helium are the two elements that were produced by the big bang. So first generation of the stars (population III stars) had no metal at all. The first generation survived for only a few millions of years and then ended their lives in supernova explosions. A second generation of stars, population II, were then formed from the remnant of first generation, and this generation had some degree (but still low amount) of metals in them. Population I are the younger generations stars that has high levels of metal in them. Our Sun is an example of population I stars.
+
+<br>This star was born in a primeval dwarf galaxy and was later on gravitationally shredded and devoured by our emerging Milky Way galaxy over 12 billion years ago. It has an elongated orbit that encircles the milky way. Hence, it passes through our solar neighborhood, making it visible to naked eyes, with a speed of 800,000 miles per hour!
+
+<br>Well, this is the oldest star that we know of. Who knows there are much older stars somewhere out there?
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+**HV 2112: The Star Inside A Star!**
+<br>
+<img width="600" height="350" src="media\stars\star_inside_star.webp">
+
+<br> <b>4. HV 2112: The Star Inside A Star!</b>
+Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light years away in the nearby dwarf galaxy called the Small Magellanic Cloud, or Nebucula Minor, in the Tucana constellation.
+
+<br>The existence of this star was predicted about 40 years ago by physicist Kip Thorne and astronomer Anna Zytkow! In 1975 they proposed the existence of a hybrid object, known as Thorne-Zytkow object.
+
+<br>Thorne-Zytkow object is a type of star which is formed by the collision of a red giant or supergiant star with a neutron star. Basically what happens is: a star goes into supernova and leads to the formation of a neutron star. But then a passing by red supergiant star collides with the neutron star and absorbs it forming a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
+
+<br>These objects differ from a normal red supergiant in their chemical fingerprints. From the outside it sure looks like a red supergiant but inside it is rich in rubidium, strontium, yttrium, zirconium, molybdenum and lithium. The light emitted from HV2112 was studied and it was found that the light was highly rich in these elements. A normal red supergiant also have these components but not in such high amount.
+
+<br>This star is the only one of its kind! It is the first ever Thorne-Zytkow object to be discovered. But studies are still going on to confirm that HV 2112 is a hybrid star.
+
+<br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
+
+---
+
+## <a name="asteroids"></a>**Asteroids**
+
+---
+
+### <a name="Overview"></a>**Overview**
+<b>Asteroids</b> are small, rocky objects that orbit the Sun. Asteroids orbit the Sun like planets, butthey are much smaller than planets. There are lots of asteroids in our solar system. Most of them are located in the main asteroid belt – a region between the orbits of Mars and Jupiter.
+<br>
+Millions of asteroids exist: many are shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets. 
+
+Asteroids are somewhat arbitrarily differentiated from comets and meteoroids. In the case of comets, the difference is one of composition: while asteroids are mainly composed of mineral and rock, comets are primarily composed of dust and ice. Furthermore, asteroids formed closer to the sun, preventing the development of cometary ice. The difference between asteroids and meteoroids is mainly one of size: meteoroids have a diameter of one meter or less, whereas asteroids have a diameter of greater than one meter. Finally, meteoroids can be composed of either cometary or asteroidal materials.
+<br>
+Only one asteroid, Vesta, which has a relatively reflective surface, is normally visible to the naked eye, and this is only in very dark skies when it is favorably positioned. Rarely, small asteroids passing close to Earth may be visible to the naked eye for a short time.[6] As of March 2020, the Minor Planet Center had data on 930,000 minor planets in the inner and outer Solar System, of which about 545,000 had enough information to be given numbered designations.
+<br>
+The United Nations declared 30 June as International Asteroid Day to educate the public about asteroids. The date of International Asteroid Day commemorates the anniversary of the Tunguska asteroid impact over Siberia, Russian Federation, on 30 June 1908.
+<br>
+In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be hit [by a devastating asteroid], but we're not 100 percent sure when.". Also in 2018, physicist Stephen Hawking, in his final book Brief Answers to the Big Questions, considered an asteroid collision to be the biggest threat to the planet. In June 2018, the US National Science and Technology Council warned that America is unprepared for an asteroid impact event, and has developed and released the "National Near-Earth Object Preparedness Strategy Action Plan" to better prepare.According to expert testimony in the United States Congress in 2013, NASA would require at least five years of preparation before a mission to intercept an asteroid could be launched.
+<br><br>
+<img width="500" height="350" src="media\asteroids\asteroids.jpg">
+
+<br>Discovery timeline:
+<br>10 by 1849
+<br>1 Ceres, 1801
+<br>2 Pallas – 1802
+<br>3 Juno – 1804
+<br>4 Vesta – 1807
+<br>5 Astraea – 1845
+<br>6 Hebe – July 1847
+<br>7 Iris – August 1847
+<br>8 Flora – October 1847
+<br>9 Metis – 25 April 1848
+<br>10 Hygiea – 12 April 1849 
+<br>100 asteroids by 1868
+<br>1,000 by 1921
+<br>10,000 by 1989
+<br>100,000 by 2005
+<br>1,000,000 by 2020
+<br> Source [wiki](https://en.wikipedia.org/wiki/Asteroid)
+<br>
+<br>
+<b>Ceres, Pallas, and Vesta are the three largest asteroids. Even though they are much smaller than the planets (Ceres, the largest asteroid, has only 1% the mass of the Moon), they are still capable of causing changes in the orbits of Mars and the Earth.</b>
+
+---
+
+### <a name="ceres_asteroid"></a>**Ceres**
+<br>
+<img width="600" height="300" src="media/planets/ceres.jpg">
+<br>
+<b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. Originally considered a planet, it was reclassified as an asteroid in the 1850s after the discovery of dozens of other objects in similar orbits. In 2006, it was reclassified again as a dwarf planet – the only one always inside Neptune's orbit – because, at 940 km (580 mi) in diameter, it is the only asteroid large enough for its gravity to make it plastic and to maintain it as a spheroid.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
+
+---
+
+### <a name="pallas"></a>**Pallas**
+<br>
+<img width="600" height="300" src="media\asteroids\Pallas.jpg">
+<br>
+<b>Pallas</b> is the second asteroid to have been discovered, after Ceres. It is believed to have a mineral composition similar to carbonaceous chondrite meteorites, like Ceres, though significantly less hydrated than Ceres. It is the third-largest asteroid in the Solar System by both volume and mass, and is a likely remnant protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
+
+During the planetary formation era of the Solar System, objects grew in size through an accretion process to approximately the size of Pallas. Most of these protoplanets were incorporated into the growth of larger bodies, which became the planets, whereas others were ejected by the planets or destroyed in collisions with each other. Pallas, Vesta and Ceres appear to be the only intact bodies from this early stage of planetary formation to survive within the orbit of Neptune.
+
+When Pallas was discovered by the German astronomer Heinrich Wilhelm Matthäus Olbers on 28 March 1802, it was considered to be a planet, as were other asteroids in the early 19th century. The discovery of many more asteroids after 1845 eventually led to the separate listing of "minor" planets from "major" planets, and the realization in the 1950s that such small bodies did not form in the same way as (other) planets led to the gradual abandonment of the term "minor planet" in favor of "asteroid" (or, for larger bodies such as Pallas, "planetoid").
+
+With an orbital inclination of 34.8°, Pallas's orbit is unusually highly inclined to the plane of the asteroid belt, making Pallas relatively inaccessible to spacecraft, and its orbital eccentricity is nearly as large as that of Pluto.
+<br> Source [wiki](https://en.wikipedia.org/wiki/2_Pallas)
+
+---
+
+### <a name="vesta"></a>**Vesta**
+<br>
+<img width="600" height="300" src="media\asteroids\Vesta.jpg">
+<br>
+<b>Vesta</b> is one of the largest objects in the asteroid belt, with a mean diameter of 525 kilometres (326 mi).[10] It was discovered by the German astronomer Heinrich Wilhelm Matthias Olbers on 29 March 1807[8] and is named after Vesta, the virgin goddess of home and hearth from Roman mythology.
+
+Vesta is thought to be the second-largest asteroid, both by mass and by volume, after the dwarf planet Ceres, though in volume it overlaps with the uncertainty in the measurements of 2 Pallas. Measurements give it a nominal volume only slightly larger than that of Pallas (about 5% greater, which is the magnitude of the uncertainties in measurement), but it is 25% to 30% more massive. It constitutes an estimated 9% of the mass of the asteroid belt.Vesta is the only known remaining rocky protoplanet (with a differentiated interior) of the kind that formed the terrestrial planets. Numerous fragments of Vesta were ejected by collisions one and two billion years ago that left two enormous craters occupying much of Vesta's southern hemisphere. Debris from these events has fallen to Earth as howardite–eucrite–diogenite (HED) meteorites, which have been a rich source of information about Vesta.
+
+Vesta is the brightest asteroid visible from Earth. It is regularly as bright as magnitude 5.1, at which times it is faintly visible to the naked eye. Its maximum distance from the Sun is slightly greater than the minimum distance of Ceres from the Sun, though its orbit lies entirely within that of Ceres.
+
+NASA's Dawn spacecraft entered orbit around Vesta on 16 July 2011 for a one-year exploration and left the orbit of Vesta on 5 September 2012 en route to its final destination, Ceres. Researchers continue to examine data collected by Dawn for additional insights into the formation and history of Vesta.
+<br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
 
 ---
 
@@ -2133,12 +3296,11 @@ The area of the Atlantic without its dependent seas is approximately 31,568,000 
 
 The Atlantic Ocean occupies an elongated, S-shaped basin extending longitudinally between Europe and Africa to the east, and the Americas to the west. As one component of the interconnected World Ocean, it is connected in the north to the Arctic Ocean, to the Pacific Ocean in the southwest, the Indian Ocean in the southeast, and the Southern Ocean in the south (other definitions describe the Atlantic as extending southward to Antarctica).
 
-Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below −2 °C (28 °F) to over 30 °C (86 °F). 
+Surface water temperatures, which vary with latitude, current systems, and season and reflect the latitudinal distribution of solar energy, range from below −2 °C (28 °F) to over 30 °C (86 °F).
 
 The Coriolis effect circulates North Atlantic water in a clockwise direction, whereas South Atlantic water circulates counter-clockwise. On average, the Atlantic is the saltiest major ocean; surface water salinity in the open ocean ranges from 33 to 37 parts per thousand (3.3–3.7%) by mass and varies with latitude and season. Evaporation, precipitation, river inflow and sea ice melting influence surface salinity values. Although the lowest salinity values are just north of the equator (because of heavy tropical rainfall), in general, the lowest values are in the high latitudes and along coasts where large rivers enter. Maximum salinity values occur at about 25° north and south, in subtropical regions with low rainfall and high evaporation.
 
 <br> Source [britannica](https://www.britannica.com/place/Atlantic-Ocean)
-
 
 ---
 
@@ -2171,7 +3333,6 @@ Endangered marine species in the Arctic Ocean include walruses and whales. The a
 <br> Source [britannica](https://www.britannica.com/place/Arctic-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Arctic_Ocean)
 
-
 ---
 
 ## <a name="indian_ocean"></a> **Indian Ocean**
@@ -2194,11 +3355,8 @@ The ocean's currents are mainly controlled by the monsoon. Two large gyres, one 
 
 As the youngest of the major oceans, the Indian Ocean has active spreading ridges that are part of the worldwide system of mid-ocean ridges. In the Indian Ocean these spreading ridges meet at the Rodrigues Triple Point with the Central Indian Ridge, including the Carlsberg Ridge, separating the African Plate from the Indian Plate; the Southwest Indian Ridge separating the African Plate from the Antarctic Plate; and the Southeast Indian Ridge separating the Australian Plate from the Antarctic Plate. The Central Indian Ridge is intercepted by the Owen Fracture Zone. Since the late 1990s, however, it has become clear that this traditional definition of the Indo-Australian Plate cannot be correct; it consists of three plates — the Indian Plate, the Capricorn Plate, and Australian Plate — separated by diffuse boundary zones. Since 20 Ma the African Plate is being divided by the East African Rift System into the Nubian and Somalia plates.
 
-
-
 <br> Source [britannica](https://www.britannica.com/place/Indian-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Indian_Ocean)
-
 
 ---
 
@@ -2218,11 +3376,8 @@ The volume of the Pacific Ocean, representing about 50.1 percent of the world's 
 
 The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.
 
-
-
 <br> Source [britannica](https://www.britannica.com/place/Pacific-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Pacific_Ocean)
-
 
 ---
 
@@ -2244,12 +3399,8 @@ The Southern Ocean, geologically the youngest of the oceans, was formed when Ant
 
 With a northern limit at 60°S, the Southern Ocean differs from the other oceans in that its largest boundary, the northern boundary, does not abut a landmass (as it did with the first edition of Limits of Oceans and Seas). Instead, the northern limit is with the Atlantic, Indian and Pacific Oceans.
 
-
-
-
 <br> Source [britannica](https://www.britannica.com/place/Southern-Ocean)
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Southern_Ocean)
-
 
 ---
 
@@ -2263,13 +3414,13 @@ Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
 ### <a names="drake_equation"></a>**Drake equation.**
 
-Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy. 
+Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy.
 
 <img width="750" height="300" src="media/extraterrestrial_life/Drake_equation.jpg">
 
 owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
-When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
+When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R\*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
 
 Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https://earthsky.org/space/most-stars-have-planets-in-habitable-zone) , [keckobservatory](https://keckobservatory.org/one_in_five_stars_has_earth_sized_planet_in_habitable_zone)
 
@@ -2299,7 +3450,7 @@ Sources [wiki](https://en.wikipedia.org/wiki/Kardashev_scale) , [astrobites](htt
 
 The Fermi paradox is the conflict between the lack of clear, obvious evidence for extraterrestrial life and various high estimates for their existence. As a 2015 article put it, "If life is so easy, someone from somewhere must have come calling by now."
 
-The great Italian-born physicist Enrico Fermi once asked some colleagues he was having lunch with the question: “Where are they?”, referring to the absence of any signs of extraterrestrial intelligences. This absence puzzled him, and his question later became known as Fermi’s paradox. 
+The great Italian-born physicist Enrico Fermi once asked some colleagues he was having lunch with the question: “Where are they?”, referring to the absence of any signs of extraterrestrial intelligences. This absence puzzled him, and his question later became known as Fermi’s paradox.
 
 Maybe no civilization has managed to travel with speed greater than the speed of light. But even at speeds close to 10% of the speed of light a civilization could cross the entire Galaxy in the span of a million years. A number like that seems far too big, but it is actually just the 0.0077% of the age of the Galaxy. So there was plently of time for civilizations to colonize the entire Galaxy.
 
@@ -2375,11 +3526,26 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ## <a name="frequent_questions"></a> **Frequent questions**
 
-### <a name="frequent_questions_stars"></a> **1. questions about stars**
+### <a name="frequent_questions_stars"></a> **Questions about Stars**
 
 - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
 - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
 - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
+
+### <a name="frequent_questions_multiple_universe"></a> **Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
+
+### <a name="frequent_questions_planets"></a> **Questions about Planets**
+- How many planets are there in our solar system? [Answer/ Source](https://space-facts.com/faq/)
+- What is the smallest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What is the largest planet? [Answer/ Source](https://space-facts.com/faq/)
+- Which planet is closest to the Sun? [Answer/ Source](https://space-facts.com/faq/)
+- Which planet is farthest from the Sun? [Answer/ Source](https://space-facts.com/faq/)
+- What is the coldest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What is the hottest planet? [Answer/ Source](https://space-facts.com/faq/)
+- What are the inner planets? [Answer/ Source](https://space-facts.com/faq/)
+- What are the outer planets? [Answer/ Source](https://space-facts.com/faq/)
+- Which planets have rings? [Answer/ Source](https://space-facts.com/faq/)
+- Is there life on other planets? [Answer/ Source](https://space-facts.com/faq/)
 
 ---
 
@@ -2392,19 +3558,33 @@ These are some excamples of what they offer to their users.
 
 <img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
 
+<br>
+
 ### <a name="meme_2"></a>**Meme 2.**
 
 <img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
+
+<br>
 
 ### <a name="meme_3"></a>**Meme 3.**
 
 <img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
+<br>
+
 ### <a name="meme_4"></a>**Meme 4.**
 
 <img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
 
+<br>
+
 ### <a name="meme_5"></a>**Meme 5.**
+
+<img width="350" height="350" src="media\memes\new_telescope_meme.jpg">
+
+<br>
+
+### <a name="meme_6"></a>**Meme 6.**
 
 <img width="350" height="350" src="media\memes\infinite_things.jpg">
 
@@ -2413,28 +3593,192 @@ These are some excamples of what they offer to their users.
 source [starlust](https://starlust.org/space-memes/)
 
 ---
+## <a name="cosmos_books"></a>**Cosmos Books**
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+--- 
+
+### <a name="book_1"></a>**A Brief History of Time**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
+<br>Author: Stephen Hawking, 
+Publisher: Bantam (1988)
+<br>
+
+**Description**
+
+Stephen Hawking explains the universe. In this best-seller, the renowned physicist breaks down black holes, space and time, the theory of general relativity and much more, and makes it accessible to those of us who aren't rocket scientists. The book is a great primer for anyone who wants to learn more about the origins of the universe and where it's all heading. 
+
+Hawking's death at age 76 was announced March 14, 2018. You can read more about his incredibly life and work on our Stephen Hawking biography page.
+
+If this seems a bit heavy for you though, "A Briefer History of Time," published first in 2005 in collaboration with Leonard Mlodinow, offers a more accessible update on the science of the first book.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_2"></a>**The Human Cosmos: A Secret History of the Stars**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
+<br>Author: Jo Marchant, 
+Publisher: Canongate Books (2020)
+<br>
+
+**Description**
+
+Prepare for a cosmic view of our place in universal history with this enlightening volume where celestial cycles permeate our Earthly lives. Marchant’s book delves into our centuries-old relationship with the stars that shaped our personalities, religious beliefs, power structures, scientific advances, and even our biology. Over the last few centuries we seem to have distanced ourselves from the universe that surrounds us and that’s the topic she focuses on here.
+
+Marchant guides readers on a tour through the history of humanity’s relationship with the heavens and the costs of our separation from its influence. From the Hall of the Bulls in Lascaux to witness the winter solstice at an ancient tomb at Newgrange, to a visit with Medieval monks grappling with the nature of time, and native Tahitian sailors navigating by the stars, it’s a re-examination of the potential of the universe we inhabit, its wonder, and its effect on our health.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_3"></a>**Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky)**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Constellations.webp">
+<br>Author: Govert Schilling, 
+Cartographer: Wil Tirion, 
+Publisher: Black Dog & Leventhal (2019)
+<br>
+
+**Description**
+
+This lavishly adorned guide to all 88 constellations in the night sky, complete with an illustrated star map for each one by esteemed stellar cartographer Wil Tirion, provides the exact location of every constellation, the details of its structure, and data on its surrounding astronomical neighbors. 
+
+Award-winning astronomy writer Govert Schilling takes us on this splendid visual tour, offering a complete history of astronomy via the lens of the constellations themselves. Organized alphabetically by constellation, his stargazing companion profiles each shining formation and includes basic info including size, visibility, and number of stars, as well as information on the discovery and official naming of the constellations and associated legends surrounding them.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_4"></a>**Cosmos**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Cosmos.webp">
+<br>Author: Carl Sagan, 
+Publisher: Random House (1980)
+<br>
+
+**Description**
+
+"Cosmos," by famed astronomer and science communicator Carl Sagan, is a deep dive into the history of science, philosophy and the universe. The book acts as a partner with Sagan's beloved 1980s TV show, "Cosmos: A Personal Voyage." 
+
+This book is a beautiful glimpse inside one of the greatest scientific minds in history. While some of it may seem dated, the book still stands up as one of the best popular science books ever written, and the language is just beautiful. ~Miriam Kramer
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_5"></a>**Missions To Mars**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Missions_To_Mars.webp">
+<br>Author: Larry S. Crumpler, 
+Publisher: Harper Design (2021)
+<br>
+
+**Description**
+
+With all the recent attention paid to the Red Planet, it’s nice to see a new book detailing all the excursions mankind has made to our ruddy-colored neighbor. Check out this insider account of NASA’s most important missions to Mars, injected with full-color photographs, and satellite imagery chronicling our voyage of discovery and search for evidence of organic life on the planet. 
+
+Author Dr. Larry Crumpler is one of the long-term planning leads for the Mars Exploration Rover Project, where he assisted in the daily communications between NASA and the rovers crawling around the planet to collect scientific data. In this informative planetary biography, Dr. Crumpler recounts the history of the Red Planet, from ancient times to pioneering discoveries being revealed by modern technology, including some of the first images from the Perseverance rover.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_6"></a>**Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Stars_and_planets.jpg.webp">
+<br>Authors: Ian Ridpath and Wil Tirion,
+Publisher: Princeton University Press (2017)
+<br>
+
+**Description**
+
+Here’s an indispensable book to those of us who venture out in the early hours of the morning to catch a glimpse of a rising planet or shimmering star. In this updated and expanded edition of their classic compendium, Ridpath and Tirion offer newbie stargazers and pro astronomers the most informative, comprehensive, and authoritative celestial field guide available. 
+
+It’s the work of a 30-year collaboration between one of the world’s leading astronomy experts and the planet’s foremost celestial mapmaker, and spotlights vivid color sky charts, diagrams, and photographs with clear writing, an attractive design, and an easy-to-carry, compact size. Includes the latest info on stars, a revised chapter on recent research on exoplanets, revised charts, and new photographs covering all 88 constellations in the Northern and Southern Hemispheres, and detailed Moon maps. It even has top tips on choosing and using binoculars and telescopes.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_7"></a>**Sun Moon Earth**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Sun_moon_earth.jpg.webp">
+<br>Author: Tyler Nordgren,
+Publisher: Basic Books (2016)
+<br>
+
+**Description**
+
+Throughout history, solar eclipses have transformed from terrifying omens to the subject of scientific study. In "Sun Moon Earth: The History of Solar Eclipses from Omens of Doom to Einstein and Exoplanets," astronomer-artist Tyler Nordgren traces the natural history of eclipses and how they have inspired eclipse chasers to travel the world and witness the natural phenomenon.
+
+Nordgren's narrative also details how observations of total solar eclipses have contributed to scientific discoveries about the sun, moon and Earth's place in the universe throughout history. ~ Samantha Mathewson
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_8"></a>**The Mysteries of the Universe**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\books\Mysteries_of_the_universe.jpg.webp">
+<br>Author: Will Gater,
+Publisher: DK Children (2020)
+<br>
+
+**Description**
+
+This beautifully illustrated and alluring volume is aimed at younger minds interested in astronomy. Children can encounter strange planets, distant stars, and elaborate galaxies. From asteroids to black holes, each page of this entertaining book reveals the secrets behind more than 100 celestial objects. 
+
+Your little astronauts can embark on a journey out into the far reaches of the universe courtesy of storybook-style descriptions and simple text that delivers cool facts, myths, and key discoveries in a fun way. Its 224 pages are arranged to present heavenly objects from the closest to Earth to those furthest away, all matched with colorful, out-of-this-world pictures ideal for an educational astronomy-style bedtime.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
 
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
+
 <img width="500" height="350" src="media\movies\midnightsky.jpg">
-In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
+A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
+
 <img width="500" height="350" src="media\movies\gravity.jpg">
-On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
+Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
+
 <img width="500" height="350" src="media/movies/interstellar.jpg">
-A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
+
 <img width="500" height="350" src="media/movies/europa_report.jpg">
-An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
+
 <img width="500" height="350" src="media/movies/apollo13.jpg">
-he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing and turns the mission into one of seeking scientific and mechanical solutions to get the three men home safely.
+The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ---
 
@@ -2444,7 +3788,7 @@ he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13
 
 Cosmos is a collection of three science documentary television series presented first by Carl Dagan and then by Neil deGrasse Tyson.
 
-### <a name="cosmos_1"></a>*Cosmos: A Personal Voyage (1980)**
+### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
 <img width="500" height="350" src="media\series\cosmos1.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
@@ -2459,7 +3803,7 @@ IMDb Rating: 9.3
 
 source [imdb](https://www.imdb.com/title/tt0081846/)
 
-### <a name="cosmos_2"></a>*Cosmos: A Spacetime Odyssey (2014)**
+### <a name="cosmos_2"></a>\*Cosmos: A Spacetime Odyssey (2014)\*\*
 
 <img width="500" height="350" src="media\series\cosmos2.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
@@ -2474,7 +3818,7 @@ IMDb Rating: 9.3
 
 source [imdb](https://www.imdb.com/title/tt2395695/)
 
-### <a name="cosmos_3"></a>*Cosmos: Possible Worlds (2020)**
+### <a name="cosmos_3"></a>\*Cosmos: Possible Worlds (2020)\*\*
 
 <img width="500" height="350" src="media\series\cosmos3.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
@@ -2491,6 +3835,383 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
-## Credits
+## <a name="personalities"></a> **_Admired Personalities_**
 
-Country flags are available [here](https://flagicons.lipis.dev/)
+### <a name="Gandhi"></a>**Mahatma Gandhi**
+
+<img width="300" height="300" src="media/personalities/Gandhi.jpg">
+
+
+Mohandas Karamchand Gandhi (October 2, 1869 - January 30, 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist, and political ethicist who led the successful campaign for India's independence from British rule through nonviolent resistance and later inspired movements for civil rights and freedom around the world. The honorary title Mahātmā, first applied to him in South Africa in 1914, is now used throughout the world. As such, he was considered the father of his country. Gandhi is internationally respected for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
+
+source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
+
+---
+
+### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
+
+<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+
+Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+
+On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+
+---
+
+### <a name="Mandela"></a>**Nelson Mandela**
+
+<img width="300" height="300" src="media/personalities/Mandela.jpg">
+
+Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
+
+
+source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
+
+---
+
+### <a name="Luther_King"></a>**Martin Luther King**
+
+<img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
+
+Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+
+---
+
+### <a name="Einstein"></a>**Albert Einstein**
+
+<img width="300" height="300" src="media/personalities/Einstein.jpg">
+
+Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
+
+---
+
+### <a name="Stephen_Hawking"></a>**Stephen Hawking**
+
+<img width="300" height="300" src="media/personalities/Stephen_Hawking.jpg">
+
+Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
+
+---
+
+### <a name="Neil_Armstrong"></a>**Neil Armstrong**
+
+<img width="300" height="300" src="media/personalities/Neil_Armstrong.jpg">
+
+Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
+
+---
+
+### <a name="Alan_Turing"></a>**Alan Turing**
+
+<img width="300" height="300" src="media/personalities/alan_turing.jpg">
+
+Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
+
+source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Beethoven"></a>**Ludwig van Beethoven**
+
+<img width="300" height="300" src="media/personalities/Beethoven.jpg">
+
+Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
+
+source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+
+---
+
+## <a name="videos"></a> **Youtube Videos**
+  ### <a name="Earth101"></a>**Earth 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=HCDVN7DCzYE
+" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
+alt="Earth Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+
+ ### <a name="Mars101"></a>**Mars 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
+" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
+alt="Mars Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+
+ ### <a name="universe_size"></a>**Universe Size Comparison**
+  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg" 
+alt="Universe Image" width="240" height="180"/></a>
+
+Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
+
+---
+
+## <a name="astrophotography"></a> **Astrophotography**
+
+### <a name="pillars_of_creation"></a> **Pillars of Creation**
+![Pillars of Creation image](media/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
+
+**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his sermon "The Condescension of Christ"
+
+The photo was taken on April 1, 1995 and it was named as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph were were Jeff Hester and Paul Scowen. The region was rephotographed by ESA's Herschel Space Observatory in 2011, and again by Hubble in 2014 with a newer camera. The photo depicted above is the 2014 version of the photograph. 
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
+
+---
+
+### <a name="hxdf"></a> **Hubble eXtreme Deep Field**
+![Hubble eXtreme Deep Field image](media/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
+ 
+>The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
+
+**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total of two million seconds (about 23 days) of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
+
+**The HXDF** contains about 5,500 galaxies, the oldest of which are seen as they were 13.2 billion years ago. The faintest galaxies are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remnants of galaxies after major collisions during their elderly years. Many of the smaller galaxies in the image are very young galaxies that eventually developed into major galaxies, similar to the Milky Way and other galaxies in our galactic neighborhood.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
+
+---
+
+### <a name="the_blue_marble"></a> **The Blue Marble**
+![The Blue Marble image](media/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
+
+**The Blue Marble** is an image of Earth taken on December 7, 1972, from a distance of about 29,000 kilometers (18,000 miles) from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
+
+It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is clearly visible. The Asian mainland is on the horizon.The picture was curated by chromatic editing and cropping due to the height of geostationary satellites being insufficient.
+
+The photograph, taken on **December 7, 1972**, is one of the most widely distributed photographic images in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the slightly gibbous Earth had the appearance and size of a glass marble, hence the name.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
+
+---
+
+### <a name="pale_blue_dot"></a> **Pale Blue Dot**
+![Pale Blue Dot image](media/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
+
+**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a record distance of about 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System
+
+In the photograph, Earth's apparent size is less than a pixel. The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera.
+
+Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
+
+Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+
+---
+
+### <a name="#black_hole_image"></a> **The First Image Of A Black Hole**
+
+#### 2019 Image
+![Black Hole image](media/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
+
+**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic feat by an international network of radio telescopes called the Event Horizon Telescope (EHT). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
+
+A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed, never to re-emerge, because of the black hole’s unimaginably strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
+
+This stunning image shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy some 55 million light-years from Earth. This black hole is 6.5 billion times the mass of the Sun. *Catching its shadow involved eight ground-based radio telescopes around the globe, operating together as if they were one telescope the size of our entire planet.* 
+
+Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
+
+#### 2021 Image
+![Black Hole image](media/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
+
+**In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
+
+Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic-field/)
+
+---
+
+## <a name="Sports"></a> **Sports**
+
+---
+
+### <a name="Popular_Sports"></a>**Top 10 Sports**
+
+|      **Sport**       | **Estimated Fans** |
+| :------------------: | :------------------: |
+|       Soccer         |     3.5 Billion      |
+|      Cricket         |     2.5 Billion      |
+|    Field Hockey      |     2 Billion        |
+|       Tennis         |     1 Billion        |
+|     Volleyball       |     900 Million      |
+|    Table Tennis      |     850 Million      |
+|      Baseball        |     500 Million      | 
+|       Golf           |     450 Million      |
+|     Basketball       |     400 Million      |
+|  American Football   |     400 Million      |
+
+
+owned by [topendsports](https://www.topendsports.com/world/lists/popular-sport/fans.htm)
+
+
+### <a name="Football"></a>**Football**
+
+<img width="500" height="350" src="media/Sports/Football.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w960-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
+
+
+**Description**
+
+Football, better known as soccer in the US and Canada, is the most popular sport in the world, with an estimated following of 4 billion fans. Like some of the other sports on this list, the origins of football as we know it are in England in the 19th century, though history points to people playing similar games as far back as two thousand years, beginning in China. One reason for football’s popularity is that unlike other sports that require expensive equipment, all you need to play football is a ball and your foot. Hence, anyone, rich or poor, can enjoy the sport. It is played all over the world, but is particularly popular in Europe, Central and South America, and Africa.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Volleyball"></a>**Volleyball**
+
+<img width="500" height="350" src="media/Sports/Volleyball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
+
+**Description**
+
+Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Basketball"></a>**Basketball**
+
+<img width="500" height="350" src="media/Sports/Basketball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+
+**Description**
+
+Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Tennis"></a>**Tennis**
+
+<img width="500" height="350" src="media/Sports/Tennis.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/89/8f/a1/shutterstock-555305914.jpg)
+
+**Description**
+
+An estimated one billion people worldwide follow tennis, tuning in from around the world. In tennis, players on both sides of an elongated net try to hit a ball with a racket so that it either goes past their opponents or bounces on their opponents’ side twice to score points. Pro tennis players, like Roger Federer and Serena Williams, are now household names around the world.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Cricket"></a>**Cricket**
+
+<img width="500" height="350" src="media/Sports/Cricket.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
+
+**Description**
+
+Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Hockey"></a>**Hockey**
+
+<img width="500" height="350" src="media/Sports/Hockey.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+
+**Description**
+
+Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Baseball"></a>**Baseball**
+
+<img width="500" height="350" src="media/Sports/Baseball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/a2/ae/4b/shutterstock-557405302.jpg)
+
+**Description**
+
+America’s national pastime is thought to have descended from the English sports, rounders and cricket. Baseball involves two teams trying to hit a ball with a bat between two white lines, with the batters running around a series of bases to score runs (points). Today, baseball is popular, not only in the US, but also in East Asia and Latin America. The sport has an estimated following of 500 million fans.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Rugby"></a>**Rugby**
+
+<img width="500" height="350" src="media/Sports/Rugby.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/e4/60/52/shutterstock-177161780.jpg)
+
+**Description**
+
+Rugby has an estimated following of 475 million people. The sport originated in England and is now most popular in the UK and other Commonwealth countries like Australia and New Zealand. In rugby, two teams try to kick, carry, or pass a ball over an end (goal) line to score points. Rugby is a contact sport involving a lot of tackling, similar to American football. But whereas American football players wear a lot of padding and hard helmets to protect themselves, rugby players wear very little protection.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Golf"></a>**Golf**
+
+<img width="500" height="350" src="media/Sports/Golf.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
+
+**Description**
+
+An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Handball"></a>**Handball**
+
+<img width="500" height="350" src="media/Sports/Handball.jpg">
+
+owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-the-top-ten-olympic-sports-to-watch)
+
+**Description**
+
+Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
+
+---
+
+## <a name="mountains"></a> **_Mountains_**
+
+---
+
+### <a name="mounteverest"></a>**_Mount Everest_**
+
+<img width="550" height="299" src="media/mountains/Everest.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+
+**Description**
+
+Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+
+---

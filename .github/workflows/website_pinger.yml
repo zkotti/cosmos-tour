@@ -1,0 +1,18 @@
+name: Website Pinger
+
+on:
+  push:
+  workflow_dispatch:
+
+jobs:
+  ping:
+    runs-on: ubuntu-latest
+    steps:
+      - name: PING - Dispatch initiating repository event
+        # send ping to website repo to build and deploy
+        uses: peter-evans/repository-dispatch@v2
+        with:
+          token: ${{ secrets.REPO_ACCESS_TOKEN }}
+          repository: e-panourgia/e-panourgia.github.io
+          event-type: ping
+          client-payload: '{}'
