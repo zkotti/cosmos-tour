@@ -696,6 +696,10 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 **Country Code (cioc):** AFG
 </br>
 **Region:** Asia
+
+**Top Attractions:** Babur Tomb, Qargha Lake, Darul Aman Palace, Band-e-Amir National Park
+Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g659499-Activities-Afghanistan.html)
+
 <br>
 Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
@@ -717,6 +721,10 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 **Country Code (cioc):** ALB
 </br>
 **Region:** Europe
+
+**Top Attractions:** Albanian Riviera, Berat, Gjirokastra
+Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-albania/)
+
 <br>
 Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
@@ -738,6 +746,10 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 **Country Code (cioc):** ALG
 </br>
 **Region:** Africa
+
+**Top Attractions:** Le Jardin d'Essai du Hamma, Kasbah of Algiers, Fort Santa Cruz, Emir Abdelkader Mosquee
+Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g293717-Activities-Algeria.html)
+
 <br>
 Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. The country is the largest country by total area in Africa and in the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea. It has a semi-arid geography, with most of the population living in the fertile north and the Sahara dominating the geography of the south. Algeria covers an area of 2,381,741 square kilometres (919,595 sq mi), making it the world's tenth largest nation by area, and the largest nation in Africa. With a population of 44 million, Algeria is the ninth-most populous country in Africa, and the 32nd-most populous country in the world. The capital and largest city is Algiers, located in the far north on the Mediterranean coast.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Algeria)
