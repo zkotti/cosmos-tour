@@ -572,9 +572,9 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 
 **Description**
 
-North America is a continent in the Northern Hemisphere and almost entirely within the Western Hemisphere. It can also be described as the northern subcontinent of a single continent, America. It is bordered to the north by the Arctic Ocean, to the east by the Atlantic Ocean, to the southeast by South America and the Caribbean Sea, and to the west and south by the Pacific Ocean. Because it is on the North American Tectonic Plate, Greenland is included as part of North America geographically.
+North America is located in the Nothern Hemisphere and for its main part in th Western Hemisphere. Accordingly to the 6 continents theory, it can be considered as a subcontinent of America. It is surrounded by the Arctic Ocean to the north,  by South America and the Caribbean Sea  to the southeast,  by the Atlantic Ocean to the east, and by the Pacific Ocean to the west and south. Greenland is considered as part of North America geographically due to the fact that it's located on the North American Tectonic Plate.
 
-North America covers an area of about 24,709,000 square kilometers (9,540,000 square miles), about 16.5% of the Earth's land area and about 4.8% of its total surface. North America is the third-largest continent by area, following Asia and Africa, and the fourth by population after Asia, Africa, and Europe. In 2013, its population was estimated at nearly 579 million people in 23 independent states, or about 7.5% of the world's population.
+North America occupies  an area of about 24,709,000 square kilometers (9,540,000 square miles), which translates to  about 16.5% of the planet's land area and about 4.8% of its total surface. It is considered the third largest continent concerning its area, after Asia and Africa and the fourth concerning its population, following Asia, Africa and Europe. According to the United Nations average population estimation for 2021, its population is estimated at 596,592,000 inhabitants, about 7.6% of the world's population.
 
 Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
