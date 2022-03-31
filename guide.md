@@ -671,11 +671,8 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
-<<<<<<< HEAD
-The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. Because of its shape it was originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour. The fact that, it was accelerating slightly results to a sign of considering the mysterious object a comet.
-=======
 The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
->>>>>>> e07e77bb7b1ab7c8888c8a9d9d857102204ab2e5
+
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
