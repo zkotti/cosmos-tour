@@ -368,11 +368,11 @@ Source [National Geographic](https://www.nationalgeographic.com/science/article/
 
 ### <a name="religious_cosmology"></a>**Religious Cosmology**
 
-**Religious Cosmology** is an explanation of the origin, evolution, and eventual fate of the universe from a religious perspective. There are various traditions in religion or religious mythology asserting how and why everything is the way it is and the significance of it all.
+**Religious Cosmology** as a term is a way to explain the origin, the evolution and the fate of our universe from a religious viewpoint. It is claimed that there are multiple religious myths making hypothesis on how and why everything is the way we know it.
 
-1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
-2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
-3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
+1. Catholics believe God is an **omnipotent** creator of the universe due to the teachings of **St Augustine (ex nihilo)** and the book of Genesis. According to their beliefs, the creation story is not supposed to be taken literally. Catholic Christians understand these stories of creation in a symbolic way linked to the nature of the world and humanity. **Pope John Paul II**  insisted on the fact that Catholic belief and science are compatible. The theory of evolution is not rejected totally because it can be considered as part of God’s plan.
+2. Some Christians support a more **fundamentalist** approach. According to their beliefs, the miracle of creation as it is described in the Bible is a logical explanation of what really happened – this thesis is widely known as **creationism**. Hence, the creation of the universe took place in **six calendar days**, based on the book of Genesis. This is linked with the opinion that the Bible is the voice of our flawless God.
+3. In the Jewish religious theory, God is the **creator and source** of all elements of the universe. Jewish also follow the book of Genesis, the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis like the ultimate written gift from God, as it was revealed to **Moses** on Mt Sinai. The creation of the universe is celebrated weekly by observing the **Sabbath** and through the festival of **Rosh Hashanah**.
 4. The Ancient Greeks believed that in the beginning, the only thing that existed was **Chaos**, or in other words, nothingness. Then all of a sudden, from light, came **Gaia** (Mother Earth). Then form Gaia came **Uranus** (the sky). **Kronos** the Titan, Gaia's son, married his sister Rhea and gave birth to 6 children,the gods. When Zeus grew up, he decided to fight the Titans. He won with the help of the hundred handed ones and the cyclops. After the war he cut his father Kronos into pieces and threw them into **Tartarus** (the underworld). Zeus was, from then on, the leader of the gods. Hades took over the Underworld. Poseidon took over the oceans. Zeus married his sister Hera and crowned her Queen of Olympus.
 
 
@@ -383,7 +383,7 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 ### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
-The flat Earth model is an archaic and scientifically debunked view of the Earth's shape as a plane or disk. Many ancient societies, including Greece until the classical period (323 BC), the Near Eastern Bronze Age and Iron Age civilizations until the Hellenistic period (31 BC), and China until the 17th century, believed in a flat Earth cosmography. Flat Earth conspiracy ideas are promoted by modern flat Earth organisations, despite scientific fact and clear impacts of Earth's sphericity. Flat-Earth theories are obviously based on basic scientific errors that are easily debunked.
+The flat Earth theory is an old and non-proven thesis according to which the Earth's shape is as a plane or disk. Many ancient civilizations, including Ancient Greece and China until 1600, believed in a flat Earth cosmography. These ideas nowadays are promoted by conspiracy clubs, despite scientific proof about Earth's sphericity. Flat-Earth stories are undoubtebly linked to elementary scientific errors that can be debunked.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
@@ -438,33 +438,33 @@ Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Tab
 
 ### <a name="end_of_the_universe"></a>**End of the Universe**
 
-Eventually, billions or even trillions of years from now, the universe is going to end. Astrophysicists don't know exactly how the universe will end, but they have some ideas.
+Unfortunately, billions of years from now, the universe will be destroyed completely. Scientists cannot estimate or described this natural phenomenon of vital importance, but they can assume the following.
 
 #### The big rip
 
-Not only is the universe expanding, its expanding equally in all directions. And because space is expanding, galaxies are getting farther apart. The space within each galaxy is expanding too, but right now, the galaxy's own gravity is strong enough to hold it together.
+Not only is our universe expanding, but it's expanding equally in all directions. As a result, galaxies are getting farther apart. The space within each galaxy is also expanding, but at the moment, the galaxy's own gravity is strong enough to hold it together.
 
-The big rip would start once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
+The big rip would be initiated once the pull of the universe's expansion gets stronger than the gravity holding galaxies together. Galaxies would tear apart first, followed by smaller black holes, planets and stars.
 
-Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together and they'd break down into individual particles. The entire universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe.
+Eventually space would start expanding faster than the speed of light, and become stronger than the forces holding atoms together. Therefore, they'd break down into individual particles. The whole universe would become a void of single particles unconnected to anything around them, drifting aimlessly in a timeless universe.
 
 #### The big crunch
 
-This is the least terrifying end-of-universe scenario. If astrophysicists are wrong about dark energy and there's actually less of it than we think, or its grasp on matter decreases over time, gravity would eventually become the most powerful force in the universe.
+This is the most optimistic scenario. If scientists are wrong about dark energy and there's actually less of it than we assume, or its grasp on matter decreases over time, gravity would one day become the most significant force in the universe.
 
-If that happens, then after trillions of years, the rate that the universe expands would decrease and the universe would start to shrink. Galaxies would crash into each other and merge as the universe starts collapsing on itself.
+If that occurs, then after trillions of years, the rate that the universe expands would decrease and the universe would start to shrink. Galaxies would crash into each other and merge as the universe starts collapsing on itself.
 
 A shrinking universe would drive temperatures higher. The cosmic background radiation would be so hot that it would cook stars from the outside in. The intense heat would rip atoms apart in the final minutes before the Big Crunch. Black holes would then swallow up everything since objects are packed so tightly into dense clumps.
 
 The black holes would then converge into one mega black hole that contains the entirety of the universe. The Big Crunch moment would happen instantly as the black hole swallows itself.
 
-Some scientists think the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this last scenario, though we won't be around to witness it.
+Some astrophysicists believe that the universe has bounced back and forth between expansion and contraction, so there's definite hope for a universe rebirth in this scenario, although we will not be able to witness it.
 
 #### The big freeze or heat death
 
-In this end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
+In this last end-of-the-universe scenario, matter would stay intact rather than getting torn apart, but would slowly decay into radiation as the universe expands.
 
-Right now the universe is not uniform — it's speckled with clumps of matter and energy in the form of things like galaxies, stars, and black holes. But the expansion would stretch everything out until everything is evenly spread through the universe. When that happens, objects can gain or lose energy. The gas clouds that form stars would dissipate, black holes would evaporate and eventually even light particles would fizzle out. The universe would be completely snuffed out forever.
+Right now the universe is not uniform — it's speckled with clumps of matter and energy in the form of things like galaxies, stars, and black holes. But the expansion would stretch everything out until everything is evenly spread through the universe. When that occurs, objects can gain or lose energy. The gas clouds that form stars would dissipate, black holes would evaporate and eventually even light particles would fizzle out. The universe would be completely snuffed out forever.
 
 Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-the-universe-end-2015-2)
 
