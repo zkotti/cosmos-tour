@@ -35,6 +35,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Comets](#comets)
 
   - [Oumuamua](#oumuamua)
+  - [Hale-Bopp](#hale-bopp)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
 
@@ -72,14 +73,32 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
+  - [Central African Republic](#central_african_republic)
+  - [Chad](#chad)
   - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Comoros](#comoros)
+  - [Congo](#congo)
+  - [Costa Rica](#costa_rica)
   - [Cote d'Ivoire](#cote_d_ivoire)
+  - [Croatia](#croatia)
+  - [Cuba](#cuba)
   - [Cyprus](#cyprus)
+  - [Czech Republic](#czech_republic)
   - [Denmark](#denmark)
+  - [Djibouti](#djibouti)
+  - [Dominica](#dominica)
+  - [Dominican Republic](#dominican_republic)
+  - [Ecuador](#ecuador)
   - [Egypt](#egypt)
+  - [El Salvador](#el_salvador)
   - [England](#england)
+  - [Equatorial Guinea](#equatorial_guinea)
+  - [Eritrea](#eritrea)
+  - [Estonia](#estonia)
+  - [Eswatini](#eswatini)
+  - [Ethiopia](#ethiopia)
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
@@ -256,6 +275,14 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cosmos: A SpaceTime Odyssey](#cosmos_2)
   - [Cosmos: Possible Worlds](#cosmos_3)
 
+- ### [Cosmos Songs](#cosmos_songs)
+  - [Rocket Man by Elton John](#song1)
+  - [Space Oddity by David Bowie](#song2)
+  - [Fly Me To The Moon by Frank Sinatra](#song3)
+  - [Man On The Moon by R.E.M.](#song4)
+  - [Across The Universe by The Beatles](#song5)
+  - [Here Comes The Sun by The Beatles](#song6)
+
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
   - [Margaret Hamilton](#Margaret_Hamilton)
@@ -293,6 +320,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
+  - [Mount Everest](#mounteverest)
+  - [Mount Kilimanjaro](#kilimanjaro)
 
 ---
 
@@ -343,12 +372,11 @@ Source [National Geographic](https://www.nationalgeographic.com/science/article/
 1. Catholic Christians believe God is an **omnipotent** and **transcendent** creator. Their beliefs are based on the teachings of **St Augustine (ex nihilo)** and the book of Genesis. They believe that the creation story is not meant to be taken literally. Catholics read the stories of creation in a symbolic way, believing that they reveal some important things about the nature of the world and humanity. **Pope John Paul II** stated that Catholic belief and science are compatible. The theory of evolution can be accepted as part of God’s plan for the universe.
 2. Some Christians take a **fundamentalist** approach. They believe that the account of creation as it appears in the Bible is an accurate account of what happened – this belief is known as **creationism**. They believe that the creation of the world and everything in it took place in **six calendar days**, exactly as the book of Genesis says. This stems from the view that the Bible is the direct word of God, which is never mistaken.
 3. According to the Jewish beliefs, God is the **creator and source** of all life. This teaching comes from the book of Genesis, which is the first book of the **Torah (Jewish written law)**. Most Orthodox Jews accept the Genesis accounts of creation as the literal world of God, as was revealed to **Moses** on Mt Sinai. They celebrate the creation of the world weekly by observing the **Sabbath** and they celebrate creation through the festival of **Rosh Hashanah**.
-4. The Ancient Greeks believed that in the beginning, the world was in a state of nothingness which they called Chaos. Suddenly, from light, came Gaia (Mother Earth) and from her came Uranus (the sky) along with other old gods (called primordials) like Pontus (the primordial god of the oceans). Gaia and Uranus had 12 children, the Titans. The most important of the 12 children were Kronos and Rhea.
-Gaia gave birth to monsters called cyclops and monsters called Hecatoncheires (the hundred handed ones). Uranus, disgusted by the monsters, threw them in Tartarus. Gaia was angered by Uranus and wanted revenge on him. Gaia used her son Kronos, who chopped off Uranus' genitals. Kronos then threw Uranus into the ocean. From the blood of his genitals, came the goddess of love and beauty—Aphrodite. Kronos married his sister Rhea and gave birth to 6 children, who were called the gods. Kronos, who was afraid of a prophecy delivered to him which stated that one day his children would cut him up, swallowed each of his children the second they were born. Rhea did not like this, so she saved Zeus and gave Kronos a rock to eat instead. Zeus was raised by Amaltheia. In some versions of the story, Amaltheia was a nymph. In other versions she was a goat. Zeus grew up in a mountain cave in Crete. When he was old enough, he tricked Kronos into drinking a mixture of wine and mustard with the help of Metis. Metis later had a child with Zeus named Athena. Kronos vomited up the rest of the gods, who, being immortal, had been growing up completely undigested in Kronos' stomach. Zeus and other gods then had a big war with the Titans. Zeus won with the help of the hundred handed ones and the cyclops. After they won the war Zeus cut Kronos into pieces and threw them into Tartarus. Zeus was, from then on, the leader of the gods. Poseidon took over the oceans. Hades took over the Underworld. Zeus married his sister Hera and crowned her Queen of Olympus.
+4. The Ancient Greeks believed that in the beginning, the only thing that existed was **Chaos**, or in other words, nothingness. Then all of a sudden, from light, came **Gaia** (Mother Earth). Then form Gaia came **Uranus** (the sky). **Kronos** the Titan, Gaia's son, married his sister Rhea and gave birth to 6 children,the gods. When Zeus grew up, he decided to fight the Titans. He won with the help of the hundred handed ones and the cyclops. After the war he cut his father Kronos into pieces and threw them into **Tartarus** (the underworld). Zeus was, from then on, the leader of the gods. Hades took over the Underworld. Poseidon took over the oceans. Zeus married his sister Hera and crowned her Queen of Olympus.
 
 
 Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
-[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf),[The Greek creation myth](https://simple.wikipedia.org/wiki/Greek_mythology)
+[Origins of the Universe](https://www.ncc.brent.sch.uk/attachments/download.asp?file=1442&type=pdf), [The Greek creation myth](https://simple.wikipedia.org/wiki/Greek_mythology)
 
 ---
 
@@ -632,7 +660,7 @@ owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_
 
 **Description**
 
-A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing. This produces a visible atmosphere and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. Comets have been observed and recorded since ancient times by many cultures and religions.
+"A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing." This produces a visible atmosphere and a tail. These phenomena happens due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma can be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. An astronomical unit is the distance from Earth to Sun or aprox. 150 million kilometeres. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. From the ancient times people have been observed and record Comets.
 
 Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
@@ -647,9 +675,24 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 **Description**
 <br>
 The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
+
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
+
+---
+
+### <a name="hale-bopp"></a> **Hale-Bopp**
+
+<img width="500" height="500" src="media/comets/Hale-Bopp.jpg">
+
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/768px-Comet_Hale-Bopp_1995O1.jpg)
+
+**Description**
+<br>
+Comet Hale-Bopp (formally known as "C/1995 O1") is regarded as one of the most widely viewed comets in history. The comet that reached close to Earth in 1997 is also known for being unusually bright. It was visible to the naked eye for 18 months, thus the  comet became a spectacular sight in early 1997 especially in the Northern Hemisphere. Alan Hale and Thomas Bopp discovered the comet independently on July 23, 1995.
+<br>
+Source [Wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
 
 ---
 
@@ -1303,6 +1346,43 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="central_african_republic"></a>**Central African Republic**
+
+<img width="300" height="300" src="media/flags/cf.svg">
+
+**Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CAF
+</br>
+**Region:** Africa
+
+---
+
+### <a name="chad"></a>**Chad**
+
+<img width="300" height="300" src="media/flags/td.svg">
+
+**Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 14,939,976 (2020)
+</br>
+**Country Code (cioc):** CHA
+</br>
+**Region:** Africa
+
+---
+
+
 ### <a name="chile"></a>**Chile**
 
 <img width="300" height="300" src="media/flags/cl.svg">
@@ -1357,6 +1437,60 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="comoros"></a>**Comoros**
+
+<img width="300" height="300" src="media/flags/km.svg">
+
+**Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
+</br>
+**Official Language:** Comorian, Arabic, French
+</br>
+**Currency:** Comorian franc (KMF)
+</br>
+**Population:** 8,928,976 (2020)
+</br>
+**Country Code (cioc):** COM
+</br>
+**Region:** Africa
+
+---
+
+### <a name="congo"></a>**Congo**
+
+<img width="300" height="300" src="media/flags/cg.svg">
+
+**Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Congolese franc (CDF)
+</br>
+**Population:** 47,837,976 (2020)
+</br>
+**Country Code (cioc):** CGO
+</br>
+**Region:** Africa
+
+---
+
+### <a name="costa_rica"></a>**Costa Rica**
+
+<img width="300" height="300" src="media/flags/cr.svg">
+
+**Capital:** [San José](https://www.google.com/maps/search/San+Jose)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Costa Rican colon (CRC)
+</br>
+**Population:** 4,959,976 (2020)
+</br>
+**Country Code (cioc):** CRC
+</br>
+**Region:** Americas
+
+---
+
 ### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
 
 <img width="300" height="300" src="media/flags/ci.svg">
@@ -1375,6 +1509,41 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="croatia"></a>**Croatia**
+
+<img width="300" height="300" src="media/flags/hr.svg">
+
+**Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
+</br>
+**Official Language:** Croatian, Bosnian, Serbian
+</br>
+**Currency:** Croatian kuna (HRK)
+</br>
+**Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CRO
+</br>
+**Region:** Europe
+
+---
+
+### <a name="cuba"></a>**Cuba**
+
+<img width="300" height="300" src="media/flags/cu.svg">
+
+**Capital:** [Havana](https://www.google.com/maps/search/Havana)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Cuban peso (CUP)
+</br>
+**Population:** 11,964,976 (2020)
+</br>
+**Country Code (cioc):** CUB
+</br>
+**Region:** Americas
+
+---
 ### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg">
@@ -1392,6 +1561,24 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Region:** Europe
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+### <a name="czech_republic"></a>**Czech Republic**
+
+<img width="300" height="300" src="media/flags/cz.svg">
+
+**Capital:** [Prague](https://www.google.com/maps/search/Prague)
+</br>
+**Official Language:** Czech
+</br>
+**Currency:** Czech koruna (CZK)
+</br>
+**Population:** 10,890,976 (2020)
+</br>
+**Country Code (cioc):** CZE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1413,6 +1600,78 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
+### <a name="djibouti"></a>**Djibouti**
+
+<img width="300" height="300" src="media/flags/dj.svg">
+
+**Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
+</br>
+**Official Language:** Arabic, French, Somali
+</br>
+**Currency:** Djiboutian franc (DJF)
+</br>
+**Population:** 8,869,976 (2020)
+</br>
+**Country Code (cioc):** DJI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="dominica"></a>**Dominica**
+
+<img width="300" height="300" src="media/flags/dm.svg">
+
+**Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
+</br>
+**Official Language:** English
+</br>
+**Currency:** East Caribbean dollar (XCD)
+</br>
+**Population:** 71,976 (2020)
+</br>
+**Country Code (cioc):** DMA
+</br>
+**Region:** Americas
+
+---
+
+### <a name="dominican_republic"></a>**Dominican Republic**
+
+<img width="300" height="300" src="media/flags/do.svg">
+
+**Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Dominican peso (DOP)
+</br>
+**Population:** 9,976,976 (2020)
+</br>
+**Country Code (cioc):** DOM
+</br>
+**Region:** Americas
+
+---
+
+### <a name="ecuador"></a>**Ecuador**
+
+<img width="300" height="300" src="media/flags/ec.svg">
+
+**Capital:** [Quito](https://www.google.com/maps/search/Quito)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 15,847,976 (2020)
+</br>
+**Country Code (cioc):** ECU
+</br>
+**Region:** Americas
+
+---
+
 ### <a name="egypt"></a>**Egypt**
 
 <img width="300" height="300" src="media/flags/eg.svg">
@@ -1428,6 +1687,24 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** EGY
 </br>
 **Region:** Africa
+
+---
+
+### <a name="el_salvador"></a>**El Salvador**
+
+<img width="300" height="300" src="media/flags/sv.svg">
+
+**Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 6,931,976 (2020)
+</br>
+**Country Code (cioc):** SLV
+</br>
+**Region:** Americas
 
 ---
 
@@ -1448,6 +1725,96 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Region:** Europe
 
 England is the biggest of the four countries that are part of the United Kingdom.
+
+---
+
+### <a name="equatorial_guinea"></a>**Equatorial Guinea**
+
+<img width="300" height="300" src="media/flags/gq.svg">
+
+**Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** CFA franc (XAF)
+</br>
+**Population:** 1,931,976 (2020)
+</br>
+**Country Code (cioc):** GQE
+</br>
+**Region:** Africa
+
+---
+
+### <a name="eritrea"></a>**Eritrea**
+
+<img width="300" height="300" src="media/flags/er.svg">
+
+**Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
+</br>
+**Official Language:** Tigrinya, Arabic
+</br>
+**Currency:** Nakfa (ERN)
+</br>
+**Population:** 5,939,976 (2020)
+</br>
+**Country Code (cioc):** ERI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="estonia"></a>**Estonia**
+
+<img width="300" height="300" src="media/flags/ee.svg">
+
+**Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
+</br>
+**Official Language:** Estonian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 1,534,926 (2020)
+</br>
+**Country Code (cioc):** EST
+</br>
+**Region:** Europe
+
+---
+
+### <a name="eswatini"></a>**Eswatini**
+
+<img width="300" height="300" src="media/flags/sz.svg">
+
+**Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
+</br>
+**Official Language:** English, Swati, Tshiluba
+</br>
+**Currency:** Lilangeni (SZL)
+</br>
+**Population:** 1,976,000 (2020)
+</br>
+**Country Code (cioc):** ESH
+</br>
+**Region:** Africa
+
+---
+
+### <a name="ethiopia"></a>**Ethiopia**
+
+<img width="300" height="300" src="media/flags/et.svg">
+
+**Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
+</br>
+**Official Language:** Amharic
+</br>
+**Currency:** Ethiopian birr (ETB)
+</br>
+**Population:** 92,976,000 (2020)
+</br>
+**Country Code (cioc):** ETH
+</br>
+**Region:** Africa
 
 ---
 
@@ -1552,6 +1919,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Cedi (GHS)
 </br>
 **Population:** 31,072,940 (2020)
+</br>
+**Country Code (cioc):** GHA
+</br>
+**Region:** Africa
 
 ---
 
@@ -1566,6 +1937,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+</br>
+**Country Code (cioc):** GRE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1580,6 +1955,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Guatemalan quetzal (GTQ)
 </br>
 **Population:** 16.86 million (2020)
+</br>
+**Country Code (cioc):** GUA
+</br>
+**Region:** Americas
 
 ---
 
@@ -1594,6 +1973,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indian rupee (INR)
 </br>
 **Population:** 1,380,004,385 (2020)
+</br>
+**Country Code (cioc):** IND
+</br>
+**Region:** Asia
 
 ---
 
@@ -1608,6 +1991,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indonesian rupiah (IDR)
 </br>
 **Population:** 273,523,615 (2020)
+</br>
+**Country Code (cioc):** INA
+</br>
+**Region:** Asia
 
 ---
 
@@ -1622,6 +2009,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iranian rial (IRR)
 </br>
 **Population:** 83,992,949 (2020)
+</br>
+**Country Code (cioc):** IRI
+</br>
+**Region:** Asia
 
 ---
 
@@ -1636,6 +2027,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iraqi dinar (IQD)
 </br>
 **Population:** 40,222,493 (2020)
+</br>
+**Country Code (cioc):** IRQ
+</br>
+**Region:** Asia
 
 ---
 
@@ -1650,6 +2045,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,035,283 (2020)
+</br>
+**Country Code (cioc):** IRL
+</br>
+**Region:** Europe
 
 ---
 
@@ -1664,6 +2063,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Israeli Sheqel (ILS)
 </br>
 **Population:** 8,655,535 (2020)
+</br>
+**Country Code (cioc):** ISR
+</br>
+**Region:** Asia
 
 ---
 
@@ -1678,6 +2081,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+</br>
+**Country Code (cioc):** ITA
+</br>
+**Region:** Europe
 
 ---
 
@@ -1692,6 +2099,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+</br>
+**Country Code (cioc):** JPN
+</br>
+**Region:** Asia
 
 ---
 
@@ -1706,6 +2117,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Kenyan shilling (KES)
 </br>
 **Population:** 53,771,296 (2020)
+</br>
+**Country Code (cioc):** KEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -1720,6 +2135,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Swiss Franc (CHF)
 </br>
 **Population:** 38,896 (2020)
+</br>
+**Country Code (cioc):** LIE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1734,6 +2153,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+</br>
+**Country Code (cioc):** LTU
+</br>
+**Region:** Europe
 
 ---
 
@@ -1748,6 +2171,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 633,622 (2020)
+</br>
+**Country Code (cioc):** LUX
+</br>
+**Region:** Europe
 
 ---
 
@@ -1762,6 +2189,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+</br>
+**Country Code (cioc):** MEX
+</br>
+**Region:** Americas
 
 ---
 
@@ -1776,6 +2207,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 38.350 (2020)
+</br>
+**Country Code (cioc):** MON
+</br>
+**Region:** Europe
 
 ---
 
@@ -1790,6 +2225,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Zealand Dollar (NZD)
 </br>
 **Population:** 5,084,000 (2020)
+</br>
+**Country Code (cioc):** NZL
+</br>
+**Region:** Oceania
 
 ---
 
@@ -1804,6 +2243,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Norwegian krone (NOK)
 </br>
 **Population:** 5,421,241 (2020)
+</br>
+**Country Code (cioc):** NOR
+</br>
+**Region:** Europe
 
 ---
 
@@ -1818,6 +2261,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Peruvian Nuevo Sol (PEN)
 </br>
 **Population:** 32,970,000 (2020)
+</br>
+**Country Code (cioc):** PER
+</br>
+**Region:** Americas
 
 ---
 
@@ -1832,6 +2279,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Philippine peso (PHP)
 </br>
 **Population:** 109,035,343 (2020)
+</br>
+**Country Code (cioc):** PHI
+</br>
+**Region:** Asia
 
 ---
 
@@ -1846,6 +2297,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Romanian leu (RON)
 </br>
 **Population:** 19,237,691 (2020)
+</br>
+**Country Code (cioc):** ROU
+</br>
+**Region:** Europe
 
 ---
 
@@ -1860,6 +2315,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Russian ruble (RUB)
 </br>
 **Population:** 145,934,462 (2020)
+</br>
+**Country Code (cioc):** RUS
+</br>
+**Region:** Europe
 
 ---
 
@@ -1892,6 +2351,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
+</br>
+**Country Code (ISO 3166-2:GB):** SCT
+</br>
+**Region:** Europe
 
 ---
 
@@ -1906,6 +2369,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,459,642 (2020)
+</br>
+**Country Code (cioc):** SVK
+</br>
+**Region:** Europe
 
 ---
 
@@ -1920,6 +2387,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,078,938 (2020)
+</br>
+**Country Code (cioc):** SLO
+</br>
+**Region:** Europe
 
 ---
 
@@ -1934,6 +2405,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 46,754,778 (2020)
+</br>
+**Country Code (cioc):** ESP
+</br>
+**Region:** Europe
 
 ---
 
@@ -1948,6 +2423,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 8,654,622 (2020)
+</br>
+**Country Code (cioc):** SUI
+</br>
+**Region:** Europe
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -1965,6 +2444,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Hryvnia (UAH)
 </br>
 **Population:** 43,733,762 (2020)
+</br>
+**Country Code (cioc):** UKR
+</br>
+**Region:** Europe
 
 ---
 
@@ -1979,6 +2462,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** UAE Dirham (AED)
 </br>
 **Population:** 9,890,402 (2020)
+</br>
+**Country Code (cioc):** UAE
+</br>
+**Region:** Asia
 
 ---
 
@@ -1993,6 +2480,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** US Dollar (USD)
 </br>
 **Population:** 331,002,651 (2020)
+</br>
+**Country Code (cioc):** USA
+</br>
+**Region:** Americas
 
 ---
 
@@ -2007,6 +2498,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+</br>
+**Country Code (cioc):** URU
+</br>
+**Region:** Americas
 
 ---
 
@@ -2021,6 +2516,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Bolívar digital (VED)
 </br>
 **Population:** 28,436,000 (2020)
+</br>
+**Country Code (cioc):** VEN
+</br>
+**Region:** Americas
 
 ---
 
@@ -2035,6 +2534,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** đồng (₫) (VND)
 </br>
 **Population:** 97,339,000 (2020)
+</br>
+**Country Code (cioc):** VIE
+</br>
+**Region:** Asia
 
 ---
 
@@ -3460,6 +3963,61 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ---
 
+## <a name="cosmos_songs"></a> **Cosmos Songs**
+
+
+
+### <a name="#song1"></a>**Rocket Man by Elton John**
+
+<img width="500" height="350" src="media/songs/song1.jpeg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
+
+
+
+
+### <a name="#song2"></a>**Space Oddity by David Bowie**
+
+<img width="500" height="350" src="media/songs/song2.jpeg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
+
+
+
+
+### <a name="#song3"></a>**Fly Me To The Moon by Frank Sinatra**
+
+<img width="500" height="350" src="media/songs/song3.jpeg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
+
+
+
+### <a name="#song4"></a>**Man On The Moon by R.E.M.**
+
+<img width="500" height="350" src="media/songs/song4.jpg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
+
+
+
+### <a name="#song5"></a>**Across The Universe by The Beatles**
+
+<img width="500" height="350" src="media/songs/song5.jpeg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
+
+
+
+
+### <a name="#song6"></a>**Here Comes The Sun by The Beatles**
+
+<img width="500" height="350" src="media/songs/song6.jpeg"/>
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
+
+---
+
 ## <a name="personalities"></a> **_Admired Personalities_**
 
 ### <a name="Gandhi"></a>**Mahatma Gandhi**
@@ -3824,5 +4382,33 @@ Handball (also known as team handball, European handball or Olympic handball) is
 ---
 
 ## <a name="mountains"></a> **_Mountains_**
+
+---
+
+### <a name="mounteverest"></a>**_Mount Everest_**
+
+<img width="550" height="299" src="media/mountains/Everest.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+
+**Description**
+
+Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+
+---
+
+### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
+
+<img width="550" height="299" src="media/mountains/Kilimanjaro.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+**Description**
+
+Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
 ---
