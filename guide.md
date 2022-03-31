@@ -215,9 +215,11 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Zodiac](#zodiac)
 
 - ### [Frequent questions](#frequent_questions)
-  - [1. questions about stars](#frequent_questions_stars)
-  - [2. quetion about multiple universe](#frequent_questions_multiple_universe)
-  - [3. questions about planets](#frequent_questions_planets)
+
+  - [Questions about stars](#frequent_questions_stars)
+  - [Question about multiple universe](#frequent_questions_multiple_universe)
+  - [Questions about planets](#frequent_questions_planets)
+
 - ### [Memes](#memes)
 
   - [Meme 1.](#meme_1)
@@ -2993,15 +2995,15 @@ Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ## <a name="frequent_questions"></a> **Frequent questions**
 
-### <a name="frequent_questions_stars"></a> **1. Questions about Stars**
+### <a name="frequent_questions_stars"></a> **Questions about Stars**
 
 - How many stars are there in the universe? [Answer / Source](https://www.space.com/26078-how-many-stars-are-there.html)
 - How many stars can we see at night? [Answer / Source](https://www.thoughtco.com/how-many-stars-can-you-see-3071116#:~:text=On%20average%2C%20however%2C%20the%20most%20anyone%20can%20really,country%20areas%20away%20from%20lights%20can%20see%20more.)
 - What is the biggest star in the Universe? [Answer/ Source](https://ourplnt.com/biggest-stars-universe/)
 
-### <a name="frequent_questions_multiple_universe"></a> **2. Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
+### <a name="frequent_questions_multiple_universe"></a> **Do We Live in a Multiple Universe?** [Answser / Source](https://astronomy.com/magazine/greatest-mysteries/2019/07/37-do-we-live-in-a-multiple-universe)
 
-### <a name="frequent_questions_planets"></a> **3. Questions about Planets**
+### <a name="frequent_questions_planets"></a> **Questions about Planets**
 - How many planets are there in our solar system? [Answer/ Source](https://space-facts.com/faq/)
 - What is the smallest planet? [Answer/ Source](https://space-facts.com/faq/)
 - What is the largest planet? [Answer/ Source](https://space-facts.com/faq/)
