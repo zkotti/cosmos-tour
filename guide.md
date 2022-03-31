@@ -180,6 +180,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
+  - [Vega](#vega)
   - [Most interesting stars](#interestingstars)
 
 - ### [Asteroids](#asteroids)
@@ -2556,7 +2557,7 @@ owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
 
 **Description**
 
-Betelgeuse belongs in the constellation of Orion and is one of the largest stars that can be seen with the naked eye. It also considered that it is a single isolated runaway star and that it is usually in the top 10 brightest stars in the sky. Additionally, Betelgeuse is the first extrasolar star that its photosphere's angular size was measured (0.042 to 0.056 arcseconds)
+Betelgeuse belongs in the constellation of Orion and is one of the largest stars that can be seen with the naked eye. It also considered that it is a single isolated runaway star and that it is usually in the top 10 brightest stars in the sky. Additionally, Betelgeuse is the first extrasolar star that its photosphere's angular size was measured (0.042 to 0.056 arcseconds).
 <br> Source [wiki](https://en.wikipedia.org/wiki/Betelgeuse)
 
 ---
@@ -2589,6 +2590,19 @@ owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integ
 
 Polaris (also known as North Star) is a star in the northern circumpolar constellation of Ursae Minoris. It is the brightest star in the constellation and we can see it whithout the use of a telescope. For that reason and because of the stable position that it has in the nothern sky, Polaris can be used for navigation. Polaris may look like a single point of light with a naked eye but in reality if we look closer we can see that it is triple star system.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Polaris)
+
+---
+
+### <a name="vega"></a>**Vega**
+
+<img width="480" height="480" src="media/stars/Vega.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
+
+**Description**
+
+Vega belongs in the constellation of Lyra and it is the brightest star in it. Vega is a huge star (approximately 2.1 times massive as the sun) and  it is relatively close to us, at 25 light-years from Earth. It was also the first star besides the sun that we were able to photograph and based on observations it is belileved that it has a circumstellar disk of dust. Lastly, many years ago Vega was used as the North Star is today.
+<br> Source [wiki](https://en.wikipedia.org/wiki/Vega)
 
 ---
 
