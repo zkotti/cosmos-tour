@@ -89,8 +89,15 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Djibouti](#djibouti)
   - [Dominica](#dominica)
   - [Dominican Republic](#dominican_republic)
+  - [Ecuador](#ecuador)
   - [Egypt](#egypt)
+  - [El Salvador](#el_salvador)
   - [England](#england)
+  - [Equatorial Guinea](#equatorial_guinea)
+  - [Eritrea](#eritrea)
+  - [Estonia](#estonia)
+  - [Eswatini](#eswatini)
+  - [Ethiopia](#ethiopia)
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
@@ -1589,6 +1596,24 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
+### <a name="ecuador"></a>**Ecuador**
+
+<img width="300" height="300" src="media/flags/ec.svg">
+
+**Capital:** [Quito](https://www.google.com/maps/search/Quito)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 15,847,976 (2020)
+</br>
+**Country Code (cioc):** ECU
+</br>
+**Region:** Americas
+
+---
+
 ### <a name="egypt"></a>**Egypt**
 
 <img width="300" height="300" src="media/flags/eg.svg">
@@ -1604,6 +1629,24 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** EGY
 </br>
 **Region:** Africa
+
+---
+
+### <a name="el_salvador"></a>**El Salvador**
+
+<img width="300" height="300" src="media/flags/sv.svg">
+
+**Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 6,931,976 (2020)
+</br>
+**Country Code (cioc):** SLV
+</br>
+**Region:** Americas
 
 ---
 
@@ -1624,6 +1667,96 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Region:** Europe
 
 England is the biggest of the four countries that are part of the United Kingdom.
+
+---
+
+### <a name="equatorial_guinea"></a>**Equatorial Guinea**
+
+<img width="300" height="300" src="media/flags/gq.svg">
+
+**Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** CFA franc (XAF)
+</br>
+**Population:** 1,931,976 (2020)
+</br>
+**Country Code (cioc):** GQE
+</br>
+**Region:** Africa
+
+---
+
+### <a name="eritrea"></a>**Eritrea**
+
+<img width="300" height="300" src="media/flags/er.svg">
+
+**Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
+</br>
+**Official Language:** Tigrinya, Arabic
+</br>
+**Currency:** Nakfa (ERN)
+</br>
+**Population:** 5,939,976 (2020)
+</br>
+**Country Code (cioc):** ERI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="estonia"></a>**Estonia**
+
+<img width="300" height="300" src="media/flags/ee.svg">
+
+**Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
+</br>
+**Official Language:** Estonian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 1,534,926 (2020)
+</br>
+**Country Code (cioc):** EST
+</br>
+**Region:** Europe
+
+---
+
+### <a name="eswatini"></a>**Eswatini**
+
+<img width="300" height="300" src="media/flags/sz.svg">
+
+**Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
+</br>
+**Official Language:** English, Swati, Tshiluba
+</br>
+**Currency:** Lilangeni (SZL)
+</br>
+**Population:** 1,976,000 (2020)
+</br>
+**Country Code (cioc):** ESH
+</br>
+**Region:** Africa
+
+---
+
+### <a name="ethiopia"></a>**Ethiopia**
+
+<img width="300" height="300" src="media/flags/et.svg">
+
+**Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
+</br>
+**Official Language:** Amharic
+</br>
+**Currency:** Ethiopian birr (ETB)
+</br>
+**Population:** 92,976,000 (2020)
+</br>
+**Country Code (cioc):** ETH
+</br>
+**Region:** Africa
 
 ---
 
