@@ -68,7 +68,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Bulgaria](#bulgaria)
   - [Burkina Faso](#burkinafaso)
   - [Burundi](#burundi)
-  - [Cote d'Ivoire](#cote_d_ivoire)
   - [Cabo Verde](#cabo_verde)
   - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
@@ -76,6 +75,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Cote d'Ivoire](#cote_d_ivoire)
   - [Cyprus](#cyprus)
   - [Denmark](#denmark)
   - [Egypt](#egypt)
@@ -85,8 +85,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [France](#france)
   - [Germany](#germany)
   - [Ghana](#ghana)
-  - [Guatemala](#guatemala)
   - [Greece](#greece)
+  - [Guatemala](#guatemala)
   - [India](#india)
   - [Indonesia](#indonesia)
   - [Iran](#iran)
@@ -1182,20 +1182,6 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
-### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
-
-<img width="300" height="300" src="media/flags/ci.svg">
-
-**Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
-</br>
-**Official Language:** French
-</br>
-**Currency:** West African CFA franc (XOF)
-</br>
-**Population:** 21,510,181 (2020)
-
----
-
 ### <a name="cabo_verde"></a>**Cabo Verde**
 
 <img width="300" height="300" src="media/flags/ci.svg">
@@ -1291,6 +1277,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Colombian peso (COP)
 </br>
 **Population:** 50,372,424 (2020)
+
+---
+
+### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
+
+<img width="300" height="300" src="media/flags/ci.svg">
+
+**Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
+</br>
+**Official Language:** French
+</br>
+**Currency:** West African CFA franc (XOF)
+</br>
+**Population:** 21,510,181 (2020)
 
 ---
 
@@ -1428,20 +1428,6 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ---
 
-### <a name="guatemala"></a>**Guatemala**
-
-<img width="300" height="300" src="media/flags/gua.svg">
-
-**Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
-</br>
-**Official Language:** Spanish
-</br>
-**Currency:** Guatemalan quetzal (GTQ)
-</br>
-**Population:** 16.86 million (2020)
-
----
-
 ### <a name="greece"></a>**Greece**
 
 <img width="300" height="300" src="media/flags/gr.svg">
@@ -1453,6 +1439,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+
+---
+
+### <a name="guatemala"></a>**Guatemala**
+
+<img width="300" height="300" src="media/flags/gua.svg">
+
+**Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Guatemalan quetzal (GTQ)
+</br>
+**Population:** 16.86 million (2020)
 
 ---
 
