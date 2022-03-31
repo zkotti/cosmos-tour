@@ -72,12 +72,23 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
+  - [Central African Republic](#central_african_republic)
+  - [Chad](#chad)
   - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Comoros](#comoros)
+  - [Congo](#congo)
+  - [Costa Rica](#costa_rica)
   - [Cote d'Ivoire](#cote_d_ivoire)
+  - [Croatia](#croatia)
+  - [Cuba](#cuba)
   - [Cyprus](#cyprus)
+  - [Czech Republic](#czech_republic)
   - [Denmark](#denmark)
+  - [Djibouti](#djibouti)
+  - [Dominica](#dominica)
+  - [Dominican Republic](#dominican_republic)
   - [Egypt](#egypt)
   - [England](#england)
   - [Fiji](#fiji)
@@ -292,6 +303,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
+  - [Mount Everest](#mounteverest)
 
 ---
 
@@ -1301,6 +1313,35 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="central_african_republic"></a>**Central African Republic**
+
+<img width="300" height="300" src="media/flags/cf.svg">
+
+**Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="chad"></a>**Chad**
+
+<img width="300" height="300" src="media/flags/td.svg">
+
+**Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 14,939,976 (2020)
+
+---
+
+
 ### <a name="chile"></a>**Chile**
 
 <img width="300" height="300" src="media/flags/cl.svg">
@@ -1355,6 +1396,48 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="comoros"></a>**Comoros**
+
+<img width="300" height="300" src="media/flags/km.svg">
+
+**Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
+</br>
+**Official Language:** Comorian, Arabic, French
+</br>
+**Currency:** Comorian franc (KMF)
+</br>
+**Population:** 8,928,976 (2020)
+
+---
+
+### <a name="congo"></a>**Congo**
+
+<img width="300" height="300" src="media/flags/cg.svg">
+
+**Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Congolese franc (CDF)
+</br>
+**Population:** 47,837,976 (2020)
+
+---
+
+### <a name="costa_rica"></a>**Costa Rica**
+
+<img width="300" height="300" src="media/flags/cr.svg">
+
+**Capital:** [San José](https://www.google.com/maps/search/San+Jose)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Costa Rican colon (CRC)
+</br>
+**Population:** 4,959,976 (2020)
+
+---
+
 ### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
 
 <img width="300" height="300" src="media/flags/ci.svg">
@@ -1373,6 +1456,33 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="croatia"></a>**Croatia**
+
+<img width="300" height="300" src="media/flags/hr.svg">
+
+**Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
+</br>
+**Official Language:** Croatian, Bosnian, Serbian
+</br>
+**Currency:** Croatian kuna (HRK)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="cuba"></a>**Cuba**
+
+<img width="300" height="300" src="media/flags/cu.svg">
+
+**Capital:** [Havana](https://www.google.com/maps/search/Havana)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Cuban peso (CUP)
+</br>
+**Population:** 11,964,976 (2020)
+
+---
 ### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg">
@@ -1393,6 +1503,20 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
+### <a name="czech_republic"></a>**Czech Republic**
+
+<img width="300" height="300" src="media/flags/cz.svg">
+
+**Capital:** [Prague](https://www.google.com/maps/search/Prague)
+</br>
+**Official Language:** Czech
+</br>
+**Currency:** Czech koruna (CZK)
+</br>
+**Population:** 10,890,976 (2020)
+
+---
+
 ### <a name="denmark"></a>**Denmark**
 
 <img width="300" height="300" src="media/flags/dk.svg">
@@ -1408,6 +1532,60 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DEN
 </br>
 **Region:** Europe
+
+---
+
+### <a name="djibouti"></a>**Djibouti**
+
+<img width="300" height="300" src="media/flags/dj.svg">
+
+**Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
+</br>
+**Official Language:** Arabic, French, Somali
+</br>
+**Currency:** Djiboutian franc (DJF)
+</br>
+**Population:** 8,869,976 (2020)
+</br>
+**Country Code (cioc):** DJI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="dominica"></a>**Dominica**
+
+<img width="300" height="300" src="media/flags/dm.svg">
+
+**Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
+</br>
+**Official Language:** English
+</br>
+**Currency:** East Caribbean dollar (XCD)
+</br>
+**Population:** 71,976 (2020)
+</br>
+**Country Code (cioc):** DMA
+</br>
+**Region:** Americas
+
+---
+
+### <a name="dominican_republic"></a>**Dominican Republic**
+
+<img width="300" height="300" src="media/flags/do.svg">
+
+**Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Dominican peso (DOP)
+</br>
+**Population:** 9,976,976 (2020)
+</br>
+**Country Code (cioc):** DOM
+</br>
+**Region:** Americas
 
 ---
 
@@ -1550,6 +1728,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Cedi (GHS)
 </br>
 **Population:** 31,072,940 (2020)
+</br>
+**Country Code (cioc):** GHA
+</br>
+**Region:** Africa
 
 ---
 
@@ -1564,6 +1746,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+</br>
+**Country Code (cioc):** GRE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1578,6 +1764,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Guatemalan quetzal (GTQ)
 </br>
 **Population:** 16.86 million (2020)
+</br>
+**Country Code (cioc):** GUA
+</br>
+**Region:** Americas
 
 ---
 
@@ -1592,6 +1782,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indian rupee (INR)
 </br>
 **Population:** 1,380,004,385 (2020)
+</br>
+**Country Code (cioc):** IND
+</br>
+**Region:** Asia
 
 ---
 
@@ -1606,6 +1800,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indonesian rupiah (IDR)
 </br>
 **Population:** 273,523,615 (2020)
+</br>
+**Country Code (cioc):** INA
+</br>
+**Region:** Asia
 
 ---
 
@@ -1620,6 +1818,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iranian rial (IRR)
 </br>
 **Population:** 83,992,949 (2020)
+</br>
+**Country Code (cioc):** IRI
+</br>
+**Region:** Asia
 
 ---
 
@@ -1634,6 +1836,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iraqi dinar (IQD)
 </br>
 **Population:** 40,222,493 (2020)
+</br>
+**Country Code (cioc):** IRQ
+</br>
+**Region:** Asia
 
 ---
 
@@ -1648,6 +1854,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,035,283 (2020)
+</br>
+**Country Code (cioc):** IRL
+</br>
+**Region:** Europe
 
 ---
 
@@ -1662,6 +1872,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Israeli Sheqel (ILS)
 </br>
 **Population:** 8,655,535 (2020)
+</br>
+**Country Code (cioc):** ISR
+</br>
+**Region:** Asia
 
 ---
 
@@ -1676,6 +1890,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+</br>
+**Country Code (cioc):** ITA
+</br>
+**Region:** Europe
 
 ---
 
@@ -3804,5 +4022,19 @@ Handball (also known as team handball, European handball or Olympic handball) is
 ---
 
 ## <a name="mountains"></a> **_Mountains_**
+
+---
+
+### <a name="mounteverest"></a>**_Mount Everest_**
+
+<img width="550" height="299" src="media/mountains/Everest.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+
+**Description**
+
+Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
 
 ---
