@@ -83,6 +83,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
+  - [Georgia](#georgia)
   - [Germany](#germany)
   - [Ghana](#ghana)
   - [Greece](#greece)
@@ -1397,6 +1398,20 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
+
+---
+
+### <a name="georgia"></a>**Georgia**
+
+<img width="300" height="300" src="media/flags/ge.svg">
+
+**Capital:** [Tbilisi](https://www.google.com/maps/search/Tbilisi)
+</br>
+**Official Language:** Georgian
+</br>
+**Currency:** Georgian lari (GEL)
+</br>
+**Population:** 3,728,573 (2021)
 
 ---
 
