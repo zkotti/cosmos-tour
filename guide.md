@@ -2229,6 +2229,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Philippine peso (PHP)
 </br>
 **Population:** 109,035,343 (2020)
+</br>
+**Country Code (cioc):** PHI
+</br>
+**Region:** Asia
 
 ---
 
@@ -2243,6 +2247,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Romanian leu (RON)
 </br>
 **Population:** 19,237,691 (2020)
+</br>
+**Country Code (cioc):** ROU
+</br>
+**Region:** Europe
 
 ---
 
@@ -2257,6 +2265,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Russian ruble (RUB)
 </br>
 **Population:** 145,934,462 (2020)
+</br>
+**Country Code (cioc):** RUS
+</br>
+**Region:** Europe
 
 ---
 
@@ -2271,6 +2283,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
+</br>
+**Country Code (ISO 3166-2:GB):** SCT
+</br>
+**Region:** Europe
 
 ---
 
@@ -2285,6 +2301,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,459,642 (2020)
+</br>
+**Country Code (cioc):** SVK
+</br>
+**Region:** Europe
 
 ---
 
@@ -2299,6 +2319,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,078,938 (2020)
+</br>
+**Country Code (cioc):** SLO
+</br>
+**Region:** Europe
 
 ---
 
@@ -2313,6 +2337,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 46,754,778 (2020)
+</br>
+**Country Code (cioc):** ESP
+</br>
+**Region:** Europe
 
 ---
 
@@ -2327,6 +2355,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 8,654,622 (2020)
+</br>
+**Country Code (cioc):** SUI
+</br>
+**Region:** Europe
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -2344,6 +2376,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Hryvnia (UAH)
 </br>
 **Population:** 43,733,762 (2020)
+</br>
+**Country Code (cioc):** UKR
+</br>
+**Region:** Europe
 
 ---
 
@@ -2358,6 +2394,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** UAE Dirham (AED)
 </br>
 **Population:** 9,890,402 (2020)
+</br>
+**Country Code (cioc):** UAE
+</br>
+**Region:** Asia
 
 ---
 
@@ -2372,6 +2412,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** US Dollar (USD)
 </br>
 **Population:** 331,002,651 (2020)
+</br>
+**Country Code (cioc):** USA
+</br>
+**Region:** Americas
 
 ---
 
@@ -2386,6 +2430,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+</br>
+**Country Code (cioc):** URU
+</br>
+**Region:** Americas
 
 ---
 
@@ -2400,6 +2448,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Bolívar digital (VED)
 </br>
 **Population:** 28,436,000 (2020)
+</br>
+**Country Code (cioc):** VEN
+</br>
+**Region:** Americas
 
 ---
 
@@ -2414,6 +2466,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** đồng (₫) (VND)
 </br>
 **Population:** 97,339,000 (2020)
+</br>
+**Country Code (cioc):** VIE
+</br>
+**Region:** Asia
 
 ---
 
