@@ -3336,7 +3336,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 <img width="300" height="300" src="media/personalities/Gandhi.jpg">
 
 
-Mohandas Karamchand Gandhi (2 October 1869 – 30 January 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist and political ethicist who employed nonviolent resistance to lead the successful campaign for India's independence from British rule, and to later inspire movements for civil rights and freedom across the world. The honorific Mahātmā, first applied to him in 1914 in South Africa, is now used throughout the world. As such, he came to be considered the father of his country. Gandhi is internationally esteemed for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
+Mohandas Karamchand Gandhi (October 2, 1869 - January 30, 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist, and political ethicist who led the successful campaign for India's independence from British rule through nonviolent resistance and later inspired movements for civil rights and freedom around the world. The honorary title Mahātmā, first applied to him in South Africa in 1914, is now used throughout the world. As such, he was considered the father of his country. Gandhi is internationally respected for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
 
 source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
@@ -3360,7 +3360,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 
 <img width="300" height="300" src="media/personalities/Mandela.jpg">
 
-Nelson Rolihlahla Mandela (18 July 1918 – 5 December 2013) was a South African anti-apartheid revolutionary and political leader who served as the first president of South Africa from 1994 to 1999. He was the country's first black head of state and the first elected in a fully representative democratic election. His government focused on dismantling the legacy of apartheid by tackling institutionalised racism and fostering racial reconciliation. Ideologically an African nationalist and socialist, he served as the president of the African National Congress (ANC) party from 1991 to 1997. 
+Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
@@ -3381,7 +3381,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 <img width="300" height="300" src="media/personalities/Einstein.jpg">
 
-Albert Einstein (14 March 1879 – 18 April 1955) was a German-born theoretical physicist, widely acknowledged to be one of the greatest physicists of all time. Einstein is best known for developing the theory of relativity, but he also made important contributions to the development of the theory of quantum mechanics. Relativity and quantum mechanics are together the two pillars of modern physics. His mass–energy equivalence formula E = mc2, which arises from relativity theory, has been dubbed "the world's most famous equation".
+Albert Einstein, (born March 14, 1879, Ulm, Württemberg, Germany—died April 18, 1955, Princeton, New Jersey, U.S.), German-born physicist who developed the special and general theories of relativity and won the Nobel Prize for Physics in 1921 for his explanation of the photoelectric effect. Einstein is generally considered the most influential physicist of the 20th century.
 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
