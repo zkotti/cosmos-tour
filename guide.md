@@ -232,6 +232,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky](#book_3)
   - [Cosmos](#book_4)
   - [Missions To Mars](#book_5)
+  - [Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System](#book_6)
+  - [Sun Moon Earth](#book_7)
+  - [The Mysteries of the Universe](#book_8)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -3025,21 +3028,25 @@ source [starlust](https://starlust.org/space-memes/)
 
 ---
 ## <a name="cosmos_books"></a>**Cosmos Books**
-Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+--- 
 
 ### <a name="book_1"></a>**A Brief History of Time**
 
 <img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
 <br>Author: Stephen Hawking, 
 Publisher: Bantam (1988)
-<br>
+
+---
 
 ### <a name="book_2"></a>**The Human Cosmos: A Secret History of the Stars**
 
 <img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
 <br>Author: Jo Marchant, 
 Publisher: Canongate Books (2020)
-<br>
+
+---
 
 ### <a name="book_3"></a>**Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky)**
 
@@ -3049,6 +3056,8 @@ Cartographer: Wil Tirion,
 Publisher: Black Dog & Leventhal (2019)
 <br>
 
+---
+
 ### <a name="book_4"></a>**Cosmos**
 
 <img width="500" height="350" src="media\books\Cosmos.webp">
@@ -3056,11 +3065,40 @@ Publisher: Black Dog & Leventhal (2019)
 Publisher: Random House (1980)
 <br>
 
+---
+
 ### <a name="book_5"></a>**Missions To Mars**
 
 <img width="500" height="350" src="media\books\Missions_To_Mars.webp">
 <br>Author: Larry S. Crumpler, 
 Publisher: Harper Design (2021)
+
+---
+
+### <a name="book_6"></a>**Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System**
+
+<img width="500" height="350" src="media\books\Stars_and_planets.jpg.webp">
+<br>Authors: Ian Ridpath and Wil Tirion,
+Publisher: Princeton University Press (2017)
+<br>
+
+
+---
+
+### <a name="book_7"></a>**Sun Moon Earth**
+
+<img width="500" height="350" src="media\books\Sun_moon_earth.jpg.webp">
+<br>Author: Tyler Nordgren,
+Publisher: Basic Books (2016)
+<br>
+
+---
+
+### <a name="book_8"></a>**The Mysteries of the Universe**
+
+<img width="500" height="350" src="media\books\Mysteries_of_the_universe.jpg.webp">
+<br>AAuthor: Will Gater,
+Publisher: DK Children (2020)
 <br>
 
 ---
