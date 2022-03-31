@@ -72,11 +72,19 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Cambodia](#cambodia)
   - [Cameroon](#cameroon)
   - [Canada](#canada)
+  - [Central African Republic](#central_african_republic)
+  - [Chad](#chad)
   - [Chile](#chile)
   - [China](#china)
   - [Colombia](#colombia)
+  - [Comoros](#comoros)
+  - [Congo](#congo)
+  - [Costa Rica](#costa_rica)
   - [Cote d'Ivoire](#cote_d_ivoire)
+  - [Croatia](#croatia)
+  - [Cuba](#cuba)
   - [Cyprus](#cyprus)
+  - [Czech Republic](#czech_republic)
   - [Denmark](#denmark)
   - [Egypt](#egypt)
   - [England](#england)
@@ -1302,6 +1310,35 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="central_african_republic"></a>**Central African Republic**
+
+<img width="300" height="300" src="media/flags/cf.svg">
+
+**Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="chad"></a>**Chad**
+
+<img width="300" height="300" src="media/flags/td.svg">
+
+**Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Central African CFA franc (XAF)
+</br>
+**Population:** 14,939,976 (2020)
+
+---
+
+
 ### <a name="chile"></a>**Chile**
 
 <img width="300" height="300" src="media/flags/cl.svg">
@@ -1356,6 +1393,48 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="comoros"></a>**Comoros**
+
+<img width="300" height="300" src="media/flags/km.svg">
+
+**Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
+</br>
+**Official Language:** Comorian, Arabic, French
+</br>
+**Currency:** Comorian franc (KMF)
+</br>
+**Population:** 8,928,976 (2020)
+
+---
+
+### <a name="congo"></a>**Congo**
+
+<img width="300" height="300" src="media/flags/cg.svg">
+
+**Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
+</br>
+**Official Language:** French, English
+</br>
+**Currency:** Congolese franc (CDF)
+</br>
+**Population:** 47,837,976 (2020)
+
+---
+
+### <a name="costa_rica"></a>**Costa Rica**
+
+<img width="300" height="300" src="media/flags/cr.svg">
+
+**Capital:** [San José](https://www.google.com/maps/search/San+Jose)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Costa Rican colon (CRC)
+</br>
+**Population:** 4,959,976 (2020)
+
+---
+
 ### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
 
 <img width="300" height="300" src="media/flags/ci.svg">
@@ -1374,6 +1453,33 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 
 ---
 
+### <a name="croatia"></a>**Croatia**
+
+<img width="300" height="300" src="media/flags/hr.svg">
+
+**Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
+</br>
+**Official Language:** Croatian, Bosnian, Serbian
+</br>
+**Currency:** Croatian kuna (HRK)
+</br>
+**Population:** 4,859,976 (2020)
+
+---
+
+### <a name="cuba"></a>**Cuba**
+
+<img width="300" height="300" src="media/flags/cu.svg">
+
+**Capital:** [Havana](https://www.google.com/maps/search/Havana)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Cuban peso (CUP)
+</br>
+**Population:** 11,964,976 (2020)
+
+---
 ### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/flags/cy.svg">
@@ -1391,6 +1497,20 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Region:** Europe
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
+
+---
+
+### <a name="czech_republic"></a>**Czech Republic**
+
+<img width="300" height="300" src="media/flags/cz.svg">
+
+**Capital:** [Prague](https://www.google.com/maps/search/Prague)
+</br>
+**Official Language:** Czech
+</br>
+**Currency:** Czech koruna (CZK)
+</br>
+**Population:** 10,890,976 (2020)
 
 ---
 
