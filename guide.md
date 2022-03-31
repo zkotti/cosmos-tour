@@ -153,6 +153,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hoag's Object](#hoags_object)
   - [Mayall's Object](#mayalls_object)
   - [Milky Way](#milky_way)
+  - [Triangulum Galaxy](#triangulum_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -2332,6 +2333,24 @@ owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-
 
 The Milky Way is the galaxy that includes our Solar System, with the name describing the galaxy's appearance from Earth: a hazy band of light seen in the night sky formed from stars that cannot be individually distinguished by the naked eye. The term Milky Way is a translation of the Latin via lactea, from the Greek γαλακτικός κύκλος (galaktikos kýklos), meaning "milky circle." From Earth, the Milky Way appears as a band because its disk-shaped structure is viewed from within. Galileo Galilei first resolved the band of light into individual stars with his telescope in 1610. Until the early 1920s, most astronomers thought that the Milky Way contained all the stars in the Universe. Following the 1920 Great Debate between the astronomers Harlow Shapley and Heber Curtis, observations by Edwin Hubble showed that the Milky Way is just one of many galaxies.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Milky_Way)
+
+---
+
+### <a name="triangulum_galaxy"></a>**Triangulum Galaxy**
+
+<img width="500" height="350" src="media\galaxies\Triangulum_Galaxy.jpg">
+
+owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+
+**Description**
+
+The Triangulum Galaxy is a spiral galaxy 2.73 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC 598. The Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way. It is one of the most distant permanent objects that can be viewed with the naked eye.
+
+The galaxy is the smallest spiral galaxy in the Local Group (although the smaller Large and Small Magellanic Clouds may have been spirals before their encounters with the Milky Way), and is believed to be a satellite of the Andromeda Galaxy or on its rebound into the latter due to their interactions, velocities, and proximity to one another in the night sky. It also has an H II nucleus.
+
+Under exceptionally good viewing conditions with no light pollution, the Triangulum Galaxy can be seen with the 20/20 vision naked eye; to those viewers, it will sometimes be the farthest permanent entity visible without magnification. Its light diffuses (spreads) across a little more than a pinprick of the unmagnified sky, the cause of which is its broadness – this astronomers term a diffuse, rather than compact, object.
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
 ---
 
