@@ -108,6 +108,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Philippines](#philippines)
   - [Romania](#romania)
   - [Russia](#russia)
+  - [San Marino](#san_marino)
   - [Scotland](#scotland)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
@@ -1859,6 +1860,24 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Russian ruble (RUB)
 </br>
 **Population:** 145,934,462 (2020)
+
+---
+
+### <a name="san_marino"></a>**San Marino**
+
+<img width="300" height="300" src="media/flags/sm.svg">
+
+**Capital:** [San Marino]
+</br>
+**Official Language:** Italian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 33,938 (2020)
+</br>
+**Country Code (cioc):** SMA
+</br>
+**Region:** Europe
 
 ---
 
