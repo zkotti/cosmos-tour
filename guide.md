@@ -3985,7 +3985,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 ### <a name="#song5"></a>**Across The Universe by The Beatles**
 
-<img width="500" height="350" src="media/songs/song5.jpeg"/>
+<img width="500" height="350" src="media/songs/song5.jpg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
