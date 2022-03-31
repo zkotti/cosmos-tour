@@ -321,6 +321,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Mountains](#mountains)
   - [Mount Everest](#mounteverest)
   - [Mount Kilimanjaro](#kilimanjaro)
+  - [Swiss Alps](#Swiss_Alps)
 
 ---
 
@@ -4391,5 +4392,19 @@ owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+---
+
+### <a name="Swiss_Alps"></a>**_Swiss Alps_**
+
+<img width="550" height="299" src="media/mountains/Swiss_Alps.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
+
+**Description**
+
+The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 ---
