@@ -291,6 +291,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Golf](#Golf)
   - [Handball](#Handball)
 
+- ### [Mountains](#mountains)
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -3286,27 +3288,27 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
 <img width="500" height="350" src="media\movies\midnightsky.jpg">
-In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
+A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
 <img width="500" height="350" src="media\movies\gravity.jpg">
-On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
+Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
 <img width="500" height="350" src="media/movies/interstellar.jpg">
-A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
 <img width="500" height="350" src="media/movies/europa_report.jpg">
-An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
 <img width="500" height="350" src="media/movies/apollo13.jpg">
-he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing and turns the mission into one of seeking scientific and mechanical solutions to get the three men home safely.
+The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ---
 
@@ -3415,8 +3417,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 <img width="300" height="300" src="media/personalities/Einstein.jpg">
 
-Albert Einstein, (born March 14, 1879, Ulm, Württemberg, Germany—died April 18, 1955, Princeton, New Jersey, U.S.), German-born physicist who developed the special and general theories of relativity and won the Nobel Prize for Physics in 1921 for his explanation of the photoelectric effect. Einstein is generally considered the most influential physicist of the 20th century.
-
+Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
@@ -3446,7 +3447,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 <img width="300" height="300" src="media/personalities/alan_turing.jpg">
 
-Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. 
+Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
 source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
@@ -3456,7 +3457,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 <img width="300" height="300" src="media/personalities/Beethoven.jpg">
 
-Ludwig van Beethoven (17 December 1770 – 26 March 1827) was a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music.
+Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
@@ -3724,5 +3725,9 @@ owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-th
 Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
+
+---
+
+## <a name="mountains"></a> **_Mountains_**
 
 ---
