@@ -1525,6 +1525,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Czech koruna (CZK)
 </br>
 **Population:** 10,890,976 (2020)
+</br>
+**Country Code (cioc):** CZE
+</br>
+**Region:** Europe
 
 ---
 
