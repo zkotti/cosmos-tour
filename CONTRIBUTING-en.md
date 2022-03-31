@@ -62,13 +62,38 @@ Submitting Changes
 Contribution Tips
 -----------------
 
--  If contributing content to the guide, please make sure that your contribution conforms with [Google's guidelines on writing accessible documentation](https://developers.google.com/style/accessibility) where relevant.
--  If adding a new Markdown file, it may be worth checking out whether it should also appear on the [website version of the guide](https://e-panourgia.github.io/cosmos-tour/). If so, it should be included in the `nav` section of [mkdocs.yml](https://github.com/zkotti/cosmos-tour/blob/main/mkdocs/mkdocs.yml).
+- If contributing content to the guide, please make sure that your contribution conforms with [Google's guidelines on writing accessible documentation](https://developers.google.com/style/accessibility) where relevant.
+- If adding a new Markdown file, it may be worth checking out whether it should also appear on the [website version of the guide](https://e-panourgia.github.io/cosmos-tour/). If so, it should be included in the `nav` section of [mkdocs.yml](https://github.com/zkotti/cosmos-tour/blob/main/mkdocs/mkdocs.yml).
+
+
+##Style pattern
+
+Every coding warehouse nowadays follows a specific pattern of code styling,
+so as to make life of developpers easier and their code prettier. *And so are we.*
+
+####Please take the following advices as kindly suggested:
+#####Conventions
+- Shall use **snake case** formatting for naming **modules** and **files**
+- Shall use **title case** formatting for naming **Classes**
+- Shall use **snake case** formatting for **variables**
+- Shall use **upper case** formatting for **constants**
+- **Code lines** should **not** exceed the length of **100 characters**
+######Note 
+  While style pattern has not been extracted from a specific resource,
+  it could be said that is inspired from PEP8 coding style. 
+  
+#####Additional Suggestions
+Classes should be saparated by two new lines of codes
+Classes should be saparated by one new lines of codes
+Every block of code should not be separated by new line in its core part.
+Comments should exist on separate line from code lines.
+Comments should not be separated with new lines from code lines.
 
 
 Additional Resources
 --------------------
 
--  General GitHub documentation for help <a href="https://docs.github.com/en/" target="_blank">Help</a>
--  GitHub pull request
+- General GitHub documentation for help <a href="https://docs.github.com/en/" target="_blank">Help</a>
+- GitHub pull request
    documentation <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">Pull Request</a>
+- PEP8 official style guide 
