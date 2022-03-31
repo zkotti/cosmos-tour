@@ -3047,27 +3047,53 @@ source [starlust](https://starlust.org/space-memes/)
 
 ---
 ## <a name="cosmos_books"></a>**Cosmos Books**
-Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 --- 
 
 ### <a name="book_1"></a>**A Brief History of Time**
 
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 <img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
 <br>Author: Stephen Hawking, 
 Publisher: Bantam (1988)
+<br>
+
+**Description**
+
+Stephen Hawking explains the universe. In this best-seller, the renowned physicist breaks down black holes, space and time, the theory of general relativity and much more, and makes it accessible to those of us who aren't rocket scientists. The book is a great primer for anyone who wants to learn more about the origins of the universe and where it's all heading. 
+
+Hawking's death at age 76 was announced March 14, 2018. You can read more about his incredibly life and work on our Stephen Hawking biography page.
+
+If this seems a bit heavy for you though, "A Briefer History of Time," published first in 2005 in collaboration with Leonard Mlodinow, offers a more accessible update on the science of the first book.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
 
 ### <a name="book_2"></a>**The Human Cosmos: A Secret History of the Stars**
 
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 <img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
 <br>Author: Jo Marchant, 
 Publisher: Canongate Books (2020)
+<br>
+
+**Description**
+
+Prepare for a cosmic view of our place in universal history with this enlightening volume where celestial cycles permeate our Earthly lives. Marchant’s book delves into our centuries-old relationship with the stars that shaped our personalities, religious beliefs, power structures, scientific advances, and even our biology. Over the last few centuries we seem to have distanced ourselves from the universe that surrounds us and that’s the topic she focuses on here.
+
+Marchant guides readers on a tour through the history of humanity’s relationship with the heavens and the costs of our separation from its influence. From the Hall of the Bulls in Lascaux to witness the winter solstice at an ancient tomb at Newgrange, to a visit with Medieval monks grappling with the nature of time, and native Tahitian sailors navigating by the stars, it’s a re-examination of the potential of the universe we inhabit, its wonder, and its effect on our health.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
 
 ### <a name="book_3"></a>**Constellations: The Story of Space Told Through the 88 Known Star Patterns in the Night Sky)**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 <img width="500" height="350" src="media\books\Constellations.webp">
 <br>Author: Govert Schilling, 
@@ -3075,50 +3101,108 @@ Cartographer: Wil Tirion,
 Publisher: Black Dog & Leventhal (2019)
 <br>
 
+**Description**
+
+This lavishly adorned guide to all 88 constellations in the night sky, complete with an illustrated star map for each one by esteemed stellar cartographer Wil Tirion, provides the exact location of every constellation, the details of its structure, and data on its surrounding astronomical neighbors. 
+
+Award-winning astronomy writer Govert Schilling takes us on this splendid visual tour, offering a complete history of astronomy via the lens of the constellations themselves. Organized alphabetically by constellation, his stargazing companion profiles each shining formation and includes basic info including size, visibility, and number of stars, as well as information on the discovery and official naming of the constellations and associated legends surrounding them.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 ---
 
 ### <a name="book_4"></a>**Cosmos**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 <img width="500" height="350" src="media\books\Cosmos.webp">
 <br>Author: Carl Sagan, 
 Publisher: Random House (1980)
 <br>
 
+**Description**
+
+"Cosmos," by famed astronomer and science communicator Carl Sagan, is a deep dive into the history of science, philosophy and the universe. The book acts as a partner with Sagan's beloved 1980s TV show, "Cosmos: A Personal Voyage." 
+
+This book is a beautiful glimpse inside one of the greatest scientific minds in history. While some of it may seem dated, the book still stands up as one of the best popular science books ever written, and the language is just beautiful. ~Miriam Kramer
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 ---
 
 ### <a name="book_5"></a>**Missions To Mars**
 
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 <img width="500" height="350" src="media\books\Missions_To_Mars.webp">
 <br>Author: Larry S. Crumpler, 
 Publisher: Harper Design (2021)
+<br>
+
+**Description**
+
+With all the recent attention paid to the Red Planet, it’s nice to see a new book detailing all the excursions mankind has made to our ruddy-colored neighbor. Check out this insider account of NASA’s most important missions to Mars, injected with full-color photographs, and satellite imagery chronicling our voyage of discovery and search for evidence of organic life on the planet. 
+
+Author Dr. Larry Crumpler is one of the long-term planning leads for the Mars Exploration Rover Project, where he assisted in the daily communications between NASA and the rovers crawling around the planet to collect scientific data. In this informative planetary biography, Dr. Crumpler recounts the history of the Red Planet, from ancient times to pioneering discoveries being revealed by modern technology, including some of the first images from the Perseverance rover.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
 
 ### <a name="book_6"></a>**Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 <img width="500" height="350" src="media\books\Stars_and_planets.jpg.webp">
 <br>Authors: Ian Ridpath and Wil Tirion,
 Publisher: Princeton University Press (2017)
 <br>
 
+**Description**
+
+Here’s an indispensable book to those of us who venture out in the early hours of the morning to catch a glimpse of a rising planet or shimmering star. In this updated and expanded edition of their classic compendium, Ridpath and Tirion offer newbie stargazers and pro astronomers the most informative, comprehensive, and authoritative celestial field guide available. 
+
+It’s the work of a 30-year collaboration between one of the world’s leading astronomy experts and the planet’s foremost celestial mapmaker, and spotlights vivid color sky charts, diagrams, and photographs with clear writing, an attractive design, and an easy-to-carry, compact size. Includes the latest info on stars, a revised chapter on recent research on exoplanets, revised charts, and new photographs covering all 88 constellations in the Northern and Southern Hemispheres, and detailed Moon maps. It even has top tips on choosing and using binoculars and telescopes.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
 
 ### <a name="book_7"></a>**Sun Moon Earth**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 <img width="500" height="350" src="media\books\Sun_moon_earth.jpg.webp">
 <br>Author: Tyler Nordgren,
 Publisher: Basic Books (2016)
 <br>
 
+**Description**
+
+Throughout history, solar eclipses have transformed from terrifying omens to the subject of scientific study. In "Sun Moon Earth: The History of Solar Eclipses from Omens of Doom to Einstein and Exoplanets," astronomer-artist Tyler Nordgren traces the natural history of eclipses and how they have inspired eclipse chasers to travel the world and witness the natural phenomenon.
+
+Nordgren's narrative also details how observations of total solar eclipses have contributed to scientific discoveries about the sun, moon and Earth's place in the universe throughout history. ~ Samantha Mathewson
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 ---
 
 ### <a name="book_8"></a>**The Mysteries of the Universe**
 
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
 <img width="500" height="350" src="media\books\Mysteries_of_the_universe.jpg.webp">
-<br>AAuthor: Will Gater,
+<br>Author: Will Gater,
 Publisher: DK Children (2020)
 <br>
+
+**Description**
+
+This beautifully illustrated and alluring volume is aimed at younger minds interested in astronomy. Children can encounter strange planets, distant stars, and elaborate galaxies. From asteroids to black holes, each page of this entertaining book reveals the secrets behind more than 100 celestial objects. 
+
+Your little astronauts can embark on a journey out into the far reaches of the universe courtesy of storybook-style descriptions and simple text that delivers cool facts, myths, and key discoveries in a fun way. Its 224 pages are arranged to present heavenly objects from the closest to Earth to those furthest away, all matched with colorful, out-of-this-world pictures ideal for an educational astronomy-style bedtime.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
 
