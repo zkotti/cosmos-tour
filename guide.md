@@ -347,7 +347,7 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 ### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
-The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
+The flat Earth model is an archaic and scientifically debunked view of the Earth's shape as a plane or disk. Many ancient societies, including Greece until the classical period (323 BC), the Near Eastern Bronze Age and Iron Age civilizations until the Hellenistic period (31 BC), and China until the 17th century, believed in a flat Earth cosmography. Flat Earth conspiracy ideas are promoted by modern flat Earth organisations, despite scientific fact and clear impacts of Earth's sphericity. Flat-Earth theories are obviously based on basic scientific errors that are easily debunked.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
@@ -356,9 +356,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis is a proposal regarding the nature of existence which posits that all of existence is an artificial simulation, such as a computer simulation. Some versions rely on the development of a simulated reality, a proposed technology that would be able to convince its inhabitants that the simulation was "real".
-
-The simulation hypothesis bears a close resemblance to various other skeptical scenarios from throughout the history of philosophy. The hypothesis was popularized in its current form by Nick Bostrom. The suggestion that such a hypothesis is compatible with all human perceptual experiences is thought to have significant epistemological consequences in the form of philosophical skepticism. Versions of the hypothesis have also been featured in science fiction, appearing as a central plot device in many stories and films.
+The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
