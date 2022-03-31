@@ -3286,27 +3286,27 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
 <img width="500" height="350" src="media\movies\midnightsky.jpg">
-In the aftermath of a global catastrophe, a lone scientist in the Arctic races to contact a crew of astronauts with a warning not to return to Earth.
+A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
 <img width="500" height="350" src="media\movies\gravity.jpg">
-On an outer space mission, Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris. As the situation gets dire, Stone, the lone survivor, rises to the occasion.
+Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
 <img width="500" height="350" src="media/movies/interstellar.jpg">
-A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.
+In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
 <img width="500" height="350" src="media/movies/europa_report.jpg">
-An international crew of astronauts undertakes a privately funded mission to search for life on Jupiter's fourth largest moon.
+A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
 <img width="500" height="350" src="media/movies/apollo13.jpg">
-he film depicts astronauts Lovell, Jack Swigert, and Fred Haise aboard Apollo 13 for America's fifth crewed mission to the Moon, which was intended to be the third to land. En route, an on-board explosion deprives their spacecraft of much of its oxygen supply and electrical power, which forces NASA's flight controllers to abort the Moon landing and turns the mission into one of seeking scientific and mechanical solutions to get the three men home safely.
+The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ---
 
