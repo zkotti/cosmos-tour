@@ -35,6 +35,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Comets](#comets)
 
   - [Oumuamua](#oumuamua)
+  - [Hale-Bopp](#hale-bopp)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
 
@@ -319,6 +320,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Mountains](#mountains)
   - [Mount Everest](#mounteverest)
+  - [Mount Kilimanjaro](#kilimanjaro)
+  - [Swiss Alps](#Swiss_Alps)
 
 ---
 
@@ -671,14 +674,25 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
-<<<<<<< HEAD
-The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. Because of its shape it was originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour. The fact that, it was accelerating slightly results to a sign of considering the mysterious object a comet.
-=======
 The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
->>>>>>> e07e77bb7b1ab7c8888c8a9d9d857102204ab2e5
+
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
+
+---
+
+### <a name="hale-bopp"></a> **Hale-Bopp**
+
+<img width="500" height="500" src="media/comets/Hale-Bopp.jpg">
+
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/768px-Comet_Hale-Bopp_1995O1.jpg)
+
+**Description**
+<br>
+Comet Hale-Bopp (formally known as "C/1995 O1") is regarded as one of the most widely viewed comets in history. The comet that reached close to Earth in 1997 is also known for being unusually bright. It was visible to the naked eye for 18 months, thus the  comet became a spectacular sight in early 1997 especially in the Northern Hemisphere. Alan Hale and Thomas Bopp discovered the comet independently on July 23, 1995.
+<br>
+Source [Wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
 
 ---
 
@@ -3957,7 +3971,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
-### <a name="#song3"></a>**Fly Me To The Moon **
+### <a name="#song3"></a>**Fly Me To The Moon**
 
 <img width="500" height="350" src="media/songs/song3.jpeg"/>
 
@@ -3988,7 +4002,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
-### <a name="#song6"></a>**Here Comes The Sun by The Beatles**
+### <a name="#song6"></a>**Here Comes The Sun**
 
 <img width="500" height="350" src="media/songs/song6.jpeg"/>
 
@@ -4376,5 +4390,33 @@ owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
 Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+
+---
+
+### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
+
+<img width="550" height="299" src="media/mountains/Kilimanjaro.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+**Description**
+
+Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+---
+
+### <a name="Swiss_Alps"></a>**_Swiss Alps_**
+
+<img width="550" height="299" src="media/mountains/Swiss_Alps.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
+
+**Description**
+
+The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 ---
