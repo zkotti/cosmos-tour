@@ -161,6 +161,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Europa](#europa)
   - [Io](#io)
   - [Phobos](#phobos)
+  - [Ganymede](#ganymede)
 
 - ### [Space Exploration](#space_exploration)
 
@@ -2404,6 +2405,18 @@ Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
 Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
 
 Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
+
+---
+
+### <a name="ganymede"></a>**Ganymede**
+
+<img width="500" height="350" src="media\natural_satellites\Ganymede.png">
+
+Ganymede, a satellite of Jupiter (Jupiter III), is the largest and most massive of the Solar System's moons. The ninth-largest object (including the Sun) of the Solar System, it is the largest without a substantial atmosphere. It has a diameter of 5,268 km (3,273 mi), making it 26 percent larger than the planet Mercury by volume, although it is only 45 percent as massive. Possessing a metallic core, it has the lowest moment of inertia factor of any solid body in the Solar System and is the only moon known to have a magnetic field. Outward from Jupiter, it is the seventh satellite and the third of the Galilean moons, the first group of objects discovered orbiting another planet. Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons Europa and Io, respectively.
+
+Ganymede is composed of approximately equal amounts of silicate rock and water. It is a fully differentiated body with an iron-rich, liquid core, and an internal ocean that may contain more water than all of Earth's oceans combined.Its surface is composed of two main types of terrain. Dark regions, saturated with impact craters and dated to four billion years ago, cover about a third of it. Lighter regions, crosscut by extensive grooves and ridges and only slightly less ancient, cover the remainder. The cause of the light terrain's disrupted geology is not fully known, but was likely the result of tectonic activity due to tidal heating 
+
+Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
 
 ---
 
