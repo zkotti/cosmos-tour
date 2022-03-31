@@ -309,7 +309,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
 
 ### <a name="difference_between_cosmos_and_universe"></a>**Difference between Cosmos and Universe**
 
-It is common that the words **cosmos** and **universe** are used synonymously as they refer to the same concept which is the world or nature. However, there is difference between the terms. **Universe** seems to have either a narrower or smaller scope than **cosmos**. But, **cosmos** signifies a larger and more complex system.
+The terms **cosmos** and **universe** are equivalent since they both refer to the same thing: the world or nature. However, **universe** appears to have a narrower scope than **cosmos**, whereas **cosmos** denotes a broader and more complicated system.
 
 Source [Difference between Cosmos and Universe](http://www.differencebetween.net/science/nature/difference-between-cosmos-and-universe/)
 
@@ -449,7 +449,7 @@ Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxi
 
 ### <a name="weird_things"></a>**Five Weird Things That Happen in Outer Space**
 
-Space is weird. But just how weird might suprize you. Specifically, universe  is dominated by invisible electromagnetic forces that we typically don’t feel. In addition, it is full of bizarre types of matter that we never experience on Earth. Here’s five unearthly things that happen almost exclusively in outer space :
+Space is so complex, that most probably it will shock you. Specifically, invisible electromagnetic forces surround it, that we usually don’t feel. What’s more, it is filled with weird types of matter that we never experience on Earth. Below are mentioned five unearthly things that take place mainly in outer space:
 1. **Plasma**
 2. **Extreme Temperatures**
 3. **Cosmic Alchemy**
