@@ -3522,7 +3522,7 @@ Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic
 
 ### <a name="Football"></a>**Football**
 
-<img width="500" height="350" src="media/Sports/Football">
+<img width="500" height="350" src="media/Sports/Football.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w960-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
@@ -3537,7 +3537,7 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ### <a name="Volleyball"></a>**Volleyball**
 
-<img width="500" height="350" src="media/Sports/Volleyball">
+<img width="500" height="350" src="media/Sports/Volleyball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
 
@@ -3551,7 +3551,7 @@ Volleyball involves two teams, each on one side of a raised net, trying to “vo
 
 ### <a name="Basketball"></a>**Basketball**
 
-<img width="500" height="350" src="media/Sports/Basketball">
+<img width="500" height="350" src="media/Sports/Basketball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
 
@@ -3565,7 +3565,7 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 ### <a name="Tennis"></a>**Tennis**
 
-<img width="500" height="350" src="media/Sports/Tennis">
+<img width="500" height="350" src="media/Sports/Tennis.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/89/8f/a1/shutterstock-555305914.jpg)
 
@@ -3579,7 +3579,7 @@ An estimated one billion people worldwide follow tennis, tuning in from around t
 
 ### <a name="Cricket"></a>**Cricket**
 
-<img width="500" height="350" src="media/Sports/Cricket">
+<img width="500" height="350" src="media/Sports/Cricket.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
 
@@ -3593,7 +3593,7 @@ Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and
 
 ### <a name="Hockey"></a>**Hockey**
 
-<img width="500" height="350" src="media/Sports/Hockey">
+<img width="500" height="350" src="media/Sports/Hockey.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
 
@@ -3607,7 +3607,7 @@ Hockey, both on ice and in a field, boasts a following of two billion people. Fi
 
 ### <a name="Baseball"></a>**Baseball**
 
-<img width="500" height="350" src="media/Sports/Baseball">
+<img width="500" height="350" src="media/Sports/Baseball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/a2/ae/4b/shutterstock-557405302.jpg)
 
@@ -3621,7 +3621,7 @@ America’s national pastime is thought to have descended from the English sport
 
 ### <a name="Rugby"></a>**Rugby**
 
-<img width="500" height="350" src="media/Sports/Rugby">
+<img width="500" height="350" src="media/Sports/Rugby.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/e4/60/52/shutterstock-177161780.jpg)
 
@@ -3635,7 +3635,7 @@ Rugby has an estimated following of 475 million people. The sport originated in 
 
 ### <a name="Golf"></a>**Golf**
 
-<img width="500" height="350" src="media/Sports/Golf">
+<img width="500" height="350" src="media/Sports/Golf.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
