@@ -2235,7 +2235,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
 
 ## <a name="earthlikeplanets"></a> **_Earth-like Planets_**
 
-To qualify as potentially life-friendly, a planet must be relatively small (and therefore rocky) and orbit in the "habitable zone" of its star, which is loosely defined as a location where water can exist in liquid form on a world's surface. the main difference between a dwarf planet and a planet is size. Because they are smaller, dwarf planets lack the gravitational forces needed to pull in and accumulate all of the material found in their orbits.
+A planet must be small (and thus rocky) and orbit in the "habitable zone" of its star to qualify as possibly life-friendly. The "habitable zone" is informally defined as a position where water can exist in liquid form on a world's surface. The size difference between a dwarf planet and a planet is the most important distinction. Dwarf planets lack the gravitational forces required to pull in and gather all of the material in their orbits due to their relatively small size.
 
 ---
 
@@ -2245,8 +2245,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-This exoplanet is 33 percent larger than Earth and completes an orbit of its star every 112 days, according to NASA. The discovery of Kepler-442, situated 1,194 light-years away from Earth, was announced in 2015.
-One study, published in the Monthly Notices of the Royal Astronomical Society in 2021, found that this exoplanet may receive enough light to sustain a large biosphere. The researchers analysed the likelihood of different planets to be able to carry out photosynthesis. They found that Kepler-442b receives sufficient radiation from its star.
+According to NASA, this exoplanet is 33 percent larger than Earth and orbits its star every 112 days. In 2015, the discovery of Kepler-442, a star 1,194 light-years from Earth, was announced. This exoplanet may receive enough light to support a vast biosphere, according to a study published in the Monthly Notices of the Royal Astronomical Society in 2021. The researchers looked at the chances of different planets being able to perform photosynthesis. They discovered that Kepler-442b gets enough radiation from its star. 
 
 ---
 
@@ -2256,8 +2255,8 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-This world, whose discovery was announced in 2015, is the first near-Earth-size planet that orbits around a star the size of the sun, according to NASA. Kepler-452b is 60 percent larger than Earth and its parent star (Kepler-452) is 10 percent larger than the sun. Kepler-452 is very similar to our sun, and the exoplanet orbits in the habitable zone.
-At 1.6 times the size of Earth, Kepler-452b has a "better than even chance" of being rocky, its discoverers have said. Kepler-452b resides 1,400 light-years from Earth. It takes Kepler-452b just 20 days longer to orbit its star than Earth does.
+According to NASA, this planet is the first near-Earth-size planet to orbit a star the size of the sun, having been discovered in 2015. Kepler-452b is 60 times the size of Earth, and its parent star (Kepler-452) is ten times the size of the sun. The exoplanet Kepler-452 orbits in the habitable zone, and it is quite similar to our sun. Kepler-452b, which is 1.6 times the size of Earth, has a "better than even probability" of being rocky, according to its discoverers.
+The star Kepler-452b is 1,400 light-years away from Earth. Kepler-452b orbits its star in just 20 days longer than Earth does.
 
 ---
 
@@ -2267,8 +2266,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Proxima Centauri b is located just four light-years away from Earth, making it Earth's closest known exoplanet, according to NASA Exoplanet Exploration. The exoplanet, which was discovered in 2016, has a mass that is 1.27 times that of Earth's.
-Although the exoplanet can be found in the habitable zone of its star, Proxima Centauri, it is exposed to extreme ultraviolet radiation. This is because it lies very close to its parent star and has an orbital period of just 11.2 days.
+According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-years away from Earth, making it the closest known exoplanet. The exoplanet, found in 2016, has a mass of 1.27 times that of the Earth. Despite being in the habitable zone of its star, Proxima Centauri, the exoplanet is subjected to intense UV radiation. This is due to the fact that it orbits its parent star very closely, with an orbital period of only 11.2 days. 
 
 ---
 
@@ -2278,8 +2276,7 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Orbiting the star TRAPPIST-1 are the most Earth-sized planets ever discovered in the habitable zone of a single star. This planetary system is made up of seven worlds.
-Water on most of these planets are likely to have evaporated early in the system's formation. However, a 2018 study found that some of these planets could hold more water than Earth's oceans. One of the worlds, called TRAPPIST-1e, is thought to be the most likely to support life as we know it.
+There are the most Earth-sized planets ever discovered in the habitable zone of a single star orbiting TRAPPIST-1. There are seven worlds in this planetary system. Most of these planets' water is assumed to have evaporated during the creation of the system. However, according to a 2018 study, some of these planets may be able to contain more water than Earth's oceans. TRAPPIST-1e, one of the worlds, is regarded to be the most likely to host life as we know it. 
 
 ---
 
@@ -2289,7 +2286,8 @@ owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-plane
 
 **Description**
 
-Gliese 667 Cc is a earth-like exoplanet, which is located approximately 22 light years away from the planet Earth. It was discovered with the European Southern Observatory's 3.6-meter telescope in Chile -using the radical velocity method- and according to NASA's Jet Propultion Laboratory, Gliese 667 Cc is estimated to be more than 4.5 times bigger in size than Earth. Moreover, Gliese is located way closer to its star, than the earth is to the sun, as it orbits its host star completely in less than 30 days. However, despite the striking distance, the environment of Gliese 667 Cc is still considered earth-like, due to the fact that its star is a Red Dwarf, which temperatures are considerabelly lower than our Sun's.
+Gliese 667 Cc is an Earth-like exoplanet that is around 22 light years away from the planet Earth. Gliese 667 Cc was discovered using the radical velocity approach using the European Southern Observatory's 3.6-meter telescope in Chile, and NASA's Jet Propultion Laboratory estimates it to be more than 4.5 times the size of Earth. Furthermore, Gliese is far closer to its star than the earth is to the sun, as it completes an orbit around its star in less than 30 days.
+Despite the great distance, Gliese 667 Cc's environment is nevertheless considered Earth-like, thanks to the fact that its star is a Red Dwarf with temperatures that are significantly lower than our Sun's.
 
 ---
 
