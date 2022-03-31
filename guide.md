@@ -679,6 +679,20 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/o
 
 ---
 
+### <a name="hale-bopp"></a> **Hale-Bopp**
+
+<img width="500" height="500" src="media/comets/Hale-Bopp.jpg">
+
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/768px-Comet_Hale-Bopp_1995O1.jpg)
+
+**Description**
+<br>
+Comet Hale-Bopp (formally known as "C/1995 O1") is regarded as one of the most widely viewed comets in history. The comet that reached close to Earth in 1997 is also known for being unusually bright. It was visible to the naked eye for 18 months, thus the  comet became a spectacular sight in early 1997 especially in the Northern Hemisphere. Alan Hale and Thomas Bopp discovered the comet independently on July 23, 1995.
+<br>
+Source [Wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
+
+---
+
 ### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
 
 <img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
