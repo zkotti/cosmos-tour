@@ -1867,7 +1867,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 <img width="300" height="300" src="media/flags/sm.svg">
 
-**Capital:** [San Marino]
+**Capital:** [San Marino](https://www.google.com/maps/search/San%20Marino)
 </br>
 **Official Language:** Italian
 </br>
