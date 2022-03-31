@@ -18,18 +18,18 @@ Getting Started
 
 It is always a good practice to *update frequently* your local records based on the changes that 
 have been made on the codebase recently.
-
 ###How to achieve that?
 
 * If you are on the **main branch**, you could use ```git pull```.
 * If you are **not on main branch**, you could use:
   ####*Rebase*
+
   You could use the git command: ``git rebase main``<\n>
   
-  ######*Note*
+  ######*Note:*
   <p>If there are conflicts, needs to be resolved.
   This is the only issue that could arise using rebase.</p>
-   
+  
   ####*Merge*
    You could use the git command: ``git merge main``
   >>_*Tip:*_<br>Despite the fact that both commands are very useful, it is preferable in projects with many contributors like ours, to use the *rebase* command.
@@ -51,17 +51,20 @@ Making Changes
 -  Follow our `coding style`.
 -  Check again your code to assure nothing else was accidentally broken.
 
+
 Submitting Changes
 ------------------
 
 -  Push your changes to a topic branch in your fork of the repository.
 -  Submit a pull request to the repository.
 
+
 Contribution Tips
 -----------------
 
 -  If contributing content to the guide, please make sure that your contribution conforms with [Google's guidelines on writing accessible documentation](https://developers.google.com/style/accessibility) where relevant.
 -  If adding a new Markdown file, it may be worth checking out whether it should also appear on the [website version of the guide](https://e-panourgia.github.io/cosmos-tour/). If so, it should be included in the `nav` section of [mkdocs.yml](https://github.com/zkotti/cosmos-tour/blob/main/mkdocs/mkdocs.yml).
+
 
 Additional Resources
 --------------------
