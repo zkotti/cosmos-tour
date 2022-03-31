@@ -271,6 +271,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hubble eXtreme Deep Field](#hxdf)
   - [The Blue Marble](#the_blue_marble)
   - [Pale Blue Dot](#pale_blue_dot)
+  - [The First Image of A Black Hole](#black_hole_image)
 
 ---
 
@@ -3466,5 +3467,27 @@ In the photograph, Earth's apparent size is less than a pixel. The planet appear
 Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+
+---
+
+### <a name="#black_hole_image"></a> **The First Image Of A Black Hole**
+
+#### 2019 Image
+![Black Hole image](media/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
+
+**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic feat by an international network of radio telescopes called the Event Horizon Telescope (EHT). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
+
+A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed, never to re-emerge, because of the black hole’s unimaginably strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
+
+This stunning image shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy some 55 million light-years from Earth. This black hole is 6.5 billion times the mass of the Sun. *Catching its shadow involved eight ground-based radio telescopes around the globe, operating together as if they were one telescope the size of our entire planet.* 
+
+Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
+
+#### 2021 Image
+![Black Hole image](media/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
+
+**In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
+
+Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic-field/)
 
 ---
