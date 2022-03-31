@@ -3937,7 +3937,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ### <a name="#song1"></a>**Rocket Man by Elton John**
 
-<img width="500" height="350" src="media/songs/song#1.jpeg"/>
+<img width="500" height="350" src="media/songs/song1.jpeg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
@@ -3946,7 +3946,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 ### <a name="#song2"></a>**Space Oddity by David Bowie**
 
-<img width="500" height="350" src="media/songs/song#2.jpeg"/>
+<img width="500" height="350" src="media/songs/song2.jpeg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
@@ -3955,7 +3955,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 ### <a name="#song3"></a>**Fly Me To The Moon by Frank Sinatra**
 
-<img width="500" height="350" src="media/songs/song#3.jpeg"/>
+<img width="500" height="350" src="media/songs/song3.jpeg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
@@ -3963,7 +3963,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 ### <a name="#song4"></a>**Man On The Moon by R.E.M.**
 
-<img width="500" height="350" src="media/songs/song#4.jpg"/>
+<img width="500" height="350" src="media/songs/song4.jpg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
@@ -3971,7 +3971,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 ### <a name="#song5"></a>**Across The Universe by The Beatles**
 
-<img width="500" height="350" src="media/songs/song#5.jpeg"/>
+<img width="500" height="350" src="media/songs/song5.jpeg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
@@ -3980,7 +3980,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 ### <a name="#song6"></a>**Here Comes The Sun by The Beatles**
 
-<img width="500" height="350" src="media/songs/song#6.jpeg"/>
+<img width="500" height="350" src="media/songs/song6.jpeg"/>
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
