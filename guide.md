@@ -36,6 +36,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
   - [Oumuamua](#oumuamua)
   - [Hale-Bopp](#hale-bopp)
+  - [C/2011 W3 (Lovejoy)](#lovejoy)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
 
@@ -690,7 +691,23 @@ owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_
 <br>
 Comet Hale-Bopp (formally known as "C/1995 O1") is regarded as one of the most widely viewed comets in history. The comet that reached close to Earth in 1997 is also known for being unusually bright. It was visible to the naked eye for 18 months, thus the  comet became a spectacular sight in early 1997 especially in the Northern Hemisphere. Alan Hale and Thomas Bopp discovered the comet independently on July 23, 1995.
 <br>
-Source [Wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
+Source [wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
+
+---
+
+### <a name="lovejoy"></a> **C/2011 W3 (Lovejoy)**
+
+<img width="352" height="480" src="media/comets/Lovejoy.jpg">
+
+owned by [wiki](https://en.wikipedia.org/wiki/File:Iss030e015472_Edit.jpg)
+
+**Description**
+<br>
+The long-period comet Lovejoy (formally designated C/2011 W3 (Lovejoy)) also belongs in the family of [Kreutz sungrazers](https://en.wikipedia.org/wiki/Kreutz_sungrazer). The comet is also known by the nickname "The Great Birthday Comet of 2011" because the date of its announcement and the date of the 16th anniversary of the SOHO satellite's launch coincide. Lovejoy was visible from Earth during the Christmas holiday of 2011, hence the nickname "The Great Christmas Comet of 2011".
+
+Comet Lovejoy was Terry Lovejoy's third comet discovery and it took place on 27 November 2011 and he characterized it as "a rapidly moving fuzzy object".
+<br>
+Source [wiki](https://en.wikipedia.org/wiki/C/2011_W3_(Lovejoy))
 
 ---
 
