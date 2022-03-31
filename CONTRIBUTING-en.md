@@ -3,6 +3,7 @@ How to contribute
 
 We love pull requests. Here's a quick guide:
 
+
 Getting Started
 ---------------
 
@@ -13,22 +14,24 @@ Getting Started
 -  Fork the repository on GitHub.
 
 
-
 ##Getting up-to-date 
+
 It is always a good practice to *update frequently* your local records based on the changes that 
 have been made on the codebase recently.
 
 ###How to achieve that?
+
 * If you are on the **main branch**, you could use ```git pull```.
 * If you are **not on main branch**, you could use:
-   ####*Rebase*
-   You could use the git command: ``git rebase main``
-   <br><br/>
-  _*_Note._*_ If there are conflicts, they need to be resolved, before you move on.
-  This is the only issue that could arise using rebase.
-    ####*Merge*
+  ####*Rebase*
+  You could use the git command: ``git rebase main``<\n>
+  
+  ######*Note*
+  <p>If there are conflicts, needs to be resolved.
+  This is the only issue that could arise using rebase.</p>
+   
+  ####*Merge*
    You could use the git command: ``git merge main``
-
   >>_*Tip:*_<br>Despite the fact that both commands are very useful, it is preferable in projects with many contributors like ours, to use the *rebase* command.
   <br>Why?<br>
      *Merge* command creates a new commit each time being used, making *_commit history_* less readable and manageable for maintainability and readability purposes.
