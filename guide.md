@@ -215,7 +215,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Frequent questions](#frequent_questions)
   - [1. questions about stars](#frequent_questions_stars)
-  - [2. quetion about multiple universe](#frequent_questions_multiple_universe)]
+  - [2. quetion about multiple universe](#frequent_questions_multiple_universe)
   - [3. questions about planets](#frequent_questions_planets)
 - ### [Memes](#memes)
 
