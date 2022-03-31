@@ -292,6 +292,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
+  - [Mount Everest](#mounteverest)
 
 ---
 
@@ -3769,5 +3770,19 @@ Handball (also known as team handball, European handball or Olympic handball) is
 ---
 
 ## <a name="mountains"></a> **_Mountains_**
+
+---
+
+### <a name="mounteverest"></a>**_Mount Everest_**
+
+<img width="550" height="299" src="media/mountains/Everest.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+
+**Description**
+
+Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
 
 ---
