@@ -485,7 +485,7 @@ owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_
 
 **Description**
 
-A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing. This produces a visible atmosphere and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. Comets have been observed and recorded since ancient times by many cultures and religions.
+"A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing." This produces a visible atmosphere and a tail. These phenomena happens due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma can be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. An astronomical unit is the distance from Earth to Sun or aprox. 150 million kilometeres. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. From the ancient times people have been observed and record Comets.
 
 Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
@@ -499,7 +499,7 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
-The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
+The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. Because of its shape it was originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour. The fact that, it was accelerating slightly results to a sign of considering the mysterious object a comet.
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
