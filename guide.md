@@ -278,6 +278,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [The First Image of A Black Hole](#black_hole_image)
 
 - ### [Sports](#Sports)
+  - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
   - [Volleyball](#Volleyball)
   - [Basketball](#Basketball)
@@ -3531,6 +3532,25 @@ Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic
 ## <a name="Sports"></a> **Sports**
 
 ---
+
+### <a name="Popular_Sports"></a>**Top 10 Sports**
+
+|      **Sport**       | **Estimated Fans** |
+| :------------------: | :------------------: |
+|       Soccer         |     3.5 Billion      |
+|      Cricket         |     2.5 Billion      |
+|    Field Hockey      |     2 Billion        |
+|       Tennis         |     1 Billion        |
+|     Volleyball       |     900 Million      |
+|    Table Tennis      |     850 Million      |
+|      Baseball        |     500 Million      | 
+|       Golf           |     450 Million      |
+|     Basketball       |     400 Million      |
+|  American Football   |     400 Million      |
+
+
+
+
 
 ### <a name="Football"></a>**Football**
 
