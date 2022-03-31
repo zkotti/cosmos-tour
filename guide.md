@@ -35,6 +35,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Comets](#comets)
 
   - [Oumuamua](#oumuamua)
+  - [Hale-Bopp](#hale-bopp)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
 
