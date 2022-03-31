@@ -591,9 +591,9 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 
 **Description**
 
-Oceania is a geographic region that includes Australasia, Melanesia, Micronesia and Polynesia. Spanning the Eastern and Western Hemispheres, Oceania has a land area of 8,525,989 square kilometres (3,291,903 sq mi) and a population of over 41 million. When compared with the continents, the region of Oceania is the smallest in land area and the second smallest in population after Antarctica.
+Oceania was traditionally divided into the regions of Micronesia, Melanesia and Polynesia. It is located in both Eastern and Western Hemispheres, covering a land area of  8,525,989 square kilometres (3,291,903 sq mi) and hosting over 41 million people. Oceania, in comparison with the other continents, is the smallest one in size and  the second least populated continent after Antarctica.
 
-Oceania has a diverse mix of economies from the highly developed and globally competitive financial markets of Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, which rank high in quality of life and human development index, to the much less developed economies such as Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu, while also including medium-sized economies of Pacific islands such as Palau, Fiji and Tonga. The largest and most populous country in Oceania is Australia, and the largest city is Sydney.
+The continent has a variety of economies and cultures, since it has some of the higly developed countries with globally competitive financial markets such as  Australia, New Caledonia, New Zealand, French Polynesia and Hawaii, but also some of the less developed economies like the ones of  Papua New Guinea, Indonesian New Guinea, Kiribati, Vanuatu and Tuvalu. It also includes medium-sized economies of  islands such as Palau, Fiji and Tonga. Australia is the number one country in Oceania both in size and population, with Sydney being the largest city.
 
 Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 
