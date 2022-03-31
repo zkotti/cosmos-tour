@@ -89,8 +89,15 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Djibouti](#djibouti)
   - [Dominica](#dominica)
   - [Dominican Republic](#dominican_republic)
+  - [Ecuador](#ecuador)
   - [Egypt](#egypt)
+  - [El Salvador](#el_salvador)
   - [England](#england)
+  - [Equatorial Guinea](#equatorial_guinea)
+  - [Eritrea](#eritrea)
+  - [Estonia](#estonia)
+  - [Eswatini](#eswatini)
+  - [Ethiopia](#ethiopia)
   - [Fiji](#fiji)
   - [Finland](#finland)
   - [France](#france)
@@ -650,7 +657,7 @@ owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_
 
 **Description**
 
-A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing. This produces a visible atmosphere and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. Comets have been observed and recorded since ancient times by many cultures and religions.
+"A comet is an icy, small Solar System body that, when passing close to the Sun, warms and starts to release gases, a process that is called outgassing." This produces a visible atmosphere and a tail. These phenomena happens due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma can be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. An astronomical unit is the distance from Earth to Sun or aprox. 150 million kilometeres. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. From the ancient times people have been observed and record Comets.
 
 Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
@@ -664,7 +671,11 @@ owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
 **Description**
 <br>
+<<<<<<< HEAD
+The first known interstellar object to visit our solar system,  was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. Because of its shape it was originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour. The fact that, it was accelerating slightly results to a sign of considering the mysterious object a comet.
+=======
 The first known interstellar object to visit our solar system, was discovered Oct. 19, 2017 by the University of Hawaii’s Pan-STARRS1 telescope. While originally classified as a comet, observations revealed no signs of cometary activity after it slingshotted past the Sun on Sept. 9, 2017 at a blistering speed of 196,000 miles per hour (87.3 kilometers per second). It was briefly classified as an asteroid until new measurements found it was accelerating slightly, a sign it behaves more like a comet.
+>>>>>>> e07e77bb7b1ab7c8888c8a9d9d857102204ab2e5
 “For decades we’ve theorized that such interstellar objects are out there, and now―for the first time―we have direct evidence they exist,” said Thomas Zurbuchen.
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/oumuamua/in-depth/)
@@ -1332,6 +1343,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CAF
+</br>
+**Region:** Africa
 
 ---
 
@@ -1346,6 +1361,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 14,939,976 (2020)
+</br>
+**Country Code (cioc):** CHA
+</br>
+**Region:** Africa
 
 ---
 
@@ -1415,6 +1434,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Comorian franc (KMF)
 </br>
 **Population:** 8,928,976 (2020)
+</br>
+**Country Code (cioc):** COM
+</br>
+**Region:** Africa
 
 ---
 
@@ -1429,6 +1452,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Congolese franc (CDF)
 </br>
 **Population:** 47,837,976 (2020)
+</br>
+**Country Code (cioc):** CGO
+</br>
+**Region:** Africa
 
 ---
 
@@ -1443,6 +1470,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Costa Rican colon (CRC)
 </br>
 **Population:** 4,959,976 (2020)
+</br>
+**Country Code (cioc):** CRC
+</br>
+**Region:** Americas
 
 ---
 
@@ -1475,6 +1506,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Croatian kuna (HRK)
 </br>
 **Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CRO
+</br>
+**Region:** Europe
 
 ---
 
@@ -1489,6 +1524,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cuban peso (CUP)
 </br>
 **Population:** 11,964,976 (2020)
+</br>
+**Country Code (cioc):** CUB
+</br>
+**Region:** Americas
 
 ---
 ### <a name="cyprus"></a>**Cyprus**
@@ -1522,6 +1561,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Czech koruna (CZK)
 </br>
 **Population:** 10,890,976 (2020)
+</br>
+**Country Code (cioc):** CZE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1597,6 +1640,24 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ---
 
+### <a name="ecuador"></a>**Ecuador**
+
+<img width="300" height="300" src="media/flags/ec.svg">
+
+**Capital:** [Quito](https://www.google.com/maps/search/Quito)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 15,847,976 (2020)
+</br>
+**Country Code (cioc):** ECU
+</br>
+**Region:** Americas
+
+---
+
 ### <a name="egypt"></a>**Egypt**
 
 <img width="300" height="300" src="media/flags/eg.svg">
@@ -1612,6 +1673,24 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** EGY
 </br>
 **Region:** Africa
+
+---
+
+### <a name="el_salvador"></a>**El Salvador**
+
+<img width="300" height="300" src="media/flags/sv.svg">
+
+**Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** United States dollar (USD)
+</br>
+**Population:** 6,931,976 (2020)
+</br>
+**Country Code (cioc):** SLV
+</br>
+**Region:** Americas
 
 ---
 
@@ -1632,6 +1711,96 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Region:** Europe
 
 England is the biggest of the four countries that are part of the United Kingdom.
+
+---
+
+### <a name="equatorial_guinea"></a>**Equatorial Guinea**
+
+<img width="300" height="300" src="media/flags/gq.svg">
+
+**Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** CFA franc (XAF)
+</br>
+**Population:** 1,931,976 (2020)
+</br>
+**Country Code (cioc):** GQE
+</br>
+**Region:** Africa
+
+---
+
+### <a name="eritrea"></a>**Eritrea**
+
+<img width="300" height="300" src="media/flags/er.svg">
+
+**Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
+</br>
+**Official Language:** Tigrinya, Arabic
+</br>
+**Currency:** Nakfa (ERN)
+</br>
+**Population:** 5,939,976 (2020)
+</br>
+**Country Code (cioc):** ERI
+</br>
+**Region:** Africa
+
+---
+
+### <a name="estonia"></a>**Estonia**
+
+<img width="300" height="300" src="media/flags/ee.svg">
+
+**Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
+</br>
+**Official Language:** Estonian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 1,534,926 (2020)
+</br>
+**Country Code (cioc):** EST
+</br>
+**Region:** Europe
+
+---
+
+### <a name="eswatini"></a>**Eswatini**
+
+<img width="300" height="300" src="media/flags/sz.svg">
+
+**Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
+</br>
+**Official Language:** English, Swati, Tshiluba
+</br>
+**Currency:** Lilangeni (SZL)
+</br>
+**Population:** 1,976,000 (2020)
+</br>
+**Country Code (cioc):** ESH
+</br>
+**Region:** Africa
+
+---
+
+### <a name="ethiopia"></a>**Ethiopia**
+
+<img width="300" height="300" src="media/flags/et.svg">
+
+**Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
+</br>
+**Official Language:** Amharic
+</br>
+**Currency:** Ethiopian birr (ETB)
+</br>
+**Population:** 92,976,000 (2020)
+</br>
+**Country Code (cioc):** ETH
+</br>
+**Region:** Africa
 
 ---
 
@@ -1916,6 +2085,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+</br>
+**Country Code (cioc):** JPN
+</br>
+**Region:** Asia
 
 ---
 
@@ -1930,6 +2103,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Kenyan shilling (KES)
 </br>
 **Population:** 53,771,296 (2020)
+</br>
+**Country Code (cioc):** KEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -1944,6 +2121,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Swiss Franc (CHF)
 </br>
 **Population:** 38,896 (2020)
+</br>
+**Country Code (cioc):** LIE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1958,6 +2139,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+</br>
+**Country Code (cioc):** LTU
+</br>
+**Region:** Europe
 
 ---
 
@@ -1972,6 +2157,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 633,622 (2020)
+</br>
+**Country Code (cioc):** LUX
+</br>
+**Region:** Europe
 
 ---
 
@@ -1986,6 +2175,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+</br>
+**Country Code (cioc):** MEX
+</br>
+**Region:** Americas
 
 ---
 
@@ -2000,6 +2193,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 38.350 (2020)
+</br>
+**Country Code (cioc):** MON
+</br>
+**Region:** Europe
 
 ---
 
@@ -2014,6 +2211,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Zealand Dollar (NZD)
 </br>
 **Population:** 5,084,000 (2020)
+</br>
+**Country Code (cioc):** NZL
+</br>
+**Region:** Oceania
 
 ---
 
@@ -2028,6 +2229,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Norwegian krone (NOK)
 </br>
 **Population:** 5,421,241 (2020)
+</br>
+**Country Code (cioc):** NOR
+</br>
+**Region:** Europe
 
 ---
 
@@ -2042,6 +2247,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Peruvian Nuevo Sol (PEN)
 </br>
 **Population:** 32,970,000 (2020)
+</br>
+**Country Code (cioc):** PER
+</br>
+**Region:** Americas
 
 ---
 
@@ -2056,6 +2265,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Philippine peso (PHP)
 </br>
 **Population:** 109,035,343 (2020)
+</br>
+**Country Code (cioc):** PHI
+</br>
+**Region:** Asia
 
 ---
 
@@ -2070,6 +2283,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Romanian leu (RON)
 </br>
 **Population:** 19,237,691 (2020)
+</br>
+**Country Code (cioc):** ROU
+</br>
+**Region:** Europe
 
 ---
 
@@ -2084,6 +2301,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Russian ruble (RUB)
 </br>
 **Population:** 145,934,462 (2020)
+</br>
+**Country Code (cioc):** RUS
+</br>
+**Region:** Europe
 
 ---
 
@@ -2098,6 +2319,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 5,466,000 (2020)
+</br>
+**Country Code (ISO 3166-2:GB):** SCT
+</br>
+**Region:** Europe
 
 ---
 
@@ -2112,6 +2337,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,459,642 (2020)
+</br>
+**Country Code (cioc):** SVK
+</br>
+**Region:** Europe
 
 ---
 
@@ -2126,6 +2355,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,078,938 (2020)
+</br>
+**Country Code (cioc):** SLO
+</br>
+**Region:** Europe
 
 ---
 
@@ -2140,6 +2373,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 46,754,778 (2020)
+</br>
+**Country Code (cioc):** ESP
+</br>
+**Region:** Europe
 
 ---
 
@@ -2154,6 +2391,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 8,654,622 (2020)
+</br>
+**Country Code (cioc):** SUI
+</br>
+**Region:** Europe
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -2171,6 +2412,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Hryvnia (UAH)
 </br>
 **Population:** 43,733,762 (2020)
+</br>
+**Country Code (cioc):** UKR
+</br>
+**Region:** Europe
 
 ---
 
@@ -2185,6 +2430,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** UAE Dirham (AED)
 </br>
 **Population:** 9,890,402 (2020)
+</br>
+**Country Code (cioc):** UAE
+</br>
+**Region:** Asia
 
 ---
 
@@ -2199,6 +2448,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** US Dollar (USD)
 </br>
 **Population:** 331,002,651 (2020)
+</br>
+**Country Code (cioc):** USA
+</br>
+**Region:** Americas
 
 ---
 
@@ -2213,6 +2466,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+</br>
+**Country Code (cioc):** URU
+</br>
+**Region:** Americas
 
 ---
 
@@ -2227,6 +2484,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** Bolívar digital (VED)
 </br>
 **Population:** 28,436,000 (2020)
+</br>
+**Country Code (cioc):** VEN
+</br>
+**Region:** Americas
 
 ---
 
@@ -2241,6 +2502,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Currency:** đồng (₫) (VND)
 </br>
 **Population:** 97,339,000 (2020)
+</br>
+**Country Code (cioc):** VIE
+</br>
+**Region:** Asia
 
 ---
 
