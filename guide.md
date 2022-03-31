@@ -1367,6 +1367,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 21,510,181 (2020)
+</br>
+**Country Code (cioc):** CIV
+</br>
+**Region:** Africa
 
 ---
 
@@ -1381,6 +1385,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Euro (EUR)
 </br>
 **Population:** 1,207,359 (2020)
+</br>
+**Country Code (cioc):** CYP
+</br>
+**Region:** Europe
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
@@ -1397,6 +1405,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Danish kroner (DKK)
 </br>
 **Population:** 5,834,950 (2021)
+</br>
+**Country Code (cioc):** DEN
+</br>
+**Region:** Europe
 
 ---
 
@@ -1411,6 +1423,10 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** Egyptian pound (EBP)
 </br>
 **Population:** 102,334,404 (2020)
+</br>
+**Country Code (cioc):** EGY
+</br>
+**Region:** Africa
 
 ---
 
@@ -1425,14 +1441,16 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Currency:** British Pound Sterling (GBP)
 </br>
 **Population:** 56,286,961 (2019)
+</br>
+**Country Code (cioc):** GBR
+</br>
+**Region:** Europe
 
 England is the biggest of the four countries that are part of the United Kingdom.
 
 ---
 
-###
-
-<a name="fiji"></a>**Fiji**
+### <a name="fiji"></a>**Fiji**
 
 <img width="300" height="300" src="media/flags/fj.svg">
 
@@ -1443,12 +1461,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Fijian Dolar (FJD)
 </br>
 **Population:** 896.444 (2020)
+</br>
+**Country Code (cioc):** FIJ
+</br>
+**Region:** Oceania
 
 ---
 
-###
-
-<a name="finland"></a>**Finland**
+### <a name="finland"></a>**Finland**
 
 <img width="300" height="300" src="media/flags/fi.svg">
 
@@ -1459,6 +1479,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,531,000 (2020)
+</br>
+**Country Code (cioc):** FIN
+</br>
+**Region:** Europe
 
 ---
 
@@ -1473,6 +1497,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 65,273,511 (2020)
+</br>
+**Country Code (cioc):** FRA
+</br>
+**Region:** Europe
 
 ---
 
@@ -1487,6 +1515,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Georgian lari (GEL)
 </br>
 **Population:** 3,728,573 (2021)
+</br>
+**Country Code (cioc):** GEO
+</br>
+**Region:** Asia
 
 ---
 
@@ -1501,6 +1533,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 83,783,942 (2020)
+</br>
+**Country Code (cioc):** GER
+</br>
+**Region:** Europe
 
 ---
 
