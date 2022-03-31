@@ -263,6 +263,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
+  - [Ludwig van Beethoven](#Beethoven)
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
@@ -3412,6 +3413,16 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 Alan Mathison Turing (23 June 1912 – 7 June 1954) was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist. Turing was highly influential in the development of theoretical computer science, providing a formalisation of the concepts of algorithm and computation with the Turing machine, which can be considered a model of a general-purpose computer. Turing is widely considered to be the father of theoretical computer science and artificial intelligence. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Beethoven"></a>**Ludwig van Beethoven**
+
+<img width="300" height="300" src="media/personalities/Beethoven.jpg">
+
+Ludwig van Beethoven (17 December 1770 – 26 March 1827) was a German composer and pianist. Beethoven remains one of the most admired composers in the history of Western music; his works rank amongst the most performed of the classical music repertoire and span the transition from the Classical period to the Romantic era in classical music.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ---
 
