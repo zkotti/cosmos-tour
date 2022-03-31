@@ -1671,6 +1671,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Cedi (GHS)
 </br>
 **Population:** 31,072,940 (2020)
+</br>
+**Country Code (cioc):** GHA
+</br>
+**Region:** Africa
 
 ---
 
@@ -1685,6 +1689,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 10,423,054 (2020)
+</br>
+**Country Code (cioc):** GRE
+</br>
+**Region:** Europe
 
 ---
 
@@ -1699,6 +1707,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Guatemalan quetzal (GTQ)
 </br>
 **Population:** 16.86 million (2020)
+</br>
+**Country Code (cioc):** GUA
+</br>
+**Region:** Americas
 
 ---
 
@@ -1713,6 +1725,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indian rupee (INR)
 </br>
 **Population:** 1,380,004,385 (2020)
+</br>
+**Country Code (cioc):** IND
+</br>
+**Region:** Asia
 
 ---
 
@@ -1727,6 +1743,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Indonesian rupiah (IDR)
 </br>
 **Population:** 273,523,615 (2020)
+</br>
+**Country Code (cioc):** INA
+</br>
+**Region:** Asia
 
 ---
 
@@ -1741,6 +1761,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iranian rial (IRR)
 </br>
 **Population:** 83,992,949 (2020)
+</br>
+**Country Code (cioc):** IRI
+</br>
+**Region:** Asia
 
 ---
 
@@ -1755,6 +1779,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Iraqi dinar (IQD)
 </br>
 **Population:** 40,222,493 (2020)
+</br>
+**Country Code (cioc):** IRQ
+</br>
+**Region:** Asia
 
 ---
 
@@ -1769,6 +1797,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 5,035,283 (2020)
+</br>
+**Country Code (cioc):** IRL
+</br>
+**Region:** Europe
 
 ---
 
@@ -1783,6 +1815,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Israeli Sheqel (ILS)
 </br>
 **Population:** 8,655,535 (2020)
+</br>
+**Country Code (cioc):** ISR
+</br>
+**Region:** Asia
 
 ---
 
@@ -1797,6 +1833,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 60,461,826 (2020)
+</br>
+**Country Code (cioc):** ITA
+</br>
+**Region:** Europe
 
 ---
 
