@@ -347,9 +347,7 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 ### <a name="flat-earth_theory"></a>**Flat-Earth Theory**
 
-The flat Earth model is an archaic and scientifically disproven conception of Earth's shape as a plane or disk. Many ancient cultures subscribed to a flat Earth cosmography, including Greece until the classical period (323 BC), the Bronze Age and Iron Age civilizations of the Near East until the Hellenistic period (31 BC), and China until the 17th century.
-
-Despite the scientific fact and obvious effects of Earth's sphericity, flat Earth conspiracy theories are espoused by modern flat Earth societies. It is obvious that Flat-Earth ideas are based on basic scientific misunderstandings that can be easily refuted.
+The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
