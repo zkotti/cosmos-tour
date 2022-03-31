@@ -1187,6 +1187,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Lev (BGN)
 </br>
 **Population:** 6,863,422 (2022)
+</br>
+**Country Code (cioc):** BUL
+</br>
+**Region:** Europe
 
 ---
 
@@ -1201,6 +1205,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** West African CFA franc (XOF)
 </br>
 **Population:** 21,510,181 (2020)
+</br>
+**Country Code (cioc):** BUR
+</br>
+**Region:** Africa
 
 ---
 
@@ -1215,6 +1223,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Burundian franc (BIF)
 </br>
 **Population:** 12,847,976 (2020)
+</br>
+**Country Code (cioc):** BDI
+</br>
+**Region:** Africa
 
 ---
 
@@ -1229,6 +1241,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cape Verdean escudo (CVE)
 </br>
 **Population:** 5,928,976 (2020)
+</br>
+**Country Code (cioc):** CPV
+</br>
+**Region:** Africa
 
 ---
 
@@ -1243,6 +1259,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cambodian riel (KHR)
 </br>
 **Population:** 16,928,976 (2020)
+</br>
+**Country Code (cioc):** CAM
+</br>
+**Region:** Asia
 
 ---
 
@@ -1257,6 +1277,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 26,545,863 (2020)
+</br>
+**Country Code (cioc):** CMR
+</br>
+**Region:** Africa
 
 ---
 
@@ -1271,6 +1295,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Canadian Dollar (CAD)
 </br>
 **Population:** 37,742,154 (2020)
+</br>
+**Country Code (cioc):** CAN
+</br>
+**Region:** Americas
 
 ---
 
@@ -1285,6 +1313,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Chilean peso (CLP)
 </br>
 **Population:** 19,116,201 (2020)
+</br>
+**Country Code (cioc):** CHI
+</br>
+**Region:** Americas
 
 ---
 
@@ -1299,6 +1331,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Renminbi (Yuan) (CNY)
 </br>
 **Population:** 1,439,323,776 (2020)
+</br>
+**Country Code (cioc):** CHN
+</br>
+**Region:** Asia
 
 ---
 
@@ -1313,6 +1349,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Colombian peso (COP)
 </br>
 **Population:** 50,372,424 (2020)
+</br>
+**Country Code (cioc):** COL
+</br>
+**Region:** Americas
 
 ---
 
