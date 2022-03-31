@@ -154,6 +154,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mayall's Object](#mayalls_object)
   - [Milky Way](#milky_way)
   - [Triangulum Galaxy](#triangulum_galaxy)
+  - [Sombrero Galaxy](#sombrero_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -2351,6 +2352,18 @@ The galaxy is the smallest spiral galaxy in the Local Group (although the smalle
 Under exceptionally good viewing conditions with no light pollution, the Triangulum Galaxy can be seen with the 20/20 vision naked eye; to those viewers, it will sometimes be the farthest permanent entity visible without magnification. Its light diffuses (spreads) across a little more than a pinprick of the unmagnified sky, the cause of which is its broadness – this astronomers term a diffuse, rather than compact, object.
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+
+---
+
+### <a name="sombrero_galaxy"></a>**Sombrero Galaxy**
+
+<img width="500" height="350" src="media/galaxies/Sombrero_Galaxy.jpg">
+>Image taken by Hubble Space Telescope, October 2, 2004
+
+**Description**
+
+**The Sombrero Galaxy** (also known as Messier Object 104, M104 or NGC 4594) is a spiral galaxy in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs (31.1 million light-years) from our galaxy, within the local supercluster. It has a diameter of approximately 15 kiloparsecs (49,000 light-years), **three-tenths the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. **The dark dust lane and the bulge give it the appearance of a sombrero hat**. Astronomers initially thought the halo was small and light, indicative of a spiral galaxy; but the Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, indicative of a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **making it easily visible with amateur telescopes**, and is considered by some authors to be the galaxy with the highest absolute magnitude within a radius of 10 megaparsecs of the Milky Way.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Sombrero_Galaxy)
 
 ---
 
