@@ -3000,11 +3000,11 @@ owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
 **Description**
 
-The Triangulum Galaxy is a spiral galaxy 2.73 million light-years (ly) from Earth in the constellation Triangulum. It is catalogued as Messier 33 or NGC 598. The Triangulum Galaxy is the third-largest member of the Local Group of galaxies, behind the Andromeda Galaxy and the Milky Way. It is one of the most distant permanent objects that can be viewed with the naked eye.
+The Triangulum Galaxy is a spiral galaxy in the constellation Triangulum that is 2.73 million light-years (ly) from Earth. Messier 33 or NGC 598 is the name of the galaxy. The Triangulum Galaxy, after the Andromeda Galaxy and the Milky Way, is the third-largest member of the Local Group of galaxies. It's one of the furthest permanent objects visible from Earth with the naked eye.
 
-The galaxy is the smallest spiral galaxy in the Local Group (although the smaller Large and Small Magellanic Clouds may have been spirals before their encounters with the Milky Way), and is believed to be a satellite of the Andromeda Galaxy or on its rebound into the latter due to their interactions, velocities, and proximity to one another in the night sky. It also has an H II nucleus.
+The galaxy is the smallest spiral galaxy in the Local Group (although the smaller Large and Small Magellanic Clouds may have been spirals before their encounters with the Milky Way), and it is thought to be a satellite of the Andromeda Galaxy or on its way to collide with it in the night sky due to their interactions, velocities, and proximity.. It also has an H II nucleus.
 
-Under exceptionally good viewing conditions with no light pollution, the Triangulum Galaxy can be seen with the 20/20 vision naked eye; to those viewers, it will sometimes be the farthest permanent entity visible without magnification. Its light diffuses (spreads) across a little more than a pinprick of the unmagnified sky, the cause of which is its broadness – this astronomers term a diffuse, rather than compact, object.
+The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing conditions with no light pollution; for those observers, it will occasionally be the farthest permanent thing visible without magnification. Its light diffuses (spreads) across a bit more than a pinprick of the unmagnified sky due to its broadness — astronomers refer to this as a diffuse, rather than compact, object.
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
@@ -3030,13 +3030,13 @@ Under exceptionally good viewing conditions with no light pollution, the Triangu
 
 <img width="500" height="350" src="media\natural_satellites\Moons_of_solar_system_v7.jpg">
 
-A natural satellite is, in the most common usage, an astronomical body that orbits a planet, dwarf planet, or small Solar System body (or sometimes another natural satellite). Natural satellites are often colloquially referred to as moons, a derivation from the Moon of Earth.
+In the most common sense, a natural satellite is an astronomical body that circles a planet, dwarf planet, or minor Solar System entity (or sometimes another natural satellite). Natural satellites are commonly referred to as moons, a term derived from Earth's Moon.
 
-There are 171 moons, or natural satellites, orbiting the planets in our solar system; Earth, Mars, Jupiter, Saturn, Uranus, and Neptune have 1, 2, 66, 62, 27, and 13 moons, respectively. 
+There are 171 moons around the planets in our solar system, with 1, 2, 66, 62, 27, and 13 moons orbiting Earth, Mars, Jupiter, Saturn, Uranus, and Neptune, respectively.
 
 What are natural satellites used for?
 
-A natural satellite in astronomy is a smaller body which moves around a larger body. The smaller body is held in orbit by gravitation. The term is used for moons which go around planets, and it is also used for small galaxies which orbit larger galaxies.
+A natural satellite in astronomy is a smaller body which moves around a larger body. The smaller body is held in orbit by gravitation. The above term is used for moons which go around planets, but also for small galaxies which orbit larger galaxies.
 
 Source [wiki](https://en.wikipedia.org/wiki/Natural_satellite)
 <br>Source [List of moons](https://www.britannica.com/topic/list-of-moons-2033266)
@@ -3307,17 +3307,20 @@ Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light yea
 ---
 
 ### <a name="Overview"></a>**Overview**
-<b>Asteroids</b> are small, rocky objects that orbit the Sun. Asteroids orbit the Sun like planets, butthey are much smaller than planets. There are lots of asteroids in our solar system. Most of them are located in the main asteroid belt – a region between the orbits of Mars and Jupiter.
+<b>Asteroids</b> are stony asteroids that circle the Sun. Asteroids orbit the Sun in the same way that planets do, but they are considerably smaller. In our solar system, there are many asteroids. The majority of them are found in the main asteroid belt, which lies between Mars and Jupiter's orbits.
+Many asteroids are shattered fragments of planetesimals, things that never grew large enough to become planets within the early Sun's solar nebula.
 <br>
-Millions of asteroids exist: many are shattered remnants of planetesimals, bodies within the young Sun's solar nebula that never grew large enough to become planets. 
+Many asteroids are shattered fragments of planetesimals, things that never grew large enough to become planets within the early Sun's solar nebula.
 
-Asteroids are somewhat arbitrarily differentiated from comets and meteoroids. In the case of comets, the difference is one of composition: while asteroids are mainly composed of mineral and rock, comets are primarily composed of dust and ice. Furthermore, asteroids formed closer to the sun, preventing the development of cometary ice. The difference between asteroids and meteoroids is mainly one of size: meteoroids have a diameter of one meter or less, whereas asteroids have a diameter of greater than one meter. Finally, meteoroids can be composed of either cometary or asteroidal materials.
+Asteroids are distinguished from comets and meteoroids in a fairly arbitrary manner. The difference between asteroids and comets is one of composition: while asteroids are mostly made up of mineral and rock, comets are mostly made up of dust and ice. In addition, asteroids formed closer to the sun, preventing cometary ice from forming. The fundamental distinction between asteroids and meteoroids is size: meteoroids have a diameter of less than one meter, whereas asteroids have a diameter of more than one meter. Finally, meteoroids can be made up of asteroidal or cometary elements.
 <br>
 Only one asteroid, Vesta, which has a relatively reflective surface, is normally visible to the naked eye, and this is only in very dark skies when it is favorably positioned. Rarely, small asteroids passing close to Earth may be visible to the naked eye for a short time.[6] As of March 2020, the Minor Planet Center had data on 930,000 minor planets in the inner and outer Solar System, of which about 545,000 had enough information to be given numbered designations.
 <br>
-The United Nations declared 30 June as International Asteroid Day to educate the public about asteroids. The date of International Asteroid Day commemorates the anniversary of the Tunguska asteroid impact over Siberia, Russian Federation, on 30 June 1908.
+Only one asteroid, Vesta, with its very shiny surface, is generally visible to the human eye, and only when it is in a favorable location in very dark skies. Small asteroids travelling close to Earth may occasionally be visible to the naked eye for a brief period of time. [6] The Minor Planet Center possessed data on 930,000 minor planets in the inner and outer Solar Systems as of March 2020, with roughly 545,000 having enough information to be assigned numbers.
+
+To raise awareness about asteroids, the United Nations designated June 30 as International Asteroid Day. The anniversary of the Tunguska asteroid impact over Siberia, Russian Federation, on June 30, 1908, is commemorated on International Asteroid Day.
 <br>
-In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be hit [by a devastating asteroid], but we're not 100 percent sure when.". Also in 2018, physicist Stephen Hawking, in his final book Brief Answers to the Big Questions, considered an asteroid collision to be the biggest threat to the planet. In June 2018, the US National Science and Technology Council warned that America is unprepared for an asteroid impact event, and has developed and released the "National Near-Earth Object Preparedness Strategy Action Plan" to better prepare.According to expert testimony in the United States Congress in 2013, NASA would require at least five years of preparation before a mission to intercept an asteroid could be launched.
+"It is 100 percent guaranteed that humanity will be hit [by a deadly asteroid], but we are not 100 percent certain when," the B612 Foundation stated in April 2018. In his final book, Brief Answers to the Big Questions, published in 2018, scientist Stephen Hawking believed an asteroid collision to be the greatest hazard to the Earth. The US National Science and Technology Council warned in June 2018 that the country is unprepared for an asteroid impact, and has written and issued the "National Near-Earth Object Preparedness Strategy Action Plan" to help. According to expert evidence before the US Congress in 2013, NASA would need at least five years of planning before launching a mission to intercept an asteroid.
 <br><br>
 <img width="500" height="350" src="media\asteroids\asteroids.jpg">
 
@@ -3341,7 +3344,7 @@ In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Asteroid)
 <br>
 <br>
-<b>Ceres, Pallas, and Vesta are the three largest asteroids. Even though they are much smaller than the planets (Ceres, the largest asteroid, has only 1% the mass of the Moon), they are still capable of causing changes in the orbits of Mars and the Earth.</b>
+<b>Ceres, Pallas, and Vesta are the three largest asteroids. Although they are much smaller than the planets (Ceres, the largest asteroid, has only 1% the mass of the Moon), they can still cause changes in the orbits of Mars and the Earth.</b>
 
 ---
 
@@ -3349,7 +3352,7 @@ In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be 
 <br>
 <img width="600" height="300" src="media/planets/ceres.jpg">
 <br>
-<b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. Originally considered a planet, it was reclassified as an asteroid in the 1850s after the discovery of dozens of other objects in similar orbits. In 2006, it was reclassified again as a dwarf planet – the only one always inside Neptune's orbit – because, at 940 km (580 mi) in diameter, it is the only asteroid large enough for its gravity to make it plastic and to maintain it as a spheroid.
+<b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. It was originally classed as a planet, but with the discovery of dozens of other objects in similar orbits in the 1850s, it was reclassified as an asteroid. It was classed as a dwarf planet in 2006 because, at 940 kilometers (580 miles) in diameter, it is the only asteroid large enough for its gravity to make it plastic and keep it as a spheroid.
 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Ceres_(dwarf_planet))
 
@@ -3359,13 +3362,13 @@ In April 2018, the B612 Foundation reported "It is 100 percent certain we'll be 
 <br>
 <img width="600" height="300" src="media\asteroids\Pallas.jpg">
 <br>
-<b>Pallas</b> is the second asteroid to have been discovered, after Ceres. It is believed to have a mineral composition similar to carbonaceous chondrite meteorites, like Ceres, though significantly less hydrated than Ceres. It is the third-largest asteroid in the Solar System by both volume and mass, and is a likely remnant protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
+<b>Pallas</b> is the second asteroid discovered, following Ceres. It is thought to contain a mineral composition comparable to that of carbonaceous chondrite meteorites such as Ceres, however it is much less hydrated. It is the Solar System's third-largest asteroid in terms of both volume and mass, and it is most likely a leftover protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
 
-During the planetary formation era of the Solar System, objects grew in size through an accretion process to approximately the size of Pallas. Most of these protoplanets were incorporated into the growth of larger bodies, which became the planets, whereas others were ejected by the planets or destroyed in collisions with each other. Pallas, Vesta and Ceres appear to be the only intact bodies from this early stage of planetary formation to survive within the orbit of Neptune.
+Objects grew in size through an accretion process to about the size of Pallas during the Solar System's planetary formation epoch. The majority of these protoplanets were absorbed into the formation of larger bodies that eventually became planets, while others were ejected by planets or destroyed in collisions with one another. Pallas, Vesta, and Ceres appear to be the only bodies from this early period of planetary formation that have survived within Neptune's orbit.
 
-When Pallas was discovered by the German astronomer Heinrich Wilhelm Matthäus Olbers on 28 March 1802, it was considered to be a planet, as were other asteroids in the early 19th century. The discovery of many more asteroids after 1845 eventually led to the separate listing of "minor" planets from "major" planets, and the realization in the 1950s that such small bodies did not form in the same way as (other) planets led to the gradual abandonment of the term "minor planet" in favor of "asteroid" (or, for larger bodies such as Pallas, "planetoid").
+Pallas, like numerous asteroids in the early 19th century, was thought to be a planet when it was discovered by German astronomer Heinrich Wilhelm Matthäus Olbers on March 28, 1802. After the discovery of several asteroids after 1845, the terms "minor" and "major" planets were separated, and the recognition in the 1950s that such small things did not develop in the same way as (other) planets led to the gradual abandoning of the name "minor planet" in favor of "asteroid" (or, for larger bodies such as Pallas, "planetoid").
 
-With an orbital inclination of 34.8°, Pallas's orbit is unusually highly inclined to the plane of the asteroid belt, making Pallas relatively inaccessible to spacecraft, and its orbital eccentricity is nearly as large as that of Pluto.
+Pallas' orbit is notably sharply inclined to the plane of the asteroid belt, with an orbital inclination of 34.8°, rendering it comparatively inaccessible to spacecraft, and its orbital eccentricity is nearly as great as Pluto's.
 <br> Source [wiki](https://en.wikipedia.org/wiki/2_Pallas)
 
 ---
@@ -3374,13 +3377,13 @@ With an orbital inclination of 34.8°, Pallas's orbit is unusually highly inclin
 <br>
 <img width="600" height="300" src="media\asteroids\Vesta.jpg">
 <br>
-<b>Vesta</b> is one of the largest objects in the asteroid belt, with a mean diameter of 525 kilometres (326 mi).[10] It was discovered by the German astronomer Heinrich Wilhelm Matthias Olbers on 29 March 1807[8] and is named after Vesta, the virgin goddess of home and hearth from Roman mythology.
+<b>Vesta</b> ,with a mean diameter of 525 kilometers, it is one of the largest objects in the asteroid belt (326 mi).  It was discovered on March 29, 1807[8] by German astronomer Heinrich Wilhelm Matthias Olbers and named after Vesta, the Roman virgin goddess of home and hearth.
 
-Vesta is thought to be the second-largest asteroid, both by mass and by volume, after the dwarf planet Ceres, though in volume it overlaps with the uncertainty in the measurements of 2 Pallas. Measurements give it a nominal volume only slightly larger than that of Pallas (about 5% greater, which is the magnitude of the uncertainties in measurement), but it is 25% to 30% more massive. It constitutes an estimated 9% of the mass of the asteroid belt.Vesta is the only known remaining rocky protoplanet (with a differentiated interior) of the kind that formed the terrestrial planets. Numerous fragments of Vesta were ejected by collisions one and two billion years ago that left two enormous craters occupying much of Vesta's southern hemisphere. Debris from these events has fallen to Earth as howardite–eucrite–diogenite (HED) meteorites, which have been a rich source of information about Vesta.
+Vesta is estimated to be the second-largest asteroid after the dwarf planet Ceres, both in terms of mass and volume, albeit its volume overlaps with the uncertainty in 2 Pallas' observations. It has a nominal volume that is only slightly higher than that of Pallas (approximately 5% greater, which is the scale of measurement uncertainties), yet it is 25 percent to 30% more massive. It constitutes an estimated 9% of the mass of the asteroid belt.Vesta is the only known remaining rocky protoplanet (with a differentiated interior) of the kind that formed the terrestrial planets. Collisions one and two billion years ago ejected numerous Vesta fragments, leaving two massive craters that cover much of Vesta's southern hemisphere. Howardite–eucrite–diogenite (HED) meteorites, which have been a significant source of knowledge on Vesta, have fallen to Earth as a result of these events.
 
-Vesta is the brightest asteroid visible from Earth. It is regularly as bright as magnitude 5.1, at which times it is faintly visible to the naked eye. Its maximum distance from the Sun is slightly greater than the minimum distance of Ceres from the Sun, though its orbit lies entirely within that of Ceres.
+Vesta is the most visible asteroid from Earth. It can be as brilliant as magnitude 5.1 on a regular basis, making it faintly visible to the human eye. Though its orbit is wholly within that of Ceres, its maximum distance from the Sun is slightly more than Ceres' minimum distance.
 
-NASA's Dawn spacecraft entered orbit around Vesta on 16 July 2011 for a one-year exploration and left the orbit of Vesta on 5 September 2012 en route to its final destination, Ceres. Researchers continue to examine data collected by Dawn for additional insights into the formation and history of Vesta.
+Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-year exploration and exited Vesta's orbit on 5 September 2012 on its way to Ceres. Dawn's data is still being analyzed by researchers in the hopes of learning more about Vesta's origin and history.
 <br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
 
 ---
