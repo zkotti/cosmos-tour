@@ -1335,6 +1335,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CAF
+</br>
+**Region:** Africa
 
 ---
 
@@ -1349,6 +1353,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Central African CFA franc (XAF)
 </br>
 **Population:** 14,939,976 (2020)
+</br>
+**Country Code (cioc):** CHA
+</br>
+**Region:** Africa
 
 ---
 
@@ -1418,6 +1426,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Comorian franc (KMF)
 </br>
 **Population:** 8,928,976 (2020)
+</br>
+**Country Code (cioc):** COM
+</br>
+**Region:** Africa
 
 ---
 
@@ -1432,6 +1444,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Congolese franc (CDF)
 </br>
 **Population:** 47,837,976 (2020)
+</br>
+**Country Code (cioc):** CGO
+</br>
+**Region:** Africa
 
 ---
 
@@ -1446,6 +1462,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Costa Rican colon (CRC)
 </br>
 **Population:** 4,959,976 (2020)
+</br>
+**Country Code (cioc):** CRC
+</br>
+**Region:** Americas
 
 ---
 
@@ -1478,6 +1498,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Croatian kuna (HRK)
 </br>
 **Population:** 4,859,976 (2020)
+</br>
+**Country Code (cioc):** CRO
+</br>
+**Region:** Europe
 
 ---
 
@@ -1492,6 +1516,10 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Currency:** Cuban peso (CUP)
 </br>
 **Population:** 11,964,976 (2020)
+</br>
+**Country Code (cioc):** CUB
+</br>
+**Region:** Americas
 
 ---
 ### <a name="cyprus"></a>**Cyprus**
