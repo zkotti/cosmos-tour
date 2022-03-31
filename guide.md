@@ -771,6 +771,10 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 **Country Code (cioc):** AND
 </br>
 **Region:** Europe
+
+**Top Attractions:** Andorra la Vella,  La Casa de la Vall, Winter Wonderland: Vallnord,  Sant Joan de Caselles Church
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/andorra-and.htm)
+
 <br>
 Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Roman Catholic Diocese of Urgell. The present principality was formed by a charter in 1278. It is headed by two co-princes: the Bishop of Urgell in Catalonia, Spain and the President of France. Its capital and largest city is Andorra la Vella.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
@@ -792,6 +796,10 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 **Country Code (cioc):** ANG
 </br>
 **Region:** Africa
+
+**Top Attractions:** Kissama,  The Tunda Vala Fissure, Dilolo Lake, Dala Waterfalls
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-angola/)
+
 <br>
 Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
@@ -813,7 +821,9 @@ Angola , officially the Republic of Angola (Portuguese: República de Angola), i
 **Country Code (cioc):** ANT
 </br>
 **Region:** Americas
-<br>
+
+**Top Attractions:** Half Moon Bay, Stingray City, 17 Mile Beach, Dickenson Bay,Nelson's Dockyard National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/antigua-and-barbuda-ant.htm)
 
 ---
 
