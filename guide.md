@@ -2041,6 +2041,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Yen (JPY)
 </br>
 **Population:** 126,476,461 (2020)
+</br>
+**Country Code (cioc):** JPN
+</br>
+**Region:** Asia
 
 ---
 
@@ -2055,6 +2059,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Kenyan shilling (KES)
 </br>
 **Population:** 53,771,296 (2020)
+</br>
+**Country Code (cioc):** KEN
+</br>
+**Region:** Africa
 
 ---
 
@@ -2069,6 +2077,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Swiss Franc (CHF)
 </br>
 **Population:** 38,896 (2020)
+</br>
+**Country Code (cioc):** LIE
+</br>
+**Region:** Europe
 
 ---
 
@@ -2083,6 +2095,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 2,722,289 (2020)
+</br>
+**Country Code (cioc):** LTU
+</br>
+**Region:** Europe
 
 ---
 
@@ -2097,6 +2113,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 633,622 (2020)
+</br>
+**Country Code (cioc):** LUX
+</br>
+**Region:** Europe
 
 ---
 
@@ -2111,6 +2131,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Mexican peso (MXN)
 </br>
 **Population:** 126,014,024 (2020)
+</br>
+**Country Code (cioc):** MEX
+</br>
+**Region:** Americas
 
 ---
 
@@ -2125,6 +2149,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Euro (EUR)
 </br>
 **Population:** 38.350 (2020)
+</br>
+**Country Code (cioc):** MON
+</br>
+**Region:** Europe
 
 ---
 
@@ -2139,6 +2167,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** New Zealand Dollar (NZD)
 </br>
 **Population:** 5,084,000 (2020)
+</br>
+**Country Code (cioc):** NZL
+</br>
+**Region:** Oceania
 
 ---
 
@@ -2153,6 +2185,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Norwegian krone (NOK)
 </br>
 **Population:** 5,421,241 (2020)
+</br>
+**Country Code (cioc):** NOR
+</br>
+**Region:** Europe
 
 ---
 
@@ -2167,6 +2203,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Currency:** Peruvian Nuevo Sol (PEN)
 </br>
 **Population:** 32,970,000 (2020)
+</br>
+**Country Code (cioc):** PER
+</br>
+**Region:** Americas
 
 ---
 
