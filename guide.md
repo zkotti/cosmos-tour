@@ -767,7 +767,7 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 <br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g659499-Activities-Afghanistan.html)
 
 <br>
-Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked country located at the crossroads of Central and South Asia. Referred to as the 'Heart of Asia', it is bordered by Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east. Occupying 652,864 square kilometers (252,072 sq mi) of land, the country is predominately mountainous with plains in the north and the southwest, which are separated by the Hindu Kush mountain range. As of 2021, its population is 40.2 million, composed mostly of ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks. Kabul is the country's largest city and serves as its capital.
+Afghanistan is a landlocked country at the crossroads of Central and South Asia, officially known as the Islamic Emirate of Afghanistan. Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east form the 'Heart of Asia.' The country is mostly mountainous, with lowlands in the north and southwest split by the Hindu Kush mountain range, covering 652,864 square kilometers (252,072 square miles) of territory. It has a population of 40.2 million people as of 2021, with ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks making up the majority. Kabul is the country's capital and the country's largest city. 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
 
 ---
@@ -792,7 +792,7 @@ Afghanistan, officially the Islamic Emirate of Afghanistan, is a landlocked coun
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-albania/)
 
 <br>
-Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë), is a country in Southeastern Europe. It is located on the Adriatic and Ionian Sea within the Mediterranean Sea and shares land borders with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east and Greece to the south. Tirana is its capital and largest city, followed by Durrës, Vlorë, and Shkodër.
+Albania is a country in Southeastern Europe that is officially known as the Republic of Albania (Albanian: Republika e Shqipris). It shares land boundaries with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, and Greece to the south, all of which are part of the Mediterranean Sea. The capital and largest city is Tirana, which is followed by Durrs, Vlor, and Shkodr. 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
 
 ---
@@ -817,7 +817,8 @@ Albania , officially the Republic of Albania (Albanian: Republika e Shqipërisë
 <br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g293717-Activities-Algeria.html)
 
 <br>
-Algeria, officially the People's Democratic Republic of Algeria, is a country in the Maghreb region of North Africa. The country is the largest country by total area in Africa and in the Arab world, and is bordered to the northeast by Tunisia; to the east by Libya; to the southeast by Niger; to the southwest by Mali, Mauritania, and Western Sahara; to the west by Morocco; and to the north by the Mediterranean Sea. It has a semi-arid geography, with most of the population living in the fertile north and the Sahara dominating the geography of the south. Algeria covers an area of 2,381,741 square kilometres (919,595 sq mi), making it the world's tenth largest nation by area, and the largest nation in Africa. With a population of 44 million, Algeria is the ninth-most populous country in Africa, and the 32nd-most populous country in the world. The capital and largest city is Algiers, located in the far north on the Mediterranean coast.
+Algeria, formally the People's Democratic Republic of Algeria, is a North African country located in the Maghreb area. Tunisia is the largest country in Africa and the Arab world by total area, and it is bordered on the northeast by Tunisia, on the east by Libya, on the southeast by Niger, on the southwest by Mali, Mauritania, and the Western Sahara, on the west by Morocco, and on the north by the Mediterranean Sea. It has a semi-arid climate, with the majority of the population residing in the fertile north and the Sahara dominating the southern landscape. Algeria is the world's tenth largest country by area and the largest in Africa, with a total area of 2,381,741 square kilometers (919,595 square miles). Algeria is Africa's ninth most populous country and the world's 32nd most populous country, with 44 million people. Algiers, the country's capital and largest city, is situated on the Mediterranean coast in the far north.
+ 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Algeria)
 
 ---
@@ -842,7 +843,8 @@ Algeria, officially the People's Democratic Republic of Algeria, is a country in
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/andorra-and.htm)
 
 <br>
-Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate on the Iberian Peninsula, in the eastern Pyrenees, bordered by France to the north and Spain to the south. Believed to have been created by Charlemagne, Andorra was ruled by the count of Urgell until 988, when it was transferred to the Roman Catholic Diocese of Urgell. The present principality was formed by a charter in 1278. It is headed by two co-princes: the Bishop of Urgell in Catalonia, Spain and the President of France. Its capital and largest city is Andorra la Vella.
+Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate in the eastern Pyrenees on the Iberian Peninsula, bordered to the north by France and to the south by Spain. Andorra was administered by the count of Urgell until 988, when it was given to the Roman Catholic Diocese of Urgell. It is thought to have been founded by Charlemagne. In 1278, a charter established the current principality. The Bishop of Urgell in Catalonia, Spain, and the President of France are its co-princes.
+Andorra la Vella is the country's capital and largest city. 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
 
 ---
@@ -867,7 +869,7 @@ Andorra, officially the Principality of Andorra, is a sovereign landlocked micro
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-angola/)
 
 <br>
-Angola , officially the Republic of Angola (Portuguese: República de Angola), is a country on the west coast of Southern Africa. It is the second-largest Lusophone (Portuguese-speaking) country in both total area and population (behind Brazil), and is the seventh-largest country in Africa. It is bordered by Namibia to the south, the DR Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, the province of Cabinda, that borders the Republic of the Congo and the Democratic Republic of the Congo. The capital and most populated city is Luanda.
+Angola is a country on the west coast of Southern Africa, formally known as the Republic of Angola (Portuguese: Repblica de Angola). It is the seventh-largest country in Africa and the second-largest Lusophone (Portuguese-speaking) country in terms of both land and population (after Brazil). Namibia is to the south, the Democratic Republic of Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, Cabinda, which shares borders with both the Republic of Congo and the Democratic Republic of Congo. Luanda is the country's capital and most populous city. 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
 
 ---
@@ -3079,10 +3081,11 @@ Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 ### <a name="moon"></a>**Moon**
 
-The Moon is Earth's only natural satellite. At about one-quarter the diameter of Earth (comparable to the width of Australia), it is the largest natural satellite in the Solar System relative to the size of a major planet, the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet. The Moon is a planetary-mass object that formed a differentiated rocky body, making it a satellite planet under the geophysical definitions of the term. It lacks any significant atmosphere, hydrosphere, or magnetic field. Its surface gravity is about one-sixth of Earth's (0.1654 g); Jupiter's moon Io is the only satellite in the Solar System known to have a higher surface gravity and density.
+The Moon is the sole natural satellite of the Earth. It is the largest natural satellite in the Solar System proportional to the size of a giant planet, the fifth largest satellite in the Solar System overall, and larger than any known dwarf planet, with a diameter of nearly one-quarter the diameter of Earth (equivalent to the width of Australia). Under geophysical criteria, the Moon is a satellite planet since it is a planetary-mass object that became a differentiated rocky body. It doesn't have an atmosphere, a hydrosphere, or a magnetic field. It has a surface gravity of about one-sixth that of Earth (0.1654 g); Jupiter's moon Io is the only satellite known to have a higher surface gravity and density in the Solar System. 
 
-Orbiting Earth at an average distance of 384,400 km (238,900 mi), or about 30 times Earth's diameter, its gravitational influence very slowly lengthens Earth's day and is the main driver of Earth's tides. The Moon's orbit around Earth has a sidereal period of 27.3 days. During each synodic period of 29.5 days, the amount of visible surface illuminated by the Sun varies from none up to 100%, resulting in lunar phases that form the basis for the months of a lunar calendar. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its own axis causes its same side (the near side) to always face Earth, and the somewhat longer lunar day is the same as the synodic period. That said, 59% of the total lunar surface can be seen from Earth through shifts in perspective due to libration.
+Its gravitational impact slowly lengthens Earth's day and is the principal driver of Earth's tides, orbiting at an average distance of 384,400 km (238,900 mi), or nearly 30 times Earth's diameter. The sidereal duration of the Moon's orbit around Earth is 27.3 days. The amount of visible surface lighted by the Sun fluctuates from none to 100% during each synodic period of 29.5 days, resulting in lunar phases that serve as the foundation for lunar calendar months. The Moon is tidally locked to Earth, which means that the length of a full rotation of the Moon on its axis causes the same side (the near side) to constantly face Earth, and the synodic period is the same as the lunar day. However, because to perspective distortions caused by libration, Earth can see 59 percent of the complete lunar surface. 
 
+ 
 Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 **Watch the video below**
@@ -3419,13 +3422,22 @@ owned by [nasa.com](https://visibleearth.nasa.gov/images/73963/bathymetry)
 
 ### **Description**
 
-Oceans cover about 70% of the Earth's surface. The oceans contain roughly 97% of the Earth's water supply.
+Oceans cover over 70% of the planet's surface.
+Approximately 97 percent of the world's water supply is found in the oceans.
 
-The oceans of Earth are unique in our Solar System. No other planet in our Solar System has liquid water (although recent finds on Mars indicate that Mars may have had some liquid water in the recent past). Life on Earth originated in the seas, and the oceans continue to be home to an incredibly diverse web of life.
+Earth's oceans are unlike any other in our Solar System.
+There is no liquid water on any other planet in our Solar System (although recent finds on Mars indicate that Mars may have had some liquid water in the recent past).
+The oceans were the birthplace of life on Earth, and they continue to be home to an extremely complex web of life. 
 
-The oceans of Earth serve many functions, especially affecting the weather and temperature. They moderate the Earth's temperature by absorbing incoming solar radiation (stored as heat energy). The always-moving ocean currents distribute this heat energy around the globe. This heats the land and air during winter and cools it during summer.
+The oceans of the Earth perform a variety of tasks, including influencing weather and temperature.
+They help to keep the Earth's temperature stable by absorbing solar radiation (stored as heat energy).
+The thermal energy is distributed around the world by the ever-moving ocean currents.
+During the winter, this warms the land and air, while during the summer, it cools it.
 
-The Earth's oceans are all connected to one another. Until the year 2000, there were four recognized oceans: the Pacific, Atlantic, Indian, and Arctic. In the Spring of 2000, the International Hydrographic Organization delimited a new ocean, the Southern Ocean (it surrounds Antarctica and extends to 60 degrees latitude).  
+
+The oceans of the world are all linked together.
+There were four acknowledged oceans until the year 2000: the Pacific, Atlantic, Indian, and Arctic.
+The International Hydrographic Organization designated a new ocean, the Southern Ocean, in the spring of 2000. (it surrounds Antarctica and extends to 60 degrees latitude). 
 <br> Source [enchantedlearning](https://www.enchantedlearning.com/subjects/ocean/)
 
 ### **Area and depth of the major oceans**
@@ -3670,11 +3682,11 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ## <a name="zodiac"></a> **Zodiac**
 
-The zodiac is a belt-shaped region of the sky that extends approximately 8° north or south (as measured in celestial latitude) of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year. The paths of the Moon and visible planets are within the belt of the zodiac.
+The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
 
-In Western astrology, and formerly astronomy, the zodiac is divided into twelve signs, each occupying 30° of celestial longitude and roughly corresponding to the star constellations: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces.
+The zodiac is divided into twelve signs in Western astrology, and formerly astronomy: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn, Aquarius, and Pisces. Each sign occupies 30 degrees of celestial longitude and roughly corresponds to the star constellations: Aries, Taurus, Gemini, Cancer, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricorn 
 
-These astrological signs form a celestial coordinate system, or more specifically an ecliptic coordinate system, which takes the ecliptic as the origin of latitude and the Sun's position at vernal equinox as the origin of longitude.
+These astrological signs make up a celestial coordinate system, or more specifically, an ecliptic coordinate system, in which the ecliptic serves as the origin of latitude and the vernal equinox serves as the origin of longitude. 
 
 <img width="500" height="350" src="media\zodiac\Zodiac_Constellations.jpg">
 
