@@ -3983,7 +3983,10 @@ source [imdb](https://www.imdb.com/title/tt0081846/)
 ### <a name="cosmos_2"></a>\*Cosmos: A Spacetime Odyssey (2014)\*\*
 
 <img width="500" height="350" src="media\series\cosmos2.jpg">
+
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
+
+
 
 An exploration of our discovery of the laws of nature and coordinates in space and time.
 
@@ -3998,6 +4001,7 @@ source [imdb](https://www.imdb.com/title/tt2395695/)
 ### <a name="cosmos_3"></a>\*Cosmos: Possible Worlds (2020)\*\*
 
 <img width="500" height="350" src="media\series\cosmos3.jpg">
+
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
 
 Following the wildly successful "Cosmos: A Spacetime Odyssey," Neil deGrasse Tyson returns as host to translate more revelations of science into a lavish transporting experience, taking audiences on a series of spiritual voyages of exploration. The show reveals previously uncharted realms, including lost worlds, worlds yet to come, and the worlds that humans may one day inhabit. Ann Druyan, original creative collaborator to Carl Sagan, whose iconic docuseries "Cosmos" provided inspiration for this series, serves as executive producer alongside Seth MacFarlane.
