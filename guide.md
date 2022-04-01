@@ -4583,6 +4583,19 @@ A 6-year campaign was completed in 2007 by a Swiss foundation to determine the N
 
 
 
+### <a name="china_wall"></a>**Great Wall of China**
+
+<img width="640" height="425" src="media/wonders/china_wall.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+
+**Description**
+
+The Great Wall of China is a 21,196km long line of fortifications, along the historical northern borders of the ancient Chinese states and later Imperial China. It was built as a security measure, meant to provide protection against invasions and raids from various nomadic groups of the Eurasian Steppe.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
+
+
 
 
 
