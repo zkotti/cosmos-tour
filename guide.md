@@ -4637,3 +4637,13 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
 Christ the Redeemer is a colossal statue of Jesus Christ in Rio de Janeiro, Brazil. Its construction was completed in 1931 and is considered the largest Art Deco sculpture. Made of reinforced concrete and soapstone, it stands 30 meters tall and spans 28 meters wide.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
+
+### <a name="taj_mahal"></a>**Taj Mahal**
+
+<img width="800" height="553" src="media/wonders/taj_mahal.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+
+The Taj Mahal is a mausoleum complex in Agra, India. Occupying 17 hectares of area, its construction was completed in 1653. It was commisioned by the Mughal emperor Shah Jahan (1628 - 1658) as the tomb of his wife. The mausoleum is made of white marble, featuring semiprecious stones in geometric and floral patterns.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
