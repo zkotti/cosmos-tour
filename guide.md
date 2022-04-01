@@ -4628,4 +4628,12 @@ Machu Picchu was an ancient Incan settlement, located in the Eastern Cordillera 
 Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
 
 
+### <a name="christ"></a>**Christ the Redeemer**
 
+<img width="512" height="768" src="media/wonders/christ.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
+
+Christ the Redeemer is a colossal statue of Jesus Christ in Rio de Janeiro, Brazil. Its construction was completed in 1931 and is considered the largest Art Deco sculpture. Made of reinforced concrete and soapstone, it stands 30 meters tall and spans 28 meters wide.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
