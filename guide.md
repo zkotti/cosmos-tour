@@ -767,7 +767,8 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 <br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g659499-Activities-Afghanistan.html)
 
 <br>
-Afghanistan is a landlocked country at the crossroads of Central and South Asia, officially known as the Islamic Emirate of Afghanistan. Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east form the 'Heart of Asia.' The country is mostly mountainous, with lowlands in the north and southwest split by the Hindu Kush mountain range, covering 652,864 square kilometers (252,072 square miles) of territory. It has a population of 40.2 million people as of 2021, with ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks making up the majority. Kabul is the country's capital and the country's largest city. 
+Afghanistan is a landlocked country at the crossroads of Central and South Asia, officially known as the Islamic Emirate of Afghanistan. Pakistan to the east and south, Iran to the west, Turkmenistan to the northwest, Uzbekistan to the north, Tajikistan to the northeast, and China to the northeast and east form the 'Heart of Asia.' The country is mostly mountainous, with lowlands in the north and southwest split by the Hindu Kush mountain range, covering 652,864 square kilometers (252,072 square miles) of territory. It has a population of 40.2 million people as of 2021, with ethnic Pashtuns, Tajiks, Hazaras, and Uzbeks making up the majority. Kabul is the country's capital and the country's largest city.
+
 <br>Source [wiki](https://en.wikipedia.org/wiki/Afghanistan)
 
 ---
@@ -793,6 +794,7 @@ Afghanistan is a landlocked country at the crossroads of Central and South Asia,
 
 <br>
 Albania is a country in Southeastern Europe that is officially known as the Republic of Albania (Albanian: Republika e Shqipris). It shares land boundaries with Montenegro to the northwest, Kosovo to the northeast, North Macedonia to the east, and Greece to the south, all of which are part of the Mediterranean Sea. The capital and largest city is Tirana, which is followed by Durrs, Vlor, and Shkodr. 
+
 <br>Source [wiki](https://en.wikipedia.org/wiki/Albania)
 
 ---
@@ -845,6 +847,7 @@ Algeria, formally the People's Democratic Republic of Algeria, is a North Africa
 <br>
 Andorra, officially the Principality of Andorra, is a sovereign landlocked microstate in the eastern Pyrenees on the Iberian Peninsula, bordered to the north by France and to the south by Spain. Andorra was administered by the count of Urgell until 988, when it was given to the Roman Catholic Diocese of Urgell. It is thought to have been founded by Charlemagne. In 1278, a charter established the current principality. The Bishop of Urgell in Catalonia, Spain, and the President of France are its co-princes.
 Andorra la Vella is the country's capital and largest city. 
+
 <br>Source [wiki](https://en.wikipedia.org/wiki/Andorra)
 
 ---
@@ -869,7 +872,8 @@ Andorra la Vella is the country's capital and largest city.
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-angola/)
 
 <br>
-Angola is a country on the west coast of Southern Africa, formally known as the Republic of Angola (Portuguese: Repblica de Angola). It is the seventh-largest country in Africa and the second-largest Lusophone (Portuguese-speaking) country in terms of both land and population (after Brazil). Namibia is to the south, the Democratic Republic of Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, Cabinda, which shares borders with both the Republic of Congo and the Democratic Republic of Congo. Luanda is the country's capital and most populous city. 
+Angola is a country on the west coast of Southern Africa, formally known as the Republic of Angola (Portuguese: Repblica de Angola). It is the seventh-largest country in Africa and the second-largest Lusophone (Portuguese-speaking) country in terms of both land and population (after Brazil). Namibia is to the south, the Democratic Republic of Congo to the north, Zambia to the east, and the Atlantic Ocean to the west. Angola has an exclave province, Cabinda, which shares borders with both the Republic of Congo and the Democratic Republic of Congo. Luanda is the country's capital and most populous city.
+
 <br>Source [wiki](https://en.wikipedia.org/wiki/Angola)
 
 ---
@@ -913,6 +917,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 
 <br>
 Argentina is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil and the fourth-largest country in the Americas. The provinces and the capital have their own constitutions but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia, and the South Sandwich Islands.
+
 <br>Source [wiki](https://en.wikipedia.org/wiki/Argentina)
 
 ---
