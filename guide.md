@@ -4581,7 +4581,7 @@ Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_W
 
 A 6-year campaign was completed in 2007 by a Swiss foundation to determine the New Wonders of the World. More than 100 million votes were cast on the Internet or by text messaging, to choose from a selection of 200 monuments.
 
-
+Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
 
 ### <a name="china_wall"></a>**Great Wall of China**
 
