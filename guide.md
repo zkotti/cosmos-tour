@@ -4581,6 +4581,8 @@ Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_W
 
 A 6-year campaign was completed in 2007 by a Swiss foundation to determine the New Wonders of the World. More than 100 million votes were cast on the Internet or by text messaging, to choose from a selection of 200 monuments.
 
+---
+
 Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
 
 ### <a name="chichen_itza"></a>**Chichen Itza**
@@ -4590,6 +4592,8 @@ Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [bri
 owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
 
 Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupying 10 square km, it is thought to have been a religious, political, military and commercial center that would have been home to 35,000 people.
+
+---
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
 
@@ -4603,6 +4607,8 @@ Christ the Redeemer is a colossal statue of Jesus Christ in Rio de Janeiro, Braz
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
 
+---
+
 ### <a name="colosseum_rome"></a>**Colosseum**
 
 <img width="640" height="448" src="media/wonders/colosseum.jpg">
@@ -4612,6 +4618,8 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 The Colosseum is an amphitheatre in the center of the city of Rome, Italy. It is considered to be the largest ancient amphitheatre ever built, standing 57 meters tall and spanning 188 and 156 meters in length and width accordingly. Construction began during the reign of the Roman emperor Vespasian (69 - 79 A.D.) and was completed in 80 A.D. under the rule of hiss successor Titus.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+
+---
 
 ### <a name="china_wall"></a>**Great Wall of China**
 
@@ -4625,6 +4633,7 @@ The Great Wall of China is a 21,196km long line of fortifications, along the his
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
 
+---
 
 ### <a name="machu_picchu"></a>**Machu Picchu**
 
@@ -4638,6 +4647,8 @@ Machu Picchu was an ancient Incan settlement, located in the Eastern Cordillera 
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
 
+---
+
 ### <a name="petra_city"></a>**Petra**
 
 <img width="640" height="425" src="media/wonders/petra.jpg">
@@ -4647,6 +4658,8 @@ owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan
 Petra is a historic and archaelogical city in southern Jordan, surrounded by sandstone mountains and cliffs. It is considered to have been a major trading hub and the capital of the Nabateans (an ancient Arab people) around the second century B.C.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
+
+---
 
 ### <a name="taj_mahal"></a>**Taj Mahal**
 
