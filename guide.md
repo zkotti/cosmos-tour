@@ -331,6 +331,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
+  - [New Seven Wonders of the World](#new_wonders)
   
 ---
 
@@ -4572,4 +4573,16 @@ A list of the seven most impressive man-made structures of classical antiquity. 
 |              [Colossus of Rhodes](https://www.newworldencyclopedia.org/entry/Colossus_of_Rhodes)               |   292 - 280 B.C.E.   |    Hellenistic Greece     |                                                                                          A giant statue of the Greek god Helios roughly the same size as today's Statue of Liberty in New York.                                                                                           |           224 B.C.E.           |         Earthquake         |
 |        [Lighthouse of Alexandria](https://www.newworldencyclopedia.org/entry/Lighthouse_of_Alexandria)         | Third century B.C.E. |     Hellenistic Egypt     |                                                                                        Between 383 feet to 440 feet tall it was among the tallest man-made structures on Earth for many centuries.                                                                                        |        1303 - 1480 C.E.        |         Earthquake         |
 
-Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World)
+Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World), [wikipedia](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World), [britannica](https://www.britannica.com/topic/Seven-Wonders-of-the-World)
+
+---
+
+### <a name="new_wonders"></a>**New Seven Wonders of the World**
+
+A 6-year campaign was completed in 2007 by a Swiss foundation to determine the New Wonders of the World. More than 100 million votes were cast on the Internet or by text messaging, to choose from a selection of 200 monuments.
+
+
+
+
+
+
