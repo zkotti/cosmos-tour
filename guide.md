@@ -323,6 +323,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mount Everest](#mounteverest)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
+  - [Kangchenjunga](#kangchenjunga)
 
 ---
 
@@ -4447,3 +4448,17 @@ The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweize
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 ---
+
+### <a name="kangchenjunga"></a>**Kangchenjunga**
+
+<img width="550" height="299" src="media\mountains\Kangchenjunga,_India.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+**Description**
+
+Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. [3] [1] It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border[4], and the peaks West and Kangbachen in Nepal's Taplejung District.
+
+Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Kangchenjunga)
