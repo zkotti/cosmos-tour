@@ -4615,6 +4615,17 @@ Petra is a historic and archaelogical city in southern Jordan, surrounded by san
 
 source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
+### <a name="machu_picchu"></a>**Machu Picchu**
+
+<img width="640" height="427" src="media/wonders/machu_picchu.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
+
+Machu Picchu
+
+Machu Picchu was an ancient Incan settlement, located in the Eastern Cordillera of southern Peru, on top of a mountain ridge. It is one of the few native American urban centers discovered nearly intact. Occupying nearly 13 square km, the site includes a temple and a citadel.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
 
 
 
