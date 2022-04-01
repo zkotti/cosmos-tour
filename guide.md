@@ -128,6 +128,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Philippines](#philippines)
   - [Romania](#romania)
   - [Russia](#russia)
+  - [San Marino](#san_marino)
   - [Scotland](#scotland)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
@@ -2345,6 +2346,24 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Population:** 145,934,462 (2020)
 </br>
 **Country Code (cioc):** RUS
+</br>
+**Region:** Europe
+
+---
+
+### <a name="san_marino"></a>**San Marino**
+
+<img width="300" height="300" src="media/flags/sm.svg">
+
+**Capital:** [San Marino](https://www.google.com/maps/search/San%20Marino)
+</br>
+**Official Language:** Italian
+</br>
+**Currency:** Euro (EUR)
+</br>
+**Population:** 33,938 (2020)
+</br>
+**Country Code (cioc):** SMA
 </br>
 **Region:** Europe
 
