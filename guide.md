@@ -140,6 +140,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Uruguay](#uruguay)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
+  - [Yemen](#yemen)
+  - [Zambia](#zambia)
+  - [Zimbabwe](#Zimbabwe)
 
 - ### [Planets](#planets)
 
@@ -2543,7 +2546,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="venezuela"></a>**Venezuela**
 
-<img width="300" height="300" src="media/flags/vz.svg">
+<img width="300" height="300" src="media/flags/ve.svg">
 
 **Capital:** [Caracas](https://www.google.com/maps/search/Caracas)
 </br>
@@ -2574,6 +2577,60 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
+
+---
+
+### <a name="yemen"></a>**Yemen**
+
+<img width="300" height="300" src="media/flags/ye.svg">
+
+**Capital:** [Sanaa](https://www.google.com/maps/search/Sanaa)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Yemeni rial (YER)
+</br>
+**Population:** 30,491,000 (2021)
+</br>
+**Country Code (cioc):** YEM
+</br>
+**Region:** Asia
+
+---
+
+### <a name="zambia"></a>**Zambia**
+
+<img width="300" height="300" src="media/flags/zm.svg">
+
+**Capital:** [Lusaka](https://www.google.com/maps/search/Lusaka)
+</br>
+**Official Language:** English
+</br>
+**Currency:** Zambian kwacha (ZMW)
+</br>
+**Population:** 17,861,030 (2019)
+</br>
+**Country Code (cioc):** ZMB
+</br>
+**Region:** Africa
+
+---
+
+### <a name="zimbabwe"></a>**Zimbabwe**
+
+<img width="300" height="300" src="media/flags/zw.svg">
+
+**Capital:** [Harare](https://www.google.com/maps/search/Harare)
+</br>
+**Official Language:** English
+</br>
+**Currency:** Zimbabwean dollar (ZWL)
+</br>
+**Population:** 14,438,802 (2018)
+</br>
+**Country Code (cioc):** ZWE
+</br>
+**Region:** Africa
 
 ---
 
