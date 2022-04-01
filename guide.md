@@ -2564,7 +2564,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="vietnam"></a>**Vietnam**
 
-<img width="300" height="300" src="media/flags/vt.svg">
+<img width="300" height="300" src="media/flags/vn.svg">
 
 **Capital:** [Hanoi](https://www.google.com/maps/search/Hanoi+Vietnam)
 </br>
