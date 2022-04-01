@@ -4647,3 +4647,13 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
 The Taj Mahal is a mausoleum complex in Agra, India. Occupying 17 hectares of area, its construction was completed in 1653. It was commisioned by the Mughal emperor Shah Jahan (1628 - 1658) as the tomb of his wife. The mausoleum is made of white marble, featuring semiprecious stones in geometric and floral patterns.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+
+### <a name="colosseum_rome"></a>**Colosseum**
+
+<img width="640" height="448" src="media/wonders/colosseum.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+
+The Colosseum is an amphitheatre in the center of the city of Rome, Italy. It is considered to be the largest ancient amphitheatre ever built, standing 57 meters tall and spanning 188 and 156 meters in length and width accordingly. Construction began during the reign of the Roman emperor Vespasian (69 - 79 A.D.) and was completed in 80 A.D. under the rule of hiss successor Titus.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
