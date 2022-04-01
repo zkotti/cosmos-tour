@@ -332,6 +332,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
   - [New Seven Wonders of the World](#new_wonders)
+    - [Chichen Itza](#chichen_itza)
+    - [Christ the Redeemer](#christ)
+    - [Colosseum](#colosseum_rome)
+    - [Great Wall of China](#china_wall)
+    - [Machu Picchu](#machu_picchu)
+    - [Petra](#petra_city)
+    - [Taj Mahal](#taj_mahal)
 
 ---
 
