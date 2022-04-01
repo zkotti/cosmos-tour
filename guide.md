@@ -4587,13 +4587,27 @@ Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [bri
 
 <img width="640" height="425" src="media/wonders/china_wall.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+owned by [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)
 
 **Description**
 
 The Great Wall of China is a 21,196km long line of fortifications, along the historical northern borders of the ancient Chinese states and later Imperial China. It was built as a security measure, meant to provide protection against invasions and raids from various nomadic groups of the Eurasian Steppe.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
+
+### <a name="chichen_itza"></a>**Chichen Itza**
+
+<img width="640" height="425" src="media/wonders/itza.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
+
+Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupying 10 square km, it is thought to have been a religious, political, military and commercial center that would have been home to 35,000 people.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
+
+
+
+
 
 
 
