@@ -332,7 +332,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
   - [New Seven Wonders of the World](#new_wonders)
-  
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -4605,10 +4605,15 @@ Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupyi
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
 
+### <a name="petra_city"></a>**Petra**
 
+<img width="640" height="425" src="media/wonders/petra.jpg">
 
+owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
+Petra is a historic and archaelogical city in southern Jordan, surrounded by sandstone mountains and cliffs. It is considered to have been a major trading hub and the capital of the Nabateans (an ancient Arab people) around the second century B.C.
 
+source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
 
 
