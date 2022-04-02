@@ -1205,6 +1205,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Ambergris Caye & Hol Chan Marine Reserve, Lighthouse Reef Atoll and the Blue Hole, Placencia Peninsula
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/belize-biz.htm)
+
 ---
 
 ### <a name="benin"></a>**Benin**
@@ -1222,6 +1225,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BEN
 </br>
 **Region:** Africa
+
+**Top Attractions:** Tata Somba houses, Pendjari National Park, Royal Palaces of Abomey
+<br>Source [Erika'sTravels](https://www.erikastravels.com/benin-tourist-attractions/)
 
 ---
 
@@ -1241,6 +1247,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Rinpung Dzong, Chele La Pass, Punakha Dzong, Tiger’s Nest 
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/tourist-places-in-bhutan/)
+
 ---
 
 ### <a name="bolivia"></a>**Bolivia**
@@ -1258,6 +1267,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BOL
 </br>
 **Region:** Americas
+
+**Top Attractions:** Madidi National Park, Jesuit Missions of Chiquitos, Salar de Uyuni, Tiwanaku
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-bolivia/)
 
 ---
 
@@ -1277,6 +1289,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Una National Park, Una National Park, Una National Park
+<br>Source [GlobeGuide](https://www.globeguide.ca/best-places-to-visit-in-bosnia/)
+
 ---
 
 ### <a name="botswana"></a>**Botswana**
@@ -1294,6 +1309,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BOT
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Una National Park, Una National Park, Una National Park
+<br>Source [GlobeGuide](https://www.globeguide.ca/best-places-to-visit-in-bosnia/)
 
 ---
 
@@ -1313,6 +1331,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Cristo Redentor and Corcovado,  Sugar Loaf,  Iguaçu Falls, Copacabana
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/brazil-bra.htm)
+
 ---
 
 ### <a name="brunei"></a>**Brunei**
@@ -1330,6 +1351,10 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BRU
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Omar Ali Saifuddien Mosque, Jame' Asr Hassanil Bolkiah Mosque, Kampong Ayer
+<br>Source [TheCultureTrip](https://theculturetrip.com/asia/brunei-darussalam/articles/20-must-visit-attractions-in-brunei/)
+
 
 ---
 
@@ -1349,6 +1374,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Rila Monastery, Old Nessebar, Pirin National Park,  Plovdiv Roman Theater
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-bulgaria/)
+
 ---
 
 ### <a name="burkina faso"></a>**Burkina Faso**
@@ -1367,6 +1395,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Ouagadougou, Bobo-Dioulasso, Banfora, Gorom Gorom
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-burkina-faso/)
+
 ---
 
 ### <a name="burundi"></a>**Burundi**
@@ -1384,6 +1415,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BDI
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Bujumbura, Rusizi River National Park, Ruvubu National Park, Lake Rwihinda Natural Reserve
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-burundi/)
 
 ---
 
