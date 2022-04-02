@@ -369,6 +369,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
   - [Painting](#painting)
+  - [Sculpture](#sculpture)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -5236,6 +5237,19 @@ Painting is one of the most known forms of art. It is expressed with the use of 
 Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
 
 ---
+
+### <a name="sculpture"></a>**Sculpture**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/" alt="Michelangelo: David">
+
+Michelangelo: David: An example of sculpture,
+owned by [britannica](https://www.britannica.com/art/sculpture)
+
+Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
+
+Source [britannica](https://www.britannica.com/art/sculpture)
+
 ---
 
 
