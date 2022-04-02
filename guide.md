@@ -411,7 +411,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
+The simulation hypothesis implies that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions heavily depend on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it really existed. The simulation hypothesis bears close resemblance to a number of other skeptical scenarios that have been proposed throughout philosophy's history. The hypothesis in its current form was popularized by Nick Bostrom. The idea that such a hypothesis is compatible with all perceived human experiences is linked with major epistemological implications, resulting in philosophical skepticism. The hypothesis is also very popular in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
@@ -4197,11 +4197,11 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 <img width="300" height="300" src="media/photos/personalities/margaret_hamilton.jpg">
 
-Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. At first, she was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which focused on the development of on-board flight software for NASA's Apollo program. She later became founder of Higher Order Software (1976) and Hamilton Technologies (1986), both located in Cambridge, Massachusetts. 
 
-Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+Hamilton is respnsible for publishing  more than 130 papers, proceedings, and reports, icluding sixty projects and six major programs. She is one of the first people who used the term "software engineering", which is also the topic of our course!
 
-On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+Margaret Hamilton received the Presidential Medal of Freedom from the president of America at the time, Barack Obama, for her contribution to the development of on-board flight software for NASA's Apollo Moon missions, on November 22, 2016. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
