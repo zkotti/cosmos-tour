@@ -27,7 +27,7 @@ def find_name(tag, i):
     cont = 0
     for index, val in i:
         if len(tag) == 4:
-            cont += 1 if val in ['n', 'a', 'm', 'e'] else cont = 0
+            cont += 1 if val in ['n', 'a', 'm', 'e'] else cont == 0
             if cont == len(tag):
                 pos_start = index + 3
                 break
