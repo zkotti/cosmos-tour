@@ -207,6 +207,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Blue Origin](#blue_origin)
 
 - ### [Stars](#stars)
+  - [Antares](#antares)
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
@@ -367,7 +368,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#8](#fact8)
   - [#9](#fact9)
   - [#10](#fact10)
----
 
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
@@ -3819,6 +3819,20 @@ As the many benefits of space activity have become evident, other countries have
 
 ---
 
+### <a name="antares"></a>**Antares**
+
+<img width="476" height="480" src="media/photos/stars/Antares.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Antares)
+
+**Description**
+
+Antares, also known as Alpha Scorpii, belongs to the constellation of Scorpius and it is the brighhtest star in it. Antares can be seen without a telescope every year at night of May 31st and it is a massive red supergiant star. It is also a binary star that consists of two components Scorpii A and Scorpii B. Antares lies around 550 light-years away from Earth.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Antares)
+
+---
+
 ### <a name="betelgeuse"></a>**Betelgeuse**
 
 <img width="358" height="550" src="media/photos/stars/Betelgeuse.jpg">
@@ -4852,9 +4866,9 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ### <a name="Margaret"></a>**Margaret Thatcher**
 
-<br>
+<img width="300" height="300" src="media/photos/personalities/Thatcher.jpg">
 
-Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
+Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
