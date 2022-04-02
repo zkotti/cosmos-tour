@@ -578,13 +578,12 @@ If you want to read more information about careers in space you can visit the or
 
 ### <a name="mythology"></a>**The Creation of the Universe According to Greek Mythology**
 
-In the beginning there was only chaos. Then out of the void appeared Night and Erebus, the unknowable place where death dwells. All else was empty, silent, endless, darkness. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
+At first, there was only chaos. Then out of the void appeared Night and Erebus, the place where death dwells. Everything else was empty, silent and dark. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
 
 Then Erebus slept with Night, who gave birth to Aether the heavenly light, and then to Day the earthly light. Then Night alone produced Doom, Fate, Death, Sleep, Dreams, Nemesis, and others that come to man out of darkness.
 
-Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.”
+Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.
 
-This is a condensed version of the first part of Greek mythology, about the creation of the universe.
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
 
