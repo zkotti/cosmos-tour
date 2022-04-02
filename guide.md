@@ -375,11 +375,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Painting](#painting)
   - [Sculpture](#sculpture)
   - [Literature](#literature)
+  - [Music](#music)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
     #### [Divisions of Christianity](#divs)
     - [Roman Catholicism](#cathol)
+    - [Eastern Orthodox Church](#ortho)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
@@ -5499,6 +5501,18 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
 
 ---
 
+### <a name="music"></a>**Music**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/music.jpg" alt="Image of musical instruments">
+
+owned by [interlude](https://interlude.hk/music-as-art/)
+
+Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood. 
+
+Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/)
+
+---
 
 ## <a name="religions"></a> **Religions**
 ### <a name="christ"></a>**Christianity**  
@@ -5517,6 +5531,12 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
   The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
 
   source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
+
+   ### <a name="ortho"></a>**Eastern Orthodox Church**
+
+  Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
+
+  source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
 
   ---
 
