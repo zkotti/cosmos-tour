@@ -7,6 +7,9 @@
 # In order for this script to work you need to type the section, that
 # you want to go exactly as it is in the guide.html file ! ! !
 
+# I run this code on Windows 11, so I am sorry if this does not work
+# on macOs or Linux.
+
 # For example:
 # if you want to go to the Countries section, then type "Countries" etc.
 
