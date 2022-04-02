@@ -6,7 +6,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 ## Table of contents
 
-- ### [Cosmos](#cosmos)
+- ### [Cosmos](#a-name"cosmos"a-cosmos)
 
   - [About the term Cosmos](#about_the_term_cosmos)
   - [Difference between Cosmos and Universe](#difference_between_cosmos_and_universe)
