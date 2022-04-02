@@ -22,38 +22,38 @@ import webbrowser
 
 
 def find_name(tag, i):
-    if tag in i:
-        count = -1
-        cont = 0
-        for j in i:
-            count += 1
+    if tag not in i:
+        return ''  
+    count = -1
+    cont = 0
+    for j in i:
+        count += 1
+        if len(tag) == 4:
+            cont += 1 if j in ['n', 'a', 'm', 'e'] else cont = 0
+            if cont == len(tag):
+                pos_start = count + 3
+                break
+        else:
+            cont += 1 if j in ['<', 'e', 'm', '>'] else 0
+            if cont == len(tag) + 2:
+                pos_start = count + 1
+                break
+    pos_end = 0
+    count = -1
+    for j in enumerate(i):
+        count += 1
+        if j[0] >= pos_start:
             if len(tag) == 4:
-                cont += 1 if j in ['n', 'a', 'm', 'e'] else cont = 0
-                if cont == len(tag):
-                    pos_start = count + 3
-                    break
+                if '"' == j[1]:
+                    pos_end = count - 1
             else:
-                cont += 1 if j in ['<', 'e', 'm', '>'] else 0
-                if cont == len(tag) + 2:
-                    pos_start = count + 1
-                    break
-        pos_end = 0
-        count = -1
-        for j in enumerate(i):
-            count += 1
-            if j[0] >= pos_start:
-                if len(tag) == 4:
-                    if '"' == j[1]:
-                        pos_end = count - 1
-                else:
-                    if '<' == j[1]:
-                        pos_end == count - 1
-        html_parameter = ''
-        for j in enumerate(i):
-            if j[0] >= pos_start and j[0] <= pos_end:
-                html_parameter += j[1]
-        return html_parameter
-    return ''
+                if '<' == j[1]:
+                    pos_end == count - 1
+    html_parameter = ''
+    for j in enumerate(i):
+        if j[0] >= pos_start and j[0] <= pos_end:
+            html_parameter += j[1]
+    return html_parameter
 
 
 name = input('Type the name of the section, that you want to search: ')
