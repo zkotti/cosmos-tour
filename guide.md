@@ -291,6 +291,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
   - [Spaceman by The Killers](#song7)
+  - [Starlight by Muse](#song8)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -4341,6 +4342,19 @@ Artist: The Killers
 Album: Day & Age
 
 image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
+
+
+
+### <a name="song8"></a>**Starlight**
+
+<img width="300" height="300" src="media/photos/songs/song8.jpg"/>
+
+Arist: Muse
+
+Album: Black Holes And Revelations
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
 
 ---
