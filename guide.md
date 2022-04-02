@@ -4184,7 +4184,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
 ### <a name="Gandhi"></a>**Mahatma Gandhi**
 
-<img width="300" height="300" src="media/personalities/Gandhi.jpg">
+<img width="300" height="300" src="media/photos/personalities/Gandhi.jpg">
 
 
 Mohandas Karamchand Gandhi (October 2, 1869 - January 30, 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist, and political ethicist who led the successful campaign for India's independence from British rule through nonviolent resistance and later inspired movements for civil rights and freedom around the world. The honorary title Mahātmā, first applied to him in South Africa in 1914, is now used throughout the world. As such, he was considered the father of his country. Gandhi is internationally respected for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
@@ -4195,7 +4195,7 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 ### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
 
-<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+<img width="300" height="300" src="media/photos/personalities/margaret_hamilton.jpg">
 
 Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
 
@@ -4209,7 +4209,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 
 ### <a name="Mandela"></a>**Nelson Mandela**
 
-<img width="300" height="300" src="media/personalities/Mandela.jpg">
+<img width="300" height="300" src="media/photos/personalities/Mandela.jpg">
 
 Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
 
@@ -4220,7 +4220,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 ### <a name="Luther_King"></a>**Martin Luther King**
 
-<img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
+<img width="300" height="300" src="media/photos/personalities/Martin_Luther_King_Jr.jpg">
 
 Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
 
@@ -4230,7 +4230,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ### <a name="Einstein"></a>**Albert Einstein**
 
-<img width="300" height="300" src="media/personalities/Einstein.jpg">
+<img width="300" height="300" src="media/photos/personalities/Einstein.jpg">
 
 Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
 
@@ -4240,7 +4240,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ### <a name="Stephen_Hawking"></a>**Stephen Hawking**
 
-<img width="300" height="300" src="media/personalities/Stephen_Hawking.jpg">
+<img width="300" height="300" src="media/photos/personalities/Stephen_Hawking.jpg">
 
 Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
 
@@ -4250,7 +4250,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 ### <a name="Neil_Armstrong"></a>**Neil Armstrong**
 
-<img width="300" height="300" src="media/personalities/Neil_Armstrong.jpg">
+<img width="300" height="300" src="media/photos/personalities/Neil_Armstrong.jpg">
 
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
@@ -4260,7 +4260,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 ### <a name="Alan_Turing"></a>**Alan Turing**
 
-<img width="300" height="300" src="media/personalities/alan_turing.jpg">
+<img width="300" height="300" src="media/photos/personalities/alan_turing.jpg">
 
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
@@ -4270,7 +4270,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 ### <a name="Beethoven"></a>**Ludwig van Beethoven**
 
-<img width="300" height="300" src="media/personalities/Beethoven.jpg">
+<img width="300" height="300" src="media/photos/personalities/Beethoven.jpg">
 
 Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
 
@@ -4291,7 +4291,7 @@ source [history,](https://www.history.com/topics/british-history/margaret-thatch
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=HCDVN7DCzYE
-" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
+" target="_blank"><img src="media\photos\image_hyperlinks\Earth_National_Geographic.jpg" 
 alt="Earth Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -4300,7 +4300,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 
  ### <a name="Mars101"></a>**Mars 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
-" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
+" target="_blank"><img src="media\photos\image_hyperlinks\Mars_National_Geographic.jpg" 
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -4308,7 +4308,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 ---
 
  ### <a name="universe_size"></a>**Universe Size Comparison**
-  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg" 
+  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\photos\image_hyperlinks\Universe_size.jpg" 
 alt="Universe Image" width="240" height="180"/></a>
 
 Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
@@ -4318,7 +4318,7 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 ## <a name="astrophotography"></a> **Astrophotography**
 
 ### <a name="pillars_of_creation"></a> **Pillars of Creation**
-![Pillars of Creation image](media/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
+![Pillars of Creation image](media/photos/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
 
 **Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his sermon "The Condescension of Christ"
 
@@ -4329,7 +4329,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 ---
 
 ### <a name="hxdf"></a> **Hubble eXtreme Deep Field**
-![Hubble eXtreme Deep Field image](media/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
+![Hubble eXtreme Deep Field image](media/photos/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
  
 >The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
 
@@ -4342,7 +4342,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 ---
 
 ### <a name="the_blue_marble"></a> **The Blue Marble**
-![The Blue Marble image](media/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
+![The Blue Marble image](media/photos/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
 
 **The Blue Marble** is an image of Earth taken on December 7, 1972, from a distance of about 29,000 kilometers (18,000 miles) from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
 
@@ -4355,7 +4355,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 ---
 
 ### <a name="pale_blue_dot"></a> **Pale Blue Dot**
-![Pale Blue Dot image](media/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
+![Pale Blue Dot image](media/photos/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
 
 **Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a record distance of about 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System
 
@@ -4370,7 +4370,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 ### <a name="#black_hole_image"></a> **The First Image Of A Black Hole**
 
 #### 2019 Image
-![Black Hole image](media/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
+![Black Hole image](media/photos/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
 
 **In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic feat by an international network of radio telescopes called the Event Horizon Telescope (EHT). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
 
@@ -4381,7 +4381,7 @@ This stunning image shows the shadow of **the supermassive black hole in the cen
 Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
 
 #### 2021 Image
-![Black Hole image](media/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
+![Black Hole image](media/photos/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
 
 **In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
 
@@ -4414,7 +4414,7 @@ owned by [topendsports](https://www.topendsports.com/world/lists/popular-sport/f
 
 ### <a name="Football"></a>**Football**
 
-<img width="500" height="350" src="media/Sports/Football.jpg">
+<img width="500" height="350" src="media/photos/Sports/Football.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w960-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
@@ -4429,7 +4429,7 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ### <a name="Volleyball"></a>**Volleyball**
 
-<img width="500" height="350" src="media/Sports/Volleyball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
 
@@ -4443,7 +4443,7 @@ Volleyball involves two teams, each on one side of a raised net, trying to “vo
 
 ### <a name="Basketball"></a>**Basketball**
 
-<img width="500" height="350" src="media/Sports/Basketball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
 
@@ -4457,7 +4457,7 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 ### <a name="Tennis"></a>**Tennis**
 
-<img width="500" height="350" src="media/Sports/Tennis.jpg">
+<img width="500" height="350" src="media/photos/Sports/Tennis.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/89/8f/a1/shutterstock-555305914.jpg)
 
@@ -4471,7 +4471,7 @@ An estimated one billion people worldwide follow tennis, tuning in from around t
 
 ### <a name="Cricket"></a>**Cricket**
 
-<img width="500" height="350" src="media/Sports/Cricket.jpg">
+<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
 
@@ -4485,7 +4485,7 @@ Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and
 
 ### <a name="Hockey"></a>**Hockey**
 
-<img width="500" height="350" src="media/Sports/Hockey.jpg">
+<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
 
@@ -4499,7 +4499,7 @@ Hockey, both on ice and in a field, boasts a following of two billion people. Fi
 
 ### <a name="Baseball"></a>**Baseball**
 
-<img width="500" height="350" src="media/Sports/Baseball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Baseball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/a2/ae/4b/shutterstock-557405302.jpg)
 
@@ -4513,7 +4513,7 @@ America’s national pastime is thought to have descended from the English sport
 
 ### <a name="Rugby"></a>**Rugby**
 
-<img width="500" height="350" src="media/Sports/Rugby.jpg">
+<img width="500" height="350" src="media/photos/Sports/Rugby.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/e4/60/52/shutterstock-177161780.jpg)
 
@@ -4527,7 +4527,7 @@ Rugby has an estimated following of 475 million people. The sport originated in 
 
 ### <a name="Golf"></a>**Golf**
 
-<img width="500" height="350" src="media/Sports/Golf.jpg">
+<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
@@ -4541,7 +4541,7 @@ An estimated 450 million people are fans of the game that involves trying to put
 
 ### <a name="Handball"></a>**Handball**
 
-<img width="500" height="350" src="media/Sports/Handball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Handball.jpg">
 
 owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-the-top-ten-olympic-sports-to-watch)
 
