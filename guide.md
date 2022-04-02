@@ -5241,7 +5241,7 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 ### <a name="painting"></a>**Painting**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/Michelangelos-David-Goliath-one-statues-world.jpg.webp" alt="Leonardo Da Vinci, Mona Lisa">
+<img width="640" height="425" src="media/photos/arts/Mona_Lisa.jpg" alt="Leonardo Da Vinci, Mona Lisa">
 
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
