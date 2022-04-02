@@ -290,6 +290,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Man On The Moon by R.E.M.](#song4)
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
+  - [Spaceman by The Killers](#song7)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -4242,6 +4243,20 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 Artist: The Beatles
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
+
+
+
+
+### <a name="#song7"></a>**Spaceman**
+
+<img width="500" height="350" src="media/photos/songs/song7.jpg"/>
+
+Artist: The Killers
+
+Album: Day & Age
+
+image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
 
 ---
 
