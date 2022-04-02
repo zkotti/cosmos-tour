@@ -5494,7 +5494,7 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
 ### <a name="music"></a>**Music**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/#" alt="Image of musical instruments">
+<img width="640" height="425" src="media/photos/arts/music.jpg" alt="Image of musical instruments">
 
 owned by [interlude](https://interlude.hk/music-as-art/)
 
