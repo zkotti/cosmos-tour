@@ -2185,6 +2185,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Oceania
 
+**Top Attractions:**  Mamanuca and Yasawa Islands, Cloudbreak, Bouma National Heritage Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/fiji-fj.htm)
+
 ---
 
 ### <a name="finland"></a>**Finland**
@@ -2203,6 +2206,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Suomenlinna Fortress, Kauppatori (Market Square) and Esplanadi, Rovaniemi and the Arctic, Helsinki Churches
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/finland-sf.htm)
+
 ---
 
 ### <a name="france"></a>**France**
@@ -2220,6 +2226,10 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** FRA
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Eiffel Tower, Musée du Louvre,  Château de Versailles, Côte d'Azur
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/france-f.htm)
+
 
 ---
 
