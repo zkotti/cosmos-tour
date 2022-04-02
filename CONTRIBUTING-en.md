@@ -19,13 +19,13 @@ Getting up-to-date
 
 It is always a good practice to *update frequently* your local records based on the changes that 
 have been made on the codebase recently.
-###How to achieve that?
+### How to achieve that?
 
 * If you are on the **main branch**, you could use ```git pull```.
 * If you are **not on main branch**, you could use:
   #### *Rebase*
 
-  You could use the git command: ``git rebase main``<\n>
+  You could use the git command: ``git rebase main``
   
   ###### *Note:*
   <p>If there are conflicts, needs to be resolved.
@@ -70,8 +70,8 @@ Contribution Tips
 Style pattern
 -------------
 
-Every coding warehouse nowadays follows a specific pattern of code styling,
-so as to make life of developpers easier and their code prettier. *And so are we.*
+Every coding warehouse nowadays follows a specific pattern of code style,
+so as to make life of developpers easier and their code prettier. *And so are we!*
 
 #### Please take the following advices as kindly suggested:
 ##### Conventions
@@ -80,16 +80,17 @@ so as to make life of developpers easier and their code prettier. *And so are we
 - Shall use **snake case** formatting for **variables**
 - Shall use **upper case** formatting for **constants**
 - **Code lines** should **not** exceed the length of **100 characters**
+  
+##### Additional Suggestions
+- Classes should be saparated by two new lines of codes
+- Classes should be saparated by one new lines of codes
+- Every block of code should not be separated by new line in its core part.
+- Comments should exist on separate line from code lines.
+- Comments should not be separated with new lines from code lines.
+
 ###### Note 
   While style pattern has not been extracted from a specific resource,
   it could be said that is inspired from PEP8 coding style. 
-  
-##### Additional Suggestions
-Classes should be saparated by two new lines of codes
-Classes should be saparated by one new lines of codes
-Every block of code should not be separated by new line in its core part.
-Comments should exist on separate line from code lines.
-Comments should not be separated with new lines from code lines.
 
 
 Additional Resources
