@@ -273,6 +273,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sun Moon Earth](#book_7)
   - [The Mysteries of the Universe](#book_8)
   - [The Science of Interstellar](#book_9)
+  - [From Chaos to Cosmos: Creation to New Creation](#book_10)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -4590,6 +4591,22 @@ Thorne's observations are based on his screenwriting and filming experiences, an
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
+### <a name="book_10"></a>**From Chaos to Cosmos: Creation to New Creation**
+
+<img width="500" height="350" src="media\photos\books\From_chaos_to_cosmos.jpg">
+<br>Author: Sidney Greidanus
+<br>
+
+**Description**
+
+“I form light and create darkness; I make well-being and create calamity; I am the LORD, who does all these things.” Isaiah 45:7 
+
+When God created the world, he brought perfect order out of what was “without form and void.” But with human rebellion against God leading to God’s curse, disorder was introduced into creation—disorder that we still see all around us today. Tracing the chaos to cosmos theme from Genesis 1 to Revelation 22, pastor-scholar Sidney Greidanus reveals how God is restoring his creation through Jesus Christ, who has already begun to shine light into the darkness and will one day return to bring peace, order, and restoration once and for all. With discussion questions at the end of each chapter and a fourteen-session reading plan, this book is ideal for small groups as well as individual study.
+
+Source [crossway](https://www.crossway.org/books/from-chaos-to-cosmos-ebook/)
+
+---
+
 
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
