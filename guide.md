@@ -4559,7 +4559,7 @@ Handball (also known as team handball, European handball or Olympic handball) is
 
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
-<img width="550" height="299" src="media/mountains/Everest.jpg">
+<img width="550" height="299" src="media/photos/mountains/Everest.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
 
@@ -4573,7 +4573,7 @@ Mount Everest (also known as Chomolungma) is the highest mountain in the world w
 
 ### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
 
-<img width="550" height="299" src="media/mountains/Kilimanjaro.jpg">
+<img width="550" height="299" src="media/photos/mountains/Kilimanjaro.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
@@ -4587,7 +4587,7 @@ Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, 
 
 ### <a name="Swiss_Alps"></a>**_Swiss Alps_**
 
-<img width="550" height="299" src="media/mountains/Swiss_Alps.jpg">
+<img width="550" height="299" src="media/photos/mountains/Swiss_Alps.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
 
@@ -4601,7 +4601,7 @@ The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweize
 
 ### <a name="kangchenjunga"></a>**Kangchenjunga**
 
-<img width="550" height="299" src="media\mountains\Kangchenjunga,_India.jpg">
+<img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Kangchenjunga)
 
@@ -4647,7 +4647,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [bri
 
 ### <a name="chichen_itza"></a>**Chichen Itza**
 
-<img width="640" height="425" src="media/wonders/itza.jpg">
+<img width="640" height="425" src="media/photos/wonders/itza.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
 
@@ -4659,7 +4659,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](htt
 
 ### <a name="christ"></a>**Christ the Redeemer**
 
-<img width="512" height="768" src="media/wonders/christ.jpg">
+<img width="512" height="768" src="media/photos/wonders/christ.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
 
@@ -4671,7 +4671,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), 
 
 ### <a name="colosseum_rome"></a>**Colosseum**
 
-<img width="640" height="448" src="media/wonders/colosseum.jpg">
+<img width="640" height="448" src="media/photos/wonders/colosseum.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
@@ -4683,7 +4683,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
 ### <a name="china_wall"></a>**Great Wall of China**
 
-<img width="640" height="425" src="media/wonders/china_wall.jpg">
+<img width="640" height="425" src="media/photos/wonders/china_wall.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)
 
@@ -4697,7 +4697,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britanni
 
 ### <a name="machu_picchu"></a>**Machu Picchu**
 
-<img width="640" height="427" src="media/wonders/machu_picchu.jpg">
+<img width="640" height="427" src="media/photos/wonders/machu_picchu.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
 
@@ -4711,7 +4711,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](htt
 
 ### <a name="petra_city"></a>**Petra**
 
-<img width="640" height="425" src="media/wonders/petra.jpg">
+<img width="640" height="425" src="media/photos/wonders/petra.jpg">
 
 owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
@@ -4723,7 +4723,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://ww
 
 ### <a name="taj_mahal"></a>**Taj Mahal**
 
-<img width="800" height="553" src="media/wonders/taj_mahal.jpg">
+<img width="800" height="553" src="media/photos/wonders/taj_mahal.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
 
