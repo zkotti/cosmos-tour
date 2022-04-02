@@ -207,6 +207,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Blue Origin](#blue_origin)
 
 - ### [Stars](#stars)
+  - [Antares](#antares)
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
@@ -3738,6 +3739,20 @@ As the many benefits of space activity have become evident, other countries have
 ---
 
 ## <a name="stars"></a> **_Stars_**
+
+---
+
+### <a name="antares"></a>**Antares**
+
+<img width="476" height="480" src="media/photos/stars/Antares.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Antares)
+
+**Description**
+
+Antares, also known as Alpha Scorpii, belongs to the constellation of Scorpius and it is the brighhtest star in it. Antares can be seen without a telescope every year at night of May 31st and it is a massive red supergiant star. It is also a binary star that consists of two components Scorpii A and Scorpii B. Antares lies around 550 light-years away from Earth.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Antares)
 
 ---
 
