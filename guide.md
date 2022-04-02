@@ -290,6 +290,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Man On The Moon by R.E.M.](#song4)
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
+  - [Spaceman by The Killers](#song7)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -326,6 +327,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Baseball](#Baseball)
   - [Golf](#Golf)
   - [Basketball](#Basketball)
+  - [American Football](#American_Football)
   - [Hockey](#Hockey)
   - [Rugby](#Rugby)
   - [Handball](#Handball)
@@ -1036,8 +1038,46 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
-**Top Attractions:** The Vienna Hofburg, Salzburg Altstadt, The Spanish Riding School, Schönbrunn Palace
-<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/austria-a.htm)
+**Top Attractions:** Schönbrunn Palace, Ringstrasse in Vienna, Giant Ferris Wheel in Vienna, Hohensalzburg Fortress in Salzburg,
+Mozart’s Birthplace in Salzburg, Schlossberg Hill & Clocktower in Graz, Styria, Kunsthaus Art Museum in Graz, Styria, Golden Roof in Innsbruck, Tirol,  Swarovski Crystal Worlds in Wattens, Tirol,   Ars Electronica Center in Linz, Upper Austria
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-albania/)
+
+<br>
+
+**Austria’s Top Sights**
+Those are the top 10 attractions worth visiting in Austria.
+* Schönbrunn Palace, Vienna
+Worth visiting Habsburgs’ summer residence. Take a tour through the spaces and gardens of Hasburgs' summer residence. There is the option of Schönbrunn Zoo, which is located close to the Habsburgs’ summer residence. That way you can visit Austria's most tourist attraction and also the oldest zoo existing in the world.
+
+* Ringstrasse in Vienna
+Here you could discover some of Austria's most interesting buildings. The State Opera, Parliament, City Hall, the university and more are some of them.
+
+* Giant Ferris Wheel in Vienna
+Existed to Vienna’s historic Prater amusement park, the Giant Ferris Wheel offers you some spectacular views of the city. There you could enjoy your breakfast or a nice dinner.
+
+* Hohensalzburg Fortress in Salzburg
+Built-in 1077, Hohensalzburg Fortress is a dominant structure, high above the city but very close to the city centre. There you could see Princes’ Chambers furnishing, and also a museum, displaying ancient suits for military purposes.
+
+* Mozart’s Birthplace in Salzburg
+When you walk through Salzburg’s Getreidegasse, a picturesque, cobble-stoned market street that is a lively memory of centuries past, you  should not miss Mozart’s birthplace at no. 9. All in all, it’s one of the most famous museums worldwide nowadays, offering the chanch to see the real rooms and Mozart’s musical instruments.
+
+* Schlossberg Hill & Clocktower in Graz, Styria
+A must-do for every first-time visitor to Graz is climbing Schlossberg hill and seeing the city’s famous clocktower up close. If you don’t feel up to climbing the 260 stairs, simply take the lift (located inside the actual hill) or the Schlossbergbahn funicular. Up top, you can treat yourself to a coffee with fantastic views over the city.
+
+* Kunsthaus Art Museum in Graz, Styria
+The Kunsthaus located in Graz, Austria’s second city, attracts visitors not just with its contemporary art collections, but also with its unique architecture: Started operating in 2003,it seemed like a nice contradiction to the surroundings of Baroque architecture. With its large, tube-like "nozzles" for windows that stand our and its computerized lighting system, it’s a real mind blowing site in city's centre.
+
+* Golden Roof in Innsbruck, Tirol
+Located in the midst of the old town, Innsbruck’s Golden Roof is perhaps the city’s most famous landmark. Built in the 15th century, its 2,657 gilded shingles shine, drawing visitors' attention.
+
+* Swarovski Crystal Worlds in Wattens, Tirol
+25 minutes outside of Innsbruck, a place where crystal is everywhere, welcoming visitors and impressing them with its unique images .
+There are 17 separate “crystal chambers”, including a giant crystal dome and an “infinity mirror room” featuring a revolving chandelier. 
+In addition, a structure, shped as cloud consiated of 800,000 crystal offers an outstanding experience.
+
+* 10. Ars Electronica Center in Linz, Upper Austria
+The Ars Electronica Center in Linz is an interactive museum, one of its kind,  that introduces visitors to STEM and art artifacts . It is expanded across 5,100 m2 (56,000 sqft) LED façade, offering a nightly spectacle.
+Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
 
 ---
 
@@ -4277,6 +4317,20 @@ Artist: The Beatles
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
+
+
+
+### <a name="#song7"></a>**Spaceman**
+
+<img width="500" height="350" src="media/photos/songs/song7.jpg"/>
+
+Artist: The Killers
+
+Album: Day & Age
+
+image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
+
 ---
 
 ## <a name="personalities"></a> **_Admired Personalities_**
@@ -4620,8 +4674,20 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
+---
 
 
+### <a name="American_Football"></a>**American Football**
+
+<img width="300" height="450" src="media/photos/Sports/American_Football.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
+
+**Description**
+
+American football, referred to simply as football in the United States and Canada, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/American_football)
 
 ---
 
