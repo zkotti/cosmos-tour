@@ -368,6 +368,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
+  - [Painting](#painting)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -5219,6 +5220,21 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 , [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
 
 ---
+### <a name="painting"></a>**Painting**  
+<br>
+
+<img width="640" height="425" src="" alt="Leonardo Da Vinci, Mona Lisa">
+
+Leonardo Da Vinci, Mona Lisa: An example of painting,
+owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
+
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+
+---
+---
+
 
 ## <a name="religions"></a> **Religions**
 ### <a name="christ"></a>**Christianity**  
