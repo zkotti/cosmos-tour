@@ -3018,11 +3018,11 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** USA
 </br>
 **Region:** Americas
-</br>
+
 **Top Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
 Yosemite National Park, Golden Gate Bridge, Times Square, Freedom Trail in Boston, Yellowstone National Park, San Antonio River Walk,
 Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-the-Sun Road
-source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
+<br>Source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
 
 
 ---
@@ -3090,7 +3090,7 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 **Top Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
 Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
 Mui Né
-source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
+<br>Source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
 
 
 ---
@@ -3110,8 +3110,8 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** YEM
 </br>
 **Region:** Asia
-</br>
-**Attractions:** The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
+
+**Top Attractions:**  The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
 source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
 
 
@@ -3132,10 +3132,10 @@ source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions
 **Country Code (cioc):** ZMB
 </br>
 **Region:** Africa
-</br>
-Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
+
+**Top Attractions:** Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
 Lower Zambezi National Park, Lake Kariba, South Luangwa National Park, Livingstone Museum, Livingstone Island, Mongu
-source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
+<br>Source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
 
 
 ---
@@ -3155,9 +3155,9 @@ source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
-</br>
-**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
-source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
+
+**Top Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+<br>Source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
