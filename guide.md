@@ -2349,7 +2349,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Region:** Americas
 
 **Top Attractions:**  La Aurora Zoo, Mundo Petapa Irtra, Paseo Cayala
-<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g292006-d3443068-Reviews-Paseo_Cayala-Guatemala_City_Guatemala_Department.html)
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g292006-Activities-Guatemala_City_Guatemala_Department.html)
 
 ---
 
@@ -2369,6 +2369,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Blue Lagoon, Strokkur Geysir, The Northern Lights in Aurora Borealis, Landmannalaugar National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/iceland-isl.htm)
+
 ---
 
 ### <a name="india"></a>**India**
@@ -2386,6 +2389,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IND
 </br>
 **Region:** Asia
+
+**Top Attractions:**  The Taj Mahal,  The Holy City of Varanasi, Harmandir Sahib: The Golden Temple of Amritsar, The Golden City: Jaisalmer
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/india-ind.htm)
 
 ---
 
@@ -2405,6 +2411,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Beaches of Bali,  Borobudur, Tanjung Puting National Park,  Gili Islands,  Komodo National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/indonesia-ina.htm)
+
+
 ---
 
 ### <a name="iran"></a>**Iran**
@@ -2422,6 +2432,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IRI
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Persepolis, Valley of the Stars, Chogha Zanbil, Babak Castle
+<br>Source [TheCultureTrip](https://theculturetrip.com/middle-east/iran/articles/20-must-visit-attractions-in-iran/)
+
 
 ---
 
@@ -2441,6 +2455,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Erbil, Ziggurat of Ur, National Museum of Baghdad, Basra  
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-iraq/)
+
+
 ---
 
 ### <a name="ireland"></a>**Ireland**
@@ -2458,6 +2476,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IRL
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Cliffs of Moher, Grafton Street, Dublin, Killarney National Park and Muckross House & Gardens, The Book of Kells and Trinity College, Kilmainham Gaol
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ireland-irl.htm)
+
 
 ---
 
@@ -2477,6 +2499,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**   Jerusalem, Haifa, Nazareth, Jaffa
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/israel-isr.htm)
+
+
 ---
 
 ### <a name="italy"></a>**Italy**
@@ -2494,6 +2520,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ITA
 </br>
 **Region:** Europe
+
+**Top Attractions:**   Colosseum, Florence Duomo Santa Maria del Fiore,  The Grand Canal in Venice, Leaning Tower of Pisa, Basilica of St. Peter, Sistine Chapel & Vatican Museums, The Uffizi Gallery in Florence, Lake Como, Pantheon, Trevi Fountain,  Amalfi Coast, St. Mark's Basilica  
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/italy-i.htm)
+
 
 ---
 
@@ -2513,6 +2543,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Mount Fuji, Imperial Tokyo, Hiroshima Peace Memorial Park, Historic Kyoto, The Island Shrine of Itsukushima 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/japan-jpn.htm)
+
+
 ---
 
 ### <a name="kenya"></a>**Kenya**
@@ -2530,6 +2564,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** KEN
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Maasai Mara National Reserve,  Amboseli National Reserve,  Tsavo National Park, Lake Nakuru National Park 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/kenya-ken.htm)
+
 
 ---
 
