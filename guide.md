@@ -40,6 +40,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [C/2011 W3 (Lovejoy)](#lovejoy)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
+  - [55P/Tempel-Tuttle](#55P/Tempel-Tuttle)
 
 - ### [Countries](#countries)
 
@@ -125,6 +126,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [New Zealand](#new_zealand)
+  - [Nicaragua](#nicaragua)
   - [Norway](#norway)
   - [Peru](#peru)
   - [Philippines](#philippines)
@@ -182,6 +184,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Milky Way](#milky_way)
   - [Triangulum Galaxy](#triangulum_galaxy)
   - [Sombrero Galaxy](#sombrero_galaxy)
+  - [Sculptor Galaxy](#sculptor_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -267,6 +270,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System](#book_6)
   - [Sun Moon Earth](#book_7)
   - [The Mysteries of the Universe](#book_8)
+  - [The Science of Interstellar](#book_9)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -288,6 +292,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Man On The Moon by R.E.M.](#song4)
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
+  - [Spaceman by The Killers](#song7)
+  - [Starlight by Muse](#song8)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -300,6 +306,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Alan Turing](#Alan_Turing)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
+  - [Elon Musk](#Musk)
+  
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
@@ -316,17 +324,19 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Sports](#Sports)
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
-  - [Volleyball](#Volleyball)
-  - [Basketball](#Basketball)
-  - [Tennis](#Tennis)
   - [Cricket](#Cricket)
-  - [Hockey](#Hockey)
+  - [Tennis](#Tennis)
+  - [Volleyball](#Volleyball)
   - [Baseball](#Baseball)
-  - [Rugby](#Rugby)
   - [Golf](#Golf)
+  - [Basketball](#Basketball)
+  - [American Football](#American_Football)
+  - [Hockey](#Hockey)
+  - [Rugby](#Rugby)
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
+  - [Top 4 highest Mountains](#Highest_Mountains)
   - [Mount Everest](#mounteverest)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
@@ -343,7 +353,30 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Petra](#petra_city)
     - [Taj Mahal](#taj_mahal)
 
+- ### [Facts About Space](#facts)
+  - [#1](#fact1)
+  - [#2](#fact2)
+  - [#3](#fact3)
+  - [#4](#fact4)
+  - [#5](#fact5)
+  - [#6](#fact6)
+  - [#7](#fact7)
+  - [#8](#fact8)
+  - [#9](#fact9)
+  - [#10](#fact10)
 ---
+
+- ### [Fine Arts](#arts)
+  - [Architecture](#architecture)
+  - [Painting](#painting)
+
+- ### [Religions](#religions)
+  - [Christianity](#christ)
+  - [Buddhism](#Buddhis)
+  - [Atheism/Agnosticism](#Atheism)
+  - [Taoism](#Taoism)
+  - [Islam](#Islam)
+
 
 ## <a name="cosmos"></a> **_Cosmos_**
 
@@ -404,15 +437,20 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 The flat Earth theory is an old and non-proven thesis according to which the Earth's shape is as a plane or disk. Many ancient civilizations, including Ancient Greece and China until 1600, believed in a flat Earth cosmography. These ideas nowadays are promoted by conspiracy clubs, despite scientific proof about Earth's sphericity. Flat-Earth stories are undoubtebly linked to elementary scientific errors that can be debunked.
 
-Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
-[Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth)
+<br>
+Video [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+<br>
+Video [What If Earth Was in Fact Flat?](https://www.youtube.com/watch?v=_-HhCwYD7rc)
 
 ---
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
+The simulation hypothesis implies that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions heavily depend on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it really existed. The simulation hypothesis bears close resemblance to a number of other skeptical scenarios that have been proposed throughout philosophy's history. The hypothesis in its current form was popularized by Nick Bostrom. The idea that such a hypothesis is compatible with all perceived human experiences is linked with major epistemological implications, resulting in philosophical skepticism. The hypothesis is also very popular in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
+Video [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
+<br>
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
 ---
@@ -491,7 +529,7 @@ Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-
 
 ### <a name="historic_milestones"></a>**Historic Milestones**
 
-<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
+<img  src="media/photos/history/milestones-universe-history-e1500155641224.jpg">
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
@@ -546,7 +584,7 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 
 ## <a name="continents_map"></a>**_Continents_**
 
-<img src="media\continents\world-continent-map.jpg">
+<img src="media\photos\continents\world-continent-map.jpg">
 <br>
 <br>
 
@@ -555,7 +593,7 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 ### <a name="africa"></a>**Africa**
 
 <br>
-<img width="500" height="350" src="media\continents\africa.jpg.jpg">
+<img width="500" height="350" src="media\photos\continents\africa.jpg.jpg">
 <br>
 
 **Population:** 1,275,920,972 (2018)
@@ -574,7 +612,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 ### <a name="antarctica"></a>**Antarctica**
 
 <br>
-<img width="500" height="350" src="media\continents\antartica.webp">
+<img width="500" height="350" src="media\photos\continents\antartica.webp">
 <br>
 
 **Population:** 1,000 to 5,000 (Seasonal)
@@ -593,7 +631,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 ### <a name="asia"></a>**Asia**
 
 <br>
-<img width="500" height="350" src="media\continents\Asia.png">
+<img width="500" height="350" src="media\photos\continents\Asia.png">
 <br>
 
 **Population:** 4,560,667,108 (2018)
@@ -612,7 +650,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 ### <a name="europe"></a>**Europe**
 
 <br>
-<img width="500" height="350" src="media\continents\Europe.png">
+<img width="500" height="350" src="media\photos\continents\Europe.png">
 <br>
 
 **Population:** 746,419,440 (2018)
@@ -631,7 +669,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 ### <a name="north_america"></a>**North America**
 
 <br>
-<img width="500" height="350" src="media\continents\north-america.jpg">
+<img width="500" height="350" src="media\photos\continents\north-america.jpg">
 <br>
 
 **Population:** 592,296,233 (2021)
@@ -650,7 +688,7 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 ### <a name="oceania"></a>**Oceania**
 
 <br>
-<img width="500" height="350" src="media\continents\oceania.jpg">
+<img width="500" height="350" src="media\photos\continents\oceania.jpg">
 <br>
 
 **Population:** 41,570,842 (2018)
@@ -669,7 +707,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 ### <a name="south_america"></a>**South America**
 
 <br>
-<img width="500" height="350" src="media\continents\South_America.png">
+<img width="500" height="350" src="media\photos\continents\South_America.png">
 <br>
 
 **Population:** 423,581,078 (2018)
@@ -689,7 +727,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ## <a name="comets"></a> **Comets**
 
-<img width="500" height="350" src="media/comets/Deep_Impact_HRI.jpeg">
+<img width="500" height="350" src="media/photos/comets/Deep_Impact_HRI.jpeg">
 
 owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg)
 
@@ -703,7 +741,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
 ### <a name="oumuamua"></a> **Oumuamua**
 
-<img width="500" height="350" src="media/comets/oumuamua.jpg">
+<img width="500" height="350" src="media//photos/comets/oumuamua.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
@@ -719,7 +757,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/o
 
 ### <a name="hale-bopp"></a> **Hale-Bopp**
 
-<img width="500" height="500" src="media/comets/Hale-Bopp.jpg">
+<img width="500" height="500" src="media/photos/comets/Hale-Bopp.jpg">
 
 owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/768px-Comet_Hale-Bopp_1995O1.jpg)
 
@@ -733,7 +771,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
 
 ### <a name="lovejoy"></a> **C/2011 W3 (Lovejoy)**
 
-<img width="352" height="480" src="media/comets/Lovejoy.jpg">
+<img width="352" height="480" src="media/photos/comets/Lovejoy.jpg">
 
 owned by [wiki](https://en.wikipedia.org/wiki/File:Iss030e015472_Edit.jpg)
 
@@ -749,7 +787,7 @@ Source [wiki](https://en.wikipedia.org/wiki/C/2011_W3_(Lovejoy))
 
 ### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
 
-<img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
+<img width="500" height="350" src="media/photos/comets/Churyumov-Gerasimenko.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/1297_ESA_Rosetta_NavCam_20150131_Mosaic.jpg)
 
@@ -763,7 +801,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/6
 
 ### <a name="81P_Wild"></a> **81P/Wild (Wild 2)**
 
-<img width="500" height="350" src="media/comets/81P_Wild.jpg">
+<img width="500" height="350" src="media/photos/comets/81P_Wild.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/635_Wild_2_stereo_pair_03_12_04_732.jpg)
 
@@ -775,13 +813,30 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/8
 
 ---
 
+### <a name="55P/Tempel–Tuttle"></a> **55P/Tempel–Tuttle**
+
+<img width="500" height="350" src="media/photos/comets/55PTempel–Tuttle.gif">
+
+owned by [nasa](https://leonid.arc.nasa.gov/comet55p/comet55p0128.gif)
+
+**Description**
+<br>
+55P/Tempel-Tuttle (commonly known as Comet Tempel-Tuttle) is a periodic comet with an orbital period of 33 years. It fits the classic definition of a Halley-type comet, with a period between 20 and 200 years. Discovered by Wilhelm Tempel on 19 December 1865 and by Horace Parnell Tuttle on 6 January 1866. It is the parent body of the Leonids. It was observed by Gottfried Kirch in 1699, but not confirmed as a periodic comet until the discovery of Temple and Tuttle during perihelion in 1866. In 1933, S. Kanda certified that the comet of 1366 was Tempel-Tuttle, which was confirmed by Joachim Schubart in 1965. On October 26, 1366, the comet passed 0.0229 AU (3,430,000 km; 2,130,000 mi) from Earth.
+
+
+55P/Tempel-Tuttle's orbit intersects Earth's orbit almost exactly, so the stream of material ejected from the comet during its perihelion pass doesn't need to spread out over time to hit Earth. The comet's current Earth MOID is 0.008 AU (1,200,000 km; 740,000 mi). This coincidence means the comet's stream is still impenetrable when it hits Earth at perihelion, leading to the Leonid meteor shower's 33-year cycle. For example, in November 2009, Earth passed a meteor left largely by orbits 1466 and 1533. In February 2016, two bolides discovered by NASA's All-Sky Fireball Network were calculated to have orbits consistent with 55P, although their 100-degree nodes were less than 55P. The reason for this has not been clarified. The core mass of 55P/Tempel-Tuttle is estimated to be 1.2 × 1013 kg, with a radius of 1.8 km, and a mass flux of 5 × 1012 kg.
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/55p-tempel-tuttle/in-depth/)
+
+---
+
 ## <a name="countries"></a> **_Countries_**
 
 Country flags are available [here](https://flagicons.lipis.dev/)
 
 ### <a name="afghanistan"></a>**Afghanistan**
 
-<img width="300" height="300" src="media/flags/af.svg">
+<img width="300" height="300" src="media/photos/flags/af.svg">
 
 **Capital:** [Kabul](https://www.google.com/maps/search/Kabul)
 </br>
@@ -807,7 +862,7 @@ Afghanistan is a landlocked country at the crossroads of Central and South Asia,
 
 ### <a name="albania"></a>**Albania**
 
-<img width="300" height="300" src="media/flags/al.svg">
+<img width="300" height="300" src="media/photos/flags/al.svg">
 
 **Capital:** [Tirana](https://www.google.com/maps/search/Tirana)
 </br>
@@ -833,7 +888,7 @@ Albania is a country in Southeastern Europe that is officially known as the Repu
 
 ### <a name="algeria"></a>**Algeria**
 
-<img width="300" height="300" src="media/flags/dz.svg">
+<img width="300" height="300" src="media/photos/flags/dz.svg">
 
 **Capital:** [Algiers](https://www.google.com/maps/search/Algiers)
 </br>
@@ -859,7 +914,7 @@ Algeria, formally the People's Democratic Republic of Algeria, is a North Africa
 
 ### <a name="andorra"></a>**Andorra**
 
-<img width="300" height="300" src="media/flags/ad.svg">
+<img width="300" height="300" src="media/photos/flags/ad.svg">
 
 **Capital:** [Andorra la Vella](https://www.google.com/maps/search/Andorra%20la%20Vella)
 </br>
@@ -886,7 +941,7 @@ Andorra la Vella is the country's capital and largest city.
 
 ### <a name="angola"></a>**Angola**
 
-<img width="300" height="300" src="media/flags/ao.svg">
+<img width="300" height="300" src="media/photos/flags/ao.svg">
 
 **Capital:** [Luanda](https://www.google.com/maps/search/Luanda)
 </br>
@@ -912,7 +967,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 
 ### <a name="antigua"></a>**Antigua and Barbuda**
 
-<img width="300" height="300" src="media/flags/ag.svg">
+<img width="300" height="300" src="media/photos/flags/ag.svg">
 
 **Capital:** [Saint John's](https://www.google.com/maps/search/Saint%20John's)
 </br>
@@ -933,7 +988,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 
 ### <a name="argentina"></a>**Argentina**
 
-<img width="300" height="300" src="media/flags/ar.svg">
+<img width="300" height="300" src="media/photos/flags/ar.svg">
 
 **Capital:** [Buenos Aires](https://www.google.com/maps/search/Buenos%20Aires)
 </br>
@@ -947,16 +1002,61 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Iguazú Falls,  Perito Moreno Glacier,  Tierra del Fuego National Park,  Historic Córdoba Cathedral
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/argentina-arg.htm)
+
 <br>
 Argentina is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil and the fourth-largest country in the Americas. The provinces and the capital have their own constitutions but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia, and the South Sandwich Islands.
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Argentina)
 
+
+
+###Most Attractive Tourist Attractions in Argentina
+Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
+
+The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
+In the capital of Argentina you can go shopping, see football, watch soccer or get in touch with Latin culture. 
+
+* Iguazu Falls
+One of the biggest attractions in Argentina annd in whole Latin America is the Iguazu Falls, which is close to Brazil and Argentina.
+
+
+* Perito Moreno Glacier
+Perito Moreno Glacier is the most re-knowned glacier located in the Glacier National Park or other called Los Glaciares. 
+This is one in the whole world. Among all glaciers in antarctica this is the most significant one that actually are easily approachable.
+
+
+* Bariloche is a city which is inside mountains, having a Swiss-like atmosphere and the chocolate shops. It's a great places with outdoor activities like skiing, hiking, sightseeing, water sports, clinging, trekking and more.
+
+* Caminito, La Boca
+The market site of Buenos Aires is called La Boca. It is popular between the tourists because of the colorful houses and the most entertaining street, Caminito, where street artists performs tango and tango-related memorabilia is sold.
+
+* Valdes Peninsula
+This is a nature reserve where you can find unique flora and fauna. The most common inhabitants of the coastline are the sea lions, elephant seals and penguins. Between May and December you can also see whales in the Valdes Peninsula. This place is located almost 900 miles away (distance calculator: distances-from.com ) from the capital of Argentina, Buenos Aires.
+
+* Beagle Channel
+Beagle Channel is a part between the southest part of Argentina and south islands of Chile. This strait extends to 240 km and its width is about 5 km.
+
+* Monte Fitz Roy
+Monte Fitz Roy is a imposing mountain . It has unique characteristics and is a great way to spend your time if you are a tourist but also a good opportunity for some breath taking photographs.
+
+* Mendoza
+Mendoza is a also one of the great attractions in Argentina because of the unique landscapes and the purpose. It is a region that is the leading in the winemaking of Argentina. The beautiful and wide wine fields are a great attraction for visitors beside the wine testing and the unique tastes.
+
+* Ushuaia
+This city is located in south . It includes a magnificent natural beauty, it is on the Beagle Channel and it is a good place for some hiking, skiing or even cruises to antartica
+
+* The Iberá Wetlands
+The Iberá Wetlands are a mangificent landscape, it is second in the list of largest wetlands in the world. There, visitors. could enjoy the fauna and flora , as it is home to many species, offering a reminder of nature's majesty.
+
+Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive-tourist-attractions-in-argentina/)
+
 ---
 
 ### <a name="armenia"></a>**Armenia**
 
-<img width="300" height="300" src="media/flags/am.svg">
+<img width="300" height="300" src="media/photos/flags/am.svg">
 
 **Capital:** [Yerevan](https://www.google.com/maps/search/Yerevan)
 </br>
@@ -969,13 +1069,15 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** ARM
 </br>
 **Region:** Asia
-<br>
+
+**Top Attractions:**  Shikahogh State Reserve, Lake Sevan, Dilijan national park, Mount Aragats
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-armenia/)
 
 ---
 
 ### <a name="australia"></a>**Australia**
 
-<img width="300" height="300" src="media/flags/au.svg">
+<img width="300" height="300" src="media/photos/flags/au.svg">
 
 **Capital:** [Canberra](https://www.google.com/maps/search/Canberra)
 </br>
@@ -988,13 +1090,15 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** AUS
 </br>
 **Region:** Oceania
-<br>
+
+**Top Attractions:** Sydney Opera House, Great Barrier Reef, Uluru/Ayers Rock, Kakadu National Park, Whitsunday Islands
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-australia/)
 
 ---
 
 ### <a name="austria"></a>**Austria**
 
-<img width="300" height="300" src="media/flags/at.svg">
+<img width="300" height="300" src="media/photos/flags/at.svg">
 
 **Capital:** [Vienna](https://www.google.com/maps/search/Vienna)
 </br>
@@ -1007,13 +1111,53 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** AUT
 </br>
 **Region:** Europe
+
+**Top Attractions:** Schönbrunn Palace, Ringstrasse in Vienna, Giant Ferris Wheel in Vienna, Hohensalzburg Fortress in Salzburg,
+Mozart’s Birthplace in Salzburg, Schlossberg Hill & Clocktower in Graz, Styria, Kunsthaus Art Museum in Graz, Styria, Golden Roof in Innsbruck, Tirol,  Swarovski Crystal Worlds in Wattens, Tirol,   Ars Electronica Center in Linz, Upper Austria
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-albania/)
+
 <br>
+
+**Austria’s Top Sights**
+Those are the top 10 attractions worth visiting in Austria.
+* Schönbrunn Palace, Vienna
+Worth visiting Habsburgs’ summer residence. Take a tour through the spaces and gardens of Hasburgs' summer residence. There is the option of Schönbrunn Zoo, which is located close to the Habsburgs’ summer residence. That way you can visit Austria's most tourist attraction and also the oldest zoo existing in the world.
+
+* Ringstrasse in Vienna
+Here you could discover some of Austria's most interesting buildings. The State Opera, Parliament, City Hall, the university and more are some of them.
+
+* Giant Ferris Wheel in Vienna
+Existed to Vienna’s historic Prater amusement park, the Giant Ferris Wheel offers you some spectacular views of the city. There you could enjoy your breakfast or a nice dinner.
+
+* Hohensalzburg Fortress in Salzburg
+Built-in 1077, Hohensalzburg Fortress is a dominant structure, high above the city but very close to the city centre. There you could see Princes’ Chambers furnishing, and also a museum, displaying ancient suits for military purposes.
+
+* Mozart’s Birthplace in Salzburg
+When you walk through Salzburg’s Getreidegasse, a picturesque, cobble-stoned market street that is a lively memory of centuries past, you  should not miss Mozart’s birthplace at no. 9. All in all, it’s one of the most famous museums worldwide nowadays, offering the chanch to see the real rooms and Mozart’s musical instruments.
+
+* Schlossberg Hill & Clocktower in Graz, Styria
+A must-do for every first-time visitor to Graz is climbing Schlossberg hill and seeing the city’s famous clocktower up close. If you don’t feel up to climbing the 260 stairs, simply take the lift (located inside the actual hill) or the Schlossbergbahn funicular. Up top, you can treat yourself to a coffee with fantastic views over the city.
+
+* Kunsthaus Art Museum in Graz, Styria
+The Kunsthaus located in Graz, Austria’s second city, attracts visitors not just with its contemporary art collections, but also with its unique architecture: Started operating in 2003,it seemed like a nice contradiction to the surroundings of Baroque architecture. With its large, tube-like "nozzles" for windows that stand our and its computerized lighting system, it’s a real mind blowing site in city's centre.
+
+* Golden Roof in Innsbruck, Tirol
+Located in the midst of the old town, Innsbruck’s Golden Roof is perhaps the city’s most famous landmark. Built in the 15th century, its 2,657 gilded shingles shine, drawing visitors' attention.
+
+* Swarovski Crystal Worlds in Wattens, Tirol
+25 minutes outside of Innsbruck, a place where crystal is everywhere, welcoming visitors and impressing them with its unique images .
+There are 17 separate “crystal chambers”, including a giant crystal dome and an “infinity mirror room” featuring a revolving chandelier. 
+In addition, a structure, shped as cloud consiated of 800,000 crystal offers an outstanding experience.
+
+* 10. Ars Electronica Center in Linz, Upper Austria
+The Ars Electronica Center in Linz is an interactive museum, one of its kind,  that introduces visitors to STEM and art artifacts . It is expanded across 5,100 m2 (56,000 sqft) LED façade, offering a nightly spectacle.
+Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
 
 ---
 
 ### <a name="azerbaijan"></a>**Azerbaijan**
 
-<img width="300" height="300" src="media/flags/az.svg">
+<img width="300" height="300" src="media/photos/flags/az.svg">
 
 **Capital:** [Baku](https://www.google.com/maps/search/Baku)
 </br>
@@ -1027,11 +1171,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
 ---
 
 ### <a name="bahamas"></a>**Bahamas**
 
-<img width="300" height="300" src="media/flags/bs.svg">
+<img width="300" height="300" src="media/photos/flags/bs.svg">
 
 **Capital:** [Nassau](https://www.google.com/maps/search/Nassau)
 </br>
@@ -1045,11 +1192,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:** Atlantis Paradise Island, Nassau, Exuma Cays Land and Sea Park, Grand Bahama Island
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/bahamas-bah.htm)
+
 ---
 
 ### <a name="bahrain"></a>**Bahrain**
 
-<img width="300" height="300" src="media/flags/bh.svg">
+<img width="300" height="300" src="media/photos/flags/bh.svg">
 
 **Capital:** [Manama](https://www.google.com/maps/search/Manama)
 </br>
@@ -1063,11 +1213,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** The Lost Paradise of Dilmun Water Park, Bahrain National Museum, Al-Fatih Mosque, Bab el-Bahrain Souk
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293996-Activities-Bahrain.html)
+
 ---
 
 ### <a name="bangladesh"></a>**Bangladesh**
 
-<img width="300" height="300" src="media/flags/bd.svg">
+<img width="300" height="300" src="media/photos/flags/bd.svg">
 
 **Capital:** [Dhaka](https://www.google.com/maps/search/Dhaka)
 </br>
@@ -1081,11 +1234,15 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Cox’s Bazar, The Sundarbans, Dhaka,  Srimangal
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-bangladesh/)
+
+
 ---
 
 ### <a name="barbados"></a>**Barbados**
 
-<img width="300" height="300" src="media/flags/bb.svg">
+<img width="300" height="300" src="media/photos/flags/bb.svg">
 
 **Capital:** [Bridgetown](https://www.google.com/maps/search/Bridgetown)
 </br>
@@ -1099,11 +1256,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:** The Beaches of Carlisle Bay, Downtown Bridgetown, Bathsheba Bay, Animal Flower Cave
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/barbados-bar.htm)
+
 ---
 
 ### <a name="belarus"></a>**Belarus**
 
-<img width="300" height="300" src="media/flags/by.svg">
+<img width="300" height="300" src="media/photos/flags/by.svg">
 
 **Capital:** [Minsk](https://www.google.com/maps/search/Minsk)
 </br>
@@ -1117,11 +1277,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:** Braslav Lake Area, Belovezhskaya Pushcha National Park, Mir Castle
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-belarus/)
+
 ---
 
 ### <a name="belgium"></a>**Belgium**
 
-<img width="300" height="300" src="media/flags/be.svg">
+<img width="300" height="300" src="media/photos/flags/be.svg">
 
 **Capital:** [Brussels](https://www.google.com/maps/search/Brussels)
 </br>
@@ -1135,11 +1298,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:** Grand Place in Brussels, The Canals of Bruges,  Ghent's Gravensteen and Old Town, Ghent's Canals
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/belgium-b.htm)
+
 ---
 
 ### <a name="belize"></a>**Belize**
 
-<img width="300" height="300" src="media/flags/bz.svg">
+<img width="300" height="300" src="media/photos/flags/bz.svg">
 
 **Capital:** [Belmopan](https://www.google.com/maps/search/Belmopan)
 </br>
@@ -1153,11 +1319,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Ambergris Caye & Hol Chan Marine Reserve, Lighthouse Reef Atoll and the Blue Hole, Placencia Peninsula
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/belize-biz.htm)
+
 ---
 
 ### <a name="benin"></a>**Benin**
 
-<img width="300" height="300" src="media/flags/bj.svg">
+<img width="300" height="300" src="media/photos/flags/bj.svg">
 
 **Capital:** [Porto-Novo](https://www.google.com/maps/search/Porto-Novo)
 </br>
@@ -1171,11 +1340,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:** Tata Somba houses, Pendjari National Park, Royal Palaces of Abomey
+<br>Source [Erika'sTravels](https://www.erikastravels.com/benin-tourist-attractions/)
+
 ---
 
 ### <a name="bhutan"></a>**Bhutan**
 
-<img width="300" height="300" src="media/flags/bt.svg">
+<img width="300" height="300" src="media/photos/flags/bt.svg">
 
 **Capital:** [Thimphu](https://www.google.com/maps/search/Thimphu)
 </br>
@@ -1189,11 +1361,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Rinpung Dzong, Chele La Pass, Punakha Dzong, Tiger’s Nest 
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/tourist-places-in-bhutan/)
+
 ---
 
 ### <a name="bolivia"></a>**Bolivia**
 
-<img width="300" height="300" src="media/flags/bo.svg">
+<img width="300" height="300" src="media/photos/flags/bo.svg">
 
 **Capital:** [Sucre](https://www.google.com/maps/search/Sucre)
 </br>
@@ -1207,11 +1382,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:** Madidi National Park, Jesuit Missions of Chiquitos, Salar de Uyuni, Tiwanaku
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-bolivia/)
+
 ---
 
 ### <a name="bosnia"></a>**Bosnia and Herzegovina**
 
-<img width="300" height="300" src="media/flags/ba.svg">
+<img width="300" height="300" src="media/photos/flags/ba.svg">
 
 **Capital:** [Sarajevo](https://www.google.com/maps/search/Sarajevo)
 </br>
@@ -1225,11 +1403,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Una National Park, Una National Park, Una National Park
+<br>Source [GlobeGuide](https://www.globeguide.ca/best-places-to-visit-in-bosnia/)
+
 ---
 
 ### <a name="botswana"></a>**Botswana**
 
-<img width="300" height="300" src="media/flags/bw.svg">
+<img width="300" height="300" src="media/photos/flags/bw.svg">
 
 **Capital:** [Gaborone](https://www.google.com/maps/search/Gaborone)
 </br>
@@ -1243,11 +1424,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Una National Park, Una National Park, Una National Park
+<br>Source [GlobeGuide](https://www.globeguide.ca/best-places-to-visit-in-bosnia/)
+
 ---
 
 ### <a name="brazil"></a>**Brazil**
 
-<img width="300" height="300" src="media/flags/br.svg">
+<img width="300" height="300" src="media/photos/flags/br.svg">
 
 **Capital:** [Brasilia](https://www.google.com/maps/search/Brasilia)
 </br>
@@ -1261,11 +1445,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Cristo Redentor and Corcovado,  Sugar Loaf,  Iguaçu Falls, Copacabana
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/brazil-bra.htm)
+
 ---
 
 ### <a name="brunei"></a>**Brunei**
 
-<img width="300" height="300" src="media/flags/bn.svg">
+<img width="300" height="300" src="media/photos/flags/bn.svg">
 
 **Capital:** [Bandar Seri Begawan](https://www.google.com/maps/search/Bandar+Seri+Begawan)
 </br>
@@ -1279,11 +1466,15 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Omar Ali Saifuddien Mosque, Jame' Asr Hassanil Bolkiah Mosque, Kampong Ayer
+<br>Source [TheCultureTrip](https://theculturetrip.com/asia/brunei-darussalam/articles/20-must-visit-attractions-in-brunei/)
+
+
 ---
 
 ### <a name="bulgaria"></a>**Bulgaria**
 
-<img width="300" height="300" src="media/flags/bg.svg">
+<img width="300" height="300" src="media/photos/flags/bg.svg">
 
 **Capital:** [Sofia](https://www.google.com/maps/search/Sofia)
 </br>
@@ -1297,11 +1488,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Rila Monastery, Old Nessebar, Pirin National Park,  Plovdiv Roman Theater
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-bulgaria/)
+
 ---
 
 ### <a name="burkina faso"></a>**Burkina Faso**
 
-<img width="300" height="300" src="media/flags/bf.svg">
+<img width="300" height="300" src="media/photos/flags/bf.svg">
 
 **Capital:** [Ouagadougou](https://www.google.com/maps/search/Ouagadougou)
 </br>
@@ -1315,11 +1509,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Ouagadougou, Bobo-Dioulasso, Banfora, Gorom Gorom
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-burkina-faso/)
+
 ---
 
 ### <a name="burundi"></a>**Burundi**
 
-<img width="300" height="300" src="media/flags/bi.svg">
+<img width="300" height="300" src="media/photos/flags/bi.svg">
 
 **Capital:** [Bujumbura](https://www.google.com/maps/search/Bujumbura)
 </br>
@@ -1333,11 +1530,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Bujumbura, Rusizi River National Park, Ruvubu National Park, Lake Rwihinda Natural Reserve
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-burundi/)
+
 ---
 
 ### <a name="cabo_verde"></a>**Cabo Verde**
 
-<img width="300" height="300" src="media/flags/ci.svg">
+<img width="300" height="300" src="media/photos/flags/ci.svg">
 
 **Capital:** [Praia](https://www.google.com/maps/search/Praia)
 </br>
@@ -1351,11 +1551,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Praia de Santa Maria, Pedra Lume Salt Crater, Praia de Chaves
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293774-Activities-Cape_Verde.html)
+
 ---
 
 ### <a name="cambodia"></a>**Cambodia**
 
-<img width="300" height="300" src="media/flags/kh.svg">
+<img width="300" height="300" src="media/photos/flags/kh.svg">
 
 **Capital:** [Phnom Penh](https://www.google.com/maps/search/Phnom+Penh)
 </br>
@@ -1369,11 +1572,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Angkor Wat (Angkor Archaeological Park), Phnom Penh, Koh Rong Samloem, Siem Reap
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cambodia-cam.htm)
+
 ---
 
 ### <a name="cameroon"></a>**Cameroon**
 
-<img width="300" height="300" src="media/flags/cm.svg">
+<img width="300" height="300" src="media/photos/flags/cm.svg">
 
 **Capital:** [Yaoundé](https://www.google.com/maps/search/Yaoundé)
 </br>
@@ -1387,11 +1593,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Mefou National Park, Musee Maritime de Douala, Doual'Art
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293772-Activities-Cameroon.html)
+
 ---
 
 ### <a name="canada"></a>**Canada**
 
-<img width="300" height="300" src="media/flags/ca.svg">
+<img width="300" height="300" src="media/photos/flags/ca.svg">
 
 **Capital:** [Ottawa](https://www.google.com/maps/search/Ottawa)
 </br>
@@ -1405,11 +1614,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Niagara Falls, Banff National Park & the Rocky Mountains, Toronto's CN Tower,  Old Quebec (Vieux-Quebec)
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/canada-cdn.htm)
+
 ---
 
 ### <a name="central_african_republic"></a>**Central African Republic**
 
-<img width="300" height="300" src="media/flags/cf.svg">
+<img width="300" height="300" src="media/photos/flags/cf.svg">
 
 **Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
 </br>
@@ -1423,11 +1635,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Bangui Center, Zinga, Manovo-Gounda St Floris National Park
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-central-african-republic/)
+
 ---
 
 ### <a name="chad"></a>**Chad**
 
-<img width="300" height="300" src="media/flags/td.svg">
+<img width="300" height="300" src="media/photos/flags/td.svg">
 
 **Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
 </br>
@@ -1441,12 +1656,15 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Zakouma National Park, Musée National N'Djamena (National Museum), Grand Mosque N'Djamena
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293778-Activities-Chad.html)
+
 ---
 
 
 ### <a name="chile"></a>**Chile**
 
-<img width="300" height="300" src="media/flags/cl.svg">
+<img width="300" height="300" src="media/photos/flags/cl.svg">
 
 **Capital:** [Santiago](https://www.google.com/maps/search/Santiago)
 </br>
@@ -1460,11 +1678,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Torres Del Paine National Park, Valle de la Luna and the Atacama Desert, Easter Island & Rapa Nui National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/chile-chi.htm)
+
 ---
 
 ### <a name="china"></a>**China**
 
-<img width="300" height="300" src="media/flags/cn.svg">
+<img width="300" height="300" src="media/photos/flags/cn.svg">
 
 **Capital:** [Beijing](https://www.google.com/maps/search/Beijing)
 </br>
@@ -1478,11 +1699,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:**  The Great Wall of China, The Forbidden City & the Imperial Palace, Beijing,  The Terracotta Army, The Summer Palace
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/china-chn.htm)
+
 ---
 
 ### <a name="colombia"></a>**Colombia**
 
-<img width="300" height="300" src="media/flags/co.svg">
+<img width="300" height="300" src="media/photos/flags/co.svg">
 
 **Capital:** [Bogotá](https://www.google.com/maps/search/Bogotá)
 </br>
@@ -1496,11 +1720,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Cartagena,  Medellin, Eje Cafetero, Leticia
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/colombia-col.htm)
+
 ---
 
 ### <a name="comoros"></a>**Comoros**
 
-<img width="300" height="300" src="media/flags/km.svg">
+<img width="300" height="300" src="media/photos/flags/km.svg">
 
 **Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
 </br>
@@ -1514,11 +1741,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**   Mohéli, Fomboni, Anjouan, Grande Comore
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/10-best-places-visit-comoros/)
+
 ---
 
 ### <a name="congo"></a>**Congo**
 
-<img width="300" height="300" src="media/flags/cg.svg">
+<img width="300" height="300" src="media/photos/flags/cg.svg">
 
 **Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
 </br>
@@ -1532,11 +1762,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Lola Ya Bonobo, Kahuzi Biega National Park, Nyiragongo Volcano
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-democratic-republic-congo/)
+
 ---
 
 ### <a name="costa_rica"></a>**Costa Rica**
 
-<img width="300" height="300" src="media/flags/cr.svg">
+<img width="300" height="300" src="media/photos/flags/cr.svg">
 
 **Capital:** [San José](https://www.google.com/maps/search/San+Jose)
 </br>
@@ -1550,11 +1783,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Manuel Antonio National Park,  Arenal Volcano, Monteverde and the Cloud Forests, Dominical
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/costa-rica-crc.htm)
+
 ---
 
 ### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
 
-<img width="300" height="300" src="media/flags/ci.svg">
+<img width="300" height="300" src="media/photos/flags/ci.svg">
 
 **Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
 </br>
@@ -1568,11 +1804,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Grand-Bassam, Abidjan, Waterfall in Man, Taï National Park
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-ivory-coast/)
+
 ---
 
 ### <a name="croatia"></a>**Croatia**
 
-<img width="300" height="300" src="media/flags/hr.svg">
+<img width="300" height="300" src="media/photos/flags/hr.svg">
 
 **Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
 </br>
@@ -1586,11 +1825,14 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Dubrovnik Old Town Walls, Diocletian's Palace in Split, Hvar Town, Plitvice Lakes National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/croatia-hr.htm)
+
 ---
 
 ### <a name="cuba"></a>**Cuba**
 
-<img width="300" height="300" src="media/flags/cu.svg">
+<img width="300" height="300" src="media/photos/flags/cu.svg">
 
 **Capital:** [Havana](https://www.google.com/maps/search/Havana)
 </br>
@@ -1604,10 +1846,13 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Old Havana (Habana Vieja),  Varadero, Trinidad,  Guardalavaca
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cuba-cub.htm)
+
 ---
 ### <a name="cyprus"></a>**Cyprus**
 
-<img width="300" height="300" src="media/flags/cy.svg">
+<img width="300" height="300" src="media/photos/flags/cy.svg">
 
 **Capital:** [Nicosia](https://www.google.com/maps/search/Nicosia)
 </br>
@@ -1621,13 +1866,16 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Ancient Kourion,  St. Hilarion Castle, Larnaca, Karpas Peninsula
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cyprus-cy.htm)
+
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
 ---
 
 ### <a name="czech_republic"></a>**Czech Republic**
 
-<img width="300" height="300" src="media/flags/cz.svg">
+<img width="300" height="300" src="media/photos/flags/cz.svg">
 
 **Capital:** [Prague](https://www.google.com/maps/search/Prague)
 </br>
@@ -1641,11 +1889,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Prague Castle,  Prague's Charles Bridge, St. Vitus Cathedral, Prague's Old Town Square & Wenceslas Square
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/czech-republic-cz.htm)
+
 ---
 
 ### <a name="denmark"></a>**Denmark**
 
-<img width="300" height="300" src="media/flags/dk.svg">
+<img width="300" height="300" src="media/photos/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
 </br>
@@ -1659,11 +1910,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tivoli Gardens in Copenhagen,  Nyhavn,  National Museum of Denmark, The National Gallery of Denmark
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/denmark-dk.htm)
+
 ---
 
 ### <a name="djibouti"></a>**Djibouti**
 
-<img width="300" height="300" src="media/flags/dj.svg">
+<img width="300" height="300" src="media/photos/flags/dj.svg">
 
 **Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
 </br>
@@ -1677,11 +1931,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Lake Assal, Day Forest National Park, Khor Ambado Beach
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293787-Activities-Djibouti.html)
+
 ---
 
 ### <a name="dominica"></a>**Dominica**
 
-<img width="300" height="300" src="media/flags/dm.svg">
+<img width="300" height="300" src="media/photos/flags/dm.svg">
 
 **Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
 </br>
@@ -1695,11 +1952,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Morne Trois Pitons National Park, Boiling Lake, Victoria Falls, Trafalgar Falls
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominica-dmn.htm)
+
 ---
 
 ### <a name="dominican_republic"></a>**Dominican Republic**
 
-<img width="300" height="300" src="media/flags/do.svg">
+<img width="300" height="300" src="media/photos/flags/do.svg">
 
 **Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
 </br>
@@ -1713,11 +1973,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Bavaro Beach is Punta Cana, Santo Domingo's Zona Colonial, Puerto Plata & Playa Dorada
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominican-republic-dom.htm)
+
 ---
 
 ### <a name="ecuador"></a>**Ecuador**
 
-<img width="300" height="300" src="media/flags/ec.svg">
+<img width="300" height="300" src="media/photos/flags/ec.svg">
 
 **Capital:** [Quito](https://www.google.com/maps/search/Quito)
 </br>
@@ -1731,11 +1994,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  The Galápagos Islands,  Quito: Ecuador's Historic Andean Capital, Cuenca, Cotopaxi and Cajas National Parks
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ecuador-ecu.htm)
+
 ---
 
 ### <a name="egypt"></a>**Egypt**
 
-<img width="300" height="300" src="media/flags/eg.svg">
+<img width="300" height="300" src="media/photos/flags/eg.svg">
 
 **Capital:** [Cairo](https://www.google.com/maps/search/Cairo)
 </br>
@@ -1749,11 +2015,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Pyramids of Giza, Luxor's Temples & Tombs, Cruising the Nile, Aswan,  Abu Simbel
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/egypt-egy.htm)
+
 ---
 
 ### <a name="el_salvador"></a>**El Salvador**
 
-<img width="300" height="300" src="media/flags/sv.svg">
+<img width="300" height="300" src="media/photos/flags/sv.svg">
 
 **Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
 </br>
@@ -1767,11 +2036,14 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Parque Nacional El Boqueron, Iglesia El Rosario, Santa Ana Volcano, Joya de Ceren Archaeological Park
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g294476-d318772-Reviews-Joya_de_Ceren_Archaeological_Park-San_Salvador_San_Salvador_Department.html)
+
 ---
 
 ### <a name="england"></a>**England**
 
-<img width="300" height="300" src="media/flags/gb-eng.svg">
+<img width="300" height="300" src="media/photos/flags/gb-eng.svg">
 
 **Capital:** [London](https://www.google.com/maps/search/London)
 </br>
@@ -1785,13 +2057,16 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Stonehenge, Tower of London, The Roman Baths and Georgian City of Bath, The British Museum, York Minster and Historic Yorkshire, Windsor Castle
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/england-eng.htm)
+
 England is the biggest of the four countries that are part of the United Kingdom.
 
 ---
 
 ### <a name="equatorial_guinea"></a>**Equatorial Guinea**
 
-<img width="300" height="300" src="media/flags/gq.svg">
+<img width="300" height="300" src="media/photos/flags/gq.svg">
 
 **Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
 </br>
@@ -1805,11 +2080,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  The Malabo National Park, Catedral de Santa Isabel, Pico Basilé
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g294437-Activities-Equatorial_Guinea.html)
+
 ---
 
 ### <a name="eritrea"></a>**Eritrea**
 
-<img width="300" height="300" src="media/flags/er.svg">
+<img width="300" height="300" src="media/photos/flags/er.svg">
 
 **Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
 </br>
@@ -1823,11 +2101,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Fiat Tagliero, Cattedrale di Asmara, Former Imperial Palace
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293788-Activities-Eritrea.html)
+
 ---
 
 ### <a name="estonia"></a>**Estonia**
 
-<img width="300" height="300" src="media/flags/ee.svg">
+<img width="300" height="300" src="media/photos/flags/ee.svg">
 
 **Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
 </br>
@@ -1841,11 +2122,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tour Tallinn's Old Town, Kuressaare Episcopal Castle, Lennusadam Seaplane Harbour, Pärnu
+<br>Source [PlanetWare](https://www.planetware.com/estonia/top-rated-attractions-things-to-do-in-estonia-ee-1-2.htm)
+
 ---
 
 ### <a name="eswatini"></a>**Eswatini**
 
-<img width="300" height="300" src="media/flags/sz.svg">
+<img width="300" height="300" src="media/photos/flags/sz.svg">
 
 **Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
 </br>
@@ -1859,11 +2143,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Hlane Royal National Park, Mbuluzi Game Reserve, Lobamba, Swazi Market in Mbabane
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/swaziland-saf-swz-swz.htm)
+
 ---
 
 ### <a name="ethiopia"></a>**Ethiopia**
 
-<img width="300" height="300" src="media/flags/et.svg">
+<img width="300" height="300" src="media/photos/flags/et.svg">
 
 **Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
 </br>
@@ -1877,11 +2164,14 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Addis Mercato, Mount Entoto, National Museum of Ethiopia
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g293791-d480664-Reviews-National_Museum_of_Ethiopia-Addis_Ababa.html)
+
 ---
 
 ### <a name="fiji"></a>**Fiji**
 
-<img width="300" height="300" src="media/flags/fj.svg">
+<img width="300" height="300" src="media/photos/flags/fj.svg">
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
@@ -1899,7 +2189,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="finland"></a>**Finland**
 
-<img width="300" height="300" src="media/flags/fi.svg">
+<img width="300" height="300" src="media/photos/flags/fi.svg">
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
@@ -1917,7 +2207,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="france"></a>**France**
 
-<img width="300" height="300" src="media/flags/fr.svg">
+<img width="300" height="300" src="media/photos/flags/fr.svg">
 
 **Capital:** [Paris](https://www.google.com/maps/search/Paris)
 </br>
@@ -1935,7 +2225,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="georgia"></a>**Georgia**
 
-<img width="300" height="300" src="media/flags/ge.svg">
+<img width="300" height="300" src="media/photos/flags/ge.svg">
 
 **Capital:** [Tbilisi](https://www.google.com/maps/search/Tbilisi)
 </br>
@@ -1953,7 +2243,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="germany"></a>**Germany**
 
-<img width="300" height="300" src="media/flags/de.svg">
+<img width="300" height="300" src="media/photos/flags/de.svg">
 
 **Capital:** [Berlin](https://www.google.com/maps/search/Berlin)
 </br>
@@ -1971,7 +2261,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="ghana"></a>**Ghana**
 
-<img width="300" height="300" src="media/flags/gh.svg">
+<img width="300" height="300" src="media/photos/flags/gh.svg">
 
 **Capital:** [Accra](https://www.google.com/maps/search/Accra)
 </br>
@@ -1989,7 +2279,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="greece"></a>**Greece**
 
-<img width="300" height="300" src="media/flags/gr.svg">
+<img width="300" height="300" src="media/photos/flags/gr.svg">
 
 **Capital:** [Athens](https://www.google.com/maps/search/Athens)
 </br>
@@ -2014,7 +2304,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="guatemala"></a>**Guatemala**
 
-<img width="300" height="300" src="media/flags/gua.svg">
+<img width="300" height="300" src="media/photos/flags/gua.svg">
 
 **Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
 </br>
@@ -2032,7 +2322,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iceland"></a>**Iceland**
 
-<img width="300" height="300" src="media/flags/ice.svg">
+<img width="300" height="300" src="media/photos/flags/ice.svg">
 
 **Capital:** [Reykjavik](https://www.google.gr/maps/place/%CE%A1%CE%AD%CE%B9%CE%BA%CE%B9%CE%B1%CE%B2%CE%B9%CE%BA,+%CE%99%CF%83%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1/@64.1335484,-21.9224815,12z/data=!3m1!4b1!4m5!3m4!1s0x48d674b9eedcedc3:0xec912ca230d26071!8m2!3d64.146582!4d-21.9426354)
 </br>
@@ -2050,7 +2340,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="india"></a>**India**
 
-<img width="300" height="300" src="media/flags/in.svg">
+<img width="300" height="300" src="media/photos/flags/in.svg">
 
 **Capital:** [New Delhi](https://www.google.com/maps/search/New%20Delhi)
 </br>
@@ -2068,7 +2358,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="indonesia"></a>**Indonesia**
 
-<img width="300" height="300" src="media/flags/id.svg">
+<img width="300" height="300" src="media/photos/flags/id.svg">
 
 **Capital:** [Jakarta](https://www.google.com/maps/search/Jakarta)
 </br>
@@ -2086,7 +2376,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iran"></a>**Iran**
 
-<img width="300" height="300" src="media/flags/ir.svg">
+<img width="300" height="300" src="media/photos/flags/ir.svg">
 
 **Capital:** [Tehran](https://www.google.com/maps/search/Tehran)
 </br>
@@ -2104,7 +2394,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iraq"></a>**Iraq**
 
-<img width="300" height="300" src="media/flags/iq.svg">
+<img width="300" height="300" src="media/photos/flags/iq.svg">
 
 **Capital:** [Baghdad](https://www.google.com/maps/search/Baghdad)
 </br>
@@ -2122,7 +2412,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="ireland"></a>**Ireland**
 
-<img width="300" height="300" src="media/flags/ie.svg">
+<img width="300" height="300" src="media/photos/flags/ie.svg">
 
 **Capital:** [Dublin](https://www.google.com/maps/search/Dublin)
 </br>
@@ -2140,7 +2430,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="israel"></a>**Israel**
 
-<img width="300" height="300" src="media/flags/il.svg">
+<img width="300" height="300" src="media/photos/flags/il.svg">
 
 **Capital:** [Jerusalem](https://www.google.com/maps/search/Jerusalem)
 </br>
@@ -2158,7 +2448,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="italy"></a>**Italy**
 
-<img width="300" height="300" src="media/flags/it.svg">
+<img width="300" height="300" src="media/photos/flags/it.svg">
 
 **Capital:** [Rome](https://www.google.com/maps/search/Rome)
 </br>
@@ -2176,7 +2466,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="japan"></a>**Japan**
 
-<img width="300" height="300" src="media/flags/jp.svg">
+<img width="300" height="300" src="media/photos/flags/jp.svg">
 
 **Capital:** [Tokyo](https://www.google.com/maps/search/Tokyo)
 </br>
@@ -2194,7 +2484,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="kenya"></a>**Kenya**
 
-<img width="300" height="300" src="media/flags/ke.svg">
+<img width="300" height="300" src="media/photos/flags/ke.svg">
 
 **Capital:** [Nairobi](https://www.google.com/maps/search/Nairobi)
 </br>
@@ -2212,7 +2502,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="liechtenstein"></a>**Liechtenstein**
 
-<img width="300" height="300" src="media/flags/lcht.svg">
+<img width="300" height="300" src="media/photos/flags/lcht.svg">
 
 **Capital:** [Vaduz](https://www.google.com/maps/search/Vaduz)
 </br>
@@ -2230,7 +2520,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="lithuania"></a>**Lithuania**
 
-<img width="300" height="300" src="media/flags/lt.svg">
+<img width="300" height="300" src="media/photos/flags/lt.svg">
 
 **Capital:** [Vilnius](https://www.google.com/maps/search/Vilnius)
 </br>
@@ -2248,7 +2538,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="luxemburg"></a>**Luxemburg**
 
-<img width="300" height="300" src="media/flags/lxmb.svg">
+<img width="300" height="300" src="media/photos/flags/lxmb.svg">
 
 **Capital:** [Luxemburg City](https://www.google.com/maps/search/Luxemburg%20City)
 </br>
@@ -2266,7 +2556,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="mexico"></a>**Mexico**
 
-<img width="300" height="300" src="media/flags/mx.svg">
+<img width="300" height="300" src="media/photos/flags/mx.svg">
 
 **Capital:** [Mexico City](https://www.google.com/maps/search/Mexico%20City)
 </br>
@@ -2284,7 +2574,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="monaco"></a>**Monaco**
 
-<img width="300" height="300" src="media/flags/monaco.svg">
+<img width="300" height="300" src="media/photos/flags/monaco.svg">
 
 **Capital:** [City of Monaco](https://www.google.com/maps/search/City%20of%20Monaco)
 </br>
@@ -2302,7 +2592,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="new_zealand"></a>**New Zealand**
 
-<img width="300" height="300" src="media/flags/nz.svg">
+<img width="300" height="300" src="media/photos/flags/nz.svg">
 
 **Capital:** [Wellington](https://www.google.com/maps/search/Wellington)
 </br>
@@ -2318,9 +2608,27 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="nicaragua"></a>**Nicaragua**
+
+<img width="300" height="300" src="media/photos/flags/ni.svg">
+
+**Capital:** [Managua](https://www.google.com/maps/search/Managua)
+</br>
+**Official Language:** Spanish, English, Miskito, Rama
+</br>
+**Currency:** Cordoba (NIO)
+</br>
+**Population:** 6,486,201 (2019)
+</br>
+**Country Code (cioc):** NI
+</br>
+**Region:** Central America 
+
+---
+
 ### <a name="norway"></a>**Norway**
 
-<img width="300" height="300" src="media/flags/no.svg">
+<img width="300" height="300" src="media/photos/flags/no.svg">
 
 **Capital:** [Oslo](https://www.google.com/maps/search/Oslo)
 </br>
@@ -2338,7 +2646,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="peru"></a>**Peru**
 
-<img width="300" height="300" src="media/flags/pe.svg">
+<img width="300" height="300" src="media/photos/flags/pe.svg">
 
 **Capital:** [Lima](https://www.google.com/maps/search/Lima)
 </br>
@@ -2356,7 +2664,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="philippines"></a>**Philippines**
 
-<img width="300" height="300" src="media/flags/ph.svg">
+<img width="300" height="300" src="media/photos/flags/ph.svg">
 
 **Capital:** [Manila](https://www.google.com/maps/search/Manila)
 </br>
@@ -2374,7 +2682,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="romania"></a>**Romania**
 
-<img width="300" height="300" src="media/flags/ro.svg">
+<img width="300" height="300" src="media/photos/flags/ro.svg">
 
 **Capital:** [Bucharest](https://www.google.com/maps/search/Bucharest)
 </br>
@@ -2392,7 +2700,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="russia"></a>**Russia**
 
-<img width="300" height="300" src="media/flags/ru.svg">
+<img width="300" height="300" src="media/photos/flags/ru.svg">
 
 **Capital:** [Moscow](https://www.google.com/maps/search/Moscow)
 </br>
@@ -2410,7 +2718,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="san_marino"></a>**San Marino**
 
-<img width="300" height="300" src="media/flags/sm.svg">
+<img width="300" height="300" src="media/photos/flags/sm.svg">
 
 **Capital:** [San Marino](https://www.google.com/maps/search/San%20Marino)
 </br>
@@ -2428,7 +2736,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="scotland"></a>**Scotland**
 
-<img width="300" height="300" src="media/flags/gb-sct.svg">
+<img width="300" height="300" src="media/photos/flags/gb-sct.svg">
 
 **Capital:** [Edinburgh](https://www.google.com/maps/search/Edinburgh)
 </br>
@@ -2446,7 +2754,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="slovakia"></a>**Slovakia**
 
-<img width="300" height="300" src="media/flags/sk.svg">
+<img width="300" height="300" src="media/photos/flags/sk.svg">
 
 **Capital:** [Bratislava](https://www.google.com/maps/search/Bratislava)
 </br>
@@ -2464,7 +2772,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="slovenia"></a>**Slovenia**
 
-<img width="300" height="300" src="media/flags/si.svg">
+<img width="300" height="300" src="media/photos/flags/si.svg">
 
 **Capital:** [Ljubljana](https://www.google.com/maps/search/Ljubljana)
 </br>
@@ -2482,7 +2790,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="spain"></a>**Spain**
 
-<img width="300" height="300" src="media/flags/es.svg">
+<img width="300" height="300" src="media/photos/flags/es.svg">
 
 **Capital:** [Madrid](https://www.google.com/maps/search/Madrid)
 </br>
@@ -2500,7 +2808,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="switzerland"></a>**Switzerland**
 
-<img width="300" height="300" src="media/flags/ch.svg">
+<img width="300" height="300" src="media/photos/flags/ch.svg">
 
 **Capital:** [Bern](https://www.google.com/maps/search/Bern)
 </br>
@@ -2521,7 +2829,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="ukraine"></a>**Ukraine**
 
-<img width="300" height="300" src="media/flags/ua.svg">
+<img width="300" height="300" src="media/photos/flags/ua.svg">
 
 **Capital:** [Kyiv](https://www.google.com/maps/search/Kyiv)
 </br>
@@ -2539,7 +2847,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="uae"></a>**United Arab Emirates**
 
-<img width="300" height="300" src="media/flags/ae.svg">
+<img width="300" height="300" src="media/photos/flags/ae.svg">
 
 **Capital:** [Abu Dhabi](https://www.google.com/maps/search/Abu%20Dhabi)
 </br>
@@ -2557,7 +2865,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="usa"></a>**United States**
 
-<img width="300" height="300" src="media/flags/us.svg">
+<img width="300" height="300" src="media/photos/flags/us.svg">
 
 **Capital:** [Washington, D.C.](https://www.google.com/maps/search/Washington,%20D.C.)
 </br>
@@ -2575,7 +2883,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="uruguay"></a>**Uruguay**
 
-<img width="300" height="300" src="media/flags/uy.svg">
+<img width="300" height="300" src="media/photos/flags/uy.svg">
 
 **Capital:** [Montevideo](https://www.google.com/maps/search/Montevideo)
 </br>
@@ -2593,7 +2901,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="venezuela"></a>**Venezuela**
 
-<img width="300" height="300" src="media/flags/ve.svg">
+<img width="300" height="300" src="media/photos/flags/ve.svg">
 
 **Capital:** [Caracas](https://www.google.com/maps/search/Caracas)
 </br>
@@ -2611,7 +2919,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="vietnam"></a>**Vietnam**
 
-<img width="300" height="300" src="media/flags/vn.svg">
+<img width="300" height="300" src="media/photos/flags/vn.svg">
 
 **Capital:** [Hanoi](https://www.google.com/maps/search/Hanoi+Vietnam)
 </br>
@@ -2624,12 +2932,17 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
+**Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
+Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
+Mui Né
+source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
+
 
 ---
 
 ### <a name="yemen"></a>**Yemen**
 
-<img width="300" height="300" src="media/flags/ye.svg">
+<img width="300" height="300" src="media/photos/flags/ye.svg">
 
 **Capital:** [Sanaa](https://www.google.com/maps/search/Sanaa)
 </br>
@@ -2647,7 +2960,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="zambia"></a>**Zambia**
 
-<img width="300" height="300" src="media/flags/zm.svg">
+<img width="300" height="300" src="media/photos/flags/zm.svg">
 
 **Capital:** [Lusaka](https://www.google.com/maps/search/Lusaka)
 </br>
@@ -2665,7 +2978,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="zimbabwe"></a>**Zimbabwe**
 
-<img width="300" height="300" src="media/flags/zw.svg">
+<img width="300" height="300" src="media/photos/flags/zw.svg">
 
 **Capital:** [Harare](https://www.google.com/maps/search/Harare)
 </br>
@@ -2678,6 +2991,8 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
+**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
@@ -2689,7 +3004,7 @@ We still can not visit others planets but using the SpaceEngine (available on [s
 
 ### <a name="earth"></a>**Earth**
 
-<img width="300" height="300" src="media/planets/earth.jpg">
+<img width="300" height="300" src="media/photos/planets/earth.jpg">
 
 owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 
@@ -2713,7 +3028,7 @@ Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DC
 
 ### <a name="jupiter"></a>**Jupiter**
 
-<img width="550" height="300" src="media/planets/jupiter.png">
+<img width="550" height="300" src="media/photos/planets/jupiter.png">
 
 owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/planet-jupiter.html)
 
@@ -2737,7 +3052,7 @@ Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=Ptkqws
 
 ### <a name="mars"></a>**Mars**
 
-<img width="500" height="300" src="media/planets/mars.jpg">
+<img width="500" height="300" src="media/photos/planets/mars.jpg">
 
 owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist-says-Martians-can-help-humans-live-on-Red-Planet-1599337)
 
@@ -2759,7 +3074,7 @@ Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXh
 
 ### <a name="mercury"></a>**Mercury**
 
-<img width="470" height="300" src="media/planets/mercury.jpg">
+<img width="470" height="300" src="media/photos/planets/mercury.jpg">
 
 owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but-really-hot-stuff/)
 
@@ -2781,7 +3096,7 @@ Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnN
 
 ### <a name="neptune"></a>**Neptune**
 
-<img width="400" height="300" src="media/planets/neptune.jpg">
+<img width="400" height="300" src="media/photos/planets/neptune.jpg">
 
 owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
@@ -2803,7 +3118,7 @@ Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7z
 
 ### <a name="saturn"></a>**Saturn**
 
-<img width="400" height="300" src="media/planets/saturn.jpg">
+<img width="400" height="300" src="media/photos/planets/saturn.jpg">
 
 owned by [techexplorist.com](https://www.techexplorist.com/saturn-flashing-auroras-making-astronomers-scratch-head/29185/)
 
@@ -2825,7 +3140,7 @@ Video [Saturn 101 | National Geographic](https://www.youtube.com/watch?v=epZdZaE
 
 ### <a name="uranus"></a>**Uranus**
 
-<img width="500" height="300" src="media/planets/uranus.jpg">
+<img width="500" height="300" src="media/photos/planets/uranus.jpg">
 
 owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 
@@ -2847,7 +3162,7 @@ Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFO
 
 ### <a name="venus"></a>**Venus**
 
-<img width="460" height="350" src="media/planets/venus.jpg">
+<img width="460" height="350" src="media/photos/planets/venus.jpg">
 
 owned by [scitechdaily.com](https://scitechdaily.com/planetary-researchers-surprised-to-find-a-ring-of-fire-on-venus/)
 
@@ -2875,7 +3190,7 @@ According to the International Astronomical Union, a dwarf planet is a celestial
 
 ### <a name="ceres"></a>**Ceres**
 
-<img width="600" height="300" src="media/planets/ceres.jpg">
+<img width="600" height="300" src="media/photos/planets/ceres.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Ceres-dwarf-planet)
 
@@ -2896,7 +3211,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)>)
 
 ### <a name="pluto"></a>**Pluto**
 
-<img width="600" height="300" src="media/planets/pluto.jpg">
+<img width="600" height="300" src="media/photos/planets/pluto.jpg">
 
 owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
 
@@ -2918,7 +3233,7 @@ Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70b
 
 ### <a name="eris"></a>**Eris**
 
-<img width="500" height="375" src="media/planets/eris.jpg">
+<img width="500" height="375" src="media/photos/planets/eris.jpg">
 
 owned by [nationalgeographic.com](https://www.nationalgeographic.com/science/article/111026-pluto-twin-eris-dwarf-planets-occultation-space-science)
 
@@ -2938,7 +3253,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 ### <a name="makemake"></a>**Makemake**
 
-<img width="500" height="375" src="media\planets\makemake.jpg">
+<img width="500" height="375" src="media\photos\planets\makemake.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
 
@@ -2954,7 +3269,7 @@ Makemake is currently visually the second-brightest Kuiper belt object after Plu
 
 Combining the detection in infrared by the Spitzer Space Telescope and Herschel Space Telescope with the similarities of spectrum with Pluto yielded an estimated diameter from 1,360 to 1,480 km.
 
-Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.[49]
+Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
 
@@ -2968,7 +3283,11 @@ A planet must be small (and thus rocky) and orbit in the "habitable zone" of its
 
 ### <a name="kepler442b"></a>**Kepler-442b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-442b.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [voi](https://voi.id/en/technology/61968/astronomers-find-potentially-habitable-planet-kepler-422b)
 
 **Description**
 
@@ -2978,7 +3297,11 @@ According to NASA, this exoplanet is 33 percent larger than Earth and orbits its
 
 ### <a name="kepler452b"></a>**Kepler-452b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-452b.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [wikipedia](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
 
 **Description**
 
@@ -2989,7 +3312,11 @@ The star Kepler-452b is 1,400 light-years away from Earth. Kepler-452b orbits it
 
 ### <a name="proximacentaurib"></a>**Proxima Centauri b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Proximab.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Atronomy Trek](https://www.astronomytrek.com/proxima-centauri-exoplanet/)
 
 **Description**
 
@@ -2999,7 +3326,11 @@ According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-y
 
 ### <a name="trappist1e"></a>**TRAPPIST-1e**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\TRAPPIST-1e.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Wikipedia](https://el.wikipedia.org/wiki/TRAPPIST-1e)
 
 **Description**
 
@@ -3009,7 +3340,11 @@ There are the most Earth-sized planets ever discovered in the habitable zone of 
 
 ### <a name="gliese667cc"></a>**Gliese 667 Cc**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Gliese667cc.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source[9GAG](https://9gag.com/gag/aVq7pqK)
 
 **Description**
 
@@ -3026,7 +3361,7 @@ We will probably never reach another galaxy in our lifetime but [Hubble Space Te
 
 ### <a name="andromeda"></a>**Andromeda**
 
-<img width="500" height="400" src="media/galaxies/Andromeda.jpg">
+<img width="500" height="400" src="media/photos/galaxies/Andromeda.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
@@ -3041,7 +3376,7 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 
 ### <a name="cigar"></a>**Cigar**
 
-<img width="500" height="350" src="media/galaxies/Cigar.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Cigar.jpg">
 
 owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
@@ -3056,7 +3391,7 @@ The starburst activity is thought to have been triggered by interaction with nei
 
 ### <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
 
-<img width="500" height="350" src="media/galaxies/CosmosRedshift7.jpg">
+<img width="500" height="350" src="media/photos/galaxies/CosmosRedshift7.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
@@ -3071,7 +3406,7 @@ CR7 shows some of the expected signatures of Population III stars i.e. the first
 
 ### <a name="hoags_object"></a>**Hoag's Object**
 
-<img width="500" height="350" src="media/galaxies/Hoags_object.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Hoags_object.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
@@ -3086,7 +3421,7 @@ A nearly perfect ring of young hot blue stars circles the older yellow nucleus o
 
 ### <a name="mayalls_object"></a>**Mayall's Object**
 
-<img width="500" height="350" src="media/galaxies/mayallsObject.jpg">
+<img width="500" height="350" src="media/photos/galaxies/mayallsObject.jpg">
 
 owned by [nasa.com](https://www.jpl.nasa.gov/images/pia10385-arp-148-mayalls-object)
 
@@ -3101,7 +3436,7 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 ### <a name="milky_way"></a>**Milky Way**
 
-<img width="500" height="350" src="media/galaxies/milkyway.jpg">
+<img width="500" height="350" src="media/photos/galaxies/milkyway.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
@@ -3114,7 +3449,7 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 
 ### <a name="triangulum_galaxy"></a>**Triangulum Galaxy**
 
-<img width="500" height="350" src="media\galaxies\Triangulum_Galaxy.jpg">
+<img width="500" height="350" src="media\photos\galaxies\Triangulum_Galaxy.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
@@ -3132,15 +3467,32 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 ### <a name="sombrero_galaxy"></a>**Sombrero Galaxy**
 
-<img width="500" height="350" src="media/galaxies/Sombrero_Galaxy.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Sombrero_Galaxy.jpg">
 >Image taken by Hubble Space Telescope, October 2, 2004
 
 **Description**
 
-**The Sombrero Galaxy** (also known as Messier Object 104, M104 or NGC 4594) is a spiral galaxy in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs (31.1 million light-years) from our galaxy, within the local supercluster. It has a diameter of approximately 15 kiloparsecs (49,000 light-years), **three-tenths the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. **The dark dust lane and the bulge give it the appearance of a sombrero hat**. Astronomers initially thought the halo was small and light, indicative of a spiral galaxy; but the Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, indicative of a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **making it easily visible with amateur telescopes**, and is considered by some authors to be the galaxy with the highest absolute magnitude within a radius of 10 megaparsecs of the Milky Way.
+**The Sombrero Galaxy** is a spiral galaxy in the constellation borders of Virgo and Corvus, 31.1 million light-years away from our galaxy. Its diameter is approximately 49,000 light-years, **30% the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. 
+
+**The dark dust lane and the bulge give it the appearance of a sombrero hat**. The Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, resembling a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **which makes it easily visible with using an amateur telescope**.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Sombrero_Galaxy)
 
 ---
+
+### <a name="sculptor_galaxy"></a>**Sculptor Galaxy**
+
+<img width="500" height="350" src="media\photos\galaxies\Sculptor_Galaxy.jpg">
+
+**Description**
+
+**The Sculptor Galaxy** (also called the Silver Coin Galaxy, Silver Dollar Galaxy, NGC 253, or Caldwell 65) is a spiral galaxy in the constellation Sculptor. The Sculptor Galaxy is a starburst galaxy, meaning it is currently undergoing an active era of star production.
+
+Caroline Herschel discovered the galaxy in 1783 while conducting one of her systematic comet investigations. John Herschel noticed it almost half a century later. He expressed himself as follows: "A fantastic thing that is both bright and huge (24′ in length). Its light is a little streaky, but I don't see any stars in it save four enormous ones and one very small one, which don't seem to belong to it because there are so many around..."
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Sculptor_Galaxy)
+
+---
+
 
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
 
@@ -3148,7 +3500,7 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 ### <a name="satellies_overview"></a>**Overview**
 
-<img width="500" height="350" src="media\natural_satellites\Moons_of_solar_system_v7.jpg">
+<img width="500" height="350" src="media\photos\natural_satellites\Moons_of_solar_system_v7.jpg">
 
 In the most common sense, a natural satellite is an astronomical body that circles a planet, dwarf planet, or minor Solar System entity (or sometimes another natural satellite). Natural satellites are commonly referred to as moons, a term derived from Earth's Moon.
 
@@ -3166,7 +3518,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Natural_satellite)
 
 ### <a name="europa"></a>**Europa**
 
-<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/europa.jpg">
 
 Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
 
@@ -3191,7 +3543,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 ### <a name="europa"></a>**Europa**
 
-<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/europa.jpg">
 
 Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
 
@@ -3201,7 +3553,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 ### <a name="io"></a>**Io**
 
-<img width="500" height="350" src="media/natural_satellites/io.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/io.jpg">
 
 Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
 
@@ -3211,7 +3563,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
 
 ### <a name="phobos"></a>**Phobos**
 
-<img width="500" height="350" src="media/natural_satellites/phobos.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/phobos.jpg">
 
 Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
 
@@ -3221,7 +3573,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
 
 ### <a name="ganymede"></a>**Ganymede**
 
-<img width="500" height="350" src="media\natural_satellites\Ganymede.png">
+<img width="500" height="350" src="media\photos\natural_satellites\Ganymede.png">
 
 Ganymede, a satellite of Jupiter (Jupiter III), is the largest and most massive of the Solar System's moons. The ninth-largest object (including the Sun) of the Solar System, it is the largest without a substantial atmosphere. It has a diameter of 5,268 km (3,273 mi), making it 26 percent larger than the planet Mercury by volume, although it is only 45 percent as massive. Possessing a metallic core, it has the lowest moment of inertia factor of any solid body in the Solar System and is the only moon known to have a magnetic field. Outward from Jupiter, it is the seventh satellite and the third of the Galilean moons, the first group of objects discovered orbiting another planet. Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons Europa and Io, respectively.
 
@@ -3237,7 +3589,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
 
 ### <a name="history"></a> **History**
 
-<img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
+<img width="500" height="350" src="media/photos/spaceflight/SpaceX_Crew_Dragon.jpg">
 
 owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
@@ -3258,7 +3610,7 @@ Humans have always looked at the heavens and wondered about the nature of the ob
 
 ### <a name="major_milestones"></a> **Major Milestones**
 
-<img width="500" height="350" src="media/spaceflight/iss.webp">
+<img width="500" height="350" src="media/photos/spaceflight/iss.webp">
 
 owned by [britannica](<https://www.britannica.com/science/space-exploration>)
 
@@ -3286,7 +3638,7 @@ As the many benefits of space activity have become evident, other countries have
 
 ### <a name="betelgeuse"></a>**Betelgeuse**
 
-<img width="358" height="550" src="media/stars/Betelgeuse.jpg">
+<img width="358" height="550" src="media/photos/stars/Betelgeuse.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
 
@@ -3299,7 +3651,7 @@ Betelgeuse belongs in the constellation of Orion and is one of the largest stars
 
 ### <a name="sun"></a>**Sun**
 
-<img width="500" height="475" src="media/stars/Sun.jpeg">
+<img width="500" height="475" src="media/photos/stars/Sun.jpeg">
 
 owned by [pexels.com](https://www.pexels.com/el-gr/photo/87611/)
 
@@ -3317,7 +3669,7 @@ Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2
 
 ### <a name="polaris"></a>**Polaris**
 
-<img width="600" height="350" src="media/stars/Polaris.jpg">
+<img width="600" height="350" src="media/photos/stars/Polaris.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
 
@@ -3330,7 +3682,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 ### <a name="vega"></a>**Vega**
 
-<img width="480" height="480" src="media/stars/Vega.jpg">
+<img width="480" height="480" src="media/photos/stars/Vega.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
 
@@ -3347,17 +3699,16 @@ Vega belongs in the constellation of Lyra and it is the brightest star in it. Ve
 
 **The Star That Likes To Take A Break Every Once In A While!**
 <br>
-<img width="600" height="350" src="media\stars\vanishing_star.jpg">
+<img width="600" height="350" src="media\photos\stars\vanishing_star.jpg">
 
-<br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
-This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
+<br> This star is roughly 22.8 light years away from the Sun, in our galaxy's Scutum-Centaurus spiral arm. It's a pulsar star, which means its light pulses due to its rotation. It rotates once every 0.9 seconds, which is extremely common for pulsar stars.
 
-<br>So what's interesting about this star? Well, this star likes to disappears every once in a while!
-It was discovered in December 2008 and at first was thought to be just a regular pulsar. Over the next 1 year scientists studied this star and right before when they were about to conclude the observations, this star disappeared! The group of scientists at first thought that there's some problem with their equipment but after several tests it was concluded that the pulsar was no longer there. The star turned off!
+<br>So, what's so intriguing about this celebrity? This star, on the other hand, prefers to vanish every now and then!
+It was discovered in December 2008 and was initially mistook for a typical pulsar. Over the next year, experts researched this star, and just as they were about to wrap up their research, the star vanished!
 
-<br>We know that about 100 out of 2000 known pulsars stop pulsating but only for a few minutes to hours. This process is called "nulling". Pulsars continuously emits radio pulses and we see them by catching these radio pulses. When they stop, they stop emitting the radio pulses as well, and therefore we can't see them during this period.
+<br>We know that roughly 100 of the 2000 known pulsars stop pulsing for a few minutes to hours at a time. This is referred to as "nulling." Pulsars emit radio pulses all the time, and we view them by catching these radio pulses. They stop releasing radio pulses when they stop, therefore we won't be able to view them during this time.
 
-<br>Scientists observed this mystery star for about a year and a half in the hope that the pulsar would return and then eventually it did in August 2011, after 580 days! Scientists knew that they have found a rare subspecies of pulsar.It is still a mystery what causes these stars to go invisible. By measuring the radio pulses from the star scientists can measure how fast is it spinning. The massive currents in the magnetosphere of pulsars helps in the spinning of this star and when this current stops flowing the pulsars slows down and eventually stop. But what causes the stoppage of this current flow is not know yet.
+<br>Scientists watched this mysterious star for approximately a year and a half in the hopes that the pulsar would return, and it did in August 2011, 580 days later! Scientists were aware that they had discovered a rare pulsar subtype. What causes these stars to become invisible is still a mystery. Scientists can determine how rapidly the star is rotating by detecting the radio pulses it emits. Pulsars spin because of tremendous currents in their magnetospheres, and when these currents stop flowing, the pulsars slow down and finally stop spinning. However, the source of the present flow's interruption is unknown.
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3365,21 +3716,19 @@ It was discovered in December 2008 and at first was thought to be just a regular
 
 **Swift J1644+57: The Star That Got Eaten By A Blackhole**
 <br>
-<img width="600" height="350" src="media\stars\star_black_hole.webp">
+<img width="600" height="350" src="media\photos\stars\star_black_hole.webp">
 
 <br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
-About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
+About 3.9 billion light years away in the constellation of Draco something strange happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, in this case it's a star, Swift J1644+57.
 <br>
-The event took place in another, smaller galaxy. It was first noticed when scientist received a huge amount of X-rays and γ-rays from a previously quite part of the universe. On further observations it was found that the beam was coming from the center of another galaxy. Later on it was concluded that the beam was coming from a "jet" released after a black hole consumed a star. The jet accelerated away from the site of the event at 99.5% the light's speed!
+The event took place in another, smaller galaxy. Scientists first spotted it when they got a massive amount of X-rays and -rays from an otherwise quiet corner of the universe. The beam was discovered to be emanating from the center of another galaxy after more investigations. The beam was later determined to be the result of a "jet" emitted after a black hole devoured a star. The jet accelerated away from the incident at 99.5 percent the speed of light!
 
 <br>Most of the galaxies contains a central super-sized black hole. According to the studies it's been suggested that the black hole involved in this event is 1 millions times larger than the mass of Sun!
 
-
-<br>This is what happens when a star fall into a black hole:
+<br>When a star falls into a black hole:
 The star is ripped apart by the intense tides and leads to the formation of a gaseous disk that swirls around the black hole and gets heated up to millions of degrees. The innermost gas in the disk spirals towards the black hole, and because of the rapid motion and magnetism a dual, oppositely directed funnels are created through which some particles escape, known as jet. In case of Swift J1644+57 one of these jets pointed straight towards the Earth.
 
-<br>The timing considerations suggested that the star that got devoured was a white dwarf. This is for the first time that scientists witnessed this type of event from the beginning.
-Another interesting fact is that the site of this event is so far away that it took 3.9 billion years for the light from there to reach Earth! So, it's pretty old event in actuality!
+<br>The timing considerations believed that the star that got devoured was a white dwarf. This was the first time that scientists witnessed this type of event from the beginning. This event is in actuallity really old, because it took 3.9 billion years for the light from there to reach Earth! 
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3387,18 +3736,18 @@ Another interesting fact is that the site of this event is so far away that it t
 
 **The Star That's Older Than The Universe!**
 <br>
-<img width="600" height="350" src="media\stars\oldest_star.webp">
+<img width="600" height="350" src="media\photos\stars\oldest_star.webp">
 
-<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b> Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
+<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b>It's sounds unbelievable, but HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
 
-<br>However, the exact age of the star and the universe cannot be predicted. There are uncertainties in the value. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. I guess we'll never know which one is it (or maybe in distant future), but it's a possibility, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
+<br>Of course, the exact age of the star and the universe cannot be predicted. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which means that is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. It's difficult to be certain  which one is it, but it is possible, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
 
 <br>Facts:
-<br>This star is the oldest star known. There are other features of this star that also suggest that it's a pretty old star. First of all it's a sub-giant star, i.e. it's not a red giant, rather heading towards the red giant stage ('nearing end' stage of a star). Secondly, it belongs to population II group of stars. Population II stars have a low content of metals. Now, in astronomy "metals" is anything that's not hydrogen or helium. Hydrogen and helium are the two elements that were produced by the big bang. So first generation of the stars (population III stars) had no metal at all. The first generation survived for only a few millions of years and then ended their lives in supernova explosions. A second generation of stars, population II, were then formed from the remnant of first generation, and this generation had some degree (but still low amount) of metals in them. Population I are the younger generations stars that has high levels of metal in them. Our Sun is an example of population I stars.
+<br>This is the oldest known star. There are other characteristics of this star that point to it being quite old. For starters, it's a sub-giant star, which means it's not a red giant but is on its way to becoming one (the 'nearing end' stage of a star). Second, it is a member of the population II star group. Metal composition is low in population II stars. In astronomy, "metals" refers to anything other than hydrogen and helium. The two elements generated by the big bang are hydrogen and helium. As a result, the initial generation of stars (population III stars) contained no metal. The first generation only lived for a few million years before succumbing to supernova explosions. The remnants of the first generation were then used to generate a second generation of stars, population II, which contained some (but still insignificant) metals. Population I stars come from the younger generations and have a lot of metal in them. Our Sun is an example of a star with a population of one.
 
-<br>This star was born in a primeval dwarf galaxy and was later on gravitationally shredded and devoured by our emerging Milky Way galaxy over 12 billion years ago. It has an elongated orbit that encircles the milky way. Hence, it passes through our solar neighborhood, making it visible to naked eyes, with a speed of 800,000 miles per hour!
+<br>This star was created in a distant dwarf galaxy and was gravitationally ripped and eaten by our Milky Way approximately 12 billion years ago. It encircles the Milky Way with an extended orbit. As a result, it travels past our solar neighborhood at a speed of 800,000 miles per hour, making it visible to the naked eye!
 
-<br>Well, this is the oldest star that we know of. Who knows there are much older stars somewhere out there?
+<br>This is the oldest star that we know of. Who knows there are maybe much older stars somewhere out there!
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3406,18 +3755,18 @@ Another interesting fact is that the site of this event is so far away that it t
 
 **HV 2112: The Star Inside A Star!**
 <br>
-<img width="600" height="350" src="media\stars\star_inside_star.webp">
+<img width="600" height="350" src="media\photos\stars\star_inside_star.webp">
 
 <br> <b>4. HV 2112: The Star Inside A Star!</b>
 Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light years away in the nearby dwarf galaxy called the Small Magellanic Cloud, or Nebucula Minor, in the Tucana constellation.
 
-<br>The existence of this star was predicted about 40 years ago by physicist Kip Thorne and astronomer Anna Zytkow! In 1975 they proposed the existence of a hybrid object, known as Thorne-Zytkow object.
+<br>Physicist Kip Thorne and astronomer Anna Zytkow predicted the existence of this star almost 40 years ago. They were founded in 1975 the existence of a hybrid object, known as Thorne-Zytkow object.
 
-<br>Thorne-Zytkow object is a type of star which is formed by the collision of a red giant or supergiant star with a neutron star. Basically what happens is: a star goes into supernova and leads to the formation of a neutron star. But then a passing by red supergiant star collides with the neutron star and absorbs it forming a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
+<br>A Thorne-Zytkow object is a star that is generated when a red giant or supergiant star collides with a neutron star. What happens is that a star goes supernova, resulting in the production of a neutron star. However, a nearby red supergiant star collides with the neutron star and consumes it, resulting in the formation of a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
 
-<br>These objects differ from a normal red supergiant in their chemical fingerprints. From the outside it sure looks like a red supergiant but inside it is rich in rubidium, strontium, yttrium, zirconium, molybdenum and lithium. The light emitted from HV2112 was studied and it was found that the light was highly rich in these elements. A normal red supergiant also have these components but not in such high amount.
+<br>The chemical fingerprints of these objects differ from that of a typical red supergiant. It may appear to be a red supergiant from the exterior, but it is rich in rubidium, strontium, yttrium, zirconium, molybdenum, and lithium on the inside. The light emitted by HV2112 was investigated, and it was discovered that the light included a high concentration of certain components. These elements can be found in a regular red supergiant, but not in such large quantities.
 
-<br>This star is the only one of its kind! It is the first ever Thorne-Zytkow object to be discovered. But studies are still going on to confirm that HV 2112 is a hybrid star.
+<br>This is the one and only star of its kind! It's the first time a Thorne-Zytkow item has been found. However, research is still underway to determine whether HV 2112 is a hybrid star.
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3443,7 +3792,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 <br>
 "It is 100 percent guaranteed that humanity will be hit [by a deadly asteroid], but we are not 100 percent certain when," the B612 Foundation stated in April 2018. In his final book, Brief Answers to the Big Questions, published in 2018, scientist Stephen Hawking believed an asteroid collision to be the greatest hazard to the Earth. The US National Science and Technology Council warned in June 2018 that the country is unprepared for an asteroid impact, and has written and issued the "National Near-Earth Object Preparedness Strategy Action Plan" to help. According to expert evidence before the US Congress in 2013, NASA would need at least five years of planning before launching a mission to intercept an asteroid.
 <br><br>
-<img width="500" height="350" src="media\asteroids\asteroids.jpg">
+<img width="500" height="350" src="media\photos\asteroids\asteroids.jpg">
 
 <br>Discovery timeline:
 <br>10 by 1849
@@ -3471,7 +3820,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 
 ### <a name="ceres_asteroid"></a>**Ceres**
 <br>
-<img width="600" height="300" src="media/planets/ceres.jpg">
+<img width="600" height="300" src="media/photos/planets/ceres.jpg">
 <br>
 <b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. It was originally classed as a planet, but with the discovery of dozens of other objects in similar orbits in the 1850s, it was reclassified as an asteroid. It was classed as a dwarf planet in 2006 because, at 940 kilometers (580 miles) in diameter, it is the only asteroid large enough for its gravity to make it plastic and keep it as a spheroid.
 
@@ -3481,7 +3830,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 
 ### <a name="pallas"></a>**Pallas**
 <br>
-<img width="600" height="300" src="media\asteroids\Pallas.jpg">
+<img width="600" height="300" src="media\photos\asteroids\Pallas.jpg">
 <br>
 <b>Pallas</b> is the second asteroid discovered, following Ceres. It is thought to contain a mineral composition comparable to that of carbonaceous chondrite meteorites such as Ceres, however it is much less hydrated. It is the Solar System's third-largest asteroid in terms of both volume and mass, and it is most likely a leftover protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
 
@@ -3496,7 +3845,7 @@ Pallas' orbit is notably sharply inclined to the plane of the asteroid belt, wit
 
 ### <a name="vesta"></a>**Vesta**
 <br>
-<img width="600" height="300" src="media\asteroids\Vesta.jpg">
+<img width="600" height="300" src="media\photos\asteroids\Vesta.jpg">
 <br>
 <b>Vesta</b> ,with a mean diameter of 525 kilometers, it is one of the largest objects in the asteroid belt (326 mi).  It was discovered on March 29, 1807[8] by German astronomer Heinrich Wilhelm Matthias Olbers and named after Vesta, the Roman virgin goddess of home and hearth.
 
@@ -3511,7 +3860,7 @@ Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-ye
 
 ## <a name="overview"></a> **Overview**
 
-<img width="500" height="350" src="media/oceans/earths_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/earths_ocean.jpg">
 
 owned by [nasa.com](https://visibleearth.nasa.gov/images/73963/bathymetry)
 
@@ -3551,7 +3900,7 @@ The International Hydrographic Organization designated a new ocean, the Southern
 
 ## <a name="atlantic_ocean"></a> **Atlantic Ocean**
 
-<img width="500" height="350" src="media/oceans/atlantic_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/atlantic_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Atlantic-Ocean)
 
@@ -3573,7 +3922,7 @@ The Coriolis effect circulates North Atlantic water in a clockwise direction, wh
 
 ## <a name="arctic_ocean"></a> **Arctic Ocean**
 
-<img width="500" height="350" src="media/oceans/arctic_ocean.gif">
+<img width="500" height="350" src="media/photos/oceans/arctic_ocean.gif">
 
 owned by [britannica.com](https://www.britannica.com/place/Arctic-Ocean)
 
@@ -3604,7 +3953,7 @@ Endangered marine species in the Arctic Ocean include walruses and whales. The a
 
 ## <a name="indian_ocean"></a> **Indian Ocean**
 
-<img width="500" height="350" src="media/oceans/indian_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/indian_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Indian-Ocean)
 
@@ -3629,7 +3978,7 @@ As the youngest of the major oceans, the Indian Ocean has active spreading ridge
 
 ## <a name="pacific_ocean"></a> **Pacific Ocean**
 
-<img width="500" height="350" src="media/oceans/pacific_ocean.webp">
+<img width="500" height="350" src="media/photos/oceans/pacific_ocean.webp">
 
 owned by [britannica.com](https://www.britannica.com/place/Pacific-Ocean)
 
@@ -3650,7 +3999,7 @@ The climate patterns of the Northern and Southern Hemispheres generally mirror e
 
 ## <a name="southern_ocean"></a> **Southern Ocean**
 
-<img width="500" height="350" src="media/oceans/southern_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/southern_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Southern-Ocean)
 
@@ -3683,7 +4032,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
 Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy.
 
-<img width="750" height="300" src="media/extraterrestrial_life/Drake_equation.jpg">
+<img width="750" height="300" src="media/photos/extraterrestrial_life/Drake_equation.jpg">
 
 owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
@@ -3695,7 +4044,7 @@ Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https:
 
 The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964.The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV through VI) and the use of metrics other than pure power.Carl Sagan’s modified Kardashev scale, which allows for continuous values, put humanity at a meagre 0.7. Some predict that our total power consumption could hit Type I levels on Sagan’s scale in around 200 years, but we are still incredibly far from realising Type II or III status.
 
-<img width="800" height="309" src="media/extraterrestrial_life/Kardashev_scale.png">
+<img width="800" height="309" src="media/photos/extraterrestrial_life/Kardashev_scale.png">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
 
@@ -3707,7 +4056,7 @@ Type II civilizations (Stellar civilizations), are capable to use their whole st
 
 Type III civilizations (Galactic civilizations), are those who have harnessed the energy of its entire Galaxy and possibly colonized it.
 
-<img width="800" height="450" src="media/extraterrestrial_life/Dyson.png">
+<img width="800" height="450" src="media/photos/extraterrestrial_life/Dyson.png">
 3D rendering of a Dyson sphere utilizing large, orbiting panels.
 <br> owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:A_Dyson_Swarm_Superstructure_(21983905140).png)
 
@@ -3745,31 +4094,31 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ### <a name="quote_1"></a>**Quote 1.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_1.png">
 
 - Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
 
 ### <a name="quote_2"></a>**Quote 2.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_2.png">
 
 - Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
 
 ### <a name="quote_3"></a>**Quote 3.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_3.png">
 
 - Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
 
 ### <a name="quote_4"></a>**Quote 4.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_4.png">
 
 - Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
 
 ### <a name="quote_5"></a>**Quote 5.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_5.png">
 
 - Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
 
@@ -3783,7 +4132,7 @@ The zodiac is divided into twelve signs in Western astrology, and formerly astro
 
 These astrological signs make up a celestial coordinate system, or more specifically, an ecliptic coordinate system, in which the ecliptic serves as the origin of latitude and the vernal equinox serves as the origin of longitude. 
 
-<img width="500" height="350" src="media\zodiac\Zodiac_Constellations.jpg">
+<img width="500" height="350" src="media\photos\zodiac\Zodiac_Constellations.jpg">
 
 <br>
 
@@ -3823,37 +4172,37 @@ These are some excamples of what they offer to their users.
 
 ### <a name="meme_1"></a>**Meme 1.**
 
-<img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
+<img width="350" height="350" src="media\photos\memes\constellation-pattern-meme.jpg">
 
 <br>
 
 ### <a name="meme_2"></a>**Meme 2.**
 
-<img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
+<img width="350" height="350" src="media\photos\memes\earth-sun-meme.jpeg">
 
 <br>
 
 ### <a name="meme_3"></a>**Meme 3.**
 
-<img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
+<img width="350" height="350" src="media\photos\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
 <br>
 
 ### <a name="meme_4"></a>**Meme 4.**
 
-<img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
+<img width="350" height="350" src="media\photos\memes\pluto_cold_heart_meme.jpg">
 
 <br>
 
 ### <a name="meme_5"></a>**Meme 5.**
 
-<img width="350" height="350" src="media\memes\new_telescope_meme.jpg">
+<img width="350" height="350" src="media\photos\memes\new_telescope_meme.jpg">
 
 <br>
 
 ### <a name="meme_6"></a>**Meme 6.**
 
-<img width="350" height="350" src="media\memes\infinite_things.jpg">
+<img width="350" height="350" src="media\photos\memes\infinite_things.jpg">
 
 <br>
 
@@ -3869,7 +4218,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
+<img width="500" height="350" src="media\photos\books\A_Brief_History_Of_Time.webp">
 <br>Author: Stephen Hawking, 
 Publisher: Bantam (1988)
 <br>
@@ -3890,7 +4239,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
+<img width="500" height="350" src="media\photos\books\The_Human_Cosmos.webp">
 <br>Author: Jo Marchant, 
 Publisher: Canongate Books (2020)
 <br>
@@ -3909,7 +4258,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Constellations.webp">
+<img width="500" height="350" src="media\photos\books\Constellations.webp">
 <br>Author: Govert Schilling, 
 Cartographer: Wil Tirion, 
 Publisher: Black Dog & Leventhal (2019)
@@ -3929,7 +4278,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Cosmos.webp">
+<img width="500" height="350" src="media\photos\books\Cosmos.webp">
 <br>Author: Carl Sagan, 
 Publisher: Random House (1980)
 <br>
@@ -3948,7 +4297,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Missions_To_Mars.webp">
+<img width="500" height="350" src="media\photos\books\Missions_To_Mars.webp">
 <br>Author: Larry S. Crumpler, 
 Publisher: Harper Design (2021)
 <br>
@@ -3967,7 +4316,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Stars_and_planets.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Stars_and_planets.jpg.webp">
 <br>Authors: Ian Ridpath and Wil Tirion,
 Publisher: Princeton University Press (2017)
 <br>
@@ -3986,7 +4335,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Sun_moon_earth.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Sun_moon_earth.jpg.webp">
 <br>Author: Tyler Nordgren,
 Publisher: Basic Books (2016)
 <br>
@@ -4005,7 +4354,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Mysteries_of_the_universe.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Mysteries_of_the_universe.jpg.webp">
 <br>Author: Will Gater,
 Publisher: DK Children (2020)
 <br>
@@ -4020,31 +4369,51 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 ---
 
+### <a name="book_9"></a>**The Science of Interstellar**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\photos\books\Interstellar.jpeg.webp">
+<br>Author: Kip Thorne,
+Publisher: Norton & Company 
+<br>
+
+**Description**
+
+Interstellar, the time-bending sci-fi epic directed by Christopher Nolan, was one of the most ambitious films of the decade, and now Kip Thorne delves into the physics behind the blockbuster Hollywood masterpiece. Thorne is a Nobel Prize-winning physicist who worked on the scientific components of Interstellar with Nolan, which explains why it's one of the five most realistic space films ever made. This book describes how the film's mind-blowing events and breathtaking graphics are based on real-life science.
+
+
+Thorne's observations are based on his screenwriting and filming experiences, and they describe the physical rules that control our universe and the things that surround it. You'll be enthralled as the author recounts his personal experiences as Nolan's science consultant while also delving into the underlying science. The chapters focus on specific topics such as wormholes, black holes, interstellar travel, and more.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
-<img width="500" height="350" src="media\movies\midnightsky.jpg">
+<img width="500" height="350" src="media\photos\movies\midnightsky.jpg">
 A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
-<img width="500" height="350" src="media\movies\gravity.jpg">
+<img width="500" height="350" src="media\photos\movies\gravity.jpg">
 Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
-<img width="500" height="350" src="media/movies/interstellar.jpg">
+<img width="500" height="350" src="media/photos/movies/interstellar.jpg">
 In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
-<img width="500" height="350" src="media/movies/europa_report.jpg">
+<img width="500" height="350" src="media/photos/movies/europa_report.jpg">
 A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
-<img width="500" height="350" src="media/movies/apollo13.jpg">
+<img width="500" height="350" src="media/photos/movies/apollo13.jpg">
 The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ---
@@ -4057,7 +4426,7 @@ Cosmos is a collection of three science documentary television series presented 
 
 ### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
-<img width="500" height="350" src="media\series\cosmos1.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos1.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
 
 Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.
@@ -4072,7 +4441,7 @@ source [imdb](https://www.imdb.com/title/tt0081846/)
 
 ### <a name="cosmos_2"></a>\*Cosmos: A Spacetime Odyssey (2014)\*\*
 
-<img width="500" height="350" src="media\series\cosmos2.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos2.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
 
@@ -4090,7 +4459,7 @@ source [imdb](https://www.imdb.com/title/tt2395695/)
 
 ### <a name="cosmos_3"></a>\*Cosmos: Possible Worlds (2020)\*\*
 
-<img width="500" height="350" src="media\series\cosmos3.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos3.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
 
@@ -4110,9 +4479,9 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 
 
-### <a name="#song1"></a>**Rocket Man**
+### <a name="song1"></a>**Rocket Man**
 
-<img width="500" height="350" src="media/songs/song1.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song1.jpeg"/>
 
 Artist: Elton John
 
@@ -4121,9 +4490,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
 
-### <a name="#song2"></a>**Space Oddity**
+### <a name="song2"></a>**Space Oddity**
 
-<img width="500" height="350" src="media/songs/song2.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song2.jpeg"/>
 
 Artist: David Bowie
 
@@ -4132,9 +4501,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
-### <a name="#song3"></a>**Fly Me To The Moon**
+### <a name="song3"></a>**Fly Me To The Moon**
 
-<img width="500" height="350" src="media/songs/song3.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song3.jpeg"/>
 
 Artist: Frank Sinatra
 
@@ -4142,9 +4511,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
 
-### <a name="#song4"></a>**Man On The Moon**
+### <a name="song4"></a>**Man On The Moon**
 
-<img width="500" height="350" src="media/songs/song4.jpg"/>
+<img width="500" height="350" src="media/photos/songs/song4.jpg"/>
 
 Artist: R.E.M.
 
@@ -4152,9 +4521,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 
 
-### <a name="#song5"></a>**Across The Universe**
+### <a name="song5"></a>**Across The Universe**
 
-<img width="500" height="350" src="media/songs/song5.jpg"/>
+<img width="500" height="350" src="media/photos/songs/song5.jpg"/>
 
 Artist: The Beatles
 
@@ -4163,13 +4532,40 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
-### <a name="#song6"></a>**Here Comes The Sun**
+### <a name="song6"></a>**Here Comes The Sun**
 
-<img width="500" height="350" src="media/songs/song6.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song6.jpeg"/>
 
 Artist: The Beatles
 
 image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
+
+
+
+
+### <a name="song7"></a>**Spaceman**
+
+<img width="500" height="350" src="media/photos/songs/song7.jpg"/>
+
+Artist: The Killers
+
+Album: Day & Age
+
+image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
+
+
+
+### <a name="song8"></a>**Starlight**
+
+<img width="300" height="300" src="media/photos/songs/song8.jpg"/>
+
+Arist: Muse
+
+Album: Black Holes And Revelations
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
+
 
 ---
 
@@ -4177,7 +4573,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
 ### <a name="Gandhi"></a>**Mahatma Gandhi**
 
-<img width="300" height="300" src="media/personalities/Gandhi.jpg">
+<img width="300" height="300" src="media/photos/personalities/Gandhi.jpg">
 
 
 Mohandas Karamchand Gandhi (October 2, 1869 - January 30, 1948), also known as Gandhi, was an Indian lawyer, anti-colonial nationalist, and political ethicist who led the successful campaign for India's independence from British rule through nonviolent resistance and later inspired movements for civil rights and freedom around the world. The honorary title Mahātmā, first applied to him in South Africa in 1914, is now used throughout the world. As such, he was considered the father of his country. Gandhi is internationally respected for his doctrine of nonviolent protest (satyagraha) to achieve political and social progress.
@@ -4188,13 +4584,13 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 ### <a name="Margaret_Hamilton"></a>**Margaret Hamilton**
 
-<img width="300" height="300" src="media/personalities/margaret_hamilton.jpg">
+<img width="300" height="300" src="media/photos/personalities/margaret_hamilton.jpg">
 
-Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. At first, she was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which focused on the development of on-board flight software for NASA's Apollo program. She later became founder of Higher Order Software (1976) and Hamilton Technologies (1986), both located in Cambridge, Massachusetts. 
 
-Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+Hamilton is respnsible for publishing  more than 130 papers, proceedings, and reports, icluding sixty projects and six major programs. She is one of the first people who used the term "software engineering", which is also the topic of our course!
 
-On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+Margaret Hamilton received the Presidential Medal of Freedom from the president of America at the time, Barack Obama, for her contribution to the development of on-board flight software for NASA's Apollo Moon missions, on November 22, 2016. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
@@ -4202,7 +4598,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 
 ### <a name="Mandela"></a>**Nelson Mandela**
 
-<img width="300" height="300" src="media/personalities/Mandela.jpg">
+<img width="300" height="300" src="media/photos/personalities/Mandela.jpg">
 
 Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
 
@@ -4213,7 +4609,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 ### <a name="Luther_King"></a>**Martin Luther King**
 
-<img width="300" height="300" src="media/personalities/Martin_Luther_King_Jr.jpg">
+<img width="300" height="300" src="media/photos/personalities/Martin_Luther_King_Jr.jpg">
 
 Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
 
@@ -4223,7 +4619,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ### <a name="Einstein"></a>**Albert Einstein**
 
-<img width="300" height="300" src="media/personalities/Einstein.jpg">
+<img width="300" height="300" src="media/photos/personalities/Einstein.jpg">
 
 Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
 
@@ -4233,7 +4629,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ### <a name="Stephen_Hawking"></a>**Stephen Hawking**
 
-<img width="300" height="300" src="media/personalities/Stephen_Hawking.jpg">
+<img width="300" height="300" src="media/photos/personalities/Stephen_Hawking.jpg">
 
 Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
 
@@ -4243,7 +4639,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 ### <a name="Neil_Armstrong"></a>**Neil Armstrong**
 
-<img width="300" height="300" src="media/personalities/Neil_Armstrong.jpg">
+<img width="300" height="300" src="media/photos/personalities/Neil_Armstrong.jpg">
 
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
@@ -4253,7 +4649,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 ### <a name="Alan_Turing"></a>**Alan Turing**
 
-<img width="300" height="300" src="media/personalities/alan_turing.jpg">
+<img width="300" height="300" src="media/photos/personalities/alan_turing.jpg">
 
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
@@ -4263,7 +4659,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 ### <a name="Beethoven"></a>**Ludwig van Beethoven**
 
-<img width="300" height="300" src="media/personalities/Beethoven.jpg">
+<img width="300" height="300" src="media/photos/personalities/Beethoven.jpg">
 
 Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
 
@@ -4281,10 +4677,20 @@ source [history,](https://www.history.com/topics/british-history/margaret-thatch
 
 ---
 
+### <a name="Musk"></a>**Elon Musk**
+
+<img width="300" height="300" src="media/photos/personalities/ELON_MUSK.jpg">
+
+Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. He is the co-founder of Neuralink and OpenAI, as well as the founder, CEO, and Chief Engineer of SpaceX. He is also the CEO and Product Architect of Tesla, Inc., as well as the founder, CEO, and Chief Engineer of SpaceX. According to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list, Musk is the world's wealthiest individual, with an estimated net worth of roughly US$270 billion as of March 2022.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
+
+---
+
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=HCDVN7DCzYE
-" target="_blank"><img src="media\image_hyperlinks\Earth_National_Geographic.jpg" 
+" target="_blank"><img src="media\photos\image_hyperlinks\Earth_National_Geographic.jpg" 
 alt="Earth Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -4293,7 +4699,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 
  ### <a name="Mars101"></a>**Mars 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
-" target="_blank"><img src="media\image_hyperlinks\Mars_National_Geographic.jpg" 
+" target="_blank"><img src="media\photos\image_hyperlinks\Mars_National_Geographic.jpg" 
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
@@ -4301,7 +4707,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 ---
 
  ### <a name="universe_size"></a>**Universe Size Comparison**
-  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\image_hyperlinks\Universe_size.jpg" 
+  <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\photos\image_hyperlinks\Universe_size.jpg" 
 alt="Universe Image" width="240" height="180"/></a>
 
 Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
@@ -4311,50 +4717,50 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 ## <a name="astrophotography"></a> **Astrophotography**
 
 ### <a name="pillars_of_creation"></a> **Pillars of Creation**
-![Pillars of Creation image](media/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
+![Pillars of Creation image](media/photos/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
 
-**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his sermon "The Condescension of Christ"
+**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his work "The Condescension of Christ"
 
-The photo was taken on April 1, 1995 and it was named as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph were were Jeff Hester and Paul Scowen. The region was rephotographed by ESA's Herschel Space Observatory in 2011, and again by Hubble in 2014 with a newer camera. The photo depicted above is the 2014 version of the photograph. 
+The photo was taken on April 1, 1995 and it was declared as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph's capture were Jeff Hester and Paul Scowen. The same region of the Eagle Nebula was rephotographed by **ESA's Herschel Space Observatory in 2011** and by the **Hubble Telescope in 2014** with a newer camera. The photo depicted above is the 2014 version of the photograph.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
 ---
 
 ### <a name="hxdf"></a> **Hubble eXtreme Deep Field**
-![Hubble eXtreme Deep Field image](media/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
+![Hubble eXtreme Deep Field image](media/photos/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
  
 >The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
 
-**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total of two million seconds (about 23 days) of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
+**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total about 23 days of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
 
-**The HXDF** contains about 5,500 galaxies, the oldest of which are seen as they were 13.2 billion years ago. The faintest galaxies are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remnants of galaxies after major collisions during their elderly years. Many of the smaller galaxies in the image are very young galaxies that eventually developed into major galaxies, similar to the Milky Way and other galaxies in our galactic neighborhood.
+**The HXDF** contains about 5,500 galaxies, the oldest ones that are seen, **are in the state they were 13.2 billion years ago**. The galaxies that are dimmer, are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remainings of galaxies after big collisions during their oldest years. Many of the smaller galaxies in the image are very young, and eventually have developed to bigger galaxies.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 
 ---
 
 ### <a name="the_blue_marble"></a> **The Blue Marble**
-![The Blue Marble image](media/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
+![The Blue Marble image](media/photos/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
 
-**The Blue Marble** is an image of Earth taken on December 7, 1972, from a distance of about 29,000 kilometers (18,000 miles) from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
+**The Blue Marble** is an image of Earth taken on December 7, 1972, about 29,000 kilometers from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
 
-It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is clearly visible. The Asian mainland is on the horizon.The picture was curated by chromatic editing and cropping due to the height of geostationary satellites being insufficient.
+It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo's path made it possible to photograph the south polar ice cap. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is  visible in the photograph. The Asian mainland is on the horizon.
 
-The photograph, taken on **December 7, 1972**, is one of the most widely distributed photographic images in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the slightly gibbous Earth had the appearance and size of a glass marble, hence the name.
+The photograph, taken on **December 7, 1972**, is one of the most famous and distributed photographs in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the Earth had the appearance and size of a glass marble, that's why the photograph was called The Blue Marble.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
 ---
 
 ### <a name="pale_blue_dot"></a> **Pale Blue Dot**
-![Pale Blue Dot image](media/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
+![Pale Blue Dot image](media/photos/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
 
-**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a record distance of about 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System
+**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a of about 6 billion kilometers. In the photograph, the Earth is depicted in almost one pixel. 
 
-In the photograph, Earth's apparent size is less than a pixel. The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera.
+>"The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera."
 
-Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
+Voyager 1 had completed its primary goal and was leaving our Solar System. It was commanded by NASA to turn its camera and take one last photograph of Earth, the request came from the astronomer Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
@@ -4363,20 +4769,20 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 ### <a name="#black_hole_image"></a> **The First Image Of A Black Hole**
 
 #### 2019 Image
-![Black Hole image](media/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
+![Black Hole image](media/photos/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
 
-**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic feat by an international network of radio telescopes called the Event Horizon Telescope (EHT). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
+**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic achievement by an global network of radio telescopes called the **Event Horizon Telescope (EHT)**.
 
-A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed, never to re-emerge, because of the black hole’s unimaginably strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
+A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed and will never be able to escape, because of the black hole’s immensely strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
 
-This stunning image shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy some 55 million light-years from Earth. This black hole is 6.5 billion times the mass of the Sun. *Catching its shadow involved eight ground-based radio telescopes around the globe, operating together as if they were one telescope the size of our entire planet.* 
+This breathtaking photograph shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy 55 million light-years away from Earth. This black hole is 6.5 billion times the mass of the Sun.
 
 Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
 
 #### 2021 Image
-![Black Hole image](media/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
+![Black Hole image](media/photos/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
 
-**In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
+**In March 24, 2021**, the Event Horizon Telescope released a new photograph showing polarized light from this black hole. The polarization of the light gives astronomers, **for the first time**, a representation of a black hole’s magnetic field.
 
 Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic-field/)
 
@@ -4407,7 +4813,7 @@ owned by [topendsports](https://www.topendsports.com/world/lists/popular-sport/f
 
 ### <a name="Football"></a>**Football**
 
-<img width="500" height="350" src="media/Sports/Football.jpg">
+<img width="500" height="350" src="media/photos/Sports/Football.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w960-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
@@ -4420,51 +4826,9 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ---
 
-### <a name="Volleyball"></a>**Volleyball**
-
-<img width="500" height="350" src="media/Sports/Volleyball.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
-
-**Description**
-
-Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
-### <a name="Basketball"></a>**Basketball**
-
-<img width="500" height="350" src="media/Sports/Basketball.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
-
-**Description**
-
-Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
-### <a name="Tennis"></a>**Tennis**
-
-<img width="500" height="350" src="media/Sports/Tennis.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/89/8f/a1/shutterstock-555305914.jpg)
-
-**Description**
-
-An estimated one billion people worldwide follow tennis, tuning in from around the world. In tennis, players on both sides of an elongated net try to hit a ball with a racket so that it either goes past their opponents or bounces on their opponents’ side twice to score points. Pro tennis players, like Roger Federer and Serena Williams, are now household names around the world.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
 ### <a name="Cricket"></a>**Cricket**
 
-<img width="500" height="350" src="media/Sports/Cricket.jpg">
+<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
 
@@ -4476,15 +4840,30 @@ Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and
 
 ---
 
-### <a name="Hockey"></a>**Hockey**
+### <a name="Tennis"></a>**Tennis**
 
-<img width="500" height="350" src="media/Sports/Hockey.jpg">
+<img width="500" height="350" src="media/photos/Sports/Tennis.jpg">
 
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/89/8f/a1/shutterstock-555305914.jpg)
 
 **Description**
 
-Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+An estimated one billion people worldwide follow tennis, tuning in from around the world. In tennis, players on both sides of an elongated net try to hit a ball with a racket so that it either goes past their opponents or bounces on their opponents’ side twice to score points. Pro tennis players, like Roger Federer and Serena Williams, are now household names around the world.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+---
+
+### <a name="Volleyball"></a>**Volleyball**
+
+<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
+
+**Description**
+
+Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
@@ -4492,7 +4871,7 @@ Hockey, both on ice and in a field, boasts a following of two billion people. Fi
 
 ### <a name="Baseball"></a>**Baseball**
 
-<img width="500" height="350" src="media/Sports/Baseball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Baseball.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/a2/ae/4b/shutterstock-557405302.jpg)
 
@@ -4504,23 +4883,9 @@ America’s national pastime is thought to have descended from the English sport
 
 ---
 
-### <a name="Rugby"></a>**Rugby**
-
-<img width="500" height="350" src="media/Sports/Rugby.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/e4/60/52/shutterstock-177161780.jpg)
-
-**Description**
-
-Rugby has an estimated following of 475 million people. The sport originated in England and is now most popular in the UK and other Commonwealth countries like Australia and New Zealand. In rugby, two teams try to kick, carry, or pass a ball over an end (goal) line to score points. Rugby is a contact sport involving a lot of tackling, similar to American football. But whereas American football players wear a lot of padding and hard helmets to protect themselves, rugby players wear very little protection.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
 ### <a name="Golf"></a>**Golf**
 
-<img width="500" height="350" src="media/Sports/Golf.jpg">
+<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
 
 owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
 
@@ -4530,11 +4895,72 @@ An estimated 450 million people are fans of the game that involves trying to put
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
+
+---
+
+### <a name="Basketball"></a>**Basketball**
+
+<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+
+**Description**
+
+Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+
+### <a name="American_Football"></a>**American Football**
+
+<img width="300" height="450" src="media/photos/Sports/American_Football.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
+
+**Description**
+
+American football, referred to simply as football in the United States and Canada, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/American_football)
+
+---
+
+### <a name="Hockey"></a>**Hockey**
+
+<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+
+**Description**
+
+Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+
+---
+
+### <a name="Rugby"></a>**Rugby**
+
+<img width="500" height="350" src="media/photos/Sports/Rugby.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/e4/60/52/shutterstock-177161780.jpg)
+
+**Description**
+
+Rugby has an estimated following of 475 million people. The sport originated in England and is now most popular in the UK and other Commonwealth countries like Australia and New Zealand. In rugby, two teams try to kick, carry, or pass a ball over an end (goal) line to score points. Rugby is a contact sport involving a lot of tackling, similar to American football. But whereas American football players wear a lot of padding and hard helmets to protect themselves, rugby players wear very little protection.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
 ---
 
 ### <a name="Handball"></a>**Handball**
 
-<img width="500" height="350" src="media/Sports/Handball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Handball.jpg">
 
 owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-the-top-ten-olympic-sports-to-watch)
 
@@ -4549,10 +4975,20 @@ Handball (also known as team handball, European handball or Olympic handball) is
 ## <a name="mountains"></a> **_Mountains_**
 
 ---
+### <a name="Highest_Mountains"></a>**Top 4 highest Mountains**
 
+|      **Mountain**    |    **Height (m)**    |      **Country**     |
+| :------------------: | :------------------: | :------------------: |
+|   Mountain Everest   |        8.848         |     Nepal, China     |
+|         K2           |        8.611         |    Pakistan, China   |
+|    Kangchenjunga     |        8.586         |    Nepal, India      |
+|       Lhotse         |        8.516         |    Nepal, China      |
+
+
+---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
-<img width="550" height="299" src="media/mountains/Everest.jpg">
+<img width="550" height="299" src="media/photos/mountains/Everest.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
 
@@ -4566,7 +5002,7 @@ Mount Everest (also known as Chomolungma) is the highest mountain in the world w
 
 ### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
 
-<img width="550" height="299" src="media/mountains/Kilimanjaro.jpg">
+<img width="550" height="299" src="media/photos/mountains/Kilimanjaro.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
@@ -4580,7 +5016,7 @@ Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, 
 
 ### <a name="Swiss_Alps"></a>**_Swiss Alps_**
 
-<img width="550" height="299" src="media/mountains/Swiss_Alps.jpg">
+<img width="550" height="299" src="media/photos/mountains/Swiss_Alps.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
 
@@ -4594,7 +5030,7 @@ The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweize
 
 ### <a name="kangchenjunga"></a>**Kangchenjunga**
 
-<img width="550" height="299" src="media\mountains\Kangchenjunga,_India.jpg">
+<img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
 
 owened by [wikipedia.com](https://en.wikipedia.org/wiki/Kangchenjunga)
 
@@ -4640,7 +5076,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [bri
 
 ### <a name="chichen_itza"></a>**Chichen Itza**
 
-<img width="640" height="425" src="media/wonders/itza.jpg">
+<img width="640" height="425" src="media/photos/wonders/itza.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
 
@@ -4652,7 +5088,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](htt
 
 ### <a name="christ"></a>**Christ the Redeemer**
 
-<img width="512" height="768" src="media/wonders/christ.jpg">
+<img width="512" height="768" src="media/photos/wonders/christ.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
 
@@ -4664,7 +5100,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), 
 
 ### <a name="colosseum_rome"></a>**Colosseum**
 
-<img width="640" height="448" src="media/wonders/colosseum.jpg">
+<img width="640" height="448" src="media/photos/wonders/colosseum.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
@@ -4676,7 +5112,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
 ### <a name="china_wall"></a>**Great Wall of China**
 
-<img width="640" height="425" src="media/wonders/china_wall.jpg">
+<img width="640" height="425" src="media/photos/wonders/china_wall.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)
 
@@ -4690,7 +5126,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britanni
 
 ### <a name="machu_picchu"></a>**Machu Picchu**
 
-<img width="640" height="427" src="media/wonders/machu_picchu.jpg">
+<img width="640" height="427" src="media/photos/wonders/machu_picchu.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
 
@@ -4704,7 +5140,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](htt
 
 ### <a name="petra_city"></a>**Petra**
 
-<img width="640" height="425" src="media/wonders/petra.jpg">
+<img width="640" height="425" src="media/photos/wonders/petra.jpg">
 
 owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
@@ -4716,7 +5152,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://ww
 
 ### <a name="taj_mahal"></a>**Taj Mahal**
 
-<img width="800" height="553" src="media/wonders/taj_mahal.jpg">
+<img width="800" height="553" src="media/photos/wonders/taj_mahal.jpg">
 
 owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
 
@@ -4724,3 +5160,117 @@ The Taj Mahal is a mausoleum complex in Agra, India. Occupying 17 hectares of ar
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
 
+---
+
+## <a name="facts"></a> **Facts about Space**
+---
+### <a name="fact1"></a>**1. SPACE IS COMPLETELY SILENT**
+
+There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. 
+
+### <a name="fact2"></a>**2. THE HOTTEST PLANET IN OUR SOLAR SYSTEM IS 450° C.**
+
+Venus is the hottest planet in the solar system and has an average surface temperature of around 450° C. Did you know that Venus isn't the closest planet to the sun?  That is Mercury.  You would think that Mercury would then be the hottest, but Mercury has no atmosphere (which regulates temperature), resulting in big fluctuations. 
+
+### <a name="fact3"></a>**3. A FULL NASA SPACE SUIT COSTS $12,000,000.**
+
+While the entire suit costs a cool $12m, 70% of that cost is for the backpack and control module. However, the space suits that NASA uses were built in 1974.  If these were priced by today's pricing, they would cost an estimated 150 million dollars!
+
+### <a name="fact4"></a>**4. THE SUN’S MASS TAKES UP 99.86% OF THE SOLAR SYSTEM.**
+
+The Sun accounts for 99.86% of the mass in our solar system with a mass of around 330,000 times that of Earth. Did you know that the Sun is made up of mostly hydrogen (three quarters worth) with the rest of its mass attributed to helium.  If the Sun had a voice would it be high and squeaky from all that helium?
+
+### <a name="fact5"></a>**5.  ONE MILLION EARTHS CAN FIT INSIDE THE SUN**
+
+The Sun is large enough that approximately 1.3 million Earths could fit inside (if squashed in) or if the Earths retained their spherical shape then 960,000 would fit. But can you visualise that number of Earths? 
+
+### <a name="fact6"></a>**6. THERE ARE MORE TREES ON EARTH THAN STARS IN THE MILKY WAY**
+
+There are about three trillion trees on Planet Earth, and between 100-400 billion stars, approximately, in the galaxy.
+
+### <a name="fact7"></a>**7. THE SUNSET ON MARS APPEARS BLUE**
+
+Just as colors are made more dramatic in sunsets on Earth, sunsets on Mars, according to NASA,  would appear bluish to human observers watching from the red planet. Fine dust makes the blue near the Sun's part of the sky much more visibilke, while normal daylight makes the Red Planet's familiar rusty dust color the most perceptible to the human eye.
+
+### <a name="fact8"></a>**8. THERE ARE MORE STARS IN THE UNIVERSE THAN GRAINS OF SANDS ON EARTH**
+
+The universe extends far beyond our own galaxy, The Milky Way, which is why scientists can only estimate how many stars are in space.  However, scientists estimate the universe contains approximately 1,000,000,000,000,000,000,000,000 stars, or a septillion.   While no one can actually count every single grain of sand on the earth, the estimated total from researchers at the University of Hawaii, is somewhere around seven quintillion, five hundred quadrillion grains.  That is an awfully big sand castle!
+
+### <a name="fact9"></a>**9. ONE DAY ON VENUS IS LONGER THAN ONE YEAR.**
+
+Venus has a slow axis rotation which takes 243 Earth days to complete its day. The orbit of Venus around the Sun is 225 Earth days, making a year on Venus 18 days less than a day on Venus.
+
+### <a name="fact10"></a>**10. THERE IS A PLANET MADE OF DIAMONDS**
+
+There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
+
+---
+
+## <a name="arts"></a> **Fine Arts**
+
+---
+### <a name="architecture"></a>**Architecture**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/Palace-of-Versailles-France.webp" alt="Palace of Versailles France">
+
+Palace of Versailles France: An example of classic architecture, 
+owned by [britannica](https://www.britannica.com/topic/architecture)
+
+Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
+
+Source [britannica](https://www.britannica.com/topic/architecture)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+
+---
+### <a name="painting"></a>**Painting**  
+<br>
+
+<img width="640" height="425" src="" alt="Leonardo Da Vinci, Mona Lisa">
+
+Leonardo Da Vinci, Mona Lisa: An example of painting,
+owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
+
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+
+---
+---
+
+
+## <a name="religions"></a> **Religions**
+### <a name="christ"></a>**Christianity**  
+  Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
+
+  ### <a name="Buddhis"></a>**Buddhism**
+
+  Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
+
+
+  ### <a name="Atheism"></a>**Atheism/Agnosticism**
+
+  Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
+
+   source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
+
+   ### <a name="Taoism"></a>**Taoism**
+
+  The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
+
+  ---
+
+  ### <a name="Islam"></a>**Islam**
+
+  Islam began in Arabia and was revealed to humanity by the Prophet Muhammad. Those who follow Islam are called Muslims. Muslims believe that there is only one God. The Arabic word for God is Allah. Retaining its emphasis on an uncompromising monotheism and a strict adherence to certain essential religious practices, the religion taught by Muhammad to a small group of followers spread rapidly through the Middle East to Africa, Europe, the Indian subcontinent, the Malay Peninsula, and China. By the early 21st century there were more than 1.5 billion Muslims worldwide. 
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Islam)
+
+
+---
