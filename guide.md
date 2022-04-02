@@ -994,6 +994,48 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Argentina)
 
+
+
+###Most Attractive Tourist Attractions in Argentina
+Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
+
+The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
+In the capital of Argentina you can go shopping, see football, watch soccer or get in touch with Latin culture. 
+
+* Iguazu Falls
+One of the biggest attractions in Argentina annd in whole Latin America is the Iguazu Falls, which is close to Brazil and Argentina.
+
+
+* Perito Moreno Glacier
+Perito Moreno Glacier is the most re-knowned glacier located in the Glacier National Park or other called Los Glaciares. 
+This is one in the whole world. Among all glaciers in antarctica this is the most significant one that actually are easily approachable.
+
+
+* Bariloche is a city which is inside mountains, having a Swiss-like atmosphere and the chocolate shops. It's a great places with outdoor activities like skiing, hiking, sightseeing, water sports, clinging, trekking and more.
+
+* Caminito, La Boca
+The market site of Buenos Aires is called La Boca. It is popular between the tourists because of the colorful houses and the most entertaining street, Caminito, where street artists performs tango and tango-related memorabilia is sold.
+
+* Valdes Peninsula
+This is a nature reserve where you can find unique flora and fauna. The most common inhabitants of the coastline are the sea lions, elephant seals and penguins. Between May and December you can also see whales in the Valdes Peninsula. This place is located almost 900 miles away (distance calculator: distances-from.com ) from the capital of Argentina, Buenos Aires.
+
+* Beagle Channel
+Beagle Channel is a part between the southest part of Argentina and south islands of Chile. This strait extends to 240 km and its width is about 5 km.
+
+* Monte Fitz Roy
+Monte Fitz Roy is a imposing mountain . It has unique characteristics and is a great way to spend your time if you are a tourist but also a good opportunity for some breath taking photographs.
+
+* Mendoza
+Mendoza is a also one of the great attractions in Argentina because of the unique landscapes and the purpose. It is a region that is the leading in the winemaking of Argentina. The beautiful and wide wine fields are a great attraction for visitors beside the wine testing and the unique tastes.
+
+* Ushuaia
+This city is located in south . It includes a magnificent natural beauty, it is on the Beagle Channel and it is a good place for some hiking, skiing or even cruises to antartica
+
+* The Iberá Wetlands
+The Iberá Wetlands are a mangificent landscape, it is second in the list of largest wetlands in the world. There, visitors. could enjoy the fauna and flora , as it is home to many species, offering a reminder of nature's majesty.
+
+Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive-tourist-attractions-in-argentina/)
+
 ---
 
 ### <a name="armenia"></a>**Armenia**
