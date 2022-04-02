@@ -3260,7 +3260,11 @@ A planet must be small (and thus rocky) and orbit in the "habitable zone" of its
 
 ### <a name="kepler442b"></a>**Kepler-442b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-442b.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [voi](https://voi.id/en/technology/61968/astronomers-find-potentially-habitable-planet-kepler-422b)
 
 **Description**
 
@@ -3270,7 +3274,11 @@ According to NASA, this exoplanet is 33 percent larger than Earth and orbits its
 
 ### <a name="kepler452b"></a>**Kepler-452b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-452b.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [wikipedia](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
 
 **Description**
 
@@ -3281,7 +3289,11 @@ The star Kepler-452b is 1,400 light-years away from Earth. Kepler-452b orbits it
 
 ### <a name="proximacentaurib"></a>**Proxima Centauri b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Proximab.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Atronomy Trek](https://www.astronomytrek.com/proxima-centauri-exoplanet/)
 
 **Description**
 
@@ -3291,7 +3303,11 @@ According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-y
 
 ### <a name="trappist1e"></a>**TRAPPIST-1e**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\TRAPPIST-1e.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Wikipedia](https://el.wikipedia.org/wiki/TRAPPIST-1e)
 
 **Description**
 
@@ -3301,7 +3317,11 @@ There are the most Earth-sized planets ever discovered in the habitable zone of 
 
 ### <a name="gliese667cc"></a>**Gliese 667 Cc**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Gliese667cc.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source[9GAG](https://9gag.com/gag/aVq7pqK)
 
 **Description**
 
