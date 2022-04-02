@@ -368,7 +368,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#8](#fact8)
   - [#9](#fact9)
   - [#10](#fact10)
----
 
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
