@@ -14,7 +14,8 @@ Getting Started
 -  Fork the repository on GitHub.
 
 
-##Getting up-to-date 
+Getting up-to-date 
+------------------
 
 It is always a good practice to *update frequently* your local records based on the changes that 
 have been made on the codebase recently.
@@ -66,7 +67,8 @@ Contribution Tips
 - If adding a new Markdown file, it may be worth checking out whether it should also appear on the [website version of the guide](https://e-panourgia.github.io/cosmos-tour/). If so, it should be included in the `nav` section of [mkdocs.yml](https://github.com/zkotti/cosmos-tour/blob/main/mkdocs/mkdocs.yml).
 
 
-##Style pattern
+Style pattern
+-------------
 
 Every coding warehouse nowadays follows a specific pattern of code styling,
 so as to make life of developpers easier and their code prettier. *And so are we.*
