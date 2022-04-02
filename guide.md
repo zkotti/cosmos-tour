@@ -5245,7 +5245,7 @@ Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art
 ### <a name="sculpture"></a>**Sculpture**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/" alt="Michelangelo: David">
+<img width="640" height="425" src="media/photos/arts/Michelangelos-David-Goliath-one-statues-world.jpg.webp" alt="Michelangelo: David">
 
 Michelangelo: David: An example of sculpture,
 owned by [britannica](https://www.britannica.com/art/sculpture)
