@@ -301,6 +301,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Alan Turing](#Alan_Turing)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
+  - [Elon Musk](#Musk)
+  
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
@@ -4305,6 +4307,16 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+
+---
+
+### <a name="Musk"></a>**Elon Musk**
+
+<img width="300" height="300" src="media/photos/personalities/ELON_MUSK.jpg">
+
+Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. He is the co-founder of Neuralink and OpenAI, as well as the founder, CEO, and Chief Engineer of SpaceX. He is also the CEO and Product Architect of Tesla, Inc., as well as the founder, CEO, and Chief Engineer of SpaceX. According to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list, Musk is the world's wealthiest individual, with an estimated net worth of roughly US$270 billion as of March 2022.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
 
 ---
 
