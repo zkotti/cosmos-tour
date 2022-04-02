@@ -126,6 +126,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [New Zealand](#new_zealand)
+  - [Nicaragua](#nicaragua)
   - [Norway](#norway)
   - [Peru](#peru)
   - [Philippines](#philippines)
@@ -2340,6 +2341,24 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NZL
 </br>
 **Region:** Oceania
+
+---
+
+### <a name="nicaragua"></a>**Nicaragua**
+
+<img width="300" height="300" src="media/photos/flags/ni.svg">
+
+**Capital:** [Managua](https://www.google.com/maps/search/Managua)
+</br>
+**Official Language:** Spanish, English, Miskito, Rama
+</br>
+**Currency:** Cordoba (NIO)
+</br>
+**Population:** 6,486,201 (2019)
+</br>
+**Country Code (cioc):** NI
+</br>
+**Region:** Central America 
 
 ---
 
