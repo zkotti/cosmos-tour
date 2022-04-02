@@ -375,6 +375,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Religions](#religions)
   - [Christianity](#christ)
     #### [Divisions of Christianity](#divs)
+    - [Roman Catholicism](#cathol)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
@@ -5293,6 +5294,14 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
   ### <a name="divs"></a> **Divisions of Christianity**
 
 ---
+
+  ### <a name="cathol"></a>**Roman Catholicism**
+
+  The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
+
+  source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
+
+  ---
 
   ### <a name="Buddhis"></a>**Buddhism**
 
