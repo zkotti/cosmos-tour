@@ -375,6 +375,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
+  - [Islam](#Islam)
 
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -1000,7 +1001,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 **Country Code (cioc):** ARG
 </br>
 **Region:** Americas
-</br>
+
 **Top Attractions:**  Iguazú Falls,  Perito Moreno Glacier,  Tierra del Fuego National Park,  Historic Córdoba Cathedral
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/argentina-arg.htm)
 
@@ -2954,13 +2955,6 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** YEM
 </br>
 **Region:** Asia
-</br>
-**Attractions:**  The Ancient Tombs, Sanaa, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress,  
-Socotra Island, Sand Dunes, Socotra Island, Archer Beach,  Al Mukalla Harbor, , Gulf of Aden, Old Walled City of Shibam,
-The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula,
-The Madrasa Amiriya of Rada, Jibla and its Surroundings, Jabal Haraz, Balhaf
-source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
-
 
 ---
 
@@ -5232,7 +5226,7 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 ### <a name="painting"></a>**Painting**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/Mona_Lisa.jpg" alt="Leonardo Da Vinci, Mona Lisa">
+<img width="640" height="425" src="" alt="Leonardo Da Vinci, Mona Lisa">
 
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
@@ -5269,6 +5263,14 @@ Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
+
+  ---
+
+  ### <a name="Islam"></a>**Islam**
+
+  Islam began in Arabia and was revealed to humanity by the Prophet Muhammad. Those who follow Islam are called Muslims. Muslims believe that there is only one God. The Arabic word for God is Allah. Retaining its emphasis on an uncompromising monotheism and a strict adherence to certain essential religious practices, the religion taught by Muhammad to a small group of followers spread rapidly through the Middle East to Africa, Europe, the Indian subcontinent, the Malay Peninsula, and China. By the early 21st century there were more than 1.5 billion Muslims worldwide. 
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Islam)
 
 
 ---
