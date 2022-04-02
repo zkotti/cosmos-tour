@@ -164,6 +164,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
+  - [Haumea](#haumea)
   - [Makemake](#makemake)
 
 - ### [Earth-like Planets](#earthlikeplanets)
@@ -3296,6 +3297,24 @@ Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.
 Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
 
 Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+
+---
+
+### <a name="haumea"></a>**Haumea**
+
+<img width="500" height="420" src="media\photos\planets\haumea.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Haumea)
+
+<br>
+
+**Description**
+
+Haumea is a dwarf planet that it is located in the Kuiper Belt beyond the orbit of Neptune. It is named after the Hawaiian goddess of fertility and it is approximately the same size as Pluto. The temperature in Haumea seems to be very low, so it doesn't has conditions suitable for life. The radius of Haumea is about 620 kilometers which means that is about 1/14 the radius of Earth. Haumea in order to make one trip around the Sun, it needs 285 Earth years.
+
+Haumea also has two known moons. The first one is Namaka (the inner moon) and the second one is Hi'iaka (the outter moon). They took their names from the mythological daughters of Haumea.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Haumea)
 
 ---
 
