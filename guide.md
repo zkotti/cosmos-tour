@@ -5271,7 +5271,7 @@ Source [britannica](https://www.britannica.com/art/sculpture)
 ### <a name="literature"></a>**Literature**  
 <br>
 
-<img width="640" height="425" src="" alt="Book image">
+<img width="640" height="425" src="media/photos/arts/book.jpg" alt="Book image">
 
 owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
 
