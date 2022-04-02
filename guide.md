@@ -5519,7 +5519,7 @@ Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-explori
 ### <a name="cinema"></a>**Cinema**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/#" alt="Image of old cinema projector">
+<img width="640" height="425" src="media/photos/arts/cinema.webp" alt="Image of old cinema projector">
 
 owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/)
 
