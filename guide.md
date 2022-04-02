@@ -126,6 +126,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [New Zealand](#new_zealand)
+  - [Nicaragua](#nicaragua)
   - [Norway](#norway)
   - [Peru](#peru)
   - [Philippines](#philippines)
@@ -301,6 +302,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Alan Turing](#Alan_Turing)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
+  - [Elon Musk](#Musk)
+  
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
@@ -317,14 +320,14 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Sports](#Sports)
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
-  - [Volleyball](#Volleyball)
-  - [Basketball](#Basketball)
-  - [Tennis](#Tennis)
   - [Cricket](#Cricket)
-  - [Hockey](#Hockey)
+  - [Tennis](#Tennis)
+  - [Volleyball](#Volleyball)
   - [Baseball](#Baseball)
-  - [Rugby](#Rugby)
   - [Golf](#Golf)
+  - [Basketball](#Basketball)
+  - [Hockey](#Hockey)
+  - [Rugby](#Rugby)
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
@@ -412,7 +415,7 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 ### <a name="simulation_theory"></a>**Simulation Theory**
 
-The simulation hypothesis proposes that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions relied on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it was "real."  The simulation hypothesis is similar to a number of other skeptical scenarios that have been proposed throughout philosophy's history. Nick Bostrom popularized the hypothesis in its current form. The idea that such a hypothesis is compatible with all human perceptual experiences is regarded to have major epistemological implications, resulting in philosophical skepticism. The hypothesis has also been used in science fiction, where it has been used as a central plot mechanism in many stories and films.
+The simulation hypothesis implies that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions heavily depend on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it really existed. The simulation hypothesis bears close resemblance to a number of other skeptical scenarios that have been proposed throughout philosophy's history. The hypothesis in its current form was popularized by Nick Bostrom. The idea that such a hypothesis is compatible with all perceived human experiences is linked with major epistemological implications, resulting in philosophical skepticism. The hypothesis is also very popular in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
@@ -2367,6 +2370,24 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="nicaragua"></a>**Nicaragua**
+
+<img width="300" height="300" src="media/photos/flags/ni.svg">
+
+**Capital:** [Managua](https://www.google.com/maps/search/Managua)
+</br>
+**Official Language:** Spanish, English, Miskito, Rama
+</br>
+**Currency:** Cordoba (NIO)
+</br>
+**Population:** 6,486,201 (2019)
+</br>
+**Country Code (cioc):** NI
+</br>
+**Region:** Central America 
+
+---
+
 ### <a name="norway"></a>**Norway**
 
 <img width="300" height="300" src="media/photos/flags/no.svg">
@@ -4241,11 +4262,11 @@ source [britannica](https://www.britannica.com/biography/Mahatma-Gandhi)
 
 <img width="300" height="300" src="media/photos/personalities/margaret_hamilton.jpg">
 
-Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. She was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which developed on-board flight software for NASA's Apollo program. She later founded two software companies—Higher Order Software in 1976 and Hamilton Technologies in 1986, both in Cambridge, Massachusetts. 
+Margaret Heafield Hamilton (born August 17, 1936) is an American computer scientist, systems engineer, and business owner. At first, she was director of the Software Engineering Division of the MIT Instrumentation Laboratory, which focused on the development of on-board flight software for NASA's Apollo program. She later became founder of Higher Order Software (1976) and Hamilton Technologies (1986), both located in Cambridge, Massachusetts. 
 
-Hamilton has published more than 130 papers, proceedings, and reports, about sixty projects, and six major programs. She is one of the people credited with coining the term "software engineering".
+Hamilton is respnsible for publishing  more than 130 papers, proceedings, and reports, icluding sixty projects and six major programs. She is one of the first people who used the term "software engineering", which is also the topic of our course!
 
-On November 22, 2016, Hamilton received the Presidential Medal of Freedom from president Barack Obama for her work leading to the development of on-board flight software for NASA's Apollo Moon missions. 
+Margaret Hamilton received the Presidential Medal of Freedom from the president of America at the time, Barack Obama, for her contribution to the development of on-board flight software for NASA's Apollo Moon missions, on November 22, 2016. 
 
 source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
@@ -4329,6 +4350,16 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+
+---
+
+### <a name="Musk"></a>**Elon Musk**
+
+<img width="300" height="300" src="media/photos/personalities/ELON_MUSK.jpg">
+
+Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. He is the co-founder of Neuralink and OpenAI, as well as the founder, CEO, and Chief Engineer of SpaceX. He is also the CEO and Product Architect of Tesla, Inc., as well as the founder, CEO, and Chief Engineer of SpaceX. According to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list, Musk is the world's wealthiest individual, with an estimated net worth of roughly US$270 billion as of March 2022.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
 
 ---
 
@@ -4471,29 +4502,15 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ---
 
-### <a name="Volleyball"></a>**Volleyball**
+### <a name="Cricket"></a>**Cricket**
 
-<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
 
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
-
-**Description**
-
-Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
-### <a name="Basketball"></a>**Basketball**
-
-<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
 
 **Description**
 
-Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
@@ -4511,31 +4528,18 @@ An estimated one billion people worldwide follow tennis, tuning in from around t
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
----
-
-### <a name="Cricket"></a>**Cricket**
-
-<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
-
-**Description**
-
-Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
 ---
 
-### <a name="Hockey"></a>**Hockey**
+### <a name="Volleyball"></a>**Volleyball**
 
-<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
+<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
 
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
 
 **Description**
 
-Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
@@ -4555,6 +4559,54 @@ America’s national pastime is thought to have descended from the English sport
 
 ---
 
+### <a name="Golf"></a>**Golf**
+
+<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
+
+**Description**
+
+An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+---
+
+### <a name="Basketball"></a>**Basketball**
+
+<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+
+**Description**
+
+Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+
+
+---
+
+### <a name="Hockey"></a>**Hockey**
+
+<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+
+**Description**
+
+Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+
+---
+
 ### <a name="Rugby"></a>**Rugby**
 
 <img width="500" height="350" src="media/photos/Sports/Rugby.jpg">
@@ -4567,19 +4619,6 @@ Rugby has an estimated following of 475 million people. The sport originated in 
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
----
-
-### <a name="Golf"></a>**Golf**
-
-<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
-
-**Description**
-
-An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
 ---
 
