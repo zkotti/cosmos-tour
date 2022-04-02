@@ -24,19 +24,17 @@ import webbrowser
 def find_name(tag, i):
     if tag not in i:
         return ''
-    count = -1
     cont = 0
-    for j in i:
-        count += 1
+    for index, val in enumerate(i):
         if len(tag) == 4:
-            cont += 1 if j in ['n', 'a', 'm', 'e'] else cont = 0
+            cont += 1 if val in ['n', 'a', 'm', 'e'] else 0
             if cont == len(tag):
-                pos_start = count + 3
+                pos_start = index + 3
                 break
         else:
-            cont += 1 if j in ['<', 'e', 'm', '>'] else 0
+            cont += 1 if val in ['<', 'e', 'm', '>'] else 0
             if cont == len(tag) + 2:
-                pos_start = count + 1
+                pos_start = index + 1
                 break
     pos_end = 0
     count = -1
