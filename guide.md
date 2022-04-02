@@ -947,6 +947,9 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Iguazú Falls,  Perito Moreno Glacier,  Tierra del Fuego National Park,  Historic Córdoba Cathedral
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/argentina-arg.htm)
+
 <br>
 Argentina is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil and the fourth-largest country in the Americas. The provinces and the capital have their own constitutions but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia, and the South Sandwich Islands.
 
@@ -969,7 +972,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** ARM
 </br>
 **Region:** Asia
-<br>
+
+**Top Attractions:**  Shikahogh State Reserve, Lake Sevan, Dilijan national park, Mount Aragats
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-armenia/)
 
 ---
 
@@ -988,7 +993,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** AUS
 </br>
 **Region:** Oceania
-<br>
+
+**Top Attractions:** Sydney Opera House, Great Barrier Reef, Uluru/Ayers Rock, Kakadu National Park, Whitsunday Islands
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-australia/)
 
 ---
 
