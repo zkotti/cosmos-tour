@@ -352,7 +352,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Petra](#petra_city)
     - [Taj Mahal](#taj_mahal)
 
----
 - ### [Facts About Space](#facts)
   - [#1](#fact1)
   - [#2](#fact2)
