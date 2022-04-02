@@ -337,7 +337,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Mountains](#mountains)
   - [Top 4 highest Mountains](#Highest_Mountains)
+  - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
+  - [Mount Kosciuszko](#mountkosciuszko)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
@@ -5019,6 +5021,20 @@ Handball (also known as team handball, European handball or Olympic handball) is
 
 
 ---
+
+### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
+
+<img width="550" height="303" src="media/photos/mountains/Aconcagua.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Aconcagua)
+
+**Description**
+
+Mount Aconcagua is the highest peak in South America and the Western Hemisphere with a precise elevation of 6,961 metres (22,838 ft). It is very close to the borders of Argentina and to the city of Mendoza. The mountain has two summits, the north and the south. The southern summit is higher than the nortern and it was first reached in 1897 by Matthias Zurbriggen. Additionally, the mountain including its surroundings belong to the Aconcagua Provincial Park.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Aconcagua)
+
+---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
@@ -5044,6 +5060,20 @@ owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+---
+
+### <a name="mountkosciuszko"></a>**_Mount Kosciuszko_**
+
+<img width="550" height="367" src="media/photos/mountains/Kosciuszko.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
+
+**Description**
+
+Mount Kosciuszko is the highest peak in Australia at 2,228 metres and it was named like this by the Polish explorer Paul Edmund Strzelecki in 1840 because of its resemblance to the Kościuszko Mound in Kraków, Poland. It is located 390 km southwest of Sydney in the Snowy Mountains of the Australian Alps in southeastern New South Wales. Mount Kosciuszko is a well known mountain that over 100.000 people visit every summer and there are multiple roads that lead to the summit. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
 
 ---
 
