@@ -799,7 +799,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/8
 
 ### <a name="55P/Tempel–Tuttle"></a> **55P/Tempel–Tuttle**
 
-<img width="500" height="350" src="media/comets/55PTempel–Tuttle.gif">
+<img width="500" height="350" src="media/photos/comets/55PTempel–Tuttle.gif">
 
 owned by [nasa](https://leonid.arc.nasa.gov/comet55p/comet55p0128.gif)
 
