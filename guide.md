@@ -3244,7 +3244,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
 
 ### <a name="history"></a> **History**
 
-<img width="500" height="350" src="media/spaceflight/SpaceX_Crew_Dragon.jpg">
+<img width="500" height="350" src="media/photos/spaceflight/SpaceX_Crew_Dragon.jpg">
 
 owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
@@ -3265,7 +3265,7 @@ Humans have always looked at the heavens and wondered about the nature of the ob
 
 ### <a name="major_milestones"></a> **Major Milestones**
 
-<img width="500" height="350" src="media/spaceflight/iss.webp">
+<img width="500" height="350" src="media/photos/spaceflight/iss.webp">
 
 owned by [britannica](<https://www.britannica.com/science/space-exploration>)
 
@@ -3293,7 +3293,7 @@ As the many benefits of space activity have become evident, other countries have
 
 ### <a name="betelgeuse"></a>**Betelgeuse**
 
-<img width="358" height="550" src="media/stars/Betelgeuse.jpg">
+<img width="358" height="550" src="media/photos/stars/Betelgeuse.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
 
@@ -3306,7 +3306,7 @@ Betelgeuse belongs in the constellation of Orion and is one of the largest stars
 
 ### <a name="sun"></a>**Sun**
 
-<img width="500" height="475" src="media/stars/Sun.jpeg">
+<img width="500" height="475" src="media/photos/stars/Sun.jpeg">
 
 owned by [pexels.com](https://www.pexels.com/el-gr/photo/87611/)
 
@@ -3324,7 +3324,7 @@ Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2
 
 ### <a name="polaris"></a>**Polaris**
 
-<img width="600" height="350" src="media/stars/Polaris.jpg">
+<img width="600" height="350" src="media/photos/stars/Polaris.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
 
@@ -3337,7 +3337,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 ### <a name="vega"></a>**Vega**
 
-<img width="480" height="480" src="media/stars/Vega.jpg">
+<img width="480" height="480" src="media/photos/stars/Vega.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
 
@@ -3354,7 +3354,7 @@ Vega belongs in the constellation of Lyra and it is the brightest star in it. Ve
 
 **The Star That Likes To Take A Break Every Once In A While!**
 <br>
-<img width="600" height="350" src="media\stars\vanishing_star.jpg">
+<img width="600" height="350" src="media\photos\stars\vanishing_star.jpg">
 
 <br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
 This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
@@ -3372,7 +3372,7 @@ It was discovered in December 2008 and at first was thought to be just a regular
 
 **Swift J1644+57: The Star That Got Eaten By A Blackhole**
 <br>
-<img width="600" height="350" src="media\stars\star_black_hole.webp">
+<img width="600" height="350" src="media\photos\stars\star_black_hole.webp">
 
 <br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
 About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
@@ -3394,7 +3394,7 @@ Another interesting fact is that the site of this event is so far away that it t
 
 **The Star That's Older Than The Universe!**
 <br>
-<img width="600" height="350" src="media\stars\oldest_star.webp">
+<img width="600" height="350" src="media\photos\stars\oldest_star.webp">
 
 <br> <b>3. HD 140283: The Star That's Older Than The Universe!</b> Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
 
@@ -3413,7 +3413,7 @@ Another interesting fact is that the site of this event is so far away that it t
 
 **HV 2112: The Star Inside A Star!**
 <br>
-<img width="600" height="350" src="media\stars\star_inside_star.webp">
+<img width="600" height="350" src="media\photos\stars\star_inside_star.webp">
 
 <br> <b>4. HV 2112: The Star Inside A Star!</b>
 Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light years away in the nearby dwarf galaxy called the Small Magellanic Cloud, or Nebucula Minor, in the Tucana constellation.
@@ -3450,7 +3450,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 <br>
 "It is 100 percent guaranteed that humanity will be hit [by a deadly asteroid], but we are not 100 percent certain when," the B612 Foundation stated in April 2018. In his final book, Brief Answers to the Big Questions, published in 2018, scientist Stephen Hawking believed an asteroid collision to be the greatest hazard to the Earth. The US National Science and Technology Council warned in June 2018 that the country is unprepared for an asteroid impact, and has written and issued the "National Near-Earth Object Preparedness Strategy Action Plan" to help. According to expert evidence before the US Congress in 2013, NASA would need at least five years of planning before launching a mission to intercept an asteroid.
 <br><br>
-<img width="500" height="350" src="media\asteroids\asteroids.jpg">
+<img width="500" height="350" src="media\photos\asteroids\asteroids.jpg">
 
 <br>Discovery timeline:
 <br>10 by 1849
@@ -3488,7 +3488,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 
 ### <a name="pallas"></a>**Pallas**
 <br>
-<img width="600" height="300" src="media\asteroids\Pallas.jpg">
+<img width="600" height="300" src="media\photos\asteroids\Pallas.jpg">
 <br>
 <b>Pallas</b> is the second asteroid discovered, following Ceres. It is thought to contain a mineral composition comparable to that of carbonaceous chondrite meteorites such as Ceres, however it is much less hydrated. It is the Solar System's third-largest asteroid in terms of both volume and mass, and it is most likely a leftover protoplanet. It is 79% the mass of Vesta and 22% the mass of Ceres, constituting an estimated 7% of the mass of the asteroid belt. Its estimated volume is equivalent to a sphere 507 to 515 kilometers (315 to 320 mi) in diameter, 90–95% the volume of Vesta.
 
@@ -3503,7 +3503,7 @@ Pallas' orbit is notably sharply inclined to the plane of the asteroid belt, wit
 
 ### <a name="vesta"></a>**Vesta**
 <br>
-<img width="600" height="300" src="media\asteroids\Vesta.jpg">
+<img width="600" height="300" src="media\photos\asteroids\Vesta.jpg">
 <br>
 <b>Vesta</b> ,with a mean diameter of 525 kilometers, it is one of the largest objects in the asteroid belt (326 mi).  It was discovered on March 29, 1807[8] by German astronomer Heinrich Wilhelm Matthias Olbers and named after Vesta, the Roman virgin goddess of home and hearth.
 
