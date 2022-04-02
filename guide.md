@@ -1117,6 +1117,10 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Cox’s Bazar, The Sundarbans, Dhaka,  Srimangal
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-bangladesh/)
+
+
 ---
 
 ### <a name="barbados"></a>**Barbados**
@@ -1134,6 +1138,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BAR
 </br>
 **Region:** Americas
+
+**Top Attractions:** The Beaches of Carlisle Bay, Downtown Bridgetown, Bathsheba Bay, Animal Flower Cave
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/barbados-bar.htm)
 
 ---
 
@@ -1153,6 +1160,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Europe
 
+**Top Attractions:** Braslav Lake Area, Belovezhskaya Pushcha National Park, Mir Castle
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-belarus/)
+
 ---
 
 ### <a name="belgium"></a>**Belgium**
@@ -1170,6 +1180,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BEL
 </br>
 **Region:** Europe
+
+**Top Attractions:** Grand Place in Brussels, The Canals of Bruges,  Ghent's Gravensteen and Old Town, Ghent's Canals
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/belgium-b.htm)
 
 ---
 
