@@ -184,6 +184,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Milky Way](#milky_way)
   - [Triangulum Galaxy](#triangulum_galaxy)
   - [Sombrero Galaxy](#sombrero_galaxy)
+  - [Sculptor Galaxy](#sculptor_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -351,7 +352,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Petra](#petra_city)
     - [Taj Mahal](#taj_mahal)
 
----
 - ### [Facts About Space](#facts)
   - [#1](#fact1)
   - [#2](#fact2)
@@ -364,6 +364,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#9](#fact9)
   - [#10](#fact10)
 ---
+
+- ### [Fine Arts](#arts)
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -990,6 +993,48 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 Argentina is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil and the fourth-largest country in the Americas. The provinces and the capital have their own constitutions but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia, and the South Sandwich Islands.
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Argentina)
+
+
+
+###Most Attractive Tourist Attractions in Argentina
+Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
+
+The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
+In the capital of Argentina you can go shopping, see football, watch soccer or get in touch with Latin culture. 
+
+* Iguazu Falls
+One of the biggest attractions in Argentina annd in whole Latin America is the Iguazu Falls, which is close to Brazil and Argentina.
+
+
+* Perito Moreno Glacier
+Perito Moreno Glacier is the most re-knowned glacier located in the Glacier National Park or other called Los Glaciares. 
+This is one in the whole world. Among all glaciers in antarctica this is the most significant one that actually are easily approachable.
+
+
+* Bariloche is a city which is inside mountains, having a Swiss-like atmosphere and the chocolate shops. It's a great places with outdoor activities like skiing, hiking, sightseeing, water sports, clinging, trekking and more.
+
+* Caminito, La Boca
+The market site of Buenos Aires is called La Boca. It is popular between the tourists because of the colorful houses and the most entertaining street, Caminito, where street artists performs tango and tango-related memorabilia is sold.
+
+* Valdes Peninsula
+This is a nature reserve where you can find unique flora and fauna. The most common inhabitants of the coastline are the sea lions, elephant seals and penguins. Between May and December you can also see whales in the Valdes Peninsula. This place is located almost 900 miles away (distance calculator: distances-from.com ) from the capital of Argentina, Buenos Aires.
+
+* Beagle Channel
+Beagle Channel is a part between the southest part of Argentina and south islands of Chile. This strait extends to 240 km and its width is about 5 km.
+
+* Monte Fitz Roy
+Monte Fitz Roy is a imposing mountain . It has unique characteristics and is a great way to spend your time if you are a tourist but also a good opportunity for some breath taking photographs.
+
+* Mendoza
+Mendoza is a also one of the great attractions in Argentina because of the unique landscapes and the purpose. It is a region that is the leading in the winemaking of Argentina. The beautiful and wide wine fields are a great attraction for visitors beside the wine testing and the unique tastes.
+
+* Ushuaia
+This city is located in south . It includes a magnificent natural beauty, it is on the Beagle Channel and it is a good place for some hiking, skiing or even cruises to antartica
+
+* The Iberá Wetlands
+The Iberá Wetlands are a mangificent landscape, it is second in the list of largest wetlands in the world. There, visitors. could enjoy the fauna and flora , as it is home to many species, offering a reminder of nature's majesty.
+
+Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive-tourist-attractions-in-argentina/)
 
 ---
 
@@ -3391,6 +3436,21 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 ---
 
+### <a name="sculptor_galaxy"></a>**Sculptor Galaxy**
+
+<img width="500" height="350" src="media\photos\galaxies\Sculptor_Galaxy.jpg">
+
+**Description**
+
+**The Sculptor Galaxy** (also called the Silver Coin Galaxy, Silver Dollar Galaxy, NGC 253, or Caldwell 65) is a spiral galaxy in the constellation Sculptor. The Sculptor Galaxy is a starburst galaxy, meaning it is currently undergoing an active era of star production.
+
+Caroline Herschel discovered the galaxy in 1783 while conducting one of her systematic comet investigations. John Herschel noticed it almost half a century later. He expressed himself as follows: "A fantastic thing that is both bright and huge (24′ in length). Its light is a little streaky, but I don't see any stars in it save four enormous ones and one very small one, which don't seem to belong to it because there are so many around..."
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Sculptor_Galaxy)
+
+---
+
+
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
 
 ---
@@ -4359,7 +4419,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 
 
-### <a name="#song1"></a>**Rocket Man**
+### <a name="song1"></a>**Rocket Man**
 
 <img width="500" height="350" src="media/photos/songs/song1.jpeg"/>
 
@@ -4370,7 +4430,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
 
-### <a name="#song2"></a>**Space Oddity**
+### <a name="song2"></a>**Space Oddity**
 
 <img width="500" height="350" src="media/photos/songs/song2.jpeg"/>
 
@@ -4381,7 +4441,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
-### <a name="#song3"></a>**Fly Me To The Moon**
+### <a name="song3"></a>**Fly Me To The Moon**
 
 <img width="500" height="350" src="media/photos/songs/song3.jpeg"/>
 
@@ -4391,7 +4451,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
 
-### <a name="#song4"></a>**Man On The Moon**
+### <a name="song4"></a>**Man On The Moon**
 
 <img width="500" height="350" src="media/photos/songs/song4.jpg"/>
 
@@ -4401,7 +4461,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 
 
-### <a name="#song5"></a>**Across The Universe**
+### <a name="song5"></a>**Across The Universe**
 
 <img width="500" height="350" src="media/photos/songs/song5.jpg"/>
 
@@ -4412,7 +4472,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
-### <a name="#song6"></a>**Here Comes The Sun**
+### <a name="song6"></a>**Here Comes The Sun**
 
 <img width="500" height="350" src="media/photos/songs/song6.jpeg"/>
 
@@ -5083,5 +5143,9 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 ### <a name="fact10"></a>**10. THERE IS A PLANET MADE OF DIAMONDS**
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
+
+---
+
+## <a name="arts"></a> **Fine Arts**
 
 ---
