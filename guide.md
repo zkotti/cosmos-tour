@@ -379,6 +379,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Christianity](#christ)
     #### [Divisions of Christianity](#divs)
     - [Roman Catholicism](#cathol)
+    - [Eastern Orthodox Church](#ortho)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
@@ -5507,6 +5508,12 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
   The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
 
   source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
+
+   ### <a name="ortho"></a>**Eastern Orthodox Church**
+
+  Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
+
+  source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
 
   ---
 
