@@ -382,6 +382,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     #### [Divisions of Christianity](#divs)
     - [Roman Catholicism](#cathol)
     - [Eastern Orthodox Church](#ortho)
+    - [Protestantism](#protest)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
@@ -5537,6 +5538,12 @@ Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-explori
   Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
 
   source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
+
+  ### <a name="protest"></a>**Protestantism**
+
+  Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe and it has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
+
+  source [britannica](https://www.britannica.com/topic/Protestantism)
 
   ---
 
