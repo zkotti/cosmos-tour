@@ -374,7 +374,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Christianity](#christ)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
-  
+  - [Taoism](#Taoism)
+
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -5248,10 +5250,18 @@ Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art
 
   source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
 
+
   ### <a name="Atheism"></a>**Atheism/Agnosticism**
 
   Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
 
    source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
+
+   ### <a name="Taoism"></a>**Taoism**
+
+  The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
+
 
 ---
