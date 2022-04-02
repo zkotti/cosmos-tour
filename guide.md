@@ -367,6 +367,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 ---
 
 - ### [Fine Arts](#arts)
+  - [Architecture](#architecture)
 
 - ### [Religions](#religions)
 
@@ -5201,7 +5202,20 @@ There’s a planet made of diamonds twice the size of earth The "super earth," a
 ## <a name="arts"></a> **Fine Arts**
 
 ---
+### <a name="architecture"></a>**Architecture**  
+<br>
 
+<img width="640" height="425" src="media/photos/arts/Palace-of-Versailles-France.webp" alt="Palace of Versailles France">
+
+Palace of Versailles France: An example of classic architecture, 
+owned by [britannica](https://www.britannica.com/topic/architecture)
+
+Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
+
+Source [britannica](https://www.britannica.com/topic/architecture)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+
+---
 ---
 
 ## <a name="religions"></a> **Religions**
