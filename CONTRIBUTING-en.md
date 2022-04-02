@@ -23,15 +23,15 @@ have been made on the codebase recently.
 
 * If you are on the **main branch**, you could use ```git pull```.
 * If you are **not on main branch**, you could use:
-  ####*Rebase*
+  #### *Rebase*
 
   You could use the git command: ``git rebase main``<\n>
   
-  ######*Note:*
+  ###### *Note:*
   <p>If there are conflicts, needs to be resolved.
   This is the only issue that could arise using rebase.</p>
   
-  ####*Merge*
+  #### *Merge*
    You could use the git command: ``git merge main``
   >>_*Tip:*_<br>Despite the fact that both commands are very useful, it is preferable in projects with many contributors like ours, to use the *rebase* command.
   <br>Why?<br>
@@ -73,18 +73,18 @@ Style pattern
 Every coding warehouse nowadays follows a specific pattern of code styling,
 so as to make life of developpers easier and their code prettier. *And so are we.*
 
-####Please take the following advices as kindly suggested:
-#####Conventions
+#### Please take the following advices as kindly suggested:
+##### Conventions
 - Shall use **snake case** formatting for naming **modules** and **files**
 - Shall use **title case** formatting for naming **Classes**
 - Shall use **snake case** formatting for **variables**
 - Shall use **upper case** formatting for **constants**
 - **Code lines** should **not** exceed the length of **100 characters**
-######Note 
+###### Note 
   While style pattern has not been extracted from a specific resource,
   it could be said that is inspired from PEP8 coding style. 
   
-#####Additional Suggestions
+##### Additional Suggestions
 Classes should be saparated by two new lines of codes
 Classes should be saparated by one new lines of codes
 Every block of code should not be separated by new line in its core part.
