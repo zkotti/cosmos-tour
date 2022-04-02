@@ -3,6 +3,11 @@
 # that you want to go. The program will forward you there automatically
 # from your browser.
 
+# CAUTION ! ! !
+# In order for this script to work you need to type the section, that
+# you want to go exactly as it is in the guide.html file ! ! !
+
+
 import requests
 from bs4 import BeautifulSoup
 import webbrowser
