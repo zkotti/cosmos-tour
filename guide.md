@@ -377,6 +377,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
   - [Islam](#Islam)
+  - [Hinduism](#Hinduism_)
+  
 
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -5286,5 +5288,9 @@ Source [britannica](https://www.britannica.com/art/sculpture)
 
   source [wikipedia](https://en.wikipedia.org/wiki/Islam)
 
+ ### <a name="Hinduism_"></a>**Hinduism**
 
+ Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
+
+ source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
 ---
