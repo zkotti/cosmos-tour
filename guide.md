@@ -164,6 +164,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
+  - [Haumea](#haumea)
   - [Makemake](#makemake)
 
 - ### [Earth-like Planets](#earthlikeplanets)
@@ -206,6 +207,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Blue Origin](#blue_origin)
 
 - ### [Stars](#stars)
+  - [Antares](#antares)
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
@@ -367,7 +369,6 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#8](#fact8)
   - [#9](#fact9)
   - [#10](#fact10)
----
 
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
@@ -2349,7 +2350,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Region:** Americas
 
 **Top Attractions:**  La Aurora Zoo, Mundo Petapa Irtra, Paseo Cayala
-<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g292006-d3443068-Reviews-Paseo_Cayala-Guatemala_City_Guatemala_Department.html)
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g292006-Activities-Guatemala_City_Guatemala_Department.html)
 
 ---
 
@@ -2369,6 +2370,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Blue Lagoon, Strokkur Geysir, The Northern Lights in Aurora Borealis, Landmannalaugar National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/iceland-isl.htm)
+
 ---
 
 ### <a name="india"></a>**India**
@@ -2386,6 +2390,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IND
 </br>
 **Region:** Asia
+
+**Top Attractions:**  The Taj Mahal,  The Holy City of Varanasi, Harmandir Sahib: The Golden Temple of Amritsar, The Golden City: Jaisalmer
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/india-ind.htm)
 
 ---
 
@@ -2405,6 +2412,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Beaches of Bali,  Borobudur, Tanjung Puting National Park,  Gili Islands,  Komodo National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/indonesia-ina.htm)
+
+
 ---
 
 ### <a name="iran"></a>**Iran**
@@ -2422,6 +2433,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IRI
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Persepolis, Valley of the Stars, Chogha Zanbil, Babak Castle
+<br>Source [TheCultureTrip](https://theculturetrip.com/middle-east/iran/articles/20-must-visit-attractions-in-iran/)
+
 
 ---
 
@@ -2441,6 +2456,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Erbil, Ziggurat of Ur, National Museum of Baghdad, Basra  
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-iraq/)
+
+
 ---
 
 ### <a name="ireland"></a>**Ireland**
@@ -2458,6 +2477,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IRL
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Cliffs of Moher, Grafton Street, Dublin, Killarney National Park and Muckross House & Gardens, The Book of Kells and Trinity College, Kilmainham Gaol
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ireland-irl.htm)
+
 
 ---
 
@@ -2477,6 +2500,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**   Jerusalem, Haifa, Nazareth, Jaffa
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/israel-isr.htm)
+
+
 ---
 
 ### <a name="italy"></a>**Italy**
@@ -2494,6 +2521,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ITA
 </br>
 **Region:** Europe
+
+**Top Attractions:**   Colosseum, Florence Duomo Santa Maria del Fiore,  The Grand Canal in Venice, Leaning Tower of Pisa, Basilica of St. Peter, Sistine Chapel & Vatican Museums, The Uffizi Gallery in Florence, Lake Como, Pantheon, Trevi Fountain,  Amalfi Coast, St. Mark's Basilica  
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/italy-i.htm)
+
 
 ---
 
@@ -2513,6 +2544,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Mount Fuji, Imperial Tokyo, Hiroshima Peace Memorial Park, Historic Kyoto, The Island Shrine of Itsukushima 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/japan-jpn.htm)
+
+
 ---
 
 ### <a name="kenya"></a>**Kenya**
@@ -2530,6 +2565,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** KEN
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Maasai Mara National Reserve,  Amboseli National Reserve,  Tsavo National Park, Lake Nakuru National Park 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/kenya-ken.htm)
+
 
 ---
 
@@ -2549,6 +2588,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Cathedral of St. Florin, The Treasure Chamber of the Principality of Liechtenstein, State of the Art: Kunstmuseum Liechtenstein, Gutenberg Castle 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/liechtenstein-fl.htm)
+
+
 ---
 
 ### <a name="lithuania"></a>**Lithuania**
@@ -2566,6 +2609,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** LTU
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Vilnius Old Town, Trakai Castle, Devil’s Museum, St. Anne’s Church
+<br>Source [PlanetWare](https://www.thecrazytourist.com/25-best-things-lithuania/)
 
 ---
 
@@ -2585,6 +2631,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Old Quarter of Luxembourg City,  National Museum of History and Art, The Bock Casements, Grand Ducal Palace, The Walls of the Corniche 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/luxembourg-l.htm)
+
 ---
 
 ### <a name="mexico"></a>**Mexico**
@@ -2602,6 +2651,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** MEX
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Teotihuacan, Chichen Itza, Tulum, Copper Canyon, Palenque
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-mexico/)
 
 ---
 
@@ -2621,6 +2673,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Monte-Carlo, Palais du Prince, Musée Oceanographique,  Jardin Exotique, Cathédrale de Monaco
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/monaco-mc-mc-mon.htm)
+
 ---
 
 ### <a name="new_zealand"></a>**New Zealand**
@@ -2638,6 +2693,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NZL
 </br>
 **Region:** Oceania
+
+**Top Attractions:**  Fiordland National Park and Milford Sound,  Bay of Islands, Queenstown, Lake Taupo and Tongariro National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/new-zealand-nz.htm)
 
 ---
 
@@ -2657,6 +2715,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Central America 
 
+**Top Attractions:**  Islets of Granada, Corn Islands, Masaya Volcano, Cerro Negro, Mombacho Volcano Nature Preserve
+<br>Source [PlanetWare](https://www.planetware.com/nicaragua/top-rated-attractions-things-to-do-in-nicaragua-nic-1-3.htm)
+
 ---
 
 ### <a name="norway"></a>**Norway**
@@ -2674,6 +2735,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NOR
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Sognefjord, Pulpit Rock, Tromsø, Lofoten Islands,  Viking Ship Museum,  Bygdoy Peninsula 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/norway-n.htm)
 
 ---
 
@@ -2693,6 +2757,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Machu Picchu, The Inca Trail, Cusco's Architectural Treasures, Lake Titicaca, Colca Canyon
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/peru-per.htm)
+
 ---
 
 ### <a name="philippines"></a>**Philippines**
@@ -2710,6 +2777,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** PHI
 </br>
 **Region:** Asia
+
+**Top Attractions:**  White Beach in Boracay, Fort Santiago in the Intramuros, Mayon Volcano 
+<br>Source [PlanetWare](https://www.planetware.com/philippines/top-rated-tourist-attractions-things-to-do-in-the-philippines-phi-1-26.htm)
 
 ---
 
@@ -2729,6 +2799,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Bran Castle, Sighisoara Historic Center, Palace of Parliament, Peles Castle, Merry Cemetery
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-romania/)
+
 ---
 
 ### <a name="russia"></a>**Russia**
@@ -2746,6 +2819,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** RUS
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Saint Basil's Cathedral, Hermitage Museum, Moscow Kremlin, Suzdal 
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-russia/)
 
 ---
 
@@ -2765,6 +2841,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Rocca Guaita, Monte Titano, Palazzo Pubblico and Piazza della Liberta, Basilica di San Marino, Museo di Stato
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/san-marino-rsm-rsm-rsm.htm)
+
+
 ---
 
 ### <a name="scotland"></a>**Scotland**
@@ -2782,6 +2862,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (ISO 3166-2:GB):** SCT
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Edinburgh Castle and the Royal Mile, Loch Lomond, Loch Ness and the Caledonian Canal, Isle of Skye and the Inner Hebrides   
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/scotland-sco.htm)
+
 
 ---
 
@@ -2801,6 +2885,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Bojnice Castle, Tatranská Lomnica, Museum of the Slovak Village
+<br>Source [Touropia](https://www.planetware.com/slovakia/top-rated-things-to-do-in-slovakia-slo-1-2.htm)
+
+
 ---
 
 ### <a name="slovenia"></a>**Slovenia**
@@ -2818,6 +2906,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SLO
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
+<br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
+
 
 ---
 
@@ -2837,6 +2929,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Alhambra and Generalife Gardens, Barcelona's Sagrada Familia and Gaudi Sites, The Great Mosque of Cordoba, The Prado and Paseo del Artes, San Lorenzo de El Escorial
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/spain-e.htm)
+
+
 ---
 
 ### <a name="switzerland"></a>**Switzerland**
@@ -2854,6 +2950,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SUI
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Matterhorn, Jungfraujoch: The Top of Europe,Interlaken, Lucerne, Lake Geneva
+<br>Source [PlanetWare] (https://www.planetware.com/tourist-attractions/switzerland-ch.htm)
+
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -2876,6 +2976,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Chernobyl, St. Sophia's Cathedral, L'viv's Historic Center, Kamenets Podolsky Castle
+<br>Source [PlanetWare](https://www.touropia.com/tourist-attractions-in-russia/)
+
+
 ---
 
 ### <a name="uae"></a>**United Arab Emirates**
@@ -2894,6 +2998,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Burj Khalifa, Sheikh Zayed Mosque, Louvre Abu Dhabi, Legoland Water Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/united-arab-emirates-uae.htm)
+
+
 ---
 
 ### <a name="usa"></a>**United States**
@@ -2911,11 +3019,11 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** USA
 </br>
 **Region:** Americas
-</br>
-**Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
+
+**Top Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
 Yosemite National Park, Golden Gate Bridge, Times Square, Freedom Trail in Boston, Yellowstone National Park, San Antonio River Walk,
 Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-the-Sun Road
-source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
+<br>Source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
 
 
 ---
@@ -2936,6 +3044,10 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Tango Museum of Montevideo, Legislative Palace, Punta del Este harbor, Playa de los Pocitos, Colonia del Sacramento    
+<br>Source [PlanetWare](https://www.planetware.com/uruguay/top-tourist-attractions-things-to-do-in-uruguay-uy-1-2.htm)
+
+
 ---
 
 ### <a name="venezuela"></a>**Venezuela**
@@ -2954,6 +3066,10 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Angel Falls, Los Roques Archipelago,  Isla de Margarita, Parque Nacional Morrocoy 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/venezuela-ven.htm)
+
+
 ---
 
 ### <a name="vietnam"></a>**Vietnam**
@@ -2971,10 +3087,11 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
-**Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
+
+**Top Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
 Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
 Mui Né
-source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
+<br>Source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
 
 
 ---
@@ -2994,8 +3111,8 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** YEM
 </br>
 **Region:** Asia
-</br>
-**Attractions:** The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
+
+**Top Attractions:**  The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
 source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
 
 
@@ -3016,10 +3133,10 @@ source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions
 **Country Code (cioc):** ZMB
 </br>
 **Region:** Africa
-</br>
-Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
+
+**Top Attractions:** Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
 Lower Zambezi National Park, Lake Kariba, South Luangwa National Park, Livingstone Museum, Livingstone Island, Mongu
-source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
+<br>Source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
 
 
 ---
@@ -3039,9 +3156,9 @@ source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
-</br>
-**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
-source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
+
+**Top Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+<br>Source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
@@ -3297,6 +3414,24 @@ Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.
 Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
 
 Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+
+---
+
+### <a name="haumea"></a>**Haumea**
+
+<img width="500" height="420" src="media\photos\planets\haumea.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Haumea)
+
+<br>
+
+**Description**
+
+Haumea is a dwarf planet that it is located in the Kuiper Belt beyond the orbit of Neptune. It is named after the Hawaiian goddess of fertility and it is approximately the same size as Pluto. The temperature in Haumea seems to be very low, so it doesn't has conditions suitable for life. The radius of Haumea is about 620 kilometers which means that is about 1/14 the radius of Earth. Haumea in order to make one trip around the Sun, it needs 285 Earth years.
+
+Haumea also has two known moons. The first one is Namaka (the inner moon) and the second one is Hi'iaka (the outter moon). They took their names from the mythological daughters of Haumea.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Haumea)
 
 ---
 
@@ -3682,6 +3817,20 @@ As the many benefits of space activity have become evident, other countries have
 ---
 
 ## <a name="stars"></a> **_Stars_**
+
+---
+
+### <a name="antares"></a>**Antares**
+
+<img width="476" height="480" src="media/photos/stars/Antares.jpg">
+
+owned by [wikipedia.com](https://en.wikipedia.org/wiki/Antares)
+
+**Description**
+
+Antares, also known as Alpha Scorpii, belongs to the constellation of Scorpius and it is the brighhtest star in it. Antares can be seen without a telescope every year at night of May 31st and it is a massive red supergiant star. It is also a binary star that consists of two components Scorpii A and Scorpii B. Antares lies around 550 light-years away from Earth.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Antares)
 
 ---
 
@@ -4718,9 +4867,9 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ### <a name="Margaret"></a>**Margaret Thatcher**
 
-<br>
+<img width="300" height="300" src="media/photos/personalities/Thatcher.jpg">
 
-Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
+Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
