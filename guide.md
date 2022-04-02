@@ -3574,15 +3574,14 @@ Vega belongs in the constellation of Lyra and it is the brightest star in it. Ve
 <br>
 <img width="600" height="350" src="media\photos\stars\vanishing_star.jpg">
 
-<br> <b>1. PSR J1841-0500: The Star That Likes To Take A Break Every Once In A While!</b>
-This star is located in the Scutum-Centaurus spiral arm of our galaxy, about 22.8 light years from Sun. It's a pulsar star; the type of star whose spin causes its light to pulse. It spins once in every 0.9 seconds- something very casual for any pulsar star.
+<br> This star is roughly 22.8 light years away from the Sun, in our galaxy's Scutum-Centaurus spiral arm. It's a pulsar star, which means its light pulses due to its rotation. It rotates once every 0.9 seconds, which is extremely common for pulsar stars.
 
-<br>So what's interesting about this star? Well, this star likes to disappears every once in a while!
-It was discovered in December 2008 and at first was thought to be just a regular pulsar. Over the next 1 year scientists studied this star and right before when they were about to conclude the observations, this star disappeared! The group of scientists at first thought that there's some problem with their equipment but after several tests it was concluded that the pulsar was no longer there. The star turned off!
+<br>So, what's so intriguing about this celebrity? This star, on the other hand, prefers to vanish every now and then!
+It was discovered in December 2008 and was initially mistook for a typical pulsar. Over the next year, experts researched this star, and just as they were about to wrap up their research, the star vanished!
 
-<br>We know that about 100 out of 2000 known pulsars stop pulsating but only for a few minutes to hours. This process is called "nulling". Pulsars continuously emits radio pulses and we see them by catching these radio pulses. When they stop, they stop emitting the radio pulses as well, and therefore we can't see them during this period.
+<br>We know that roughly 100 of the 2000 known pulsars stop pulsing for a few minutes to hours at a time. This is referred to as "nulling." Pulsars emit radio pulses all the time, and we view them by catching these radio pulses. They stop releasing radio pulses when they stop, therefore we won't be able to view them during this time.
 
-<br>Scientists observed this mystery star for about a year and a half in the hope that the pulsar would return and then eventually it did in August 2011, after 580 days! Scientists knew that they have found a rare subspecies of pulsar.It is still a mystery what causes these stars to go invisible. By measuring the radio pulses from the star scientists can measure how fast is it spinning. The massive currents in the magnetosphere of pulsars helps in the spinning of this star and when this current stops flowing the pulsars slows down and eventually stop. But what causes the stoppage of this current flow is not know yet.
+<br>Scientists watched this mysterious star for approximately a year and a half in the hopes that the pulsar would return, and it did in August 2011, 580 days later! Scientists were aware that they had discovered a rare pulsar subtype. What causes these stars to become invisible is still a mystery. Scientists can determine how rapidly the star is rotating by detecting the radio pulses it emits. Pulsars spin because of tremendous currents in their magnetospheres, and when these currents stop flowing, the pulsars slow down and finally stop spinning. However, the source of the present flow's interruption is unknown.
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3593,18 +3592,16 @@ It was discovered in December 2008 and at first was thought to be just a regular
 <img width="600" height="350" src="media\photos\stars\star_black_hole.webp">
 
 <br> <b>2. Swift J1644+57: The Star That Got Eaten By A Blackhole</b>
-About 3.9 billion light years away in the constellation of Draco something happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, this time it's a star, Swift J1644+57.
+About 3.9 billion light years away in the constellation of Draco something strange happened. We all have heard about the "black holes" and the fact that it destroys anything that comes near it. Well, in this case it's a star, Swift J1644+57.
 <br>
-The event took place in another, smaller galaxy. It was first noticed when scientist received a huge amount of X-rays and γ-rays from a previously quite part of the universe. On further observations it was found that the beam was coming from the center of another galaxy. Later on it was concluded that the beam was coming from a "jet" released after a black hole consumed a star. The jet accelerated away from the site of the event at 99.5% the light's speed!
+The event took place in another, smaller galaxy. Scientists first spotted it when they got a massive amount of X-rays and -rays from an otherwise quiet corner of the universe. The beam was discovered to be emanating from the center of another galaxy after more investigations. The beam was later determined to be the result of a "jet" emitted after a black hole devoured a star. The jet accelerated away from the incident at 99.5 percent the speed of light!
 
 <br>Most of the galaxies contains a central super-sized black hole. According to the studies it's been suggested that the black hole involved in this event is 1 millions times larger than the mass of Sun!
 
-
-<br>This is what happens when a star fall into a black hole:
+<br>When a star falls into a black hole:
 The star is ripped apart by the intense tides and leads to the formation of a gaseous disk that swirls around the black hole and gets heated up to millions of degrees. The innermost gas in the disk spirals towards the black hole, and because of the rapid motion and magnetism a dual, oppositely directed funnels are created through which some particles escape, known as jet. In case of Swift J1644+57 one of these jets pointed straight towards the Earth.
 
-<br>The timing considerations suggested that the star that got devoured was a white dwarf. This is for the first time that scientists witnessed this type of event from the beginning.
-Another interesting fact is that the site of this event is so far away that it took 3.9 billion years for the light from there to reach Earth! So, it's pretty old event in actuality!
+<br>The timing considerations believed that the star that got devoured was a white dwarf. This was the first time that scientists witnessed this type of event from the beginning. This event is in actuallity really old, because it took 3.9 billion years for the light from there to reach Earth! 
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3614,16 +3611,16 @@ Another interesting fact is that the site of this event is so far away that it t
 <br>
 <img width="600" height="350" src="media\photos\stars\oldest_star.webp">
 
-<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b> Now that sounds impossible. How can a star be older than universe? But believe it or not this star, HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
+<br> <b>3. HD 140283: The Star That's Older Than The Universe!</b>It's sounds unbelievable, but HD 140283, is older than Universe according to the calculations. It is estimated that this star is 14.46 ± 0.8 billions years old, whereas the universe is 13.79 ± 0.021 billions years.
 
-<br>However, the exact age of the star and the universe cannot be predicted. There are uncertainties in the value. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. I guess we'll never know which one is it (or maybe in distant future), but it's a possibility, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
+<br>Of course, the exact age of the star and the universe cannot be predicted. The age of this star is 14.46 ± 0.8 billions years. If you consider the lower limit i.e. if you minus 0.8 billion years it will come out to be 13.66 billion years, which means that is younger than the age of the universe i.e 13.79 ± 0.021 billions years. However, if you consider the upper limit, then it will be older than the universe. It's difficult to be certain  which one is it, but it is possible, according to the current calculation methods.Also known as the "Methuselah star", it is located about 190 light years away from us, in the constellation of Libra.
 
 <br>Facts:
-<br>This star is the oldest star known. There are other features of this star that also suggest that it's a pretty old star. First of all it's a sub-giant star, i.e. it's not a red giant, rather heading towards the red giant stage ('nearing end' stage of a star). Secondly, it belongs to population II group of stars. Population II stars have a low content of metals. Now, in astronomy "metals" is anything that's not hydrogen or helium. Hydrogen and helium are the two elements that were produced by the big bang. So first generation of the stars (population III stars) had no metal at all. The first generation survived for only a few millions of years and then ended their lives in supernova explosions. A second generation of stars, population II, were then formed from the remnant of first generation, and this generation had some degree (but still low amount) of metals in them. Population I are the younger generations stars that has high levels of metal in them. Our Sun is an example of population I stars.
+<br>This is the oldest known star. There are other characteristics of this star that point to it being quite old. For starters, it's a sub-giant star, which means it's not a red giant but is on its way to becoming one (the 'nearing end' stage of a star). Second, it is a member of the population II star group. Metal composition is low in population II stars. In astronomy, "metals" refers to anything other than hydrogen and helium. The two elements generated by the big bang are hydrogen and helium. As a result, the initial generation of stars (population III stars) contained no metal. The first generation only lived for a few million years before succumbing to supernova explosions. The remnants of the first generation were then used to generate a second generation of stars, population II, which contained some (but still insignificant) metals. Population I stars come from the younger generations and have a lot of metal in them. Our Sun is an example of a star with a population of one.
 
-<br>This star was born in a primeval dwarf galaxy and was later on gravitationally shredded and devoured by our emerging Milky Way galaxy over 12 billion years ago. It has an elongated orbit that encircles the milky way. Hence, it passes through our solar neighborhood, making it visible to naked eyes, with a speed of 800,000 miles per hour!
+<br>This star was created in a distant dwarf galaxy and was gravitationally ripped and eaten by our Milky Way approximately 12 billion years ago. It encircles the Milky Way with an extended orbit. As a result, it travels past our solar neighborhood at a speed of 800,000 miles per hour, making it visible to the naked eye!
 
-<br>Well, this is the oldest star that we know of. Who knows there are much older stars somewhere out there?
+<br>This is the oldest star that we know of. Who knows there are maybe much older stars somewhere out there!
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
@@ -3636,13 +3633,13 @@ Another interesting fact is that the site of this event is so far away that it t
 <br> <b>4. HV 2112: The Star Inside A Star!</b>
 Discovered in 2014, HV 2112 is a red supergiant located about 1,99,000 light years away in the nearby dwarf galaxy called the Small Magellanic Cloud, or Nebucula Minor, in the Tucana constellation.
 
-<br>The existence of this star was predicted about 40 years ago by physicist Kip Thorne and astronomer Anna Zytkow! In 1975 they proposed the existence of a hybrid object, known as Thorne-Zytkow object.
+<br>Physicist Kip Thorne and astronomer Anna Zytkow predicted the existence of this star almost 40 years ago. They were founded in 1975 the existence of a hybrid object, known as Thorne-Zytkow object.
 
-<br>Thorne-Zytkow object is a type of star which is formed by the collision of a red giant or supergiant star with a neutron star. Basically what happens is: a star goes into supernova and leads to the formation of a neutron star. But then a passing by red supergiant star collides with the neutron star and absorbs it forming a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
+<br>A Thorne-Zytkow object is a star that is generated when a red giant or supergiant star collides with a neutron star. What happens is that a star goes supernova, resulting in the production of a neutron star. However, a nearby red supergiant star collides with the neutron star and consumes it, resulting in the formation of a hybrid star. So in other words its a star inside a star! From outside its a red supergiant whereas the core is formed by a neutron star!
 
-<br>These objects differ from a normal red supergiant in their chemical fingerprints. From the outside it sure looks like a red supergiant but inside it is rich in rubidium, strontium, yttrium, zirconium, molybdenum and lithium. The light emitted from HV2112 was studied and it was found that the light was highly rich in these elements. A normal red supergiant also have these components but not in such high amount.
+<br>The chemical fingerprints of these objects differ from that of a typical red supergiant. It may appear to be a red supergiant from the exterior, but it is rich in rubidium, strontium, yttrium, zirconium, molybdenum, and lithium on the inside. The light emitted by HV2112 was investigated, and it was discovered that the light included a high concentration of certain components. These elements can be found in a regular red supergiant, but not in such large quantities.
 
-<br>This star is the only one of its kind! It is the first ever Thorne-Zytkow object to be discovered. But studies are still going on to confirm that HV 2112 is a hybrid star.
+<br>This is the one and only star of its kind! It's the first time a Thorne-Zytkow item has been found. However, research is still underway to determine whether HV 2112 is a hybrid star.
 
 <br> Source [Most amazing stars](https://owlcation.com/stem/Most-Amazing-Stars)
 
