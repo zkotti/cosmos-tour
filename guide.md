@@ -3253,7 +3253,7 @@ Makemake is currently visually the second-brightest Kuiper belt object after Plu
 
 Combining the detection in infrared by the Spitzer Space Telescope and Herschel Space Telescope with the similarities of spectrum with Pluto yielded an estimated diameter from 1,360 to 1,480 km.
 
-Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.[49]
+Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
 
