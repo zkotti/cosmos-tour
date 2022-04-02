@@ -1000,7 +1000,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 **Country Code (cioc):** ARG
 </br>
 **Region:** Americas
-
+</br>
 **Top Attractions:**  Iguazú Falls,  Perito Moreno Glacier,  Tierra del Fuego National Park,  Historic Córdoba Cathedral
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/argentina-arg.htm)
 
@@ -2954,6 +2954,13 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** YEM
 </br>
 **Region:** Asia
+</br>
+**Attractions:**  The Ancient Tombs, Sanaa, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress,  
+Socotra Island, Sand Dunes, Socotra Island, Archer Beach,  Al Mukalla Harbor, , Gulf of Aden, Old Walled City of Shibam,
+The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula,
+The Madrasa Amiriya of Rada, Jibla and its Surroundings, Jabal Haraz, Balhaf
+source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
+
 
 ---
 
