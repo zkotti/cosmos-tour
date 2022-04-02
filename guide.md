@@ -364,6 +364,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#9](#fact9)
   - [#10](#fact10)
 ---
+
+- ### [Fine Arts](#arts)
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -5059,5 +5062,9 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 ### <a name="fact10"></a>**10. THERE IS A PLANET MADE OF DIAMONDS**
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
+
+---
+
+## <a name="arts"></a> **Fine Arts**
 
 ---
