@@ -781,7 +781,7 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 
 ### <a name="afghanistan"></a>**Afghanistan**
 
-<img width="300" height="300" src="media/flags/af.svg">
+<img width="300" height="300" src="media/photos/flags/af.svg">
 
 **Capital:** [Kabul](https://www.google.com/maps/search/Kabul)
 </br>
@@ -807,7 +807,7 @@ Afghanistan is a landlocked country at the crossroads of Central and South Asia,
 
 ### <a name="albania"></a>**Albania**
 
-<img width="300" height="300" src="media/flags/al.svg">
+<img width="300" height="300" src="media/photos/flags/al.svg">
 
 **Capital:** [Tirana](https://www.google.com/maps/search/Tirana)
 </br>
@@ -833,7 +833,7 @@ Albania is a country in Southeastern Europe that is officially known as the Repu
 
 ### <a name="algeria"></a>**Algeria**
 
-<img width="300" height="300" src="media/flags/dz.svg">
+<img width="300" height="300" src="media/photos/flags/dz.svg">
 
 **Capital:** [Algiers](https://www.google.com/maps/search/Algiers)
 </br>
@@ -859,7 +859,7 @@ Algeria, formally the People's Democratic Republic of Algeria, is a North Africa
 
 ### <a name="andorra"></a>**Andorra**
 
-<img width="300" height="300" src="media/flags/ad.svg">
+<img width="300" height="300" src="media/photos/flags/ad.svg">
 
 **Capital:** [Andorra la Vella](https://www.google.com/maps/search/Andorra%20la%20Vella)
 </br>
@@ -886,7 +886,7 @@ Andorra la Vella is the country's capital and largest city.
 
 ### <a name="angola"></a>**Angola**
 
-<img width="300" height="300" src="media/flags/ao.svg">
+<img width="300" height="300" src="media/photos/flags/ao.svg">
 
 **Capital:** [Luanda](https://www.google.com/maps/search/Luanda)
 </br>
@@ -912,7 +912,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 
 ### <a name="antigua"></a>**Antigua and Barbuda**
 
-<img width="300" height="300" src="media/flags/ag.svg">
+<img width="300" height="300" src="media/photos/flags/ag.svg">
 
 **Capital:** [Saint John's](https://www.google.com/maps/search/Saint%20John's)
 </br>
@@ -933,7 +933,7 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 
 ### <a name="argentina"></a>**Argentina**
 
-<img width="300" height="300" src="media/flags/ar.svg">
+<img width="300" height="300" src="media/photos/flags/ar.svg">
 
 **Capital:** [Buenos Aires](https://www.google.com/maps/search/Buenos%20Aires)
 </br>
@@ -959,7 +959,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="armenia"></a>**Armenia**
 
-<img width="300" height="300" src="media/flags/am.svg">
+<img width="300" height="300" src="media/photos/flags/am.svg">
 
 **Capital:** [Yerevan](https://www.google.com/maps/search/Yerevan)
 </br>
@@ -980,7 +980,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="australia"></a>**Australia**
 
-<img width="300" height="300" src="media/flags/au.svg">
+<img width="300" height="300" src="media/photos/flags/au.svg">
 
 **Capital:** [Canberra](https://www.google.com/maps/search/Canberra)
 </br>
@@ -1001,7 +1001,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="austria"></a>**Austria**
 
-<img width="300" height="300" src="media/flags/at.svg">
+<img width="300" height="300" src="media/photos/flags/at.svg">
 
 **Capital:** [Vienna](https://www.google.com/maps/search/Vienna)
 </br>
@@ -1020,7 +1020,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="azerbaijan"></a>**Azerbaijan**
 
-<img width="300" height="300" src="media/flags/az.svg">
+<img width="300" height="300" src="media/photos/flags/az.svg">
 
 **Capital:** [Baku](https://www.google.com/maps/search/Baku)
 </br>
@@ -1038,7 +1038,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bahamas"></a>**Bahamas**
 
-<img width="300" height="300" src="media/flags/bs.svg">
+<img width="300" height="300" src="media/photos/flags/bs.svg">
 
 **Capital:** [Nassau](https://www.google.com/maps/search/Nassau)
 </br>
@@ -1056,7 +1056,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bahrain"></a>**Bahrain**
 
-<img width="300" height="300" src="media/flags/bh.svg">
+<img width="300" height="300" src="media/photos/flags/bh.svg">
 
 **Capital:** [Manama](https://www.google.com/maps/search/Manama)
 </br>
@@ -1074,7 +1074,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bangladesh"></a>**Bangladesh**
 
-<img width="300" height="300" src="media/flags/bd.svg">
+<img width="300" height="300" src="media/photos/flags/bd.svg">
 
 **Capital:** [Dhaka](https://www.google.com/maps/search/Dhaka)
 </br>
@@ -1092,7 +1092,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="barbados"></a>**Barbados**
 
-<img width="300" height="300" src="media/flags/bb.svg">
+<img width="300" height="300" src="media/photos/flags/bb.svg">
 
 **Capital:** [Bridgetown](https://www.google.com/maps/search/Bridgetown)
 </br>
@@ -1110,7 +1110,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="belarus"></a>**Belarus**
 
-<img width="300" height="300" src="media/flags/by.svg">
+<img width="300" height="300" src="media/photos/flags/by.svg">
 
 **Capital:** [Minsk](https://www.google.com/maps/search/Minsk)
 </br>
@@ -1128,7 +1128,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="belgium"></a>**Belgium**
 
-<img width="300" height="300" src="media/flags/be.svg">
+<img width="300" height="300" src="media/photos/flags/be.svg">
 
 **Capital:** [Brussels](https://www.google.com/maps/search/Brussels)
 </br>
@@ -1146,7 +1146,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="belize"></a>**Belize**
 
-<img width="300" height="300" src="media/flags/bz.svg">
+<img width="300" height="300" src="media/photos/flags/bz.svg">
 
 **Capital:** [Belmopan](https://www.google.com/maps/search/Belmopan)
 </br>
@@ -1164,7 +1164,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="benin"></a>**Benin**
 
-<img width="300" height="300" src="media/flags/bj.svg">
+<img width="300" height="300" src="media/photos/flags/bj.svg">
 
 **Capital:** [Porto-Novo](https://www.google.com/maps/search/Porto-Novo)
 </br>
@@ -1182,7 +1182,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bhutan"></a>**Bhutan**
 
-<img width="300" height="300" src="media/flags/bt.svg">
+<img width="300" height="300" src="media/photos/flags/bt.svg">
 
 **Capital:** [Thimphu](https://www.google.com/maps/search/Thimphu)
 </br>
@@ -1200,7 +1200,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bolivia"></a>**Bolivia**
 
-<img width="300" height="300" src="media/flags/bo.svg">
+<img width="300" height="300" src="media/photos/flags/bo.svg">
 
 **Capital:** [Sucre](https://www.google.com/maps/search/Sucre)
 </br>
@@ -1218,7 +1218,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bosnia"></a>**Bosnia and Herzegovina**
 
-<img width="300" height="300" src="media/flags/ba.svg">
+<img width="300" height="300" src="media/photos/flags/ba.svg">
 
 **Capital:** [Sarajevo](https://www.google.com/maps/search/Sarajevo)
 </br>
@@ -1236,7 +1236,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="botswana"></a>**Botswana**
 
-<img width="300" height="300" src="media/flags/bw.svg">
+<img width="300" height="300" src="media/photos/flags/bw.svg">
 
 **Capital:** [Gaborone](https://www.google.com/maps/search/Gaborone)
 </br>
@@ -1254,7 +1254,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="brazil"></a>**Brazil**
 
-<img width="300" height="300" src="media/flags/br.svg">
+<img width="300" height="300" src="media/photos/flags/br.svg">
 
 **Capital:** [Brasilia](https://www.google.com/maps/search/Brasilia)
 </br>
@@ -1272,7 +1272,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="brunei"></a>**Brunei**
 
-<img width="300" height="300" src="media/flags/bn.svg">
+<img width="300" height="300" src="media/photos/flags/bn.svg">
 
 **Capital:** [Bandar Seri Begawan](https://www.google.com/maps/search/Bandar+Seri+Begawan)
 </br>
@@ -1290,7 +1290,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="bulgaria"></a>**Bulgaria**
 
-<img width="300" height="300" src="media/flags/bg.svg">
+<img width="300" height="300" src="media/photos/flags/bg.svg">
 
 **Capital:** [Sofia](https://www.google.com/maps/search/Sofia)
 </br>
@@ -1308,7 +1308,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="burkina faso"></a>**Burkina Faso**
 
-<img width="300" height="300" src="media/flags/bf.svg">
+<img width="300" height="300" src="media/photos/flags/bf.svg">
 
 **Capital:** [Ouagadougou](https://www.google.com/maps/search/Ouagadougou)
 </br>
@@ -1326,7 +1326,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="burundi"></a>**Burundi**
 
-<img width="300" height="300" src="media/flags/bi.svg">
+<img width="300" height="300" src="media/photos/flags/bi.svg">
 
 **Capital:** [Bujumbura](https://www.google.com/maps/search/Bujumbura)
 </br>
@@ -1344,7 +1344,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="cabo_verde"></a>**Cabo Verde**
 
-<img width="300" height="300" src="media/flags/ci.svg">
+<img width="300" height="300" src="media/photos/flags/ci.svg">
 
 **Capital:** [Praia](https://www.google.com/maps/search/Praia)
 </br>
@@ -1362,7 +1362,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="cambodia"></a>**Cambodia**
 
-<img width="300" height="300" src="media/flags/kh.svg">
+<img width="300" height="300" src="media/photos/flags/kh.svg">
 
 **Capital:** [Phnom Penh](https://www.google.com/maps/search/Phnom+Penh)
 </br>
@@ -1380,7 +1380,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="cameroon"></a>**Cameroon**
 
-<img width="300" height="300" src="media/flags/cm.svg">
+<img width="300" height="300" src="media/photos/flags/cm.svg">
 
 **Capital:** [Yaoundé](https://www.google.com/maps/search/Yaoundé)
 </br>
@@ -1398,7 +1398,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="canada"></a>**Canada**
 
-<img width="300" height="300" src="media/flags/ca.svg">
+<img width="300" height="300" src="media/photos/flags/ca.svg">
 
 **Capital:** [Ottawa](https://www.google.com/maps/search/Ottawa)
 </br>
@@ -1416,7 +1416,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="central_african_republic"></a>**Central African Republic**
 
-<img width="300" height="300" src="media/flags/cf.svg">
+<img width="300" height="300" src="media/photos/flags/cf.svg">
 
 **Capital:** [Bangui](https://www.google.com/maps/search/Bangui)
 </br>
@@ -1434,7 +1434,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="chad"></a>**Chad**
 
-<img width="300" height="300" src="media/flags/td.svg">
+<img width="300" height="300" src="media/photos/flags/td.svg">
 
 **Capital:** [N'Djamena](https://www.google.com/maps/search/N%27Djamena)
 </br>
@@ -1453,7 +1453,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="chile"></a>**Chile**
 
-<img width="300" height="300" src="media/flags/cl.svg">
+<img width="300" height="300" src="media/photos/flags/cl.svg">
 
 **Capital:** [Santiago](https://www.google.com/maps/search/Santiago)
 </br>
@@ -1471,7 +1471,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="china"></a>**China**
 
-<img width="300" height="300" src="media/flags/cn.svg">
+<img width="300" height="300" src="media/photos/flags/cn.svg">
 
 **Capital:** [Beijing](https://www.google.com/maps/search/Beijing)
 </br>
@@ -1489,7 +1489,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="colombia"></a>**Colombia**
 
-<img width="300" height="300" src="media/flags/co.svg">
+<img width="300" height="300" src="media/photos/flags/co.svg">
 
 **Capital:** [Bogotá](https://www.google.com/maps/search/Bogotá)
 </br>
@@ -1507,7 +1507,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="comoros"></a>**Comoros**
 
-<img width="300" height="300" src="media/flags/km.svg">
+<img width="300" height="300" src="media/photos/flags/km.svg">
 
 **Capital:** [Moroni](https://www.google.com/maps/search/Moroni)
 </br>
@@ -1525,7 +1525,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="congo"></a>**Congo**
 
-<img width="300" height="300" src="media/flags/cg.svg">
+<img width="300" height="300" src="media/photos/flags/cg.svg">
 
 **Capital:** [Brazzaville](https://www.google.com/maps/search/Brazzaville)
 </br>
@@ -1543,7 +1543,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="costa_rica"></a>**Costa Rica**
 
-<img width="300" height="300" src="media/flags/cr.svg">
+<img width="300" height="300" src="media/photos/flags/cr.svg">
 
 **Capital:** [San José](https://www.google.com/maps/search/San+Jose)
 </br>
@@ -1561,7 +1561,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="cote_d_ivoire"></a>**Cote d'Ivoire**
 
-<img width="300" height="300" src="media/flags/ci.svg">
+<img width="300" height="300" src="media/photos/flags/ci.svg">
 
 **Capital:** [Yamoussoukro](https://www.google.com/maps/search/Yamoussoukro)
 </br>
@@ -1579,7 +1579,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="croatia"></a>**Croatia**
 
-<img width="300" height="300" src="media/flags/hr.svg">
+<img width="300" height="300" src="media/photos/flags/hr.svg">
 
 **Capital:** [Zagreb](https://www.google.com/maps/search/Zagreb)
 </br>
@@ -1597,7 +1597,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 ### <a name="cuba"></a>**Cuba**
 
-<img width="300" height="300" src="media/flags/cu.svg">
+<img width="300" height="300" src="media/photos/flags/cu.svg">
 
 **Capital:** [Havana](https://www.google.com/maps/search/Havana)
 </br>
@@ -1614,7 +1614,7 @@ Argentina is a country in the southern half of South America. Argentina covers a
 ---
 ### <a name="cyprus"></a>**Cyprus**
 
-<img width="300" height="300" src="media/flags/cy.svg">
+<img width="300" height="300" src="media/photos/flags/cy.svg">
 
 **Capital:** [Nicosia](https://www.google.com/maps/search/Nicosia)
 </br>
@@ -1634,7 +1634,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="czech_republic"></a>**Czech Republic**
 
-<img width="300" height="300" src="media/flags/cz.svg">
+<img width="300" height="300" src="media/photos/flags/cz.svg">
 
 **Capital:** [Prague](https://www.google.com/maps/search/Prague)
 </br>
@@ -1652,7 +1652,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="denmark"></a>**Denmark**
 
-<img width="300" height="300" src="media/flags/dk.svg">
+<img width="300" height="300" src="media/photos/flags/dk.svg">
 
 **Capital:** [Copenhagen](https://www.google.com/maps/search/Copenhagen)
 </br>
@@ -1670,7 +1670,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="djibouti"></a>**Djibouti**
 
-<img width="300" height="300" src="media/flags/dj.svg">
+<img width="300" height="300" src="media/photos/flags/dj.svg">
 
 **Capital:** [Djibouti](https://www.google.com/maps/search/Djibouti)
 </br>
@@ -1688,7 +1688,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="dominica"></a>**Dominica**
 
-<img width="300" height="300" src="media/flags/dm.svg">
+<img width="300" height="300" src="media/photos/flags/dm.svg">
 
 **Capital:** [Roseau](https://www.google.com/maps/search/Roseau)
 </br>
@@ -1706,7 +1706,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="dominican_republic"></a>**Dominican Republic**
 
-<img width="300" height="300" src="media/flags/do.svg">
+<img width="300" height="300" src="media/photos/flags/do.svg">
 
 **Capital:** [Santo Domingo](https://www.google.com/maps/search/Santo+Domingo)
 </br>
@@ -1724,7 +1724,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="ecuador"></a>**Ecuador**
 
-<img width="300" height="300" src="media/flags/ec.svg">
+<img width="300" height="300" src="media/photos/flags/ec.svg">
 
 **Capital:** [Quito](https://www.google.com/maps/search/Quito)
 </br>
@@ -1742,7 +1742,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="egypt"></a>**Egypt**
 
-<img width="300" height="300" src="media/flags/eg.svg">
+<img width="300" height="300" src="media/photos/flags/eg.svg">
 
 **Capital:** [Cairo](https://www.google.com/maps/search/Cairo)
 </br>
@@ -1760,7 +1760,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="el_salvador"></a>**El Salvador**
 
-<img width="300" height="300" src="media/flags/sv.svg">
+<img width="300" height="300" src="media/photos/flags/sv.svg">
 
 **Capital:** [San Salvador](https://www.google.com/maps/search/San+Salvador)
 </br>
@@ -1778,7 +1778,7 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 
 ### <a name="england"></a>**England**
 
-<img width="300" height="300" src="media/flags/gb-eng.svg">
+<img width="300" height="300" src="media/photos/flags/gb-eng.svg">
 
 **Capital:** [London](https://www.google.com/maps/search/London)
 </br>
@@ -1798,7 +1798,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="equatorial_guinea"></a>**Equatorial Guinea**
 
-<img width="300" height="300" src="media/flags/gq.svg">
+<img width="300" height="300" src="media/photos/flags/gq.svg">
 
 **Capital:** [Malabo](https://www.google.com/maps/search/Malabo)
 </br>
@@ -1816,7 +1816,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="eritrea"></a>**Eritrea**
 
-<img width="300" height="300" src="media/flags/er.svg">
+<img width="300" height="300" src="media/photos/flags/er.svg">
 
 **Capital:** [Asmara](https://www.google.com/maps/search/Asmara)
 </br>
@@ -1834,7 +1834,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="estonia"></a>**Estonia**
 
-<img width="300" height="300" src="media/flags/ee.svg">
+<img width="300" height="300" src="media/photos/flags/ee.svg">
 
 **Capital:** [Tallinn](https://www.google.com/maps/search/Tallinn)
 </br>
@@ -1852,7 +1852,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="eswatini"></a>**Eswatini**
 
-<img width="300" height="300" src="media/flags/sz.svg">
+<img width="300" height="300" src="media/photos/flags/sz.svg">
 
 **Capital:** [Mbabane](https://www.google.com/maps/search/Mbabane)
 </br>
@@ -1870,7 +1870,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="ethiopia"></a>**Ethiopia**
 
-<img width="300" height="300" src="media/flags/et.svg">
+<img width="300" height="300" src="media/photos/flags/et.svg">
 
 **Capital:** [Addis Ababa](https://www.google.com/maps/search/Addis+Ababa)
 </br>
@@ -1888,7 +1888,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="fiji"></a>**Fiji**
 
-<img width="300" height="300" src="media/flags/fj.svg">
+<img width="300" height="300" src="media/photos/flags/fj.svg">
 
 **Capital:** [Suva](https://www.google.com/maps/search/Suva)
 </br>
@@ -1906,7 +1906,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="finland"></a>**Finland**
 
-<img width="300" height="300" src="media/flags/fi.svg">
+<img width="300" height="300" src="media/photos/flags/fi.svg">
 
 **Capital:** [Helsinki](https://www.google.com/maps/search/Helsinki)
 </br>
@@ -1924,7 +1924,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="france"></a>**France**
 
-<img width="300" height="300" src="media/flags/fr.svg">
+<img width="300" height="300" src="media/photos/flags/fr.svg">
 
 **Capital:** [Paris](https://www.google.com/maps/search/Paris)
 </br>
@@ -1942,7 +1942,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="georgia"></a>**Georgia**
 
-<img width="300" height="300" src="media/flags/ge.svg">
+<img width="300" height="300" src="media/photos/flags/ge.svg">
 
 **Capital:** [Tbilisi](https://www.google.com/maps/search/Tbilisi)
 </br>
@@ -1960,7 +1960,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="germany"></a>**Germany**
 
-<img width="300" height="300" src="media/flags/de.svg">
+<img width="300" height="300" src="media/photos/flags/de.svg">
 
 **Capital:** [Berlin](https://www.google.com/maps/search/Berlin)
 </br>
@@ -1978,7 +1978,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="ghana"></a>**Ghana**
 
-<img width="300" height="300" src="media/flags/gh.svg">
+<img width="300" height="300" src="media/photos/flags/gh.svg">
 
 **Capital:** [Accra](https://www.google.com/maps/search/Accra)
 </br>
@@ -1996,7 +1996,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 ### <a name="greece"></a>**Greece**
 
-<img width="300" height="300" src="media/flags/gr.svg">
+<img width="300" height="300" src="media/photos/flags/gr.svg">
 
 **Capital:** [Athens](https://www.google.com/maps/search/Athens)
 </br>
@@ -2021,7 +2021,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="guatemala"></a>**Guatemala**
 
-<img width="300" height="300" src="media/flags/gua.svg">
+<img width="300" height="300" src="media/photos/flags/gua.svg">
 
 **Capital:** [Guatemala City](https://www.google.com/maps/search/Guatemala%20City)
 </br>
@@ -2039,7 +2039,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iceland"></a>**Iceland**
 
-<img width="300" height="300" src="media/flags/ice.svg">
+<img width="300" height="300" src="media/photos/flags/ice.svg">
 
 **Capital:** [Reykjavik](https://www.google.gr/maps/place/%CE%A1%CE%AD%CE%B9%CE%BA%CE%B9%CE%B1%CE%B2%CE%B9%CE%BA,+%CE%99%CF%83%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1/@64.1335484,-21.9224815,12z/data=!3m1!4b1!4m5!3m4!1s0x48d674b9eedcedc3:0xec912ca230d26071!8m2!3d64.146582!4d-21.9426354)
 </br>
@@ -2057,7 +2057,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="india"></a>**India**
 
-<img width="300" height="300" src="media/flags/in.svg">
+<img width="300" height="300" src="media/photos/flags/in.svg">
 
 **Capital:** [New Delhi](https://www.google.com/maps/search/New%20Delhi)
 </br>
@@ -2075,7 +2075,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="indonesia"></a>**Indonesia**
 
-<img width="300" height="300" src="media/flags/id.svg">
+<img width="300" height="300" src="media/photos/flags/id.svg">
 
 **Capital:** [Jakarta](https://www.google.com/maps/search/Jakarta)
 </br>
@@ -2093,7 +2093,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iran"></a>**Iran**
 
-<img width="300" height="300" src="media/flags/ir.svg">
+<img width="300" height="300" src="media/photos/flags/ir.svg">
 
 **Capital:** [Tehran](https://www.google.com/maps/search/Tehran)
 </br>
@@ -2111,7 +2111,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iraq"></a>**Iraq**
 
-<img width="300" height="300" src="media/flags/iq.svg">
+<img width="300" height="300" src="media/photos/flags/iq.svg">
 
 **Capital:** [Baghdad](https://www.google.com/maps/search/Baghdad)
 </br>
@@ -2129,7 +2129,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="ireland"></a>**Ireland**
 
-<img width="300" height="300" src="media/flags/ie.svg">
+<img width="300" height="300" src="media/photos/flags/ie.svg">
 
 **Capital:** [Dublin](https://www.google.com/maps/search/Dublin)
 </br>
@@ -2147,7 +2147,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="israel"></a>**Israel**
 
-<img width="300" height="300" src="media/flags/il.svg">
+<img width="300" height="300" src="media/photos/flags/il.svg">
 
 **Capital:** [Jerusalem](https://www.google.com/maps/search/Jerusalem)
 </br>
@@ -2165,7 +2165,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="italy"></a>**Italy**
 
-<img width="300" height="300" src="media/flags/it.svg">
+<img width="300" height="300" src="media/photos/flags/it.svg">
 
 **Capital:** [Rome](https://www.google.com/maps/search/Rome)
 </br>
@@ -2183,7 +2183,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="japan"></a>**Japan**
 
-<img width="300" height="300" src="media/flags/jp.svg">
+<img width="300" height="300" src="media/photos/flags/jp.svg">
 
 **Capital:** [Tokyo](https://www.google.com/maps/search/Tokyo)
 </br>
@@ -2201,7 +2201,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="kenya"></a>**Kenya**
 
-<img width="300" height="300" src="media/flags/ke.svg">
+<img width="300" height="300" src="media/photos/flags/ke.svg">
 
 **Capital:** [Nairobi](https://www.google.com/maps/search/Nairobi)
 </br>
@@ -2219,7 +2219,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="liechtenstein"></a>**Liechtenstein**
 
-<img width="300" height="300" src="media/flags/lcht.svg">
+<img width="300" height="300" src="media/photos/flags/lcht.svg">
 
 **Capital:** [Vaduz](https://www.google.com/maps/search/Vaduz)
 </br>
@@ -2237,7 +2237,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="lithuania"></a>**Lithuania**
 
-<img width="300" height="300" src="media/flags/lt.svg">
+<img width="300" height="300" src="media/photos/flags/lt.svg">
 
 **Capital:** [Vilnius](https://www.google.com/maps/search/Vilnius)
 </br>
@@ -2255,7 +2255,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="luxemburg"></a>**Luxemburg**
 
-<img width="300" height="300" src="media/flags/lxmb.svg">
+<img width="300" height="300" src="media/photos/flags/lxmb.svg">
 
 **Capital:** [Luxemburg City](https://www.google.com/maps/search/Luxemburg%20City)
 </br>
@@ -2273,7 +2273,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="mexico"></a>**Mexico**
 
-<img width="300" height="300" src="media/flags/mx.svg">
+<img width="300" height="300" src="media/photos/flags/mx.svg">
 
 **Capital:** [Mexico City](https://www.google.com/maps/search/Mexico%20City)
 </br>
@@ -2291,7 +2291,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="monaco"></a>**Monaco**
 
-<img width="300" height="300" src="media/flags/monaco.svg">
+<img width="300" height="300" src="media/photos/flags/monaco.svg">
 
 **Capital:** [City of Monaco](https://www.google.com/maps/search/City%20of%20Monaco)
 </br>
@@ -2309,7 +2309,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="new_zealand"></a>**New Zealand**
 
-<img width="300" height="300" src="media/flags/nz.svg">
+<img width="300" height="300" src="media/photos/flags/nz.svg">
 
 **Capital:** [Wellington](https://www.google.com/maps/search/Wellington)
 </br>
@@ -2327,7 +2327,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="norway"></a>**Norway**
 
-<img width="300" height="300" src="media/flags/no.svg">
+<img width="300" height="300" src="media/photos/flags/no.svg">
 
 **Capital:** [Oslo](https://www.google.com/maps/search/Oslo)
 </br>
@@ -2345,7 +2345,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="peru"></a>**Peru**
 
-<img width="300" height="300" src="media/flags/pe.svg">
+<img width="300" height="300" src="media/photos/flags/pe.svg">
 
 **Capital:** [Lima](https://www.google.com/maps/search/Lima)
 </br>
@@ -2363,7 +2363,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="philippines"></a>**Philippines**
 
-<img width="300" height="300" src="media/flags/ph.svg">
+<img width="300" height="300" src="media/photos/flags/ph.svg">
 
 **Capital:** [Manila](https://www.google.com/maps/search/Manila)
 </br>
@@ -2381,7 +2381,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="romania"></a>**Romania**
 
-<img width="300" height="300" src="media/flags/ro.svg">
+<img width="300" height="300" src="media/photos/flags/ro.svg">
 
 **Capital:** [Bucharest](https://www.google.com/maps/search/Bucharest)
 </br>
@@ -2399,7 +2399,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="russia"></a>**Russia**
 
-<img width="300" height="300" src="media/flags/ru.svg">
+<img width="300" height="300" src="media/photos/flags/ru.svg">
 
 **Capital:** [Moscow](https://www.google.com/maps/search/Moscow)
 </br>
@@ -2417,7 +2417,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="san_marino"></a>**San Marino**
 
-<img width="300" height="300" src="media/flags/sm.svg">
+<img width="300" height="300" src="media/photos/flags/sm.svg">
 
 **Capital:** [San Marino](https://www.google.com/maps/search/San%20Marino)
 </br>
@@ -2435,7 +2435,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="scotland"></a>**Scotland**
 
-<img width="300" height="300" src="media/flags/gb-sct.svg">
+<img width="300" height="300" src="media/photos/flags/gb-sct.svg">
 
 **Capital:** [Edinburgh](https://www.google.com/maps/search/Edinburgh)
 </br>
@@ -2453,7 +2453,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="slovakia"></a>**Slovakia**
 
-<img width="300" height="300" src="media/flags/sk.svg">
+<img width="300" height="300" src="media/photos/flags/sk.svg">
 
 **Capital:** [Bratislava](https://www.google.com/maps/search/Bratislava)
 </br>
@@ -2471,7 +2471,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="slovenia"></a>**Slovenia**
 
-<img width="300" height="300" src="media/flags/si.svg">
+<img width="300" height="300" src="media/photos/flags/si.svg">
 
 **Capital:** [Ljubljana](https://www.google.com/maps/search/Ljubljana)
 </br>
@@ -2489,7 +2489,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="spain"></a>**Spain**
 
-<img width="300" height="300" src="media/flags/es.svg">
+<img width="300" height="300" src="media/photos/flags/es.svg">
 
 **Capital:** [Madrid](https://www.google.com/maps/search/Madrid)
 </br>
@@ -2507,7 +2507,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="switzerland"></a>**Switzerland**
 
-<img width="300" height="300" src="media/flags/ch.svg">
+<img width="300" height="300" src="media/photos/flags/ch.svg">
 
 **Capital:** [Bern](https://www.google.com/maps/search/Bern)
 </br>
@@ -2528,7 +2528,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="ukraine"></a>**Ukraine**
 
-<img width="300" height="300" src="media/flags/ua.svg">
+<img width="300" height="300" src="media/photos/flags/ua.svg">
 
 **Capital:** [Kyiv](https://www.google.com/maps/search/Kyiv)
 </br>
@@ -2546,7 +2546,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="uae"></a>**United Arab Emirates**
 
-<img width="300" height="300" src="media/flags/ae.svg">
+<img width="300" height="300" src="media/photos/flags/ae.svg">
 
 **Capital:** [Abu Dhabi](https://www.google.com/maps/search/Abu%20Dhabi)
 </br>
@@ -2564,7 +2564,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="usa"></a>**United States**
 
-<img width="300" height="300" src="media/flags/us.svg">
+<img width="300" height="300" src="media/photos/flags/us.svg">
 
 **Capital:** [Washington, D.C.](https://www.google.com/maps/search/Washington,%20D.C.)
 </br>
@@ -2582,7 +2582,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="uruguay"></a>**Uruguay**
 
-<img width="300" height="300" src="media/flags/uy.svg">
+<img width="300" height="300" src="media/photos/flags/uy.svg">
 
 **Capital:** [Montevideo](https://www.google.com/maps/search/Montevideo)
 </br>
@@ -2600,7 +2600,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="venezuela"></a>**Venezuela**
 
-<img width="300" height="300" src="media/flags/ve.svg">
+<img width="300" height="300" src="media/photos/flags/ve.svg">
 
 **Capital:** [Caracas](https://www.google.com/maps/search/Caracas)
 </br>
@@ -2618,7 +2618,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="vietnam"></a>**Vietnam**
 
-<img width="300" height="300" src="media/flags/vn.svg">
+<img width="300" height="300" src="media/photos/flags/vn.svg">
 
 **Capital:** [Hanoi](https://www.google.com/maps/search/Hanoi+Vietnam)
 </br>
@@ -2636,7 +2636,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="yemen"></a>**Yemen**
 
-<img width="300" height="300" src="media/flags/ye.svg">
+<img width="300" height="300" src="media/photos/flags/ye.svg">
 
 **Capital:** [Sanaa](https://www.google.com/maps/search/Sanaa)
 </br>
@@ -2654,7 +2654,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="zambia"></a>**Zambia**
 
-<img width="300" height="300" src="media/flags/zm.svg">
+<img width="300" height="300" src="media/photos/flags/zm.svg">
 
 **Capital:** [Lusaka](https://www.google.com/maps/search/Lusaka)
 </br>
@@ -2672,7 +2672,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ### <a name="zimbabwe"></a>**Zimbabwe**
 
-<img width="300" height="300" src="media/flags/zw.svg">
+<img width="300" height="300" src="media/photos/flags/zw.svg">
 
 **Capital:** [Harare](https://www.google.com/maps/search/Harare)
 </br>
