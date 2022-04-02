@@ -2696,7 +2696,7 @@ We still can not visit others planets but using the SpaceEngine (available on [s
 
 ### <a name="earth"></a>**Earth**
 
-<img width="300" height="300" src="media/planets/earth.jpg">
+<img width="300" height="300" src="media/photos/planets/earth.jpg">
 
 owned by [tonyrogers.com](https://www.tonyrogers.com/news/hires_earth.htm)
 
@@ -2720,7 +2720,7 @@ Video [Earth 101 | National Geographic](https://www.youtube.com/watch?v=HCDVN7DC
 
 ### <a name="jupiter"></a>**Jupiter**
 
-<img width="550" height="300" src="media/planets/jupiter.png">
+<img width="550" height="300" src="media/photos/planets/jupiter.png">
 
 owned by [spaceexploration92.com](https://www.spaceexploration92.com/2019/02/planet-jupiter.html)
 
@@ -2744,7 +2744,7 @@ Video [Jupiter 101 | National Geographic](https://www.youtube.com/watch?v=Ptkqws
 
 ### <a name="mars"></a>**Mars**
 
-<img width="500" height="300" src="media/planets/mars.jpg">
+<img width="500" height="300" src="media/photos/planets/mars.jpg">
 
 owned by [econotimes.com](https://www.econotimes.com/Mars-mission-NASA-scientist-says-Martians-can-help-humans-live-on-Red-Planet-1599337)
 
@@ -2766,7 +2766,7 @@ Video [Mars 101 | National Geographic](https://www.youtube.com/watch?v=D8pnmwOXh
 
 ### <a name="mercury"></a>**Mercury**
 
-<img width="470" height="300" src="media/planets/mercury.jpg">
+<img width="470" height="300" src="media/photos/planets/mercury.jpg">
 
 owned by [alearningfamily.com](http://alearningfamily.com/main/mercury-small-but-really-hot-stuff/)
 
@@ -2788,7 +2788,7 @@ Video [Mercury 101 | National Geographic](https://www.youtube.com/watch?v=0KBjnN
 
 ### <a name="neptune"></a>**Neptune**
 
-<img width="400" height="300" src="media/planets/neptune.jpg">
+<img width="400" height="300" src="media/photos/planets/neptune.jpg">
 
 owned by [p-gallery.net](http://www.p-gallery.net/Space/neptune.htm)
 
@@ -2810,7 +2810,7 @@ Video [Neptune 101 | National Geographic](https://www.youtube.com/watch?v=NStn7z
 
 ### <a name="saturn"></a>**Saturn**
 
-<img width="400" height="300" src="media/planets/saturn.jpg">
+<img width="400" height="300" src="media/photos/planets/saturn.jpg">
 
 owned by [techexplorist.com](https://www.techexplorist.com/saturn-flashing-auroras-making-astronomers-scratch-head/29185/)
 
@@ -2832,7 +2832,7 @@ Video [Saturn 101 | National Geographic](https://www.youtube.com/watch?v=epZdZaE
 
 ### <a name="uranus"></a>**Uranus**
 
-<img width="500" height="300" src="media/planets/uranus.jpg">
+<img width="500" height="300" src="media/photos/planets/uranus.jpg">
 
 owned by [zastavki.com](https://www.zastavki.com/rus/Space/wallpaper-112936.htm)
 
@@ -2854,7 +2854,7 @@ Video [Uranus 101 | National Geographic](https://www.youtube.com/watch?v=m4NXbFO
 
 ### <a name="venus"></a>**Venus**
 
-<img width="460" height="350" src="media/planets/venus.jpg">
+<img width="460" height="350" src="media/photos/planets/venus.jpg">
 
 owned by [scitechdaily.com](https://scitechdaily.com/planetary-researchers-surprised-to-find-a-ring-of-fire-on-venus/)
 
@@ -2882,7 +2882,7 @@ According to the International Astronomical Union, a dwarf planet is a celestial
 
 ### <a name="ceres"></a>**Ceres**
 
-<img width="600" height="300" src="media/planets/ceres.jpg">
+<img width="600" height="300" src="media/photos/planets/ceres.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Ceres-dwarf-planet)
 
@@ -2903,7 +2903,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Ceres_(dwarf_planet)>)
 
 ### <a name="pluto"></a>**Pluto**
 
-<img width="600" height="300" src="media/planets/pluto.jpg">
+<img width="600" height="300" src="media/photos/planets/pluto.jpg">
 
 owned by [refinery29.com](https://www.refinery29.com/en-ca/2019/04/230664/pluto-retrograde-capricorn-april-meaning-2019)
 
@@ -2925,7 +2925,7 @@ Video [Pluto 101 | National Geographic](https://www.youtube.com/watch?v=-iZio70b
 
 ### <a name="eris"></a>**Eris**
 
-<img width="500" height="375" src="media/planets/eris.jpg">
+<img width="500" height="375" src="media/photos/planets/eris.jpg">
 
 owned by [nationalgeographic.com](https://www.nationalgeographic.com/science/article/111026-pluto-twin-eris-dwarf-planets-occultation-space-science)
 
@@ -3478,7 +3478,7 @@ To raise awareness about asteroids, the United Nations designated June 30 as Int
 
 ### <a name="ceres_asteroid"></a>**Ceres**
 <br>
-<img width="600" height="300" src="media/planets/ceres.jpg">
+<img width="600" height="300" src="media/photos/planets/ceres.jpg">
 <br>
 <b>Ceres</b> is a dwarf planet in the asteroid belt between the orbits of Mars and Jupiter and therefore more information can be found in the section: Dwarf Planets. Ceres was the first asteroid discovered, on 1 January 1801 by Giuseppe Piazzi at Palermo Astronomical Observatory in Sicily. It was originally classed as a planet, but with the discovery of dozens of other objects in similar orbits in the 1850s, it was reclassified as an asteroid. It was classed as a dwarf planet in 2006 because, at 940 kilometers (580 miles) in diameter, it is the only asteroid large enough for its gravity to make it plastic and keep it as a spheroid.
 
