@@ -376,6 +376,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sculpture](#sculpture)
   - [Literature](#literature)
   - [Music](#music)
+  - [Cinema](#cinema)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -5512,6 +5513,19 @@ owned by [interlude](https://interlude.hk/music-as-art/)
 Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood. 
 
 Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/)
+
+---
+
+### <a name="cinema"></a>**Cinema**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/#" alt="Image of old cinema projector">
+
+owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/)
+
+Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
+
+Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
 
 ---
 
