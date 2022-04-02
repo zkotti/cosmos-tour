@@ -370,6 +370,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Architecture](#architecture)
   - [Painting](#painting)
   - [Sculpture](#sculpture)
+  - [Literature](#literature)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -5264,6 +5265,19 @@ owned by [britannica](https://www.britannica.com/art/sculpture)
 Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
 
 Source [britannica](https://www.britannica.com/art/sculpture)
+
+---
+
+### <a name="literature"></a>**Literature**  
+<br>
+
+<img width="640" height="425" src="" alt="Book image">
+
+owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
+
+Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html)
 
 ---
 
