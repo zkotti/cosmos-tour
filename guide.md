@@ -20,6 +20,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Historic Milestones](#historic_milestones)
   - [Five Weird Things That Happen in Outer Space](#weird_things)
   - [Career in Space](#jobs)
+  - [The Creation of the Universe According to Greek Mythology](#mythology)
 
 - ### [Continents](#continents)
 
@@ -527,6 +528,21 @@ Let's see nine careers options if universe is your broad area of interest.
 If you want to read more information about careers in space you can visit the origin source : [jobs](https://www.indiatoday.in/education-today/jobs-and-careers/story/career-in-space-9-career-options-to-choose-if-space-is-your-broad-area-of-interest-1792259-2021-04-18)
 
 ---
+
+### <a name="mythology"></a>**The Creation of the Universe According to Greek Mythology**
+
+In the beginning there was only chaos. Then out of the void appeared Night and Erebus, the unknowable place where death dwells. All else was empty, silent, endless, darkness. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
+
+Then Erebus slept with Night, who gave birth to Aether the heavenly light, and then to Day the earthly light. Then Night alone produced Doom, Fate, Death, Sleep, Dreams, Nemesis, and others that come to man out of darkness.
+
+Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.”
+
+This is a condensed version of the first part of Greek mythology, about the creation of the universe.
+
+Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
+
+---
+
 ## <a name="continents_map"></a>**_Continents_**
 
 <img src="media\continents\world-continent-map.jpg">
