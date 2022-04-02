@@ -3144,7 +3144,9 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 **Description**
 
-**The Sombrero Galaxy** (also known as Messier Object 104, M104 or NGC 4594) is a spiral galaxy in the constellation borders of Virgo and Corvus, being about 9.55 megaparsecs (31.1 million light-years) from our galaxy, within the local supercluster. It has a diameter of approximately 15 kiloparsecs (49,000 light-years), **three-tenths the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. **The dark dust lane and the bulge give it the appearance of a sombrero hat**. Astronomers initially thought the halo was small and light, indicative of a spiral galaxy; but the Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, indicative of a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **making it easily visible with amateur telescopes**, and is considered by some authors to be the galaxy with the highest absolute magnitude within a radius of 10 megaparsecs of the Milky Way.
+**The Sombrero Galaxy** is a spiral galaxy in the constellation borders of Virgo and Corvus, 31.1 million light-years away from our galaxy. Its diameter is approximately 49,000 light-years, **30% the size of Milky Way**. It has a bright nucleus, an unusually large central bulge, and a prominent dust lane in its outer disk, which is viewed almost edge-on. 
+
+**The dark dust lane and the bulge give it the appearance of a sombrero hat**. The Spitzer Space Telescope found that the dust ring was larger and more massive than previously thought, resembling a giant elliptical galaxy. The galaxy has an apparent magnitude of +8.0, **which makes it easily visible with using an amateur telescope**.
 <br>Source [wiki](https://en.wikipedia.org/wiki/Sombrero_Galaxy)
 
 ---
@@ -4320,9 +4322,9 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 ### <a name="pillars_of_creation"></a> **Pillars of Creation**
 ![Pillars of Creation image](media/photos/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
 
-**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his sermon "The Condescension of Christ"
+**Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his work "The Condescension of Christ"
 
-The photo was taken on April 1, 1995 and it was named as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph were were Jeff Hester and Paul Scowen. The region was rephotographed by ESA's Herschel Space Observatory in 2011, and again by Hubble in 2014 with a newer camera. The photo depicted above is the 2014 version of the photograph. 
+The photo was taken on April 1, 1995 and it was declared as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph's capture were Jeff Hester and Paul Scowen. The same region of the Eagle Nebula was rephotographed by **ESA's Herschel Space Observatory in 2011** and by the **Hubble Telescope in 2014** with a newer camera. The photo depicted above is the 2014 version of the photograph.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
@@ -4333,9 +4335,9 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
  
 >The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
 
-**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total of two million seconds (about 23 days) of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
+**The Hubble eXtreme Deep Field (HXDF)**, released on September 25, 2012, is an image of a portion of space in the center of the Hubble Ultra Deep Field image. Representing a total about 23 days of exposure time collected over 10 years, the image covers about 80% of the area of the HUDF. This represents approximately one thirty-two millionth of the sky.
 
-**The HXDF** contains about 5,500 galaxies, the oldest of which are seen as they were 13.2 billion years ago. The faintest galaxies are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remnants of galaxies after major collisions during their elderly years. Many of the smaller galaxies in the image are very young galaxies that eventually developed into major galaxies, similar to the Milky Way and other galaxies in our galactic neighborhood.
+**The HXDF** contains about 5,500 galaxies, the oldest ones that are seen, **are in the state they were 13.2 billion years ago**. The galaxies that are dimmer, are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remainings of galaxies after big collisions during their oldest years. Many of the smaller galaxies in the image are very young, and eventually have developed to bigger galaxies.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 
@@ -4344,11 +4346,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 ### <a name="the_blue_marble"></a> **The Blue Marble**
 ![The Blue Marble image](media/photos/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
 
-**The Blue Marble** is an image of Earth taken on December 7, 1972, from a distance of about 29,000 kilometers (18,000 miles) from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
+**The Blue Marble** is an image of Earth taken on December 7, 1972, about 29,000 kilometers from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
 
-It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo trajectory made it possible to photograph the south polar ice cap, despite the Southern Hemisphere being heavily covered in clouds. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is clearly visible. The Asian mainland is on the horizon.The picture was curated by chromatic editing and cropping due to the height of geostationary satellites being insufficient.
+It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the first time the Apollo's path made it possible to photograph the south polar ice cap. In addition to the Arabian Peninsula and Madagascar, almost the entire coastline of Africa is  visible in the photograph. The Asian mainland is on the horizon.
 
-The photograph, taken on **December 7, 1972**, is one of the most widely distributed photographic images in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the slightly gibbous Earth had the appearance and size of a glass marble, hence the name.
+The photograph, taken on **December 7, 1972**, is one of the most famous and distributed photographs in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the Earth had the appearance and size of a glass marble, that's why the photograph was called The Blue Marble.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
@@ -4357,11 +4359,11 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 ### <a name="pale_blue_dot"></a> **Pale Blue Dot**
 ![Pale Blue Dot image](media/photos/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
 
-**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a record distance of about 6 billion kilometers, as part of that day's Family Portrait series of images of the Solar System
+**Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a of about 6 billion kilometers. In the photograph, the Earth is depicted in almost one pixel. 
 
-In the photograph, Earth's apparent size is less than a pixel. The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera.
+>"The planet appears as a tiny dot against the endless space and bands of sunlight that are reflected by the camera."
 
-Voyager 1, which had completed its primary mission and was leaving the Solar System, was commanded by NASA to turn its camera around and take one last photograph of Earth across a great expanse of space, at the request of astronomer and author Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
+Voyager 1 had completed its primary goal and was leaving our Solar System. It was commanded by NASA to turn its camera and take one last photograph of Earth, the request came from the astronomer Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
 
 Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
@@ -4372,18 +4374,18 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 #### 2019 Image
 ![Black Hole image](media/photos/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
 
-**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic feat by an international network of radio telescopes called the Event Horizon Telescope (EHT). EHT is an international collaboration whose support in the U.S. includes the National Science Foundation.
+**In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic achievement by an global network of radio telescopes called the **Event Horizon Telescope (EHT)**.
 
-A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed, never to re-emerge, because of the black hole’s unimaginably strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
+A black hole is an extremely dense object from which no light can escape. Anything that comes within a black hole’s “event horizon,” its point of no return, will be consumed and will never be able to escape, because of the black hole’s immensely strong gravity. **By its very nature, a black hole cannot be seen, but the hot disk of material that encircles it shines bright**. Against a bright backdrop, such as this disk, a black hole appears to cast a shadow.
 
-This stunning image shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy some 55 million light-years from Earth. This black hole is 6.5 billion times the mass of the Sun. *Catching its shadow involved eight ground-based radio telescopes around the globe, operating together as if they were one telescope the size of our entire planet.* 
+This breathtaking photograph shows the shadow of **the supermassive black hole in the center of Messier 87 (M87)**, an elliptical galaxy 55 million light-years away from Earth. This black hole is 6.5 billion times the mass of the Sun.
 
 Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
 
 #### 2021 Image
 ![Black Hole image](media/photos/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
 
-**In March 24, 2021**, the Event Horizon Telescope – the same global collaboration that captured M87’s black hole – released a new image showing polarized light from this black hole. The polarization of the light gives astronomers a signature (a representation) of a black hole’s magnetic field, **for the first time**.
+**In March 24, 2021**, the Event Horizon Telescope released a new photograph showing polarized light from this black hole. The polarization of the light gives astronomers, **for the first time**, a representation of a black hole’s magnetic field.
 
 Source: [EarthSky](https://earthsky.org/space/new-image-m87s-black-hole-magnetic-field/)
 
