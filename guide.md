@@ -4489,29 +4489,15 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ---
 
-### <a name="Volleyball"></a>**Volleyball**
+### <a name="Cricket"></a>**Cricket**
 
-<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
+<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
 
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
-
-**Description**
-
-Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
-
----
-
-### <a name="Basketball"></a>**Basketball**
-
-<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
 
 **Description**
 
-Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
@@ -4529,31 +4515,18 @@ An estimated one billion people worldwide follow tennis, tuning in from around t
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
----
-
-### <a name="Cricket"></a>**Cricket**
-
-<img width="500" height="350" src="media/photos/Sports/Cricket.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/af/3e/03/shutterstock-1235965975.jpg)
-
-**Description**
-
-Cricket boasts a fan base of 2.5 billion. The game is most popular in the UK and some former British colonies, notably India, Pakistan and Australia. Like baseball, it involves two teams, a bat, a large field, and scoring runs. There are significant differences, however, including a long rectangular pitch at the center of a cricket field, where the ball is thrown to a batsman, as opposed to a mound at the center of a baseball diamond facing a batter at home plate.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
 ---
 
-### <a name="Hockey"></a>**Hockey**
+### <a name="Volleyball"></a>**Volleyball**
 
-<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
+<img width="500" height="350" src="media/photos/Sports/Volleyball.jpg">
 
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/de/67/b5/shutterstock-215706271.jpg)
 
 **Description**
 
-Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+Volleyball involves two teams, each on one side of a raised net, trying to “volley” a ball onto the ground of the opposing team’s side for points. The game has a following of 900 million people, mostly in North America and Western Europe but also in Asia, Australia, and South America. One popular variant of the game, known as beach volleyball, is played on sand with two people on each team, as opposed to regular volleyball, where there are normally six players on each team.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
@@ -4573,6 +4546,54 @@ America’s national pastime is thought to have descended from the English sport
 
 ---
 
+### <a name="Golf"></a>**Golf**
+
+<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
+
+**Description**
+
+An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+---
+
+### <a name="Basketball"></a>**Basketball**
+
+<img width="500" height="350" src="media/photos/Sports/Basketball.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/b7/91/47/shutterstock-437259922.jpg)
+
+**Description**
+
+Invented by James Naismith, a Canadian teaching at a school in the US in the late 19th century, basketball is now played worldwide, and has an estimated following of 825 million. In basketball, two teams attempt to dribble a ball up a court and shoot it into a raised, hoop-shaped net to score points. If you like to run, jump, and shoot, then you’ll love the game of basketball. Like football (soccer), it is particularly popular because not much equipment is needed besides two baskets and a ball, and so is an accessible sport regardless of class.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+
+
+---
+
+### <a name="Hockey"></a>**Hockey**
+
+<img width="500" height="350" src="media/photos/Sports/Hockey.jpg">
+
+owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/23/a6/c8/shutterstock-1136445872.jpg)
+
+**Description**
+
+Hockey, both on ice and in a field, boasts a following of two billion people. Field hockey is mainly played in Europe, Africa, Asia, and Australia, whereas ice hockey is particularly popular in Canada, the US, and Northern Europe. The game involves two teams trying to put a ball into the opposing team’s net with a hockey stick. Unlike ice hockey, field hockey usually does not involve body contact in the form of checking.
+
+<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+
+
+---
+
 ### <a name="Rugby"></a>**Rugby**
 
 <img width="500" height="350" src="media/photos/Sports/Rugby.jpg">
@@ -4585,19 +4606,6 @@ Rugby has an estimated following of 475 million people. The sport originated in 
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
----
-
-### <a name="Golf"></a>**Golf**
-
-<img width="500" height="350" src="media/photos/Sports/Golf.jpg">
-
-owned by [worldatlas](https://www.worldatlas.com/r/w768-q80/upload/4a/ba/39/shutterstock-170053652.jpg)
-
-**Description**
-
-An estimated 450 million people are fans of the game that involves trying to put a small ball in a hole with the fewest strokes possible. Golf originated in Scotland in the 15th century. Interestingly, however, the word golf originated in the Netherlands, from the word “kolf” or “kolve,” which translates to "club." Golf is particularly popular in Western Europe, East Asia, and North America.
-
-<br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
 ---
 
