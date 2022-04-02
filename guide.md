@@ -378,6 +378,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Taoism](#Taoism)
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
+  - [Judaism](#Judaism_)
+  
   
 
 
@@ -5293,4 +5295,11 @@ Source [britannica](https://www.britannica.com/art/sculpture)
  Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
 
  source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
+
+  ### <a name="Judaism_"></a>**Judaism**
+
+Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
+
+ source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
+ 
 ---
