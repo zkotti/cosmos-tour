@@ -2945,7 +2945,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 ### <a name="makemake"></a>**Makemake**
 
-<img width="500" height="375" src="media\planets\makemake.jpg">
+<img width="500" height="375" src="media\photos\planets\makemake.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
 
@@ -3033,7 +3033,7 @@ We will probably never reach another galaxy in our lifetime but [Hubble Space Te
 
 ### <a name="andromeda"></a>**Andromeda**
 
-<img width="500" height="400" src="media/galaxies/Andromeda.jpg">
+<img width="500" height="400" src="media/photos/galaxies/Andromeda.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
@@ -3048,7 +3048,7 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 
 ### <a name="cigar"></a>**Cigar**
 
-<img width="500" height="350" src="media/galaxies/Cigar.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Cigar.jpg">
 
 owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
@@ -3063,7 +3063,7 @@ The starburst activity is thought to have been triggered by interaction with nei
 
 ### <a name="cosmos_redshift_7"></a>**Cosmos Redshift 7**
 
-<img width="500" height="350" src="media/galaxies/CosmosRedshift7.jpg">
+<img width="500" height="350" src="media/photos/galaxies/CosmosRedshift7.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
@@ -3078,7 +3078,7 @@ CR7 shows some of the expected signatures of Population III stars i.e. the first
 
 ### <a name="hoags_object"></a>**Hoag's Object**
 
-<img width="500" height="350" src="media/galaxies/Hoags_object.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Hoags_object.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
@@ -3093,7 +3093,7 @@ A nearly perfect ring of young hot blue stars circles the older yellow nucleus o
 
 ### <a name="mayalls_object"></a>**Mayall's Object**
 
-<img width="500" height="350" src="media/galaxies/mayallsObject.jpg">
+<img width="500" height="350" src="media/photos/galaxies/mayallsObject.jpg">
 
 owned by [nasa.com](https://www.jpl.nasa.gov/images/pia10385-arp-148-mayalls-object)
 
@@ -3108,7 +3108,7 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 ### <a name="milky_way"></a>**Milky Way**
 
-<img width="500" height="350" src="media/galaxies/milkyway.jpg">
+<img width="500" height="350" src="media/photos/galaxies/milkyway.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
@@ -3121,7 +3121,7 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 
 ### <a name="triangulum_galaxy"></a>**Triangulum Galaxy**
 
-<img width="500" height="350" src="media\galaxies\Triangulum_Galaxy.jpg">
+<img width="500" height="350" src="media\photos\galaxies\Triangulum_Galaxy.jpg">
 
 owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
@@ -3139,7 +3139,7 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 ### <a name="sombrero_galaxy"></a>**Sombrero Galaxy**
 
-<img width="500" height="350" src="media/galaxies/Sombrero_Galaxy.jpg">
+<img width="500" height="350" src="media/photos/galaxies/Sombrero_Galaxy.jpg">
 >Image taken by Hubble Space Telescope, October 2, 2004
 
 **Description**
@@ -3155,7 +3155,7 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 
 ### <a name="satellies_overview"></a>**Overview**
 
-<img width="500" height="350" src="media\natural_satellites\Moons_of_solar_system_v7.jpg">
+<img width="500" height="350" src="media\photos\natural_satellites\Moons_of_solar_system_v7.jpg">
 
 In the most common sense, a natural satellite is an astronomical body that circles a planet, dwarf planet, or minor Solar System entity (or sometimes another natural satellite). Natural satellites are commonly referred to as moons, a term derived from Earth's Moon.
 
@@ -3173,7 +3173,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Natural_satellite)
 
 ### <a name="europa"></a>**Europa**
 
-<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/europa.jpg">
 
 Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
 
@@ -3198,7 +3198,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Moon)
 
 ### <a name="europa"></a>**Europa**
 
-<img width="500" height="350" src="media/natural_satellites/europa.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/europa.jpg">
 
 Europa is the smallest of the four Galilean moons orbiting Jupiter, and the sixth-closest to the planet of all the 80 known moons of Jupiter. It is also the sixth-largest moon in the Solar System. Europa was discovered in 1610 by Galileo Galilei and was named after Europa, the Phoenician mother of King Minos of Crete and lover of Zeus (the Greek equivalent of the Roman god Jupiter). 
 
@@ -3208,7 +3208,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europa_(moon))
 
 ### <a name="io"></a>**Io**
 
-<img width="500" height="350" src="media/natural_satellites/io.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/io.jpg">
 
 Io is the innermost and third-largest of the four Galilean moons of the planet Jupiter. Slightly larger than Earth’s moon, Io is the fourth-largest moon in the Solar System, has the highest density of any moon, the strongest surface gravity of any moon, and the lowest amount of water (by atomic ratio) of any known astronomical object in the Solar System. It was discovered in 1610 by Galileo Galilei and was named after the mythological character Io, a priestess of Hera who became one of Zeus's lovers. 
 
@@ -3218,7 +3218,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Io_(moon))
 
 ### <a name="phobos"></a>**Phobos**
 
-<img width="500" height="350" src="media/natural_satellites/phobos.jpg">
+<img width="500" height="350" src="media/photos/natural_satellites/phobos.jpg">
 
 Phobos is the innermost and larger of the two natural satellites of Mars, the other being Deimos. Both moons were discovered in 1877 by American astronomer Asaph Hall. Phobos is named after the Greek god Phobos, a son of Ares (Mars) and Aphrodite (Venus) and twin brother of Deimos. Phobos was the god and personification of fear and panic. 
 
@@ -3228,7 +3228,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Phobos_(moon))
 
 ### <a name="ganymede"></a>**Ganymede**
 
-<img width="500" height="350" src="media\natural_satellites\Ganymede.png">
+<img width="500" height="350" src="media\photos\natural_satellites\Ganymede.png">
 
 Ganymede, a satellite of Jupiter (Jupiter III), is the largest and most massive of the Solar System's moons. The ninth-largest object (including the Sun) of the Solar System, it is the largest without a substantial atmosphere. It has a diameter of 5,268 km (3,273 mi), making it 26 percent larger than the planet Mercury by volume, although it is only 45 percent as massive. Possessing a metallic core, it has the lowest moment of inertia factor of any solid body in the Solar System and is the only moon known to have a magnetic field. Outward from Jupiter, it is the seventh satellite and the third of the Galilean moons, the first group of objects discovered orbiting another planet. Ganymede orbits Jupiter in roughly seven days and is in a 1:2:4 orbital resonance with the moons Europa and Io, respectively.
 
