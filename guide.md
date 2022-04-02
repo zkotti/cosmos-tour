@@ -1849,6 +1849,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tivoli Gardens in Copenhagen,  Nyhavn,  National Museum of Denmark, The National Gallery of Denmark
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/denmark-dk.htm)
+
 ---
 
 ### <a name="djibouti"></a>**Djibouti**
@@ -1866,6 +1869,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DJI
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Lake Assal, Day Forest National Park, Khor Ambado Beach
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293787-Activities-Djibouti.html)
 
 ---
 
@@ -1885,6 +1891,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Morne Trois Pitons National Park, Boiling Lake, Victoria Falls, Trafalgar Falls
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominica-dmn.htm)
+
 ---
 
 ### <a name="dominican_republic"></a>**Dominican Republic**
@@ -1902,6 +1911,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DOM
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Bavaro Beach is Punta Cana, Santo Domingo's Zona Colonial, Puerto Plata & Playa Dorada
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominican-republic-dom.htm)
 
 ---
 
@@ -1921,6 +1933,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  The Galápagos Islands,  Quito: Ecuador's Historic Andean Capital, Cuenca, Cotopaxi and Cajas National Parks
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ecuador-ecu.htm)
+
 ---
 
 ### <a name="egypt"></a>**Egypt**
@@ -1938,6 +1953,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** EGY
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Pyramids of Giza, Luxor's Temples & Tombs, Cruising the Nile, Aswan,  Abu Simbel
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/egypt-egy.htm)
 
 ---
 
@@ -1957,6 +1975,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Parque Nacional El Boqueron, Iglesia El Rosario, Santa Ana Volcano, Joya de Ceren Archaeological Park
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g294476-d318772-Reviews-Joya_de_Ceren_Archaeological_Park-San_Salvador_San_Salvador_Department.html)
+
 ---
 
 ### <a name="england"></a>**England**
@@ -1974,6 +1995,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** GBR
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Stonehenge, Tower of London, The Roman Baths and Georgian City of Bath, The British Museum, York Minster and Historic Yorkshire, Windsor Castle
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/england-eng.htm)
 
 England is the biggest of the four countries that are part of the United Kingdom.
 
@@ -1995,6 +2019,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  The Malabo National Park, Catedral de Santa Isabel, Pico Basilé
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g294437-Activities-Equatorial_Guinea.html)
+
 ---
 
 ### <a name="eritrea"></a>**Eritrea**
@@ -2012,6 +2039,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** ERI
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Fiat Tagliero, Cattedrale di Asmara, Former Imperial Palace
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293788-Activities-Eritrea.html)
 
 ---
 
@@ -2031,6 +2061,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tour Tallinn's Old Town, Kuressaare Episcopal Castle, Lennusadam Seaplane Harbour, Pärnu
+<br>Source [PlanetWare](https://www.planetware.com/estonia/top-rated-attractions-things-to-do-in-estonia-ee-1-2.htm)
+
 ---
 
 ### <a name="eswatini"></a>**Eswatini**
@@ -2049,6 +2082,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Hlane Royal National Park, Mbuluzi Game Reserve, Lobamba, Swazi Market in Mbabane
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/swaziland-saf-swz-swz.htm)
+
 ---
 
 ### <a name="ethiopia"></a>**Ethiopia**
@@ -2066,6 +2102,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** ETH
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Addis Mercato, Mount Entoto, National Museum of Ethiopia
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g293791-d480664-Reviews-National_Museum_of_Ethiopia-Addis_Ababa.html)
 
 ---
 
