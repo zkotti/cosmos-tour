@@ -1014,7 +1014,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** AUT
 </br>
 **Region:** Europe
-<br>
+
+**Top Attractions:** The Vienna Hofburg, Salzburg Altstadt, The Spanish Riding School, Schönbrunn Palace
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/austria-a.htm)
 
 ---
 
@@ -1034,6 +1036,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
 ---
 
 ### <a name="bahamas"></a>**Bahamas**
@@ -1052,6 +1057,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:** Atlantis Paradise Island, Nassau, Exuma Cays Land and Sea Park, Grand Bahama Island
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/bahamas-bah.htm)
+
 ---
 
 ### <a name="bahrain"></a>**Bahrain**
@@ -1069,6 +1077,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BRN
 </br>
 **Region:** Asia
+
+**Top Attractions:** The Lost Paradise of Dilmun Water Park, Bahrain National Museum, Al-Fatih Mosque, Bab el-Bahrain Souk
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293996-Activities-Bahrain.html)
 
 ---
 
