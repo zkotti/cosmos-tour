@@ -28,18 +28,12 @@ def find_name(tag, i):
         for j in i:
             count += 1
             if len(tag) == 4:
-                if j == 'n' or j == 'a' or j == 'm' or j == 'e':
-                    cont += 1
-                else:
-                    cont = 0
+                cont += 1 if j in ['n', 'a', 'm', 'e'] else cont = 0
                 if cont == len(tag):
                     pos_start = count + 3
                     break
             else:
-                if j == '<' or j == 'e' or j == 'm' or j == '>':
-                    cont += 1
-                else:
-                    cont = 0
+                cont += 1 if j in ['<', 'e', 'm', '>'] else 0
                 if cont == len(tag) + 2:
                     pos_start = count + 1
                     break
@@ -69,9 +63,8 @@ res_guide = requests.get(url)
 soup_guide = BeautifulSoup(res_guide.text, 'html.parser')
 
 h2 = soup_guide.find_all('h2')
-#print(soup_guide)
+# print(soup_guide)
 for i in h2:
-    i = str(i)
-    if name in i:
-        html_parameter = find_name('name', i)
+    if name in str(i):
+        html_parameter = find_name('name', str(i))
         webbrowser.open_new('https://e-panourgia.github.io/cosmos-tour/guide.html#' + html_parameter)
