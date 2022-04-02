@@ -2254,6 +2254,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Georgia Aquarium, Savannah Historic District, Atlanta Botanical Garden, Blue Ridge Scenic Railway,  Martin Luther King Jr. National Historic Site
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/georgia-usga.htm)
+
 ---
 
 ### <a name="germany"></a>**Germany**
@@ -2271,6 +2274,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** GER
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Berlin's Brandenburg Gate, Cologne Cathedral, The Black Forest, The Ultimate Fairytale Castle: Neuschwanstein
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/germany-d.htm)
 
 ---
 
@@ -2290,6 +2296,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Aburi Botanical Gardens, Kwame Nkrumah Memorial Park, Makola Market
+<br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g293796-Activities-Ghana.html)
+
 ---
 
 ### <a name="greece"></a>**Greece**
@@ -2308,7 +2317,8 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
-**Top Attractions:** Athens University of Economics and Business[^1], Acropolis Museum[^2]
+**Top Attractions:** Athens University of Economics and Business[^1], Acropolis Museum[^2] , Santorini, Mykonos, Delphi, The Towns and Beaches of Crete, Corfu, Metéora Monasteries, Rhodes Town, Zákynthos, Samaria Gorge, Nafplio, Thessaloniki
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/greece-gr.htm)
 
 Greece, the birthplace of democracy, philosophy and theather, is a country located at the crossroads of Eastern Europe and Western Asia. It is situated in the heart of the Balkan peninsula. Athens is the country's largest city and serves as its capital.
 
@@ -2332,6 +2342,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** GUA
 </br>
 **Region:** Americas
+
+**Top Attractions:**  La Aurora Zoo, Mundo Petapa Irtra, Paseo Cayala
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g292006-d3443068-Reviews-Paseo_Cayala-Guatemala_City_Guatemala_Department.html)
 
 ---
 
