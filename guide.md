@@ -2588,6 +2588,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Cathedral of St. Florin, The Treasure Chamber of the Principality of Liechtenstein, State of the Art: Kunstmuseum Liechtenstein, Gutenberg Castle 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/liechtenstein-fl.htm)
+
+
 ---
 
 ### <a name="lithuania"></a>**Lithuania**
@@ -2605,6 +2609,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** LTU
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Vilnius Old Town, Trakai Castle, Devil’s Museum, St. Anne’s Church
+<br>Source [PlanetWare](https://www.thecrazytourist.com/25-best-things-lithuania/)
 
 ---
 
@@ -2624,6 +2631,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Old Quarter of Luxembourg City,  National Museum of History and Art, The Bock Casements, Grand Ducal Palace, The Walls of the Corniche 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/luxembourg-l.htm)
+
 ---
 
 ### <a name="mexico"></a>**Mexico**
@@ -2641,6 +2651,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** MEX
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Teotihuacan, Chichen Itza, Tulum, Copper Canyon, Palenque
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-mexico/)
 
 ---
 
@@ -2660,6 +2673,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Monte-Carlo, Palais du Prince, Musée Oceanographique,  Jardin Exotique, Cathédrale de Monaco
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/monaco-mc-mc-mon.htm)
+
 ---
 
 ### <a name="new_zealand"></a>**New Zealand**
@@ -2677,6 +2693,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NZL
 </br>
 **Region:** Oceania
+
+**Top Attractions:**  Fiordland National Park and Milford Sound,  Bay of Islands, Queenstown, Lake Taupo and Tongariro National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/new-zealand-nz.htm)
 
 ---
 
@@ -2696,6 +2715,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Central America 
 
+**Top Attractions:**  Islets of Granada, Corn Islands, Masaya Volcano, Cerro Negro, Mombacho Volcano Nature Preserve
+<br>Source [PlanetWare](https://www.planetware.com/nicaragua/top-rated-attractions-things-to-do-in-nicaragua-nic-1-3.htm)
+
 ---
 
 ### <a name="norway"></a>**Norway**
@@ -2713,6 +2735,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NOR
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Sognefjord, Pulpit Rock, Tromsø, Lofoten Islands,  Viking Ship Museum,  Bygdoy Peninsula 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/norway-n.htm)
 
 ---
 
@@ -2732,6 +2757,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Machu Picchu, The Inca Trail, Cusco's Architectural Treasures, Lake Titicaca, Colca Canyon
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/peru-per.htm)
+
 ---
 
 ### <a name="philippines"></a>**Philippines**
@@ -2749,6 +2777,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** PHI
 </br>
 **Region:** Asia
+
+**Top Attractions:**  White Beach in Boracay, Fort Santiago in the Intramuros, Mayon Volcano 
+<br>Source [PlanetWare](https://www.planetware.com/philippines/top-rated-tourist-attractions-things-to-do-in-the-philippines-phi-1-26.htm)
 
 ---
 
@@ -2768,6 +2799,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Bran Castle, Sighisoara Historic Center, Palace of Parliament, Peles Castle, Merry Cemetery
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-romania/)
+
 ---
 
 ### <a name="russia"></a>**Russia**
@@ -2785,6 +2819,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** RUS
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Saint Basil's Cathedral, Hermitage Museum, Moscow Kremlin, Suzdal 
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-russia/)
 
 ---
 
@@ -4789,9 +4826,9 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ### <a name="Margaret"></a>**Margaret Thatcher**
 
-<br>
+<img width="300" height="300" src="media/photos/personalities/Thatcher.jpg">
 
-Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
+Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
