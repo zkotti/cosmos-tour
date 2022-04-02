@@ -438,6 +438,8 @@ Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
 
 The simulation hypothesis implies that all of existence is an artificial simulation, such as a computer simulation, to explain the nature of existence. Some versions heavily depend on the creation of a simulated reality, a technology that would be able to persuade the simulation's residents that it really existed. The simulation hypothesis bears close resemblance to a number of other skeptical scenarios that have been proposed throughout philosophy's history. The hypothesis in its current form was popularized by Nick Bostrom. The idea that such a hypothesis is compatible with all perceived human experiences is linked with major epistemological implications, resulting in philosophical skepticism. The hypothesis is also very popular in science fiction, where it has been used as a central plot mechanism in many stories and films.
 
+Video [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
+<br>
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
 ---
