@@ -324,6 +324,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Sports](#Sports)
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
+    -[Football Competitions](#Football_Competitions)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -4873,6 +4874,11 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
 ---
+
+### <a name="Football_Competitions"></a>**_Football Competitions_**
+
+---
+
 
 ### <a name="Cricket"></a>**Cricket**
 
