@@ -337,7 +337,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Mountains](#mountains)
   - [Top 4 highest Mountains](#Highest_Mountains)
+  - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
+  - [Mount Kosciuszko](#mountkosciuszko)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
@@ -370,9 +372,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Architecture](#architecture)
   - [Painting](#painting)
   - [Sculpture](#sculpture)
+  - [Literature](#literature)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
+    #### [Divisions of Christianity](#divs)
+    - [Roman Catholicism](#cathol)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
@@ -575,13 +580,12 @@ If you want to read more information about careers in space you can visit the or
 
 ### <a name="mythology"></a>**The Creation of the Universe According to Greek Mythology**
 
-In the beginning there was only chaos. Then out of the void appeared Night and Erebus, the unknowable place where death dwells. All else was empty, silent, endless, darkness. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
+At first, there was only chaos. Then out of the void appeared Night and Erebus, the place where death dwells. Everything else was empty, silent and dark. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
 
 Then Erebus slept with Night, who gave birth to Aether the heavenly light, and then to Day the earthly light. Then Night alone produced Doom, Fate, Death, Sleep, Dreams, Nemesis, and others that come to man out of darkness.
 
-Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.”
+Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.
 
-This is a condensed version of the first part of Greek mythology, about the creation of the universe.
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
 
@@ -2906,6 +2910,12 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** USA
 </br>
 **Region:** Americas
+</br>
+**Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
+Yosemite National Park, Golden Gate Bridge, Times Square, Freedom Trail in Boston, Yellowstone National Park, San Antonio River Walk,
+Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-the-Sun Road
+source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
+
 
 ---
 
@@ -2983,6 +2993,10 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** YEM
 </br>
 **Region:** Asia
+</br>
+**Attractions:** The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
+source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
+
 
 ---
 
@@ -3001,6 +3015,11 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** ZMB
 </br>
 **Region:** Africa
+</br>
+Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
+Lower Zambezi National Park, Lake Kariba, South Luangwa National Park, Livingstone Museum, Livingstone Island, Mongu
+source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
+
 
 ---
 
@@ -3019,6 +3038,7 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
+</br>
 **Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
 source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
@@ -5014,6 +5034,20 @@ Handball (also known as team handball, European handball or Olympic handball) is
 
 
 ---
+
+### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
+
+<img width="550" height="303" src="media/photos/mountains/Aconcagua.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Aconcagua)
+
+**Description**
+
+Mount Aconcagua is the highest peak in South America and the Western Hemisphere with a precise elevation of 6,961 metres (22,838 ft). It is very close to the borders of Argentina and to the city of Mendoza. The mountain has two summits, the north and the south. The southern summit is higher than the nortern and it was first reached in 1897 by Matthias Zurbriggen. Additionally, the mountain including its surroundings belong to the Aconcagua Provincial Park.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Aconcagua)
+
+---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
@@ -5039,6 +5073,20 @@ owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+---
+
+### <a name="mountkosciuszko"></a>**_Mount Kosciuszko_**
+
+<img width="550" height="367" src="media/photos/mountains/Kosciuszko.jpg">
+
+owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
+
+**Description**
+
+Mount Kosciuszko is the highest peak in Australia at 2,228 metres and it was named like this by the Polish explorer Paul Edmund Strzelecki in 1840 because of its resemblance to the Kościuszko Mound in Kraków, Poland. It is located 390 km southwest of Sydney in the Snowy Mountains of the Australian Alps in southeastern New South Wales. Mount Kosciuszko is a well known mountain that over 100.000 people visit every summer and there are multiple roads that lead to the summit. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
 
 ---
 
@@ -5279,12 +5327,39 @@ Source [britannica](https://www.britannica.com/art/sculpture)
 
 ---
 
+### <a name="literature"></a>**Literature**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/book.jpg" alt="Book image">
+
+owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
+
+Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html)
+
+---
+
 
 ## <a name="religions"></a> **Religions**
 ### <a name="christ"></a>**Christianity**  
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
+
+---
+
+  ### <a name="divs"></a> **Divisions of Christianity**
+
+---
+
+  ### <a name="cathol"></a>**Roman Catholicism**
+
+  The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
+
+  source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
+
+  ---
 
   ### <a name="Buddhis"></a>**Buddhism**
 
