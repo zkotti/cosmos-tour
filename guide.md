@@ -3752,31 +3752,31 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ### <a name="quote_1"></a>**Quote 1.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_1.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_1.png">
 
 - Source [First quote](https://quotesgram.com/img/cosmos-quotes-inspirational/9506651/)
 
 ### <a name="quote_2"></a>**Quote 2.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_2.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_2.png">
 
 - Source [Second quote](https://quotesgram.com/img/quotes-about-the-cosmos/9322461/)
 
 ### <a name="quote_3"></a>**Quote 3.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_3.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_3.png">
 
 - Source [Third quote](https://quotesgram.com/img/quotes-about-the-cosmos/12369649/)
 
 ### <a name="quote_4"></a>**Quote 4.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_4.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_4.png">
 
 - Source [Fourth quote](https://quotesgram.com/img/quotes-about-the-cosmos/6282733/)
 
 ### <a name="quote_5"></a>**Quote 5.**
 
-<img width="300" height="300" src="media\quotes\CosmosQuotesInspirational_5.png">
+<img width="300" height="300" src="media\photos\quotes\CosmosQuotesInspirational_5.png">
 
 - Source [Fifth quote](https://quotesgram.com/img/quotes-about-the-cosmos/2598228/)
 
@@ -3790,7 +3790,7 @@ The zodiac is divided into twelve signs in Western astrology, and formerly astro
 
 These astrological signs make up a celestial coordinate system, or more specifically, an ecliptic coordinate system, in which the ecliptic serves as the origin of latitude and the vernal equinox serves as the origin of longitude. 
 
-<img width="500" height="350" src="media\zodiac\Zodiac_Constellations.jpg">
+<img width="500" height="350" src="media\photos\zodiac\Zodiac_Constellations.jpg">
 
 <br>
 
@@ -3830,37 +3830,37 @@ These are some excamples of what they offer to their users.
 
 ### <a name="meme_1"></a>**Meme 1.**
 
-<img width="350" height="350" src="media\memes\constellation-pattern-meme.jpg">
+<img width="350" height="350" src="media\photos\memes\constellation-pattern-meme.jpg">
 
 <br>
 
 ### <a name="meme_2"></a>**Meme 2.**
 
-<img width="350" height="350" src="media\memes\earth-sun-meme.jpeg">
+<img width="350" height="350" src="media\photos\memes\earth-sun-meme.jpeg">
 
 <br>
 
 ### <a name="meme_3"></a>**Meme 3.**
 
-<img width="350" height="350" src="media\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
+<img width="350" height="350" src="media\photos\memes\Our-destiny-is-written-In-the-stars-Meanwhile-the-stars-meme.jpeg">
 
 <br>
 
 ### <a name="meme_4"></a>**Meme 4.**
 
-<img width="350" height="350" src="media\memes\pluto_cold_heart_meme.jpg">
+<img width="350" height="350" src="media\photos\memes\pluto_cold_heart_meme.jpg">
 
 <br>
 
 ### <a name="meme_5"></a>**Meme 5.**
 
-<img width="350" height="350" src="media\memes\new_telescope_meme.jpg">
+<img width="350" height="350" src="media\photos\memes\new_telescope_meme.jpg">
 
 <br>
 
 ### <a name="meme_6"></a>**Meme 6.**
 
-<img width="350" height="350" src="media\memes\infinite_things.jpg">
+<img width="350" height="350" src="media\photos\memes\infinite_things.jpg">
 
 <br>
 
