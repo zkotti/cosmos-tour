@@ -364,6 +364,9 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#9](#fact9)
   - [#10](#fact10)
 ---
+
+- ### [Fine Arts](#arts)
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -990,6 +993,48 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 Argentina is a country in the southern half of South America. Argentina covers an area of 2,780,400 km2, making it the largest Spanish-speaking nation in the world by area. It is the second-largest country in South America after Brazil and the fourth-largest country in the Americas. The provinces and the capital have their own constitutions but exist under a federal system. Argentina claims sovereignty over a part of Antarctica, the Falkland Islands and South Georgia, and the South Sandwich Islands.
 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Argentina)
+
+
+
+###Most Attractive Tourist Attractions in Argentina
+Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
+
+The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
+In the capital of Argentina you can go shopping, see football, watch soccer or get in touch with Latin culture. 
+
+* Iguazu Falls
+One of the biggest attractions in Argentina annd in whole Latin America is the Iguazu Falls, which is close to Brazil and Argentina.
+
+
+* Perito Moreno Glacier
+Perito Moreno Glacier is the most re-knowned glacier located in the Glacier National Park or other called Los Glaciares. 
+This is one in the whole world. Among all glaciers in antarctica this is the most significant one that actually are easily approachable.
+
+
+* Bariloche is a city which is inside mountains, having a Swiss-like atmosphere and the chocolate shops. It's a great places with outdoor activities like skiing, hiking, sightseeing, water sports, clinging, trekking and more.
+
+* Caminito, La Boca
+The market site of Buenos Aires is called La Boca. It is popular between the tourists because of the colorful houses and the most entertaining street, Caminito, where street artists performs tango and tango-related memorabilia is sold.
+
+* Valdes Peninsula
+This is a nature reserve where you can find unique flora and fauna. The most common inhabitants of the coastline are the sea lions, elephant seals and penguins. Between May and December you can also see whales in the Valdes Peninsula. This place is located almost 900 miles away (distance calculator: distances-from.com ) from the capital of Argentina, Buenos Aires.
+
+* Beagle Channel
+Beagle Channel is a part between the southest part of Argentina and south islands of Chile. This strait extends to 240 km and its width is about 5 km.
+
+* Monte Fitz Roy
+Monte Fitz Roy is a imposing mountain . It has unique characteristics and is a great way to spend your time if you are a tourist but also a good opportunity for some breath taking photographs.
+
+* Mendoza
+Mendoza is a also one of the great attractions in Argentina because of the unique landscapes and the purpose. It is a region that is the leading in the winemaking of Argentina. The beautiful and wide wine fields are a great attraction for visitors beside the wine testing and the unique tastes.
+
+* Ushuaia
+This city is located in south . It includes a magnificent natural beauty, it is on the Beagle Channel and it is a good place for some hiking, skiing or even cruises to antartica
+
+* The Iberá Wetlands
+The Iberá Wetlands are a mangificent landscape, it is second in the list of largest wetlands in the world. There, visitors. could enjoy the fauna and flora , as it is home to many species, offering a reminder of nature's majesty.
+
+Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive-tourist-attractions-in-argentina/)
 
 ---
 
@@ -1849,6 +1894,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tivoli Gardens in Copenhagen,  Nyhavn,  National Museum of Denmark, The National Gallery of Denmark
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/denmark-dk.htm)
+
 ---
 
 ### <a name="djibouti"></a>**Djibouti**
@@ -1866,6 +1914,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DJI
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Lake Assal, Day Forest National Park, Khor Ambado Beach
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293787-Activities-Djibouti.html)
 
 ---
 
@@ -1885,6 +1936,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Morne Trois Pitons National Park, Boiling Lake, Victoria Falls, Trafalgar Falls
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominica-dmn.htm)
+
 ---
 
 ### <a name="dominican_republic"></a>**Dominican Republic**
@@ -1902,6 +1956,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** DOM
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Bavaro Beach is Punta Cana, Santo Domingo's Zona Colonial, Puerto Plata & Playa Dorada
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/dominican-republic-dom.htm)
 
 ---
 
@@ -1921,6 +1978,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  The Galápagos Islands,  Quito: Ecuador's Historic Andean Capital, Cuenca, Cotopaxi and Cajas National Parks
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ecuador-ecu.htm)
+
 ---
 
 ### <a name="egypt"></a>**Egypt**
@@ -1938,6 +1998,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** EGY
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Pyramids of Giza, Luxor's Temples & Tombs, Cruising the Nile, Aswan,  Abu Simbel
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/egypt-egy.htm)
 
 ---
 
@@ -1957,6 +2020,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Parque Nacional El Boqueron, Iglesia El Rosario, Santa Ana Volcano, Joya de Ceren Archaeological Park
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g294476-d318772-Reviews-Joya_de_Ceren_Archaeological_Park-San_Salvador_San_Salvador_Department.html)
+
 ---
 
 ### <a name="england"></a>**England**
@@ -1974,6 +2040,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** GBR
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Stonehenge, Tower of London, The Roman Baths and Georgian City of Bath, The British Museum, York Minster and Historic Yorkshire, Windsor Castle
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/england-eng.htm)
 
 England is the biggest of the four countries that are part of the United Kingdom.
 
@@ -1995,6 +2064,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  The Malabo National Park, Catedral de Santa Isabel, Pico Basilé
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g294437-Activities-Equatorial_Guinea.html)
+
 ---
 
 ### <a name="eritrea"></a>**Eritrea**
@@ -2012,6 +2084,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** ERI
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Fiat Tagliero, Cattedrale di Asmara, Former Imperial Palace
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293788-Activities-Eritrea.html)
 
 ---
 
@@ -2031,6 +2106,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Tour Tallinn's Old Town, Kuressaare Episcopal Castle, Lennusadam Seaplane Harbour, Pärnu
+<br>Source [PlanetWare](https://www.planetware.com/estonia/top-rated-attractions-things-to-do-in-estonia-ee-1-2.htm)
+
 ---
 
 ### <a name="eswatini"></a>**Eswatini**
@@ -2049,6 +2127,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Hlane Royal National Park, Mbuluzi Game Reserve, Lobamba, Swazi Market in Mbabane
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/swaziland-saf-swz-swz.htm)
+
 ---
 
 ### <a name="ethiopia"></a>**Ethiopia**
@@ -2066,6 +2147,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** ETH
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Addis Mercato, Mount Entoto, National Museum of Ethiopia
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attraction_Review-g293791-d480664-Reviews-National_Museum_of_Ethiopia-Addis_Ababa.html)
 
 ---
 
@@ -3176,7 +3260,11 @@ A planet must be small (and thus rocky) and orbit in the "habitable zone" of its
 
 ### <a name="kepler442b"></a>**Kepler-442b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-442b.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [voi](https://voi.id/en/technology/61968/astronomers-find-potentially-habitable-planet-kepler-422b)
 
 **Description**
 
@@ -3186,7 +3274,11 @@ According to NASA, this exoplanet is 33 percent larger than Earth and orbits its
 
 ### <a name="kepler452b"></a>**Kepler-452b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Kepler-452b.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [wikipedia](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
 
 **Description**
 
@@ -3197,7 +3289,11 @@ The star Kepler-452b is 1,400 light-years away from Earth. Kepler-452b orbits it
 
 ### <a name="proximacentaurib"></a>**Proxima Centauri b**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Proximab.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Atronomy Trek](https://www.astronomytrek.com/proxima-centauri-exoplanet/)
 
 **Description**
 
@@ -3207,7 +3303,11 @@ According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-y
 
 ### <a name="trappist1e"></a>**TRAPPIST-1e**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\TRAPPIST-1e.png">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source [Wikipedia](https://el.wikipedia.org/wiki/TRAPPIST-1e)
 
 **Description**
 
@@ -3217,7 +3317,11 @@ There are the most Earth-sized planets ever discovered in the habitable zone of 
 
 ### <a name="gliese667cc"></a>**Gliese 667 Cc**
 
+<img width="500" height="375" src="media\photos\earth_like_planets\Gliese667cc.jpg">
+
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
+
+image source[9GAG](https://9gag.com/gag/aVq7pqK)
 
 **Description**
 
@@ -5056,5 +5160,9 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 ### <a name="fact10"></a>**10. THERE IS A PLANET MADE OF DIAMONDS**
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
+
+---
+
+## <a name="arts"></a> **Fine Arts**
 
 ---
