@@ -372,6 +372,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Religions](#religions)
   - [Christianity](#christ)
   - [Buddhism](#Buddhis)
+  - [Atheism/Agnosticism](#Atheism)
+  
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -5229,5 +5231,11 @@ Source [britannica](https://www.britannica.com/topic/architecture)
   Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
 
   source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
+
+  ### <a name="Atheism"></a>**Atheism/Agnosticism**
+
+  Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
+
+   source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
 
 ---
