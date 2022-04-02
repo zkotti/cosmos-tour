@@ -3876,7 +3876,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\A_Brief_History_Of_Time.webp">
+<img width="500" height="350" src="media\photos\books\A_Brief_History_Of_Time.webp">
 <br>Author: Stephen Hawking, 
 Publisher: Bantam (1988)
 <br>
@@ -3897,7 +3897,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\The_Human_Cosmos.webp">
+<img width="500" height="350" src="media\photos\books\The_Human_Cosmos.webp">
 <br>Author: Jo Marchant, 
 Publisher: Canongate Books (2020)
 <br>
@@ -3916,7 +3916,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Constellations.webp">
+<img width="500" height="350" src="media\photos\books\Constellations.webp">
 <br>Author: Govert Schilling, 
 Cartographer: Wil Tirion, 
 Publisher: Black Dog & Leventhal (2019)
@@ -3936,7 +3936,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Cosmos.webp">
+<img width="500" height="350" src="media\photos\books\Cosmos.webp">
 <br>Author: Carl Sagan, 
 Publisher: Random House (1980)
 <br>
@@ -3955,7 +3955,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Missions_To_Mars.webp">
+<img width="500" height="350" src="media\photos\books\Missions_To_Mars.webp">
 <br>Author: Larry S. Crumpler, 
 Publisher: Harper Design (2021)
 <br>
@@ -3974,7 +3974,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Stars_and_planets.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Stars_and_planets.jpg.webp">
 <br>Authors: Ian Ridpath and Wil Tirion,
 Publisher: Princeton University Press (2017)
 <br>
@@ -3993,7 +3993,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Sun_moon_earth.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Sun_moon_earth.jpg.webp">
 <br>Author: Tyler Nordgren,
 Publisher: Basic Books (2016)
 <br>
@@ -4012,7 +4012,7 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
-<img width="500" height="350" src="media\books\Mysteries_of_the_universe.jpg.webp">
+<img width="500" height="350" src="media\photos\books\Mysteries_of_the_universe.jpg.webp">
 <br>Author: Will Gater,
 Publisher: DK Children (2020)
 <br>
@@ -4031,27 +4031,27 @@ Source [Best space and astronomy books](https://www.space.com/32982-best-astrono
 
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
-<img width="500" height="350" src="media\movies\midnightsky.jpg">
+<img width="500" height="350" src="media\photos\movies\midnightsky.jpg">
 A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
-<img width="500" height="350" src="media\movies\gravity.jpg">
+<img width="500" height="350" src="media\photos\movies\gravity.jpg">
 Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
-<img width="500" height="350" src="media/movies/interstellar.jpg">
+<img width="500" height="350" src="media/photos/movies/interstellar.jpg">
 In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
-<img width="500" height="350" src="media/movies/europa_report.jpg">
+<img width="500" height="350" src="media/photos/movies/europa_report.jpg">
 A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
-<img width="500" height="350" src="media/movies/apollo13.jpg">
+<img width="500" height="350" src="media/photos/movies/apollo13.jpg">
 The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ---
@@ -4064,7 +4064,7 @@ Cosmos is a collection of three science documentary television series presented 
 
 ### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
-<img width="500" height="350" src="media\series\cosmos1.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos1.jpg">
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
 
 Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.
@@ -4079,7 +4079,7 @@ source [imdb](https://www.imdb.com/title/tt0081846/)
 
 ### <a name="cosmos_2"></a>\*Cosmos: A Spacetime Odyssey (2014)\*\*
 
-<img width="500" height="350" src="media\series\cosmos2.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos2.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
 
@@ -4097,7 +4097,7 @@ source [imdb](https://www.imdb.com/title/tt2395695/)
 
 ### <a name="cosmos_3"></a>\*Cosmos: Possible Worlds (2020)\*\*
 
-<img width="500" height="350" src="media\series\cosmos3.jpg">
+<img width="500" height="350" src="media\photos\series\cosmos3.jpg">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
 
@@ -4119,7 +4119,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 ### <a name="#song1"></a>**Rocket Man**
 
-<img width="500" height="350" src="media/songs/song1.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song1.jpeg"/>
 
 Artist: Elton John
 
@@ -4130,7 +4130,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 ### <a name="#song2"></a>**Space Oddity**
 
-<img width="500" height="350" src="media/songs/song2.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song2.jpeg"/>
 
 Artist: David Bowie
 
@@ -4141,7 +4141,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 ### <a name="#song3"></a>**Fly Me To The Moon**
 
-<img width="500" height="350" src="media/songs/song3.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song3.jpeg"/>
 
 Artist: Frank Sinatra
 
@@ -4151,7 +4151,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 ### <a name="#song4"></a>**Man On The Moon**
 
-<img width="500" height="350" src="media/songs/song4.jpg"/>
+<img width="500" height="350" src="media/photos/songs/song4.jpg"/>
 
 Artist: R.E.M.
 
@@ -4161,7 +4161,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 ### <a name="#song5"></a>**Across The Universe**
 
-<img width="500" height="350" src="media/songs/song5.jpg"/>
+<img width="500" height="350" src="media/photos/songs/song5.jpg"/>
 
 Artist: The Beatles
 
@@ -4172,7 +4172,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 ### <a name="#song6"></a>**Here Comes The Sun**
 
-<img width="500" height="350" src="media/songs/song6.jpeg"/>
+<img width="500" height="350" src="media/photos/songs/song6.jpeg"/>
 
 Artist: The Beatles
 
