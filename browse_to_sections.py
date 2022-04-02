@@ -7,6 +7,11 @@
 # In order for this script to work you need to type the section, that
 # you want to go exactly as it is in the guide.html file ! ! !
 
+# For example:
+# if you want to go to the Countries section, then type "Countries" etc.
+
+# It may not work in all the sections, so I hope you can make it work !
+
 
 import requests
 from bs4 import BeautifulSoup
