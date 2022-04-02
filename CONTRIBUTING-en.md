@@ -99,4 +99,4 @@ Additional Resources
 - General GitHub documentation for help <a href="https://docs.github.com/en/" target="_blank">Help</a>
 - GitHub pull request
    documentation <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">Pull Request</a>
-- PEP8 official style guide 
+- PEP8 official style guide  <a href="https://peps.python.org/pep-0008/" target="_blank">PEP8 guide</a>
