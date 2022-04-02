@@ -40,6 +40,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [C/2011 W3 (Lovejoy)](#lovejoy)
   - [67P/ Churyumov-Gerasimenko](#Churyumov_Gerasimenko)
   - [81P/Wild (Wild 2)](#81P_Wild)
+  - [55P/Tempel-Tuttle](#55P/Tempel-Tuttle)
 
 - ### [Countries](#countries)
 
@@ -772,6 +773,23 @@ owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/63
 81P/Wild (Wild 2) (Wild is pronounced vilt) is a small comet with the shape of a flattened sphere and measures about 1.03 x 1.24 x 1.71 miles (1.65 x 2 x 2.75 kilometers). It takes Wild 2 nearly six and a half years (6.41) to orbit the Sun once. Wild 2 last reached perihelion (closest approach to the Sun) in 2016.Comet Wild 2 is known as a fresh periodic comet. Wild 2 orbits the Sun between Mars and Jupiter, but it did not always travel the course of its orbit here. Originally, this comet's orbit lay between that of Uranus and Jupiter. On 10 Sept. 10, 1974, gravitational interactions between this comet and the planet Jupiter pulled the comet's orbit into a new shape. Paul Wild discovered this comet during its first revolution of the Sun on the new orbit
 <br>
 source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/81p-wild/in-depth/)
+
+---
+
+### <a name="55P/Tempel–Tuttle"></a> **55P/Tempel–Tuttle**
+
+<img width="500" height="350" src="media/comets/55PTempel–Tuttle.gif">
+
+owned by [nasa](https://leonid.arc.nasa.gov/comet55p/comet55p0128.gif)
+
+**Description**
+<br>
+55P/Tempel-Tuttle (commonly known as Comet Tempel-Tuttle) is a periodic comet with an orbital period of 33 years. It fits the classic definition of a Halley-type comet, with a period between 20 and 200 years. Discovered by Wilhelm Tempel on 19 December 1865 and by Horace Parnell Tuttle on 6 January 1866. It is the parent body of the Leonids. It was observed by Gottfried Kirch in 1699, but not confirmed as a periodic comet until the discovery of Temple and Tuttle during perihelion in 1866. In 1933, S. Kanda certified that the comet of 1366 was Tempel-Tuttle, which was confirmed by Joachim Schubart in 1965. On October 26, 1366, the comet passed 0.0229 AU (3,430,000 km; 2,130,000 mi) from Earth.
+
+
+55P/Tempel-Tuttle's orbit intersects Earth's orbit almost exactly, so the stream of material ejected from the comet during its perihelion pass doesn't need to spread out over time to hit Earth. The comet's current Earth MOID is 0.008 AU (1,200,000 km; 740,000 mi). This coincidence means the comet's stream is still impenetrable when it hits Earth at perihelion, leading to the Leonid meteor shower's 33-year cycle. For example, in November 2009, Earth passed a meteor left largely by orbits 1466 and 1533. In February 2016, two bolides discovered by NASA's All-Sky Fireball Network were calculated to have orbits consistent with 55P, although their 100-degree nodes were less than 55P. The reason for this has not been clarified. The core mass of 55P/Tempel-Tuttle is estimated to be 1.2 × 1013 kg, with a radius of 1.8 km, and a mass flux of 5 × 1012 kg.
+<br>
+source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/55p-tempel-tuttle/in-depth/)
 
 ---
 
