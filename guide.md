@@ -2840,6 +2840,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Rocca Guaita, Monte Titano, Palazzo Pubblico and Piazza della Liberta, Basilica di San Marino, Museo di Stato
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/san-marino-rsm-rsm-rsm.htm)
+
+
 ---
 
 ### <a name="scotland"></a>**Scotland**
@@ -2857,6 +2861,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (ISO 3166-2:GB):** SCT
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Edinburgh Castle and the Royal Mile, Loch Lomond, Loch Ness and the Caledonian Canal, Isle of Skye and the Inner Hebrides   
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/scotland-sco.htm)
+
 
 ---
 
@@ -2876,6 +2884,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Bojnice Castle, Tatranská Lomnica, Museum of the Slovak Village
+<br>Source [Touropia](https://www.planetware.com/slovakia/top-rated-things-to-do-in-slovakia-slo-1-2.htm)
+
+
 ---
 
 ### <a name="slovenia"></a>**Slovenia**
@@ -2893,6 +2905,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SLO
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
+<br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
+
 
 ---
 
@@ -2912,6 +2928,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Alhambra and Generalife Gardens, Barcelona's Sagrada Familia and Gaudi Sites, The Great Mosque of Cordoba, The Prado and Paseo del Artes, San Lorenzo de El Escorial
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/spain-e.htm)
+
+
 ---
 
 ### <a name="switzerland"></a>**Switzerland**
@@ -2929,6 +2949,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SUI
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Matterhorn, Jungfraujoch: The Top of Europe,Interlaken, Lucerne, Lake Geneva
+<br>Source [PlanetWare] (https://www.planetware.com/tourist-attractions/switzerland-ch.htm)
+
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
@@ -2951,6 +2975,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Chernobyl, St. Sophia's Cathedral, L'viv's Historic Center, Kamenets Podolsky Castle
+<br>Source [PlanetWare](https://www.touropia.com/tourist-attractions-in-russia/)
+
+
 ---
 
 ### <a name="uae"></a>**United Arab Emirates**
@@ -2968,6 +2996,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** UAE
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Burj Khalifa, Sheikh Zayed Mosque, Louvre Abu Dhabi, Legoland Water Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/united-arab-emirates-uae.htm)
+
 
 ---
 
@@ -2987,7 +3019,7 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Americas
 </br>
-**Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
+**Top Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
 Yosemite National Park, Golden Gate Bridge, Times Square, Freedom Trail in Boston, Yellowstone National Park, San Antonio River Walk,
 Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-the-Sun Road
 source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
@@ -3011,6 +3043,10 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Tango Museum of Montevideo, Legislative Palace, Punta del Este harbor, Playa de los Pocitos, Colonia del Sacramento    
+<br>Source [PlanetWare](https://www.planetware.com/uruguay/top-tourist-attractions-things-to-do-in-uruguay-uy-1-2.htm)
+
+
 ---
 
 ### <a name="venezuela"></a>**Venezuela**
@@ -3029,6 +3065,10 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Angel Falls, Los Roques Archipelago,  Isla de Margarita, Parque Nacional Morrocoy 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/venezuela-ven.htm)
+
+
 ---
 
 ### <a name="vietnam"></a>**Vietnam**
@@ -3046,7 +3086,8 @@ source: [United States' attractions](https://www.planetware.com/tourist-attracti
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
-**Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
+
+**Top Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
 Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
 Mui Né
 source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
