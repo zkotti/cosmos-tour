@@ -37,16 +37,14 @@ def find_name(tag, i):
                 pos_start = index + 1
                 break
     pos_end = 0
-    count = -1
-    for j in enumerate(i):
-        count += 1
-        if j[0] >= pos_start:
+    for index, val in enumerate(i):
+        if index >= pos_start:
             if len(tag) == 4:
-                if '"' == j[1]:
-                    pos_end = count - 1
+                if '"' == val:
+                    pos_end = index - 1
             else:
-                if '<' == j[1]:
-                    pos_end == count - 1
+                if '<' == val:
+                    pos_end == index - 1
     html_parameter = ''
     for j in enumerate(i):
         if j[0] >= pos_start and j[0] <= pos_end:
@@ -61,7 +59,7 @@ res_guide = requests.get(url)
 soup_guide = BeautifulSoup(res_guide.text, 'html.parser')
 
 h2 = soup_guide.find_all('h2')
-#print(soup_guide)
+# print(soup_guide)
 for i in h2:
     i = str(i)
     if name in i:
