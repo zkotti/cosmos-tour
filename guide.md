@@ -3518,7 +3518,7 @@ Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-ye
 
 ## <a name="overview"></a> **Overview**
 
-<img width="500" height="350" src="media/oceans/earths_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/earths_ocean.jpg">
 
 owned by [nasa.com](https://visibleearth.nasa.gov/images/73963/bathymetry)
 
@@ -3558,7 +3558,7 @@ The International Hydrographic Organization designated a new ocean, the Southern
 
 ## <a name="atlantic_ocean"></a> **Atlantic Ocean**
 
-<img width="500" height="350" src="media/oceans/atlantic_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/atlantic_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Atlantic-Ocean)
 
@@ -3580,7 +3580,7 @@ The Coriolis effect circulates North Atlantic water in a clockwise direction, wh
 
 ## <a name="arctic_ocean"></a> **Arctic Ocean**
 
-<img width="500" height="350" src="media/oceans/arctic_ocean.gif">
+<img width="500" height="350" src="media/photos/oceans/arctic_ocean.gif">
 
 owned by [britannica.com](https://www.britannica.com/place/Arctic-Ocean)
 
@@ -3611,7 +3611,7 @@ Endangered marine species in the Arctic Ocean include walruses and whales. The a
 
 ## <a name="indian_ocean"></a> **Indian Ocean**
 
-<img width="500" height="350" src="media/oceans/indian_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/indian_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Indian-Ocean)
 
@@ -3636,7 +3636,7 @@ As the youngest of the major oceans, the Indian Ocean has active spreading ridge
 
 ## <a name="pacific_ocean"></a> **Pacific Ocean**
 
-<img width="500" height="350" src="media/oceans/pacific_ocean.webp">
+<img width="500" height="350" src="media/photos/oceans/pacific_ocean.webp">
 
 owned by [britannica.com](https://www.britannica.com/place/Pacific-Ocean)
 
@@ -3657,7 +3657,7 @@ The climate patterns of the Northern and Southern Hemispheres generally mirror e
 
 ## <a name="southern_ocean"></a> **Southern Ocean**
 
-<img width="500" height="350" src="media/oceans/southern_ocean.jpg">
+<img width="500" height="350" src="media/photos/oceans/southern_ocean.jpg">
 
 owned by [britannica.com](https://www.britannica.com/place/Southern-Ocean)
 
@@ -3690,7 +3690,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Extraterrestrial_life)
 
 Astronomer Frank Drake took on the first attempt of extraterrestrial life(extraterrestrial intelligence) search, by creating an equation in order to evaluate the number of the extraterrestrial civilizations with communication abilities which exist at this moment in our galaxy.
 
-<img width="750" height="300" src="media/extraterrestrial_life/Drake_equation.jpg">
+<img width="750" height="300" src="media/photos/extraterrestrial_life/Drake_equation.jpg">
 
 owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
@@ -3702,7 +3702,7 @@ Sources [wiki](https://en.wikipedia.org/wiki/Drake_equation) , [earthsky](https:
 
 The Kardashev scale is a method of measuring a civilization's level of technological advancement based on the amount of energy it is able to use. The measure was proposed by Soviet astronomer Nikolai Kardashev in 1964.The scale is hypothetical, and regards energy consumption on a cosmic scale. Various extensions of the scale have since been proposed, including a wider range of power levels (types 0, IV through VI) and the use of metrics other than pure power.Carl Sagan’s modified Kardashev scale, which allows for continuous values, put humanity at a meagre 0.7. Some predict that our total power consumption could hit Type I levels on Sagan’s scale in around 200 years, but we are still incredibly far from realising Type II or III status.
 
-<img width="800" height="309" src="media/extraterrestrial_life/Kardashev_scale.png">
+<img width="800" height="309" src="media/photos/extraterrestrial_life/Kardashev_scale.png">
 
 owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
 
@@ -3714,7 +3714,7 @@ Type II civilizations (Stellar civilizations), are capable to use their whole st
 
 Type III civilizations (Galactic civilizations), are those who have harnessed the energy of its entire Galaxy and possibly colonized it.
 
-<img width="800" height="450" src="media/extraterrestrial_life/Dyson.png">
+<img width="800" height="450" src="media/photos/extraterrestrial_life/Dyson.png">
 3D rendering of a Dyson sphere utilizing large, orbiting panels.
 <br> owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:A_Dyson_Swarm_Superstructure_(21983905140).png)
 
