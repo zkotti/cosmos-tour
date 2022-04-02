@@ -291,6 +291,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
   - [Spaceman by The Killers](#song7)
+  - [Starlight by Muse](#song8)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -333,6 +334,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Handball](#Handball)
 
 - ### [Mountains](#mountains)
+  - [Top 4 highest Mountains](#Highest_Mountains)
   - [Mount Everest](#mounteverest)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
@@ -4382,7 +4384,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
 
 
-### <a name="#song7"></a>**Spaceman**
+### <a name="song7"></a>**Spaceman**
 
 <img width="500" height="350" src="media/photos/songs/song7.jpg"/>
 
@@ -4391,6 +4393,19 @@ Artist: The Killers
 Album: Day & Age
 
 image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
+
+
+
+### <a name="song8"></a>**Starlight**
+
+<img width="300" height="300" src="media/photos/songs/song8.jpg"/>
+
+Arist: Muse
+
+Album: Black Holes And Revelations
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
 
 ---
@@ -4801,7 +4816,17 @@ Handball (also known as team handball, European handball or Olympic handball) is
 ## <a name="mountains"></a> **_Mountains_**
 
 ---
+### <a name="Highest_Mountains"></a>**Top 4 highest Mountains**
 
+|      **Mountain**    |    **Height (m)**    |      **Country**     |
+| :------------------: | :------------------: | :------------------: |
+|   Mountain Everest   |        8.848         |     Nepal, China     |
+|         K2           |        8.611         |    Pakistan, China   |
+|    Kangchenjunga     |        8.586         |    Nepal, India      |
+|       Lhotse         |        8.516         |    Nepal, China      |
+
+
+---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
