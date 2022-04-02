@@ -292,6 +292,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Across The Universe by The Beatles](#song5)
   - [Here Comes The Sun by The Beatles](#song6)
   - [Spaceman by The Killers](#song7)
+  - [Starlight by Muse](#song8)
 
 - ### [Admired Personalities](#personalities)
   - [Mahatma Gandhi](#Gandhi)
@@ -1490,6 +1491,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Praia de Santa Maria, Pedra Lume Salt Crater, Praia de Chaves
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g293774-Activities-Cape_Verde.html)
+
 ---
 
 ### <a name="cambodia"></a>**Cambodia**
@@ -1507,6 +1511,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CAM
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Angkor Wat (Angkor Archaeological Park), Phnom Penh, Koh Rong Samloem, Siem Reap
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cambodia-cam.htm)
 
 ---
 
@@ -1526,6 +1533,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Mefou National Park, Musee Maritime de Douala, Doual'Art
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293772-Activities-Cameroon.html)
+
 ---
 
 ### <a name="canada"></a>**Canada**
@@ -1543,6 +1553,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CAN
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Niagara Falls, Banff National Park & the Rocky Mountains, Toronto's CN Tower,  Old Quebec (Vieux-Quebec)
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/canada-cdn.htm)
 
 ---
 
@@ -1562,6 +1575,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Bangui Center, Zinga, Manovo-Gounda St Floris National Park
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-central-african-republic/)
+
 ---
 
 ### <a name="chad"></a>**Chad**
@@ -1579,6 +1595,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CHA
 </br>
 **Region:** Africa
+
+**Top Attractions:**  Zakouma National Park, Musée National N'Djamena (National Museum), Grand Mosque N'Djamena
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293778-Activities-Chad.html)
 
 ---
 
@@ -1599,6 +1618,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Torres Del Paine National Park, Valle de la Luna and the Atacama Desert, Easter Island & Rapa Nui National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/chile-chi.htm)
+
 ---
 
 ### <a name="china"></a>**China**
@@ -1616,6 +1638,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CHN
 </br>
 **Region:** Asia
+
+**Top Attractions:**  The Great Wall of China, The Forbidden City & the Imperial Palace, Beijing,  The Terracotta Army, The Summer Palace
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/china-chn.htm)
 
 ---
 
@@ -1635,6 +1660,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Cartagena,  Medellin, Eje Cafetero, Leticia
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/colombia-col.htm)
+
 ---
 
 ### <a name="comoros"></a>**Comoros**
@@ -1652,6 +1680,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** COM
 </br>
 **Region:** Africa
+
+**Top Attractions:**   Mohéli, Fomboni, Anjouan, Grande Comore
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/10-best-places-visit-comoros/)
 
 ---
 
@@ -1671,6 +1702,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Lola Ya Bonobo, Kahuzi Biega National Park, Nyiragongo Volcano
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-democratic-republic-congo/)
+
 ---
 
 ### <a name="costa_rica"></a>**Costa Rica**
@@ -1688,6 +1722,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CRC
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Manuel Antonio National Park,  Arenal Volcano, Monteverde and the Cloud Forests, Dominical
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/costa-rica-crc.htm)
 
 ---
 
@@ -1707,6 +1744,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Grand-Bassam, Abidjan, Waterfall in Man, Taï National Park
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-ivory-coast/)
+
 ---
 
 ### <a name="croatia"></a>**Croatia**
@@ -1724,6 +1764,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CRO
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Dubrovnik Old Town Walls, Diocletian's Palace in Split, Hvar Town, Plitvice Lakes National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/croatia-hr.htm)
 
 ---
 
@@ -1743,6 +1786,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 </br>
 **Region:** Americas
 
+**Top Attractions:**   Old Havana (Habana Vieja),  Varadero, Trinidad,  Guardalavaca
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cuba-cub.htm)
+
 ---
 ### <a name="cyprus"></a>**Cyprus**
 
@@ -1759,6 +1805,9 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 **Country Code (cioc):** CYP
 </br>
 **Region:** Europe
+
+**Top Attractions:**   Ancient Kourion,  St. Hilarion Castle, Larnaca, Karpas Peninsula
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cyprus-cy.htm)
 
 For a special Mediterranean experience, Cyprus is the right destination. The beaches of Cyprus are the ones that will attract your interest the most.
 
@@ -1779,6 +1828,9 @@ For a special Mediterranean experience, Cyprus is the right destination. The bea
 **Country Code (cioc):** CZE
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Prague Castle,  Prague's Charles Bridge, St. Vitus Cathedral, Prague's Old Town Square & Wenceslas Square
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/czech-republic-cz.htm)
 
 ---
 
@@ -4284,7 +4336,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 
 
-### <a name="#song1"></a>**Rocket Man**
+### <a name="song1"></a>**Rocket Man**
 
 <img width="500" height="350" src="media/photos/songs/song1.jpeg"/>
 
@@ -4295,7 +4347,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
 
-### <a name="#song2"></a>**Space Oddity**
+### <a name="song2"></a>**Space Oddity**
 
 <img width="500" height="350" src="media/photos/songs/song2.jpeg"/>
 
@@ -4306,7 +4358,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
-### <a name="#song3"></a>**Fly Me To The Moon**
+### <a name="song3"></a>**Fly Me To The Moon**
 
 <img width="500" height="350" src="media/photos/songs/song3.jpeg"/>
 
@@ -4316,7 +4368,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
 
-### <a name="#song4"></a>**Man On The Moon**
+### <a name="song4"></a>**Man On The Moon**
 
 <img width="500" height="350" src="media/photos/songs/song4.jpg"/>
 
@@ -4326,7 +4378,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 
 
-### <a name="#song5"></a>**Across The Universe**
+### <a name="song5"></a>**Across The Universe**
 
 <img width="500" height="350" src="media/photos/songs/song5.jpg"/>
 
@@ -4337,7 +4389,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
-### <a name="#song6"></a>**Here Comes The Sun**
+### <a name="song6"></a>**Here Comes The Sun**
 
 <img width="500" height="350" src="media/photos/songs/song6.jpeg"/>
 
@@ -4357,6 +4409,19 @@ Artist: The Killers
 Album: Day & Age
 
 image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
+
+
+
+
+### <a name="song8"></a>**Starlight**
+
+<img width="300" height="300" src="media/photos/songs/song8.jpg"/>
+
+Arist: Muse
+
+Album: Black Holes And Revelations
+
+image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
 
 ---
