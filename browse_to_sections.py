@@ -46,9 +46,9 @@ def find_name(tag, i):
                 if '<' == val:
                     pos_end == index - 1
     html_parameter = ''
-    for j in enumerate(i):
-        if j[0] >= pos_start and j[0] <= pos_end:
-            html_parameter += j[1]
+    for index, val in enumerate(i):
+        if index >= pos_start and index <= pos_end:
+            html_parameter += val
     return html_parameter
 
 
