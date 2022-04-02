@@ -379,7 +379,10 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
-  
+
+- ### [Football Teams](#football_teams) 
+  -[Real Madrid](#real)
+  -[Barcelona](#barca)
   
 
 
@@ -5302,4 +5305,21 @@ Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewi
 
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
  
+
+
+# <a name="football_teams"></a> **Football_Teams**
+## <a name="real"></a> **Real_Madrid**
+Real Madrid Club de Fútbol, meaning Royal Madrid Football Club), commonly referred to as Real Madrid or simply Real, is a Spanish professional football club based in Madrid.
+
+Founded on 6 March 1902 as Madrid Football Club, the club has traditionally worn a white home kit since inception. The honorific title real is Spanish for "royal" and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. The team has played its home matches in the 81,044-capacity Santiago Bernabéu Stadium in downtown Madrid since 1947. Unlike most European sporting entities, Real Madrid's members (socios) have owned and operated the club throughout its history.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Real_Madrid_CF)
+
+## <a name="barca"></a> **Barcelona**
+Futbol Club Barcelona, commonly referred to as Barcelona and colloquially known as Barça, is a professional football club based in Barcelona, Spain, that competes in La Liga, the top flight of Spanish football.
+
+Founded in 1899 by a group of Swiss, Spanish, German and English footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club"). Unlike many other football clubs, the supporters own and operate Barcelona. It is the fourth-most valuable sports team in the world, worth $4.76 billion, and the world's fourth richest football club in terms of revenue, with an annual turnover of €582.1 million. The official Barcelona anthem is the "Cant del Barça", written by Jaume Picas and Josep Maria Espinàs.[4] Barcelona traditionally play in dark shades of blue and red stripes, hence nicknamed Blaugrana.
+
+source [wikipedia](https://en.wikipedia.org/wiki/FC_Barcelona)
+
 ---
