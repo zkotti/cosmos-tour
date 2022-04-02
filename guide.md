@@ -2924,6 +2924,11 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
+**Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
+Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
+Mui Né
+source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
+
 
 ---
 
