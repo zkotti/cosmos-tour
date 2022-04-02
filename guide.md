@@ -429,8 +429,11 @@ Source [Religious Cosmology](https://en.wikipedia.org/wiki/Religious_cosmology),
 
 The flat Earth theory is an old and non-proven thesis according to which the Earth's shape is as a plane or disk. Many ancient civilizations, including Ancient Greece and China until 1600, believed in a flat Earth cosmography. These ideas nowadays are promoted by conspiracy clubs, despite scientific proof about Earth's sphericity. Flat-Earth stories are undoubtebly linked to elementary scientific errors that can be debunked.
 
-Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth),
-[Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+Source [Flat Earth](https://en.wikipedia.org/wiki/Flat_Earth)
+<br>
+Video [Fighting Flat-Earth theory](https://physicsworld.com/a/fighting-flat-earth-theory/)
+<br>
+Video [What If Earth Was in Fact Flat?](https://www.youtube.com/watch?v=_-HhCwYD7rc)
 
 ---
 
