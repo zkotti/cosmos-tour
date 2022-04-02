@@ -59,7 +59,7 @@ def find_name(tag, i):
     return ''
 
 
-name = input('Type the name of the unit, that you want to search: ')
+name = input('Type the name of the section, that you want to search: ')
 url = 'https://e-panourgia.github.io/cosmos-tour/guide.html'
 
 res_guide = requests.get(url)
