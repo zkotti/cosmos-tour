@@ -126,6 +126,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mexico](#mexico)
   - [Monaco](#monaco)
   - [New Zealand](#new_zealand)
+  - [Nicaragua](#nicaragua)
   - [Norway](#norway)
   - [Peru](#peru)
   - [Philippines](#philippines)
@@ -1034,7 +1035,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** AUT
 </br>
 **Region:** Europe
-<br>
+
+**Top Attractions:** The Vienna Hofburg, Salzburg Altstadt, The Spanish Riding School, Schönbrunn Palace
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/austria-a.htm)
 
 ---
 
@@ -1054,6 +1057,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Asia
 
+**Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
 ---
 
 ### <a name="bahamas"></a>**Bahamas**
@@ -1072,6 +1078,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 </br>
 **Region:** Americas
 
+**Top Attractions:** Atlantis Paradise Island, Nassau, Exuma Cays Land and Sea Park, Grand Bahama Island
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/bahamas-bah.htm)
+
 ---
 
 ### <a name="bahrain"></a>**Bahrain**
@@ -1089,6 +1098,9 @@ Argentina is a country in the southern half of South America. Argentina covers a
 **Country Code (cioc):** BRN
 </br>
 **Region:** Asia
+
+**Top Attractions:** The Lost Paradise of Dilmun Water Park, Bahrain National Museum, Al-Fatih Mosque, Bab el-Bahrain Souk
+<br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293996-Activities-Bahrain.html)
 
 ---
 
@@ -2342,6 +2354,24 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NZL
 </br>
 **Region:** Oceania
+
+---
+
+### <a name="nicaragua"></a>**Nicaragua**
+
+<img width="300" height="300" src="media/photos/flags/ni.svg">
+
+**Capital:** [Managua](https://www.google.com/maps/search/Managua)
+</br>
+**Official Language:** Spanish, English, Miskito, Rama
+</br>
+**Currency:** Cordoba (NIO)
+</br>
+**Population:** 6,486,201 (2019)
+</br>
+**Country Code (cioc):** NI
+</br>
+**Region:** Central America 
 
 ---
 
