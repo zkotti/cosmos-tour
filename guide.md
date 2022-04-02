@@ -371,7 +371,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
-
+  - [Buddhism](#Buddhis)
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -5223,5 +5223,11 @@ Source [britannica](https://www.britannica.com/topic/architecture)
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
+
+  ### <a name="Buddhis"></a>**Buddhism**
+
+  Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
 
 ---
