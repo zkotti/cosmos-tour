@@ -546,7 +546,7 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 
 ## <a name="continents_map"></a>**_Continents_**
 
-<img src="media\continents\world-continent-map.jpg">
+<img src="media\photos\continents\world-continent-map.jpg">
 <br>
 <br>
 
@@ -555,7 +555,7 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 ### <a name="africa"></a>**Africa**
 
 <br>
-<img width="500" height="350" src="media\continents\africa.jpg.jpg">
+<img width="500" height="350" src="media\photos\continents\africa.jpg.jpg">
 <br>
 
 **Population:** 1,275,920,972 (2018)
@@ -574,7 +574,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Africa)
 ### <a name="antarctica"></a>**Antarctica**
 
 <br>
-<img width="500" height="350" src="media\continents\antartica.webp">
+<img width="500" height="350" src="media\photos\continents\antartica.webp">
 <br>
 
 **Population:** 1,000 to 5,000 (Seasonal)
@@ -593,7 +593,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Antarctica)
 ### <a name="asia"></a>**Asia**
 
 <br>
-<img width="500" height="350" src="media\continents\Asia.png">
+<img width="500" height="350" src="media\photos\continents\Asia.png">
 <br>
 
 **Population:** 4,560,667,108 (2018)
@@ -612,7 +612,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Asia)
 ### <a name="europe"></a>**Europe**
 
 <br>
-<img width="500" height="350" src="media\continents\Europe.png">
+<img width="500" height="350" src="media\photos\continents\Europe.png">
 <br>
 
 **Population:** 746,419,440 (2018)
@@ -631,7 +631,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Europe)
 ### <a name="north_america"></a>**North America**
 
 <br>
-<img width="500" height="350" src="media\continents\north-america.jpg">
+<img width="500" height="350" src="media\photos\continents\north-america.jpg">
 <br>
 
 **Population:** 592,296,233 (2021)
@@ -650,7 +650,7 @@ Source [wiki](https://en.wikipedia.org/wiki/North_America)
 ### <a name="oceania"></a>**Oceania**
 
 <br>
-<img width="500" height="350" src="media\continents\oceania.jpg">
+<img width="500" height="350" src="media\photos\continents\oceania.jpg">
 <br>
 
 **Population:** 41,570,842 (2018)
@@ -669,7 +669,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Oceania)
 ### <a name="south_america"></a>**South America**
 
 <br>
-<img width="500" height="350" src="media\continents\South_America.png">
+<img width="500" height="350" src="media\photos\continents\South_America.png">
 <br>
 
 **Population:** 423,581,078 (2018)
