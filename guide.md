@@ -367,6 +367,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Fine Arts](#arts)
 
+- ### [Religions](#religions)
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -5166,5 +5168,11 @@ There’s a planet made of diamonds twice the size of earth The "super earth," a
 ---
 
 ## <a name="arts"></a> **Fine Arts**
+
+---
+
+---
+
+## <a name="religions"></a> **Religions**
 
 ---
