@@ -28,18 +28,12 @@ def find_name(tag, i):
         for j in i:
             count += 1
             if len(tag) == 4:
-                if j == 'n' or j == 'a' or j == 'm' or j == 'e':
-                    cont += 1
-                else:
-                    cont = 0
+                cont += 1 if j in ['n', 'a', 'm', 'e'] else cont = 0
                 if cont == len(tag):
                     pos_start = count + 3
                     break
             else:
-                if j == '<' or j == 'e' or j == 'm' or j == '>':
-                    cont += 1
-                else:
-                    cont = 0
+                cont += 1 if j in ['<', 'e', 'm', '>'] else 0
                 if cont == len(tag) + 2:
                     pos_start = count + 1
                     break
