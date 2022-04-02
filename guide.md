@@ -1046,45 +1046,38 @@ Mozart’s Birthplace in Salzburg, Schlossberg Hill & Clocktower in Graz, Styria
 
 **Austria’s Top Sights**
 Those are the top 10 attractions worth visiting in Austria.
+* Schönbrunn Palace, Vienna
+Worth visiting Habsburgs’ summer residence. Take a tour through the spaces and gardens of Hasburgs' summer residence. There is the option of Schönbrunn Zoo, which is located close to the Habsburgs’ summer residence. That way you can visit Austria's most tourist attraction and also the oldest zoo existing in the world.
 
-Schönbrunn Vienna Schönbrunn Vienna
-Austrian National Tourist Office
-media_content.tooltip.skipped
-* 1. Schönbrunn Palace, Vienna
-Worth visiting Habsburgs’ summer residence.Take a tour through the spaces and gardens of Hasburgs' summer residence. There is the option of Schönbrunn Zoo, which is located close to the Habsburgs’ summer residence. That way you can visit the Austria's most tourist attraction and also the oldest zoo existing in the world.
-
-* 2. Ringstrasse in Vienna
+* Ringstrasse in Vienna
 Here you could discover some of Austria's most interesting buildings. The State Opera, Parliament, City Hall, the university and more are some of them.
 
-* 3. Giant Ferris Wheel in Vienna
+* Giant Ferris Wheel in Vienna
 Existed to Vienna’s historic Prater amusement park, the Giant Ferris Wheel offers you some spectacular views of the city. There you could enjoy your breakfast or a nice dinner.
 
-* 4. Hohensalzburg Fortress in Salzburg
-Built in 1077, Hohensalzburg Fortress is a dominant structure, high above the city but very close to the city centre. There you could see Princes’ Chambers furnishing, and also a museum, displaying  ancient suits for military purposes.
+* Hohensalzburg Fortress in Salzburg
+Built-in 1077, Hohensalzburg Fortress is a dominant structure, high above the city but very close to the city centre. There you could see Princes’ Chambers furnishing, and also a museum, displaying ancient suits for military purposes.
 
-* 5. Mozart’s Birthplace in Salzburg
+* Mozart’s Birthplace in Salzburg
 When you walk through Salzburg’s Getreidegasse, a picturesque, cobble-stoned market street that is a lively memory of centuries past, you  should not miss Mozart’s birthplace at no. 9. All in all, it’s one of the most famous museums worldwide nowadays, offering the chanch to see the real rooms and Mozart’s musical instruments.
 
-* 6. Schlossberg Hill & Clocktower in Graz, Styria
+* Schlossberg Hill & Clocktower in Graz, Styria
 A must-do for every first-time visitor to Graz is climbing Schlossberg hill and seeing the city’s famous clocktower up close. If you don’t feel up to climbing the 260 stairs, simply take the lift (located inside the actual hill) or the Schlossbergbahn funicular. Up top, you can treat yourself to a coffee with fantastic views over the city.
 
-* 7. Kunsthaus Art Museum in Graz, Styria
+* Kunsthaus Art Museum in Graz, Styria
 The Kunsthaus located in Graz, Austria’s second city, attracts visitors not just with its contemporary art collections, but also with its unique architecture: Started operating in 2003,it seemed like a nice contradiction to the surroundings of Baroque architecture. With its large, tube-like "nozzles" for windows that stand our and its computerized lighting system, it’s a real mind blowing site in city's centre.
 
-* 8. Golden Roof in Innsbruck, Tirol
+* Golden Roof in Innsbruck, Tirol
 Located in the midst of the old town, Innsbruck’s Golden Roof is perhaps the city’s most famous landmark. Built in the 15th century, its 2,657 gilded shingles shine, drawing visitors' attention.
 
-* 9. Swarovski Crystal Worlds in Wattens, Tirol
-
-
-25 minutes outside of Innsbruck, a place where crystal shines i welcoming visitors, impressing them with its unique images .
-
+* Swarovski Crystal Worlds in Wattens, Tirol
+25 minutes outside of Innsbruck, a place where crystal is everywhere, welcoming visitors and impressing them with its unique images .
 There are 17 separate “crystal chambers”, including a giant crystal dome and an “infinity mirror room” featuring a revolving chandelier. 
-There are stunning crystal exhibits and installations by the likes of Andy Warhol, Jean-Paul Gaultier, and Keith Haring. 
 In addition, a structure, shped as cloud consiated of 800,000 crystal offers an outstanding experience.
 
 * 10. Ars Electronica Center in Linz, Upper Austria
 The Ars Electronica Center in Linz is an interactive museum, one of its kind,  that introduces visitors to STEM and art artifacts . It is expanded across 5,100 m2 (56,000 sqft) LED façade, offering a nightly spectacle.
+Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
 
 ---
 
