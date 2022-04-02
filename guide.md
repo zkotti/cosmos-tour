@@ -370,6 +370,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Architecture](#architecture)
 
 - ### [Religions](#religions)
+  - [Christianity](#christ)
 
 ## <a name="cosmos"></a> **_Cosmos_**
 
@@ -5216,8 +5217,11 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 , [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
 
 ---
----
 
 ## <a name="religions"></a> **Religions**
+### <a name="christ"></a>**Christianity**  
+  Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
 
 ---
