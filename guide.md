@@ -368,6 +368,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 
 - ### [Fine Arts](#arts)
 
+- ### [Religions](#religions)
+
 ## <a name="cosmos"></a> **_Cosmos_**
 
 ### <a name="about_the_term_cosmos"></a>**About the term Cosmos**
@@ -800,7 +802,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/8
 
 ### <a name="55P/Tempel–Tuttle"></a> **55P/Tempel–Tuttle**
 
-<img width="500" height="350" src="media/comets/55PTempel–Tuttle.gif">
+<img width="500" height="350" src="media/photos/comets/55PTempel–Tuttle.gif">
 
 owned by [nasa](https://leonid.arc.nasa.gov/comet55p/comet55p0128.gif)
 
@@ -2971,6 +2973,8 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
+**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
@@ -5185,5 +5189,11 @@ There’s a planet made of diamonds twice the size of earth The "super earth," a
 ---
 
 ## <a name="arts"></a> **Fine Arts**
+
+---
+
+---
+
+## <a name="religions"></a> **Religions**
 
 ---
