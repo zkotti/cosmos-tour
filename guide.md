@@ -184,6 +184,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Milky Way](#milky_way)
   - [Triangulum Galaxy](#triangulum_galaxy)
   - [Sombrero Galaxy](#sombrero_galaxy)
+  - [Sculptor Galaxy](#sculptor_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -3299,6 +3300,21 @@ The Triangulum Galaxy can be viewed with the naked eye in extraordinary viewing 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Sombrero_Galaxy)
 
 ---
+
+### <a name="sculptor_galaxy"></a>**Sculptor Galaxy**
+
+<img width="500" height="350" src="media\photos\galaxies\Sculptor_Galaxy.jpg">
+
+**Description**
+
+**The Sculptor Galaxy** (also called the Silver Coin Galaxy, Silver Dollar Galaxy, NGC 253, or Caldwell 65) is a spiral galaxy in the constellation Sculptor. The Sculptor Galaxy is a starburst galaxy, meaning it is currently undergoing an active era of star production.
+
+Caroline Herschel discovered the galaxy in 1783 while conducting one of her systematic comet investigations. John Herschel noticed it almost half a century later. He expressed himself as follows: "A fantastic thing that is both bright and huge (24′ in length). Its light is a little streaky, but I don't see any stars in it save four enormous ones and one very small one, which don't seem to belong to it because there are so many around..."
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Sculptor_Galaxy)
+
+---
+
 
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
 
