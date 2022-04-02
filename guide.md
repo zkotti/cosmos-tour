@@ -4879,6 +4879,10 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ---
 
+**Description**
+
+Football has a large number of competitions. There are intercontinental tournaments where countries from all over the world play against each other, as well as club based competitions where each team fights for a trophy in its respective country or/and continent. The most popular will be mentioned below.
+
 
 ### <a name="Cricket"></a>**Cricket**
 
