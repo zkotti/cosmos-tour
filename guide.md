@@ -326,6 +326,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Baseball](#Baseball)
   - [Golf](#Golf)
   - [Basketball](#Basketball)
+  - [American Football](#American_Football)
   - [Hockey](#Hockey)
   - [Rugby](#Rugby)
   - [Handball](#Handball)
@@ -4586,8 +4587,20 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
 
+---
 
 
+### <a name="American_Football"></a>**American Football**
+
+<img width="300" height="450" src="media/photos/Sports/American_Football.jpg">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
+
+**Description**
+
+American football, referred to simply as football in the United States and Canada, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. 
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/American_football)
 
 ---
 
