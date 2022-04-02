@@ -491,7 +491,7 @@ Source [3 ways the Universe might end](https://www.businessinsider.com/how-will-
 
 ### <a name="historic_milestones"></a>**Historic Milestones**
 
-<img  src="media/history/milestones-universe-history-e1500155641224.jpg">
+<img  src="media/photos/history/milestones-universe-history-e1500155641224.jpg">
 
 Source [EarthSky](https://earthsky.org/space/cosmic-dark-ages-lyman-alpha-galaxies-lager/)
 
@@ -689,7 +689,7 @@ Source [wiki](https://en.wikipedia.org/wiki/South_America)
 
 ## <a name="comets"></a> **Comets**
 
-<img width="500" height="350" src="media/comets/Deep_Impact_HRI.jpeg">
+<img width="500" height="350" src="media/photos/comets/Deep_Impact_HRI.jpeg">
 
 owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/3/3e/Deep_Impact_HRI.jpeg)
 
@@ -703,7 +703,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Comet)
 
 ### <a name="oumuamua"></a> **Oumuamua**
 
-<img width="500" height="350" src="media/comets/oumuamua.jpg">
+<img width="500" height="350" src="media//photos/comets/oumuamua.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/internal_resources/3577)
 
@@ -719,7 +719,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/o
 
 ### <a name="hale-bopp"></a> **Hale-Bopp**
 
-<img width="500" height="500" src="media/comets/Hale-Bopp.jpg">
+<img width="500" height="500" src="media/photos/comets/Hale-Bopp.jpg">
 
 owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Comet_Hale-Bopp_1995O1.jpg/768px-Comet_Hale-Bopp_1995O1.jpg)
 
@@ -733,7 +733,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Comet_Hale%E2%80%93Bopp)
 
 ### <a name="lovejoy"></a> **C/2011 W3 (Lovejoy)**
 
-<img width="352" height="480" src="media/comets/Lovejoy.jpg">
+<img width="352" height="480" src="media/photos/comets/Lovejoy.jpg">
 
 owned by [wiki](https://en.wikipedia.org/wiki/File:Iss030e015472_Edit.jpg)
 
@@ -749,7 +749,7 @@ Source [wiki](https://en.wikipedia.org/wiki/C/2011_W3_(Lovejoy))
 
 ### <a name="Churyumov_Gerasimenko"></a> **67P/ Churyumov-Gerasimenko**
 
-<img width="500" height="350" src="media/comets/Churyumov-Gerasimenko.jpg">
+<img width="500" height="350" src="media/photos/comets/Churyumov-Gerasimenko.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/1297_ESA_Rosetta_NavCam_20150131_Mosaic.jpg)
 
@@ -763,7 +763,7 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/6
 
 ### <a name="81P_Wild"></a> **81P/Wild (Wild 2)**
 
-<img width="500" height="350" src="media/comets/81P_Wild.jpg">
+<img width="500" height="350" src="media/photos/comets/81P_Wild.jpg">
 
 owned by [nasa](https://solarsystem.nasa.gov/system/content_pages/main_images/635_Wild_2_stereo_pair_03_12_04_732.jpg)
 
