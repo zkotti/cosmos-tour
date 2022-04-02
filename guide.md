@@ -2970,6 +2970,8 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
+**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
