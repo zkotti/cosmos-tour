@@ -4811,9 +4811,9 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ### <a name="Margaret"></a>**Margaret Thatcher**
 
-<br>
+<img width="300" height="300" src="media/photos/personalities/Thatcher.jpg">
 
-Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
+Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
 source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
