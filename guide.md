@@ -270,6 +270,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stars and Planets: The Most Complete Guide to the Stars, Planets, Galaxies, and Solar System](#book_6)
   - [Sun Moon Earth](#book_7)
   - [The Mysteries of the Universe](#book_8)
+  - [The Science of Interstellar](#book_9)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -4341,6 +4342,26 @@ Publisher: DK Children (2020)
 This captivating and wonderfully drawn book is aimed towards young astronomy enthusiasts. Strange planets, distant stars, and intricate galaxies can be encountered by children. Every page of this engaging book reveals the secrets underlying more than 100 astronomical phenomena, from asteroids to black holes.
 
 With storybook-style descriptions and easy writing that presents intriguing facts, myths, and significant discoveries in an entertaining way, your little astronauts may start on a journey out into the great reaches of the universe. Its 224 pages are organized to present heavenly objects in order of distance from Earth, with bright, out-of-this-world illustrations that are perfect for an instructive astronomy-style bedtime.
+
+Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+---
+
+### <a name="book_9"></a>**The Science of Interstellar**
+
+Owned by [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
+
+<img width="500" height="350" src="media\photos\books\Interstellar.jpeg.webp">
+<br>Author: Kip Thorne,
+Publisher: Norton & Company 
+<br>
+
+**Description**
+
+Interstellar, the time-bending sci-fi epic directed by Christopher Nolan, was one of the most ambitious films of the decade, and now Kip Thorne delves into the physics behind the blockbuster Hollywood masterpiece. Thorne is a Nobel Prize-winning physicist who worked on the scientific components of Interstellar with Nolan, which explains why it's one of the five most realistic space films ever made. This book describes how the film's mind-blowing events and breathtaking graphics are based on real-life science.
+
+
+Thorne's observations are based on his screenwriting and filming experiences, and they describe the physical rules that control our universe and the things that surround it. You'll be enthralled as the author recounts his personal experiences as Nolan's science consultant while also delving into the underlying science. The chapters focus on specific topics such as wormholes, black holes, interstellar travel, and more.
 
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
