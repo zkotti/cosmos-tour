@@ -14,6 +14,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Religious Cosmology](#religious_cosmology)
   - [Flat-Earth Theory](#flat-earth_theory)
   - [Simulation Theory](#simulation_theory)
+  - [Multiverse Theory](#multiverse_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
   - [End Of Universe](#end_of_the_universe)
@@ -555,6 +556,14 @@ The simulation hypothesis implies that all of existence is an artificial simulat
 Video [Is Reality Real? The Simulation Argument](https://www.youtube.com/watch?v=tlTKTTt47WE)
 <br>
 Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
+
+---
+
+### <a name="multiverse_theory"></a>**Multiverse Theory**
+
+According to multiverse theory, our universe, with its hundreds of billions of galaxies and nearly innumerable stars spanning tens of billions of light-years, isn't the only one. Instead, there could be an entirely different universe — and another, and another — far away from our own. There may be an infinite number of universes, each with its own set of laws of physics, collections of stars and galaxies (if stars and galaxies are possible in those universes), and perhaps even intelligent civilizations. It's possible that our universe is just one part of a much larger collection of universes known as a multiverse. This can be supported by the fact that so many things had to take place perfectly in our universe for life to exist, that if there was only one universe, life would be unlikely to exist in it. However, there are enough "chances" for life to appear in at least one universe in a multiverse. 
+
+Source [Live Science](https://www.livescience.com/multiverse)
 
 ---
 
