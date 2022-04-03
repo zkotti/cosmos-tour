@@ -6175,6 +6175,8 @@ owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-moun
 The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
 
 source [britannica](https://www.britannica.com/topic/Druze)
+
+
 ### <a name="Volcanos"></a>**Volcanos**
 
 ---
@@ -6240,3 +6242,509 @@ The glow of the volcano is rumored to be what attracted Captain James Cook on th
 Today, the mountain is a sacred area for the John Frum cargo cult. Members of the cult revere John Frum, a deified messenger who foretold the bringing of wealth to the island by American forces, and believe he resides in Mount Yasur with his countrymen.
 
 Source[livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
+
+
+### <a name="States"></a>**States**
+
+---
+
+### <a name="Alabama"></a>**Alabama**
+
+<img width="250" height="167" src="media/photos/states/Alabama.png">
+
+Alabama is a state in the Southeastern region of the United States, bordered by Tennessee to the north; Georgia to the east; Florida and the Gulf of Mexico to the south; and Mississippi to the west. Alabama is the 30th largest by area and the 24th-most populous of the U.S. states. With a total of 1,500 miles (2,400 km) of inland waterways, Alabama has among the most of any state
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Alabama)
+
+---
+
+### <a name="Alaska"></a>**Alabama**
+
+<img width="250" height="167" src="media/photos/states/Alaska.png">
+
+Alaska is a state located in the Western United States on the northwest extremity of North America. A semi-exclave of the U.S., it borders the Canadian province of British Columbia and the territory of Yukon to the east and shares a maritime border with the Russian Federation's Chukotka Autonomous Okrug to the west, just across the Bering Strait. To the north are the Chukchi and Beaufort seas of the Arctic Ocean, while the Pacific Ocean lies to the south and southwest.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Alaska)
+
+---
+
+### <a name="Arizona"></a>**Arizona**
+
+<img width="250" height="167" src="media/photos/states/Arizona.png">
+
+Arizona is a state in the Western United States, grouped in the Southwestern and occasionally Mountain subregions. It is the 6th largest and the 14th most populous of the 50 states. Its capital and largest city is Phoenix. Arizona shares the Four Corners region with Utah to the north, Colorado to the northeast, and New Mexico to the east; its other neighboring states are Nevada to the northwest and California to the west and the Mexican states of Sonora and Baja California to the south and southwest.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Arizona)
+
+---
+
+### <a name="Arkansas"></a>**Arkansas**
+
+<img width="250" height="167" src="media/photos/states/Arkansas.png">
+
+Arkansas is a landlocked state in the South Central region of the United States, home to more than three million people as of 2018. Its name is from the Osage language, a Dhegiha Siouan language, and referred to their relatives, the Quapaw people. The state's diverse geography ranges from the mountainous regions of the Ozark and Ouachita Mountains, which make up the U.S. Interior Highlands, to the densely forested land in the south known as the Arkansas Timberlands, to the eastern lowlands along the Mississippi River and the Arkansas Delta.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Arkansas)
+
+---
+
+### <a name="California"></a>**California**
+
+<img width="250" height="167" src="media/photos/states/California.png">
+
+California is a state in the Western United States. California borders Oregon to the north, Nevada and Arizona to the east, the Mexican state of Baja California to the south; and has a coastline along the Pacific Ocean to the west. With over 39.5 million residents across a total area of approximately 163,696 square miles (423,970 km2), it is the most populous and the third-largest U.S. state by area. It is also the most populated subnational entity in North America and the 34th most populous in the world. The Greater Los Angeles area and the San Francisco Bay Area are the nation's second and fifth most populous urban regions respectively, with the former having more than 18.7 million residents and the latter having over 9.6 million.Sacramento is the state's capital, while Los Angeles is the most populous city in the state and the second most populous city in the country (after New York City). Los Angeles County is the country's most populous, while San Bernardino County is the largest county by area in the country (Alaska has some larger subdivisions, but they are not called counties). San Francisco, which is both a city and a county, is the second most densely populated major city in the country (after New York City) and the fifth most densely populated county in the country, behind four of New York City's five boroughs.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/California)
+
+---
+
+### <a name="Colorado"></a>**Colorado**
+
+<img width="250" height="167" src="media/photos/states/Colorado.png">
+
+Colorado is a state in the Mountain West subregion of the Western United States. It encompasses most of the Southern Rocky Mountains, as well as the northeastern portion of the Colorado Plateau and the western edge of the Great Plains. Colorado is the eighth most extensive and 21st most populous U.S. state. The 2020 United States Census enumerated the population of Colorado at 5,773,714, an increase of 14.80% since the 2010 United States Census
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Colorado)
+
+---
+
+### <a name="Connecticut"></a>**Connecticut**
+
+<img width="250" height="167" src="media/photos/states/Connecticut.png">
+
+Connecticut is the southernmost state in the New England region of the United States. As of the 2010 census, it has the highest per-capita income, second-highest level of human development behind Massachusetts, and highest median household income in the United States. It is bordered by Rhode Island to the east, Massachusetts to the north, New York to the west, and the Long Island Sound to the south. Its capital is Hartford and its most populous city is Bridgeport. Historically the state is part of New England as well as the tri-state area with New York and New Jersey, which together make up metropolitan New York City. The state is named for the Connecticut River which approximately bisects the state. The word "Connecticut" is derived from various anglicized spellings of "Quononoquett" (Conanicut), a Mohegan-Pequot word for "long tidal river".
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Connecticut)
+
+---
+
+### <a name="Delaware"></a>**Delaware**
+
+<img width="250" height="167" src="media/photos/states/Delaware.png">
+
+Delaware is a state in the Mid-Atlantic region of the United States, bordering Maryland to its south and west; Pennsylvania to its north; and New Jersey and the Atlantic Ocean to its east. The state takes its name from the nearby Delaware River, in turn named after Thomas West, 3rd Baron De La Warr, an English nobleman and Virginia's first colonial governor.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Delaware)
+
+---
+
+### <a name="Florida"></a>**Florida**
+
+<img width="250" height="167" src="media/photos/states/Florida.png">
+
+Florida is a state located in the Southeastern region of the United States. Florida is bordered to the west by the Gulf of Mexico, to the northwest by Alabama, to the north by Georgia, to the east by the Bahamas and Atlantic Ocean, and to the south by the Straits of Florida and Cuba; it is the only state that borders both the Gulf of Mexico and the Atlantic Ocean. Spanning 65,758 square miles (170,310 km2), Florida ranks 22nd in area among the 50 states, and with a population of over 21 million, is the third-most populous. The state capital is Tallahassee and the most populous city is Jacksonville. The Miami metropolitan area, with a population of almost 6.2 million, is the most populous urban area in Florida and the seventh-most populous in the United States; other urban conurbations with over one million people are Tampa Bay, Orlando, and Jacksonville.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Florida)
+
+---
+
+### <a name="Georgia"></a>**Georgia**
+
+<img width="250" height="167" src="media/photos/states/Georgia.png">
+
+Georgia is a state in the Southeastern region of the United States, bordered to the north by Tennessee and North Carolina; to the northeast by South Carolina; to the southeast by the Atlantic Ocean; to the south by Florida; and to the west by Alabama. Georgia is the 24th-largest in area and 8th-most populous of the 50 United States. Its 2020 population was 10,711,908, according to the U.S. Census Bureau.[5] Atlanta, a "beta(+)" global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with a population of more than 6 million people in 2020, is the 9th most populous metropolitan area in the United States and contains about 57% of Georgia's entire population.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Georgia)
+
+---
+
+### <a name="Hawaii"></a>**Hawaii**
+
+<img width="250" height="167" src="media/photos/states/Hawaii.png">
+
+Hawaii is a state in the Western United States, located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only state outside North America, the only state that is an archipelago, and the only state in the tropics. Hawaii is also one of four U.S. states that were once independent nations along with Vermont, Texas and California.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Hawaii)
+
+---
+
+### <a name="Idaho"></a>**Idaho**
+
+<img width="250" height="167" src="media/photos/states/Idaho.png">
+
+Idaho is a state in the Pacific Northwest region of the United States. It borders the state of Montana to the east and northeast, Wyoming to the east, Nevada and Utah to the south, and Washington and Oregon to the west. To the north, it shares a small portion of the Canadian border with the province of British Columbia. With a population of approximately 1.8 million and an area of 83,570 square miles (216,400 km2), Idaho is the 14th largest, the 13th least populous and the 7th least densely populated of the 50 U.S. states. The state's capital and largest city is Boise.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Idaho)
+
+---
+
+### <a name="Illinois"></a>**Illinois**
+
+<img width="250" height="167" src="media/photos/states/Illinois.png">
+
+Illinois is a state in the Midwestern region of the United States. Of the fifty U.S. states, it has the fifth largest gross domestic product (GDP), the sixth largest population, and the 25th largest land area. Chicago is the state's largest city and the fifth largest city in North America with the capital in Springfield, located in the center of the state; other major metropolitan areas include Metro East (of Greater St. Louis), Peoria and Rockford.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Illinois)
+
+---
+
+### <a name="Indiana"></a>**Indiana**
+
+<img width="250" height="167" src="media/photos/states/Indiana.png">
+
+Indiana is a U.S. state in the Midwestern United States. It is the 38th-largest by area and the 17th-most populous of the 50 United States. Its capital and largest city is Indianapolis. Indiana was admitted to the United States as the 19th state on December 11, 1816. It is bordered by Lake Michigan to the northwest, Michigan to the north, Ohio to the east, the Ohio River and Kentucky to the south and southeast, and the Wabash River and Illinois to the west.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Indiana)
+
+---
+
+### <a name="Iowa"></a>**Iowa**
+
+<img width="250" height="167" src="media/photos/states/Iowa.png">
+
+Iowa is a state in the Midwestern region of the United States, bordered by the Mississippi River to the east and the Missouri River and Big Sioux River to the west. It is bordered by six states: Wisconsin to the northeast, Illinois to the east and southeast, Missouri to the south, Nebraska to the west, South Dakota to the northwest, and Minnesota to the north.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Iowa)
+
+---
+
+### <a name="Kansas"></a>**Kansas**
+
+<img width="250" height="167" src="media/photos/states/Kansas.png">
+
+Kansas is a state in the Midwestern United States. Its capital is Topeka and its largest city is Wichita. Kansas is a landlocked state bordered by Nebraska to the north; Missouri to the east; Oklahoma to the south; and Colorado to the west. Kansas is named after the Kansas River, which in turn was named after the Kansa Native Americans who lived along its banks. The tribe's name (natively kką:ze) is often said to mean "people of the (south) wind" although this was probably not the term's original meaning. For thousands of years, what is now Kansas was home to numerous and diverse Native American tribes. Tribes in the eastern part of the state generally lived in villages along the river valleys. Tribes in the western part of the state were semi-nomadic and hunted large herds of bison.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Kansas)
+
+---
+
+### <a name="Kentucky"></a>**Kentucky**
+
+<img width="250" height="167" src="media/photos/states/Kentucky.png">
+
+Kentucky officially the Commonwealth of Kentucky, is a state in the Southeastern region of the United States, bordered by Illinois, Indiana, and Ohio to the north; West Virginia and Virginia to the east; Tennessee to the south; and Missouri to the west. The Commonwealth's northern border is defined by the Ohio River. Its capital is Frankfort, and its two largest cities are Louisville and Lexington. The state's population in 2020 was approximately 4.5 million.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Kentucky)
+
+---
+
+### <a name="Louisiana"></a>**Louisiana**
+
+<img width="250" height="167" src="media/photos/states/Louisiana.png">
+
+Louisiana is a state in the Deep South and South Central regions of the United States. It is the 20th-smallest by area and the 25th most populous of the 50 U.S. states. Louisiana is bordered by the state of Texas to the west, Arkansas to the north, Mississippi to the east, and the Gulf of Mexico to the south. A large part of its eastern boundary is demarcated by the Mississippi River. Louisiana is the only U.S. state with political subdivisions termed parishes, which are equivalent to counties, making it one of only two U.S. states not subdivided into counties (the other being Alaska and its boroughs). The state's capital is Baton Rouge, and its largest city is New Orleans.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Louisiana)
+
+---
+
+### <a name="Maine"></a>**Maine**
+
+<img width="250" height="167" src="media/photos/states/Maine.png">
+
+Maine is a state in the New England region of the United States, bordered by New Hampshire to the west; the Gulf of Maine to the southeast; and the Canadian provinces of New Brunswick and Quebec to the northeast and northwest, respectively. Maine is the 12th-smallest by area, the 9th-least populous, the 13th-least densely populated, and the most rural of the 50 U.S. states. It is also the northeasternmost among the contiguous United States, the northernmost state east of the Great Lakes, the only state whose name consists of a single syllable, and the only state to border exactly one other US state. The most populous city in Maine is Portland, while its capital is Augusta.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Maine)
+
+---
+
+### <a name="Maryland"></a>**Maryland**
+
+<img width="250" height="167" src="media/photos/states/Maryland.png">
+
+Maryland is a state in the Mid-Atlantic region of the United States. It shares borders with Virginia, West Virginia, and the District of Columbia to its south and west; Pennsylvania to its north; and Delaware and the Atlantic Ocean to its east. Baltimore is the largest city in the state, and the capital is Annapolis. Among its occasional nicknames are Old Line State, the Free State, and the Chesapeake Bay State. It is named after the English Queen Henrietta Maria, then known in England as Mary.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Maryland)
+
+---
+
+### <a name="Massachusetts"></a>**Massachusetts**
+
+<img width="250" height="167" src="media/photos/states/Massachusetts.png">
+
+Massachusetts is the most populous state in the New England region of the United States. It borders on the Atlantic Ocean and Gulf of Maine to the east, Connecticut to the southwest and Rhode Island to the southeast, New Hampshire to the northeast, Vermont to the northwest, and New York to the west. The capital of Massachusetts is Boston, which is also the most populous city in New England. It is home to the Greater Boston metropolitan area, a region influential upon American history, academia, and industry. Originally dependent on agriculture, fishing and trade, Massachusetts was transformed into a manufacturing center during the Industrial Revolution. During the 20th century, Massachusetts's economy shifted from manufacturing to services. Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Massachusetts)
+
+---
+
+### <a name="Michigan"></a>**Michigan**
+
+<img width="250" height="167" src="media/photos/states/Michigan.png">
+
+Michigan is a state in the Great Lakes region of the upper Midwestern United States. Its name derives from a gallicized variant of the original Ojibwe word ᒥᓯᑲᒥ (mishigami), meaning 'large water' or 'large lake'. With a population of nearly 10.1 million and a total area of nearly 97,000 sq mi (250,000 km2), Michigan is the 10th-largest state by population, the 11th-largest by area, and the largest by area east of the Mississippi River. Its capital is Lansing, and its largest city is Detroit. Metro Detroit is among the nation's most populous and largest metropolitan economies.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Michigan)
+
+---
+
+### <a name="Minnesota"></a>**Minnesota**
+
+<img width="250" height="167" src="media/photos/states/Minnesota.png">
+
+Minnesota is a state in the upper Midwestern United States. It is the 12th largest U.S. state in area and the 22nd most populous, with over 5.75 million residents. Minnesota's geography consists of western prairies, now given over to intensive agriculture; deciduous forests in the southeast, now partially cleared, farmed, and settled; and the less populated North Woods, used for mining, forestry, and recreation. Roughly a third of the state is covered in forests, and it is known as the "Land of 10,000 Lakes" for having over 14,000 bodies of fresh water of at least ten acres. A little over half of Minnesotans live in the Minneapolis–Saint Paul metropolitan area, known as the "Twin Cities", the state's main political, economic, and cultural hub. The Twin Cities is the 16th largest metropolitan area in the U.S. Other minor metropolitan and micropolitan statistical areas include Duluth, Mankato, Moorhead, Rochester, and St. Cloud.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Minnesota)
+
+---
+
+### <a name="Mississippi"></a>**Mississippi**
+
+<img width="250" height="167" src="media/photos/states/Mississippi.png">
+
+Mississippi is a state in the Southeastern region of the United States, bordered to the north by Tennessee; to the east by Alabama; to the south by the Gulf of Mexico; to the southwest by Louisiana; and to the northwest by Arkansas. Mississippi's western boundary is largely defined by the Mississippi River. Mississippi is the 32nd largest and 35th-most populous of the 50 U.S. states. Jackson is both the state's capital and largest city. Greater Jackson is the state's most populous metropolitan area, with a population of 591,978 in 2020.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Mississippi)
+
+---
+
+### <a name="Missouri"></a>**Missouri**
+
+<img width="250" height="167" src="media/photos/states/Missouri.png">
+
+Missouri is a state in the Midwestern region of the United States. Ranking 21st in land area, it is bordered by eight states (tied for the most with Tennessee): Iowa to the north, Illinois, Kentucky and Tennessee to the east, Arkansas to the south and Oklahoma, Kansas and Nebraska to the west. In the south are the Ozarks, a forested highland, providing timber, minerals, and recreation. The Missouri River, after which the state is named, flows through the center into the Mississippi River, which makes up the eastern border. With more than six million residents, it is the 19th-most populous state of the country. The largest urban areas are St. Louis, Kansas City, Springfield and Columbia; the capital is Jefferson City.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Missouri)
+
+---
+
+### <a name="Montana"></a>**Montana**
+
+<img width="250" height="167" src="media/photos/states/Montana.png">
+
+Montana is a state in the Mountain West subregion of the Western United States. It is bordered by Idaho to the west; North Dakota and South Dakota to the east; Wyoming to the south; and by the Canadian provinces of Alberta, British Columbia, and Saskatchewan to the north. It is the fourth-largest state by area, the seventh-least populous state, and the third-least densely populated state. Its state capital is Helena. The western half of Montana contains numerous mountain ranges, while the eastern half is characterized by western prairie terrain and badlands, with smaller mountain ranges found throughout the state. In all, 77 named ranges are part of the Rocky Mountains.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Montana)
+
+---
+
+### <a name="Nebraska"></a>**Nebraska**
+
+<img width="250" height="167" src="media/photos/states/Nebraska.png">
+
+Nebraska is a state in the Midwestern region of the United States. It is bordered by South Dakota to the north; Iowa to the east and Missouri to the southeast, both across the Missouri River; Kansas to the south; Colorado to the southwest; and Wyoming to the west. It is the only triply landlocked U.S. state.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Nebraska)
+
+---
+
+### <a name="Nevada"></a>**Nevada**
+
+<img width="250" height="167" src="media/photos/states/Nevada.png">
+
+Nevada is a state in the Western region of the United States. It is bordered by Oregon to the northwest, Idaho to the northeast, California to the west, Arizona to the southeast, and Utah to the east. Nevada is the 7th-most extensive, the 32nd-most populous, and the 9th-least densely populated of the U.S. states. Nearly three-quarters of Nevada's people live in Clark County, which contains the Las Vegas–Paradise metropolitan area, including three of the state's four largest incorporated cities. Nevada's capital is Carson City while the largest city is Las Vegas.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Nevada)
+
+---
+
+
+### <a name="New Hampshire"></a>**New Hampshire**
+
+<img width="250" height="167" src="media/photos/states/NewHampshire.png">
+
+New Hampshire is a state in the New England region of the United States. It is bordered by Massachusetts to the south, Vermont to the west, Maine and the Gulf of Maine to the east, and the Canadian province of Quebec to the north. Of the 50 U.S. states, New Hampshire is the fifth smallest by area and the tenth least populous, with slightly more than 1.3 million residents. Concord is the state capital, while Manchester is the largest city. New Hampshire's motto, "Live Free or Die", reflects its role in the American Revolutionary War; its nickname, "The Granite State", refers to its extensive granite formations and quarries. It is best known nationwide for holding the first primary (after the Iowa caucus) in the U.S. presidential election cycle.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/New_Hampshire)
+
+---
+
+### <a name="New Jersey"></a>**New Jersey**
+
+<img width="250" height="167" src="media/photos/states/NewJersey.png">
+
+New Jersey is a state in the Mid-Atlantic and Northeastern regions of the United States. It is bordered on the north and east by the state of New York; on the east, southeast, and south by the Atlantic Ocean; on the west by the Delaware River and Pennsylvania; and on the southwest by Delaware Bay and the state of Delaware. At 7,354 square miles (19,050 km2), New Jersey is the fifth-smallest state based on land area, but with close to 9.3 million residents, is the 11th-most populous and the most densely populated. New Jersey's state capital is Trenton, while the state's most populous city is Newark. With the sole exception of Warren County, all counties in the state lie within the combined statistical areas of New York City or Philadelphia; consequently, the state's largest metropolitan area falls within Greater New York.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/New_Jersey)
+
+---
+
+### <a name="New Mexico"></a>**New Mexico**
+
+<img width="250" height="167" src="media/photos/states/NewMexico.png">
+
+New Mexico is a state in the Southwestern United States. It is one of the Mountain States of the southern Rocky Mountains, sharing the Four Corners region of the western U.S. with Utah, Colorado, and Arizona, and bordering Texas to the east and southeast, Oklahoma to the northeast, and the Mexican states of Chihuahua and Sonora to the south. The state capital is Santa Fe, which is the oldest capital in the U.S., founded in 1610 as the government seat of Nuevo México in New Spain; the largest city is Albuquerque.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/New_Mexico)
+
+---
+
+### <a name="New York"></a>**New York**
+
+<img width="250" height="167" src="media/photos/states/NewYork.png">
+
+New York is a state in the Northeastern United States. It is sometimes called New York State to distinguish it from its largest city, New York City. With a total area of 54,556 square miles (141,300 km2), New York is the 27th largest state geographically. With 20.2 million residents, it is the fourth most populous state in the United States as of 2021, with approximately 44% living in New York City and another 14% on the remainder of Long Island. The state is bordered by New Jersey and Pennsylvania to the south, and Connecticut, Massachusetts, and Vermont to the east; it has a maritime border with Rhode Island, east of Long Island, as well as an international border with the Canadian provinces of Quebec to the north and Ontario to the northwest.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/New_York)
+
+---
+
+### <a name="North Carolina"></a>**North Carolina**
+
+<img width="250" height="167" src="media/photos/states/NorthCarolina.png">
+
+North Carolina is a state in the Southeastern region of the United States. The state is the 28th largest and 9th-most populous of the 50 United States. It is bordered by Virginia to the north, the Atlantic Ocean to the east, Georgia and South Carolina to the south, and Tennessee to the west. Raleigh is the state's capital and Charlotte is its largest city. The Charlotte metropolitan area, with an estimated population of 2,569,213 in 2018, is the most-populous metropolitan area in North Carolina, the 23rd-most populous in the United States, and the largest banking center in the nation after New York City. The Raleigh-Durham-Cary combined statistical area is the second-largest metropolitan area in the state, with an estimated population of 2,079,687 in 2019, and is home to the largest research park in the United States, Research Triangle Park.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/North_Carolina)
+
+---
+
+### <a name="North Dakota"></a>**North Dakota**
+
+<img width="250" height="167" src="media/photos/states/NorthDakota.png">
+
+North Dakota is a U.S. state in the upper Midwestern region of the country. It is named after the indigenous Lakota and Dakota Sioux, who historically dominated the territory and remain a large community. North Dakota is bordered by the Canadian provinces of Saskatchewan and Manitoba to the north and by the U.S. states of Minnesota to the east, South Dakota to the south, and Montana to the west. It is believed to host the geographic center of North America, situated in the town of Rugby, and is home to the tallest man-made structure in the Western Hemisphere, the KVLY-TV mast.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/North_Dakota)
+
+---
+
+### <a name="Ohio"></a>**Ohio**
+
+<img width="250" height="167" src="media/photos/states/Ohio.png">
+
+Ohio is a state in the Midwestern region of the United States. Of the fifty U.S. states, it is the 34th-largest by area, and with a population of nearly 11.8 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by Lake Erie to the north, Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". Its state flag is the only non-rectangular flag of all the U.S. states.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Ohio)
+
+---
+
+### <a name="Oklahoma"></a>**Oklahoma**
+
+<img width="250" height="167" src="media/photos/states/Oklahoma.png">
+
+Oklahoma is a state in the South Central region of the United States, bordered by Texas on the south and west, Kansas on the north, Missouri on the northeast, Arkansas on the east, New Mexico on the west, and Colorado on the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans (or colloquially "Okies"), and its capital and largest city is Oklahoma City.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Oklahoma)
+
+---
+
+### <a name="Oregon"></a>**Oregon**
+
+<img width="250" height="167" src="media/photos/states/Oregon.png">
+
+Oregon is a state in the Pacific Northwest region of the Western United States. The Columbia River delineates much of Oregon's northern boundary with Washington, while the Snake River delineates much of its eastern boundary with Idaho. The 42° north parallel delineates the southern boundary with California and Nevada.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Oregon)
+
+---
+
+### <a name="Pennsylvania"></a>**Pennsylvania**
+
+<img width="250" height="167" src="media/photos/states/Pennsylvania.png">
+
+Pennsylvania, officially the Commonwealth of Pennsylvania, is a U.S. state spanning the Mid-Atlantic, Northeastern, and Appalachian regions of the United States. It borders Delaware to the southeast, Maryland to the south, West Virginia to the southwest, Ohio to the west, Lake Erie and the Canadian province of Ontario to the northwest, New York to the north, and New Jersey to the east.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Pennsylvania)
+
+---
+
+### <a name="Rhode Island"></a>**Rhode Island**
+
+<img width="250" height="167" src="media/photos/states/RhodeIsland.png">
+
+Rhode Island officially the State of Rhode Island, is a state in the New England region of the Northeastern United States. It is the smallest U.S. state by area and the seventh-least populous, with slightly fewer than 1.1 million residents as of 2020, but it is the second-most densely populated after New Jersey. It takes its name from the eponymous island, though most of its land area is on the mainland. Rhode Island borders Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound; it also shares a small maritime border with New York. Providence is its capital and most populous city.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Rhode_Island)
+
+---
+
+### <a name="South Carolina"></a>**South Carolina**
+
+<img width="250" height="167" src="media/photos/states/SouthCarolina.png">
+
+South Carolina is a state in the coastal Southeastern region of the United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia across the Savannah River. South Carolina is the 40th most extensive and 23rd most populous U.S. state with a recorded population of 5,124,712 according to the 2020 census. In 2019, its GDP was $213.45 billion. South Carolina is composed of 46 counties. The capital is Columbia with a population of 133,273 in 2019; while its largest city is Charleston with a 2020 population of 150,277. The Greenville–Spartanburg-Anderson metropolitan area is the most populous in the state, with a 2018 population estimate of 906,626.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/South_Carolina)
+
+---
+
+### <a name="South Dakota"></a>**South Dakota**
+
+<img width="250" height="167" src="media/photos/states/SouthDakota.png">
+
+South Dakota is a U.S. state in the North Central region of the United States. It is also part of the Great Plains. South Dakota is named after the Lakota and Dakota Sioux Native American tribes, who comprise a large portion of the population with nine reservations currently in the state and have historically dominated the territory. South Dakota is the seventeenth largest by area, but the 5th least populous, and the 5th least densely populated of the 50 United States. As the southern part of the former Dakota Territory, South Dakota became a state on November 2, 1889, simultaneously with North Dakota. They are the 39th and 40th states admitted to the union; President Benjamin Harrison shuffled the statehood papers before signing them so that no one could tell which became a state first. Pierre is the state capital, and Sioux Falls, with a population of about 187,200, is South Dakota's largest city.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/South_Dakota)
+
+---
+
+### <a name="Tennessee"></a>**Tennessee**
+
+<img width="250" height="167" src="media/photos/states/Tennessee.png">
+
+Tennessee officially the State of Tennessee, is a state in the Southeastern region of the United States. Tennessee is the 36th largest by area and the 16th most populous of the 50 states. It is bordered by Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the southwest, and Missouri to the northwest. Tennessee is geographically, culturally, and legally divided into three Grand Divisions of East, Middle, and West Tennessee. Nashville is the state's capital and largest city, and anchors its largest metropolitan area. Other major cities include Memphis, Knoxville, Chattanooga, and Clarksville. Tennessee's population as of the 2020 United States census is approximately 6.9 million.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Tennessee)
+
+---
+
+### <a name="Texas"></a>**Texas**
+
+<img width="250" height="167" src="media/photos/states/Texas.png">
+
+Texas is a state in the South Central region of the United States. At 268,596 square miles (695,662 km2), and with more than 29.1 million residents in 2020, it is the second-largest U.S. state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest; and has a coastline with the Gulf of Mexico to the southeast.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Texas)
+
+---
+
+### <a name="Utah"></a>**Utah**
+
+<img width="250" height="167" src="media/photos/states/Utah.png">
+
+Utah is a state in the Mountain West subregion of the Western United States. Utah is a landlocked U.S. state bordered to its east by Colorado, to its northeast by Wyoming, to its north by Idaho, to its south by Arizona, and to its west by Nevada. Utah also touches a corner of New Mexico in the southeast. Of the fifty U.S. states, Utah is the 13th-largest by area; with a population over three million, it is the 30th-most-populous and 11th-least-densely populated. Urban development is mostly concentrated in two areas: the Wasatch Front in the north-central part of the state, which is home to roughly two-thirds of the population and includes the capital city, Salt Lake City; and Washington County in the southwest, with more than 180,000 residents. Most of the western half of Utah lies in the Great Basin.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Utah)
+
+---
+
+### <a name="Vermont"></a>**Vermont**
+
+<img width="250" height="167" src="media/photos/states/Vermont.png">
+
+Vermont is a state in the New England region of the United States. It borders the states of Massachusetts to the south, New Hampshire to the east, and New York to the west, and the Canadian province of Quebec to the north. Vermont is the only state in New England that does not border the Atlantic Ocean. Vermont is the second-least-populated U.S. state after Wyoming and the sixth-smallest by area of the 50 U.S. states with a recorded population of 643,503 according to the 2020 U.S. census. The state capital is Montpelier, the least-populous state capital in the United States. The most-populous city, Burlington, is the least-populous city to be the most-populous city in a state.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Vermont)
+
+---
+
+### <a name="Virginia"></a>**Virginia**
+
+<img width="250" height="167" src="media/photos/states/Virginia.png">
+
+Virginia, officially the Commonwealth of Virginia, is a state in the Mid-Atlantic and Southeastern regions of the United States, between the Atlantic Coast and the Appalachian Mountains. The geography and climate of the Commonwealth are shaped by the Blue Ridge Mountains and the Chesapeake Bay, which provide habitat for much of its flora and fauna. The capital of the Commonwealth is Richmond; Virginia Beach is the most-populous city, and Fairfax County is the most-populous political subdivision. The Commonwealth's population in 2020 was over 8.65 million, with 36% of them living in the Baltimore–Washington metropolitan area.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Virginia)
+
+---
+
+### <a name="Washington"></a>**Washington**
+
+<img width="250" height="167" src="media/photos/states/Washington.png">
+
+Washington, officially the State of Washington, is a state in the Pacific Northwest region of the Western United States. Named for George Washington—the first U.S. president—the state was formed from the western part of the Washington Territory, which was ceded by the British Empire in 1846, in accordance with the Oregon Treaty in the settlement of the Oregon boundary dispute. The state, which is bordered on the west by the Pacific Ocean, Oregon to the south, Idaho to the east, and the Canadian province of British Columbia to the north—was admitted to the Union as the 42nd state in 1889. Olympia is the state capital; the state's largest city is Seattle. Washington is often referred to as Washington state to distinguish it from the nation's capital, Washington, D.C.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Washington_(state))
+
+---
+
+### <a name="West Virginia"></a>**West Virginia**
+
+<img width="250" height="167" src="media/photos/states/WestVirginia.png">
+
+West Virginia is a state in the Appalachian, Mid-Atlantic and Southeastern regions of the United States.[Note 1] It is bordered by Pennsylvania to the north and east, Maryland to the east and northeast, Virginia to the southeast, Kentucky to the southwest, and Ohio to the northwest. West Virginia is the 10th-smallest state by area and ranks as the 12th-least populous state, with a population of 1,793,716 residents. The capital and largest city is Charleston.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/West_Virginia)
+
+---
+
+### <a name="Wisconsin"></a>**Wisconsin**
+
+<img width="250" height="167" src="media/photos/states/Wisconsin.png">
+
+Wisconsin is a state in the upper Midwestern United States. Wisconsin is the 25th-largest state by total area and the 20th-most populous. It is bordered by Minnesota to the west, Iowa to the southwest, Illinois to the south, Lake Michigan to the east, Michigan to the northeast, and Lake Superior to the north.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Wisconsin)
+
+---
+
+### <a name="Wyoming"></a>**Wyoming**
+
+<img width="250" height="167" src="media/photos/states/Wyoming.png">
+
+Wyoming is a state in the Mountain West subregion of the Western United States. The 10th largest state by area, it is also the least populous and least densely populated state in the contiguous United States.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Wyoming)
+
+---
