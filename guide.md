@@ -5557,7 +5557,7 @@ Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-
 ### <a name="theater"></a>**Theater**  
 <br>
 
-<img width="640" height="425" src="media/photos/arts/#" alt="Theater image">
+<img width="640" height="425" src="media/photos/arts/theater.jpg" alt="Theater image">
 
 owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-with-acting-stage-actors-monocolor-outline-concept-opera-drama-theatre-performance-as-part-classic-live-culture-events-vector-illustration-dramaturgy-masks-costumes_20921232.htm)
 
