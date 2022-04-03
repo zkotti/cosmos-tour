@@ -372,6 +372,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
 
 - ### [Mountains](#mountains)
   - [Top 14 highest Mountains](#Highest_Mountains)
+  - [Death Zone](#deathzone)
   - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
   - [Mount Kosciuszko](#mountkosciuszko)
@@ -5809,7 +5810,7 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 
 ---
 ### <a name="Highest_Mountains"></a>**Top 14 highest Mountains**
-<img width="550" height="303" src="media/photos/mountains/14peaks.png">
+<img width="750" height="453" src="media/photos/mountains/14peaks.png">
 
 owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
 
