@@ -21,6 +21,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Five Weird Things That Happen in Outer Space](#weird_things)
   - [Career in Space](#jobs)
   - [The Creation of the Universe According to Greek Mythology](#mythology)
+  - [Everything You Need to Know About Chaos](#chaos)
 
 - ### [Continents](#continents)
 
@@ -595,6 +596,12 @@ Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's ma
 
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
+
+---
+
+### <a name="chaos"></a>**Everything You Need to Know About Chaos**
+Our modern notion of chaos is very different from what the ancient Greeks understood. We use the word "chaos" to describe something that is completely confusing. For example, if a room is cluttered, it is often defined as "chaotic." Many people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
+
 
 ---
 
