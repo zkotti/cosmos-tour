@@ -288,6 +288,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Interstellar](#movie_3)
   - [Europa Report](#movie_4)
   - [Apollo 13](#movie_5)
+  - [Ad Astra](#movie_6)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -4758,6 +4759,11 @@ A privately sponsored mission to seek for life on Jupiter's fourth largest moon 
 
 <img width="500" height="350" src="media/photos/movies/apollo13.jpg">
 The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
+
+### <a name="movie_6"></a>**Ad Astra (2019)**
+
+<img width="500" height="350" src="media/photos/movies/adastra.jpg">
+Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
 
 ---
 
