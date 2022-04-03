@@ -21,6 +21,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Five Weird Things That Happen in Outer Space](#weird_things)
   - [Career in Space](#jobs)
   - [The Creation of the Universe According to Greek Mythology](#mythology)
+  - [Everything You Need to Know About Chaos](#chaos)
+  - [9 of the most mind-blowing facts about the Universe](#facts)
 
 - ### [Continents](#continents)
 
@@ -138,10 +140,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Taiwan](#taiwan)
+  - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
   - [United States](#usa) - Click [here](#states) to see the States
   - [Uruguay](#uruguay)
+  - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
   - [Yemen](#yemen)
@@ -164,6 +169,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres)
   - [Pluto](#pluto)
   - [Eris](#eris)
+  - [Haumea](#haumea)
   - [Makemake](#makemake)
 
 - ### [Earth-like Planets](#earthlikeplanets)
@@ -185,6 +191,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Triangulum Galaxy](#triangulum_galaxy)
   - [Sombrero Galaxy](#sombrero_galaxy)
   - [Sculptor Galaxy](#sculptor_galaxy)
+  - [Whirlpool Galaxy](#whirlpool_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -206,6 +213,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Blue Origin](#blue_origin)
 
 - ### [Stars](#stars)
+  - [Antares](#antares)
   - [Betelgeuse](#betelgeuse)
   - [Sun](#sun)
   - [Polaris](#polaris)
@@ -218,6 +226,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres_asteroid)
   - [Pallas](#pallas)
   - [Vesta](#vesta)
+  - [Hygiea](#hygiea)
 
 - ### [Oceans](#oceans)
 
@@ -242,6 +251,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Quote 3.](#quote_3)
   - [Quote 4.](#quote_4)
   - [Quote 5.](#quote_5)
+  - [Quote 6.](#quote_6)
+  - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac)
 
@@ -271,6 +282,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sun Moon Earth](#book_7)
   - [The Mysteries of the Universe](#book_8)
   - [The Science of Interstellar](#book_9)
+  - [From Chaos to Cosmos: Creation to New Creation](#book_10)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -279,6 +291,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Interstellar](#movie_3)
   - [Europa Report](#movie_4)
   - [Apollo 13](#movie_5)
+  - [Ad Astra](#movie_6)
+  - [Armageddon](#movie_7)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -304,14 +318,17 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
+  - [Wolfgang Amadeus Mozart](#Mozart)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
   - [Elon Musk](#Musk)
+  - [Nikola Tesla](#tesla)
   
   
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
   - [Mars 101 | National Geographic](#Mars101)
+  - [Venus 101 | National Geographic](#Venus101)
   - [Universe Size Comparison](#universe_size)
 
 - ### [Astrophotography](#astrophotography)
@@ -324,6 +341,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Sports](#Sports)
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
+    - [Football Competitions](#Football_Competitions)
+      - [World Cup](#World_Cup)
+      - [European Championship](#European_Championship)
+      - [Copa America](#Copa_America)
+      - [Champions League](#UCL)
+      - [Europa League](#UEL)
+      - [Conference League](#UECL)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -334,10 +358,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hockey](#Hockey)
   - [Rugby](#Rugby)
   - [Handball](#Handball)
+  - [Sailing](#Sailing)
 
 - ### [Mountains](#mountains)
   - [Top 4 highest Mountains](#Highest_Mountains)
+  - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
+  - [Mount Kosciuszko](#mountkosciuszko)
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
@@ -346,7 +373,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Seven Wonders of the Ancient World](#ancient_wonders)
   - [New Seven Wonders of the World](#new_wonders)
     - [Chichen Itza](#chichen_itza)
-    - [Christ the Redeemer](#christ)
+    - [Christ the Redeemer](#christ_redeemer)
     - [Colosseum](#colosseum_rome)
     - [Great Wall of China](#china_wall)
     - [Machu Picchu](#machu_picchu)
@@ -364,27 +391,95 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [#8](#fact8)
   - [#9](#fact9)
   - [#10](#fact10)
----
 
 - ### [Fine Arts](#arts)
   - [Architecture](#architecture)
   - [Painting](#painting)
   - [Sculpture](#sculpture)
+  - [Literature](#literature)
+  - [Music](#music)
+  - [Cinema](#cinema)
+  - [Theater](#theater)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
+    #### [Divisions of Christianity](#divs)
+    - [Roman Catholicism](#cathol)
+    - [Eastern Orthodox Church](#ortho)
+    - [Protestantism](#protest)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
-
-- ### [Football Teams](#football_teams) 
-  -[Real Madrid](#real)
-  -[Barcelona](#barca)
+  - [Confucianism](#conf)
+  - [Twelve Olympians](#twel)
+  - [Druze](#druze)
   
 
+- ### [Volcanos](#volcanos) 
+  - [Sangay](#sangay)
+  - [Santa Maria](#santa_maria)
+  - [Stromboli](#stromboli)
+  - [Mount Ethna](#mount_etna)
+  - [Mount Yasur](#mount_yasur)
+
+- ### [States](#states)
+
+  - [Alabama](#alabama)
+  - [Alaska](#alaska)
+  - [Arizona](#arizona)
+  - [Arkansas](#arkansas)
+  - [California](#california)
+  - [Colorado](#colorado)
+  - [Connecticut](#connecticut)
+  - [Delaware](#delaware)
+  - [Florida](#florida)
+  - [Georgia](#georgia)
+  - [Hawaii](#hawaii)
+  - [Idaho](#idaho)
+  - [Illinois](#illinois)
+  - [Indiana](#indiana)
+  - [Iowa](#iowa)
+  - [Kansas](#kansas)
+  - [Kentucky](#kentucky)
+  - [Louisiana](#louisiana)
+  - [Maine](#maine)
+  - [Maryland](#maryland)
+  - [Massachusetts](#massachusetts)
+  - [Michigan](#michigan)
+  - [Minnesota](#minnesota)
+  - [Mississippi](#mississippi)
+  - [Missouri](#missouri)  
+  - [Montana](#montana)
+  - [Nebraska](#nebraska)
+  - [Nevada](#nevada)
+  - [New Hampshire](#new_hampshire)
+  - [New Jersey](#new_jersey)
+  - [New Mexico](#new_mexico)
+  - [New York](#new_york)
+  - [North Carolina](#north_carolina)
+  - [North Dakota](#north_dakota)
+  - [Ohio](#ohio)
+  - [Oklahoma](#oklahoma)
+  - [Oregon](#oregon)
+  - [Pennsylvania](#pennsylvania)
+  - [Rhode Island](#rhode_island)
+  - [South Carolina](#south_carolina)
+  - [South Dakota](#south_dakota)
+  - [Tennessee](#tennessee)
+  - [Texas](#texas)
+  - [Utah](#utah)
+  - [Vermont](#vermont)
+  - [Virginia](#virginia)
+  - [Washington](#washington)
+  - [West Virginia](#west_virginia)
+  - [Wisconsin](#wisconsin)
+  - [Wyoming](#wyoming)
+
+
+---
 
 ## <a name="cosmos"></a> **_Cosmos_**
 
@@ -396,7 +491,7 @@ Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmo
 
 - The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
+Source [wiki](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
 
@@ -578,15 +673,63 @@ If you want to read more information about careers in space you can visit the or
 
 ### <a name="mythology"></a>**The Creation of the Universe According to Greek Mythology**
 
-In the beginning there was only chaos. Then out of the void appeared Night and Erebus, the unknowable place where death dwells. All else was empty, silent, endless, darkness. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
+At first, there was only chaos. Then out of the void appeared Night and Erebus, the place where death dwells. Everything else was empty, silent and dark. Then Love (Eros) was born, bringing a start to order. From Love came Light and Day. Once there was Light and Day, Gaea the earth appeared.
 
 Then Erebus slept with Night, who gave birth to Aether the heavenly light, and then to Day the earthly light. Then Night alone produced Doom, Fate, Death, Sleep, Dreams, Nemesis, and others that come to man out of darkness.
 
-Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.”
+Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's mate, covering her on all sides. Together they produced the three Cyclops, the three Hecatoncheires, and twelve Titans.
 
-This is a condensed version of the first part of Greek mythology, about the creation of the universe.
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
+
+---
+
+### <a name="chaos"></a>**Everything You Need to Know About Chaos**
+Today's meaning of chaos is quite different from what the ancient Greeks understood. We use "chaos" in order to describe something that is completely confusing. For instance, if a room is cluttered, it is often defined as "chaotic." A lot of people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
+
+1.Chaos Existing Before Anything Else.
+
+According to Greek mythology, chaos is the first  to ever exist, an integral part of the Greek creative story, explaining where the gods and goddesses  came from. As the story tells, chaos came before anything else, from which primitive gods and goddesses were born. However, there is some debate as to which of these gods and goddesses really arose from chaos. Most stories state that Eleves, the darkness, and Nuxe, the night, were undoubtedly born of chaos. However, other stories explain that Gaia, Tartarus, and Eros were also among the early gods and goddesses.
+
+2.Chaos is Most Often Described as a Place.
+
+Unlike many other stories in Greek mythology, it is important to understand that chaos is not a primitive god or goddess. Instead, chaos is presented as a place that exists separately from the influence of gods and goddesses.  Hesiod,  one of the first writers to tell the story of Greek mythology, described chaos as an area above the underworld and under the sky. Chaos came before anything else, so it was usually described as dark and foggy.
+
+Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
+
+---
+
+### <a name="facts"></a>**9 of the most mind-blowing facts about the Universe**
+
+
+1.There is a supermassive black hole at the heart of every galaxy
+
+
+
+2.There is a supermassive black hole at the heart of every galaxy
+
+
+3.Approximately 95% of the Universe is invisible
+
+
+4.The Universe was born
+
+
+5.Most of the stuff in the Universe has repulsive gravity
+
+
+6.The Sun is producing only a third of the neutrinos expected
+
+
+7.Most planetary systems are different from ours
+
+
+8.The first gravitational waves detected came from a binary black hole system nobody predicted
+
+9.We appear to be alone
+
+
+Source [skyatnightmagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
 
@@ -992,6 +1135,13 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 **Top Attractions:** Half Moon Bay, Stingray City, 17 Mile Beach, Dickenson Bay,Nelson's Dockyard National Park
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/antigua-and-barbuda-ant.htm)
 
+Antigua and Barbuda is a Caribbean island country located between the Caribbean Sea and the Atlantic Ocean in the Americas.
+It consists of Antigua and Barbuda, two large islands separated by around 40 kilometers (25 miles), as well as smaller islands (including Great Bird, Green, Guiana, Long, Maiden, Prickly Pear, York Islands, Redonda).
+The permanent population is estimated to be around 97,120 (2019), with 97 percent of the inhabitants residing on Antigua.
+Antigua's capital and main port and city is St. John's, whereas Barbuda's largest town is Codrington.
+Antigua and Barbuda are located near to other in the Leeward Islands, which are part of the Lesser Antilles, and are around 17 degrees north of the equator.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)
+
 ---
 
 ### <a name="argentina"></a>**Argentina**
@@ -1020,7 +1170,8 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 
 
-###Most Attractive Tourist Attractions in Argentina
+***Most Attractive Tourist Attractions in Argentina***
+
 Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
 
 The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
@@ -1081,6 +1232,9 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 **Top Attractions:**  Shikahogh State Reserve, Lake Sevan, Dilijan national park, Mount Aragats
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-armenia/)
 
+Armenia, officially the Republic of Armenia, is a landlocked country located in the Armenian Highlands of Western Asia. It is a part of the Caucasus region; and is bordered by Turkey to the west, Georgia to the north, the Lachin corridor under a Russian peacekeeping force, and Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. Yerevan is the capital and largest city. Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. The first Armenian state of Urartu was established in 860 BC, and by the 6th century BC it was replaced by the Satrapy of Armenia.
+<br>Source [Wiki](https://en.wikipedia.org/wiki/Armenia)
+
 ---
 
 ### <a name="australia"></a>**Australia**
@@ -1101,6 +1255,12 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 
 **Top Attractions:** Sydney Opera House, Great Barrier Reef, Uluru/Ayers Rock, Kakadu National Park, Whitsunday Islands
 <br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-australia/)
+
+Australia, officially the Commonwealth of Australia, is a sovereign transcontinental country that encompasses the Australian continent's mainland, Tasmania's island, and a number of smaller islands.
+Australia is the largest country in Oceania and the world's sixth largest country, with an area of 7,617,930 square kilometers (2,941,300 square miles).
+Australia is the oldest, flattest, driest, and least fertile continent on the planet.
+With deserts in the center, tropical rainforests in the north-east, and mountain ranges in the south-east, it is a megadiverse country with a broad variety of landscapes and temperatures.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Australia)
 
 ---
 
@@ -1159,7 +1319,8 @@ In addition, a structure, shped as cloud consiated of 800,000 crystal offers an 
 
 * 10. Ars Electronica Center in Linz, Upper Austria
 The Ars Electronica Center in Linz is an interactive museum, one of its kind,  that introduces visitors to STEM and art artifacts . It is expanded across 5,100 m2 (56,000 sqft) LED façade, offering a nightly spectacle.
-Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
+
+<br>Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
 
 ---
 
@@ -1181,6 +1342,14 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 
 **Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
 <br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
+Azerbaijan, often known as the Azerbaijan Republic or the Republic of Azerbaijan, is a transcontinental country in Eastern Europe and Western Asia.
+The Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south define the South Caucasus region.
+Baku is the capital and the largest city in the country.
+In 1918, the Azerbaijan Democratic Republic declared independence from the Transcaucasian Democratic Federative Republic, becoming the first secular democratic Muslim-majority state. For political reasons, it was named after the nearby province of northern Iran.
+As part of the Transcaucasian SFSR, the country was absorbed into the Soviet Union in 1922. 
+<br>Source [wiki](https://en.wikipedia.org/wiki/Azerbaijan)
+
 
 ---
 
@@ -2257,6 +2426,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Georgia Aquarium, Savannah Historic District, Atlanta Botanical Garden, Blue Ridge Scenic Railway,  Martin Luther King Jr. National Historic Site
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/georgia-usga.htm)
+
 ---
 
 ### <a name="germany"></a>**Germany**
@@ -2274,6 +2446,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 **Country Code (cioc):** GER
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Berlin's Brandenburg Gate, Cologne Cathedral, The Black Forest, The Ultimate Fairytale Castle: Neuschwanstein
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/germany-d.htm)
 
 ---
 
@@ -2293,6 +2468,9 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Aburi Botanical Gardens, Kwame Nkrumah Memorial Park, Makola Market
+<br>Source [TripAdvisor](https://www.tripadvisor.in/Attractions-g293796-Activities-Ghana.html)
+
 ---
 
 ### <a name="greece"></a>**Greece**
@@ -2311,7 +2489,8 @@ England is the biggest of the four countries that are part of the United Kingdom
 </br>
 **Region:** Europe
 
-**Top Attractions:** Athens University of Economics and Business[^1], Acropolis Museum[^2]
+**Top Attractions:** Athens University of Economics and Business[^1], Acropolis Museum[^2] , Santorini, Mykonos, Delphi, The Towns and Beaches of Crete, Corfu, Metéora Monasteries, Rhodes Town, Zákynthos, Samaria Gorge, Nafplio, Thessaloniki
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/greece-gr.htm)
 
 Greece, the birthplace of democracy, philosophy and theather, is a country located at the crossroads of Eastern Europe and Western Asia. It is situated in the heart of the Balkan peninsula. Athens is the country's largest city and serves as its capital.
 
@@ -2336,6 +2515,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Americas
 
+**Top Attractions:**  La Aurora Zoo, Mundo Petapa Irtra, Paseo Cayala
+<br>Source [TripAdvisor](https://www.tripadvisor.com/Attractions-g292006-Activities-Guatemala_City_Guatemala_Department.html)
+
 ---
 
 ### <a name="iceland"></a>**Iceland**
@@ -2353,6 +2535,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ISL
 </br>
 **Region:** Europe
+
+**Top Attractions:**   Blue Lagoon, Strokkur Geysir, The Northern Lights in Aurora Borealis, Landmannalaugar National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/iceland-isl.htm)
 
 ---
 
@@ -2372,6 +2557,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  The Taj Mahal,  The Holy City of Varanasi, Harmandir Sahib: The Golden Temple of Amritsar, The Golden City: Jaisalmer
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/india-ind.htm)
+
 ---
 
 ### <a name="indonesia"></a>**Indonesia**
@@ -2389,6 +2577,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** INA
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Beaches of Bali,  Borobudur, Tanjung Puting National Park,  Gili Islands,  Komodo National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/indonesia-ina.htm)
+
 
 ---
 
@@ -2408,6 +2600,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  Persepolis, Valley of the Stars, Chogha Zanbil, Babak Castle
+<br>Source [TheCultureTrip](https://theculturetrip.com/middle-east/iran/articles/20-must-visit-attractions-in-iran/)
+
+
 ---
 
 ### <a name="iraq"></a>**Iraq**
@@ -2425,6 +2621,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** IRQ
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Erbil, Ziggurat of Ur, National Museum of Baghdad, Basra  
+<br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-visit-iraq/)
+
 
 ---
 
@@ -2444,6 +2644,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Cliffs of Moher, Grafton Street, Dublin, Killarney National Park and Muckross House & Gardens, The Book of Kells and Trinity College, Kilmainham Gaol
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/ireland-irl.htm)
+
+
 ---
 
 ### <a name="israel"></a>**Israel**
@@ -2461,6 +2665,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ISR
 </br>
 **Region:** Asia
+
+**Top Attractions:**   Jerusalem, Haifa, Nazareth, Jaffa
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/israel-isr.htm)
+
 
 ---
 
@@ -2480,6 +2688,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**   Colosseum, Florence Duomo Santa Maria del Fiore,  The Grand Canal in Venice, Leaning Tower of Pisa, Basilica of St. Peter, Sistine Chapel & Vatican Museums, The Uffizi Gallery in Florence, Lake Como, Pantheon, Trevi Fountain,  Amalfi Coast, St. Mark's Basilica  
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/italy-i.htm)
+
+
 ---
 
 ### <a name="japan"></a>**Japan**
@@ -2497,6 +2709,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** JPN
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Mount Fuji, Imperial Tokyo, Hiroshima Peace Memorial Park, Historic Kyoto, The Island Shrine of Itsukushima 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/japan-jpn.htm)
+
 
 ---
 
@@ -2516,6 +2732,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Africa
 
+**Top Attractions:**  Maasai Mara National Reserve,  Amboseli National Reserve,  Tsavo National Park, Lake Nakuru National Park 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/kenya-ken.htm)
+
+
 ---
 
 ### <a name="liechtenstein"></a>**Liechtenstein**
@@ -2533,6 +2753,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** LIE
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Cathedral of St. Florin, The Treasure Chamber of the Principality of Liechtenstein, State of the Art: Kunstmuseum Liechtenstein, Gutenberg Castle 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/liechtenstein-fl.htm)
+
 
 ---
 
@@ -2552,6 +2776,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Vilnius Old Town, Trakai Castle, Devil’s Museum, St. Anne’s Church
+<br>Source [PlanetWare](https://www.thecrazytourist.com/25-best-things-lithuania/)
+
 ---
 
 ### <a name="luxemburg"></a>**Luxemburg**
@@ -2569,6 +2796,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** LUX
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Old Quarter of Luxembourg City,  National Museum of History and Art, The Bock Casements, Grand Ducal Palace, The Walls of the Corniche 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/luxembourg-l.htm)
 
 ---
 
@@ -2588,6 +2818,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Teotihuacan, Chichen Itza, Tulum, Copper Canyon, Palenque
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-mexico/)
+
 ---
 
 ### <a name="monaco"></a>**Monaco**
@@ -2605,6 +2838,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** MON
 </br>
 **Region:** Europe
+
+**Top Attractions:**   Monte-Carlo, Palais du Prince, Musée Oceanographique,  Jardin Exotique, Cathédrale de Monaco
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/monaco-mc-mc-mon.htm)
 
 ---
 
@@ -2624,6 +2860,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Oceania
 
+**Top Attractions:**  Fiordland National Park and Milford Sound,  Bay of Islands, Queenstown, Lake Taupo and Tongariro National Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/new-zealand-nz.htm)
+
 ---
 
 ### <a name="nicaragua"></a>**Nicaragua**
@@ -2641,6 +2880,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** NI
 </br>
 **Region:** Central America 
+
+**Top Attractions:**  Islets of Granada, Corn Islands, Masaya Volcano, Cerro Negro, Mombacho Volcano Nature Preserve
+<br>Source [PlanetWare](https://www.planetware.com/nicaragua/top-rated-attractions-things-to-do-in-nicaragua-nic-1-3.htm)
 
 ---
 
@@ -2660,6 +2902,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Sognefjord, Pulpit Rock, Tromsø, Lofoten Islands,  Viking Ship Museum,  Bygdoy Peninsula 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/norway-n.htm)
+
 ---
 
 ### <a name="peru"></a>**Peru**
@@ -2677,6 +2922,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** PER
 </br>
 **Region:** Americas
+
+**Top Attractions:**   Machu Picchu, The Inca Trail, Cusco's Architectural Treasures, Lake Titicaca, Colca Canyon
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/peru-per.htm)
 
 ---
 
@@ -2696,6 +2944,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Asia
 
+**Top Attractions:**  White Beach in Boracay, Fort Santiago in the Intramuros, Mayon Volcano 
+<br>Source [PlanetWare](https://www.planetware.com/philippines/top-rated-tourist-attractions-things-to-do-in-the-philippines-phi-1-26.htm)
+
 ---
 
 ### <a name="romania"></a>**Romania**
@@ -2713,6 +2964,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ROU
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Bran Castle, Sighisoara Historic Center, Palace of Parliament, Peles Castle, Merry Cemetery
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-romania/)
 
 ---
 
@@ -2732,6 +2986,9 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Saint Basil's Cathedral, Hermitage Museum, Moscow Kremlin, Suzdal 
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-russia/)
+
 ---
 
 ### <a name="san_marino"></a>**San Marino**
@@ -2749,6 +3006,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SMA
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Rocca Guaita, Monte Titano, Palazzo Pubblico and Piazza della Liberta, Basilica di San Marino, Museo di Stato
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/san-marino-rsm-rsm-rsm.htm)
+
 
 ---
 
@@ -2768,6 +3029,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Edinburgh Castle and the Royal Mile, Loch Lomond, Loch Ness and the Caledonian Canal, Isle of Skye and the Inner Hebrides   
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/scotland-sco.htm)
+
+
 ---
 
 ### <a name="slovakia"></a>**Slovakia**
@@ -2785,6 +3050,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** SVK
 </br>
 **Region:** Europe
+
+**Top Attractions:**  Bojnice Castle, Tatranská Lomnica, Museum of the Slovak Village
+<br>Source [Touropia](https://www.planetware.com/slovakia/top-rated-things-to-do-in-slovakia-slo-1-2.htm)
+
 
 ---
 
@@ -2804,6 +3073,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
+<br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
+
+
 ---
 
 ### <a name="spain"></a>**Spain**
@@ -2821,6 +3094,10 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Country Code (cioc):** ESP
 </br>
 **Region:** Europe
+
+**Top Attractions:**  The Alhambra and Generalife Gardens, Barcelona's Sagrada Familia and Gaudi Sites, The Great Mosque of Cordoba, The Prado and Paseo del Artes, San Lorenzo de El Escorial
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/spain-e.htm)
+
 
 ---
 
@@ -2840,8 +3117,55 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 </br>
 **Region:** Europe
 
+**Top Attractions:**  The Matterhorn, Jungfraujoch: The Top of Europe,Interlaken, Lucerne, Lake Geneva
+<br>Source [PlanetWare] (https://www.planetware.com/tourist-attractions/switzerland-ch.htm)
+
+
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+---
+
+### <a name="taiwan"></a>**Taiwan**
+
+<img width="300" height="300" src="media/photos/flags/tw.svg">
+
+**Capital:** [Taipei](https://www.google.com/maps/search/Taipei)
+</br>
+**Official Language:** Standard Chinese
+</br>
+**Currency:** New Taiwan dollar (TWD)
+</br>
+**Population:** 23,451,837 (2021)
+</br>
+**Country Code (cioc):** TPE
+</br>
+**Region:** Asia
+
+**Top Attractions:** Taipei 101, National Palace Museum, Taroko Gorge, Yushan National Park
+<br>
+Source [theculturetrip](https://theculturetrip.com/asia/taiwan/articles/20-must-visit-attractions-in-taiwan/)
+
+---
+
+### <a name="uganda"></a>**Uganda**
+
+<img width="300" height="300" src="media/photos/flags/ug.svg">
+
+**Capital:** [Kampala](https://www.google.com/maps/search/Kampala)
+</br>
+**Official Language:** Swahili
+</br>
+**Currency:** Ugandan shilling (UGX)
+</br>
+**Population:** 42,729,036 (2018)
+</br>
+**Country Code (cioc):** UGA
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Bwindi Impenetrable Forests National Park, Rwenzori Mountain National Park, Queen Elizabeth National Park, The source of the Nile
+<br>Source [ugandatourism](https://ugandatourismcenter.com/top-10-tourist-attractions-in-uganda/)
 
 ---
 
@@ -2861,6 +3185,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Europe
 
+**Top Attractions:**  Chernobyl, St. Sophia's Cathedral, L'viv's Historic Center, Kamenets Podolsky Castle
+<br>Source [PlanetWare](https://www.touropia.com/tourist-attractions-in-russia/)
+
+
 ---
 
 ### <a name="uae"></a>**United Arab Emirates**
@@ -2878,6 +3206,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** UAE
 </br>
 **Region:** Asia
+
+**Top Attractions:**  Burj Khalifa, Sheikh Zayed Mosque, Louvre Abu Dhabi, Legoland Water Park
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/united-arab-emirates-uae.htm)
+
 
 ---
 
@@ -2897,6 +3229,12 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Americas
 
+**Top Attractions:** Grand Canyon, Niagara Falls, Statue of Liberty, White House, Walt Disney World Resort, Waikiki,
+Yosemite National Park, Golden Gate Bridge, Times Square, Freedom Trail in Boston, Yellowstone National Park, San Antonio River Walk,
+Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-the-Sun Road
+<br>Source: [United States' attractions](https://www.planetware.com/tourist-attractions/usa-us.htm)
+
+
 ---
 
 ### <a name="uruguay"></a>**Uruguay**
@@ -2914,6 +3252,32 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** URU
 </br>
 **Region:** Americas
+
+**Top Attractions:**  Tango Museum of Montevideo, Legislative Palace, Punta del Este harbor, Playa de los Pocitos, Colonia del Sacramento    
+<br>Source [PlanetWare](https://www.planetware.com/uruguay/top-tourist-attractions-things-to-do-in-uruguay-uy-1-2.htm)
+
+
+---
+
+### <a name="uzbekistan"></a>**Uzbekistan**
+
+<img width="300" height="300" src="media/photos/flags/uz.svg">
+
+**Capital:** [Tashkent](https://www.google.com/maps/search/Tashkent)
+</br>
+**Official Language:** Uzbek
+</br>
+**Currency:** Uzbek som (UZS)
+</br>
+**Population:** 35,300,000 (2022)
+</br>
+**Country Code (cioc):** UZB
+</br>
+**Region:** Asia
+
+**Top Attractions:** Ark, Registan, Amir Timur Museum, The Walled City of Khiva, Chor Minor, Gur-e-Amir, Chorsu Bazaar
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/places-to-visit-in-uzbekistan/)
+
 
 ---
 
@@ -2933,6 +3297,10 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 </br>
 **Region:** Americas
 
+**Top Attractions:**  Angel Falls, Los Roques Archipelago,  Isla de Margarita, Parque Nacional Morrocoy 
+<br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/venezuela-ven.htm)
+
+
 ---
 
 ### <a name="vietnam"></a>**Vietnam**
@@ -2950,10 +3318,11 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 **Country Code (cioc):** VIE
 </br>
 **Region:** Asia
-**Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
+
+**Top Attractions:** Halong Bay, Ho Chi Minh City, Hue Hue, Phong Nha-Ke Bang National Park, My Son, Hoi An, Sapa Countryside,
 Hanoi, Nha Trang, Cu Chi Tunnels, Ba Be National Park, Mekong Delta, Cat Ba Island, Ha Giang, Phu Quoc Island, Con Dao Islands,
 Mui Né
-source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
+<br>Source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/vietnam-vie.htm)
 
 
 ---
@@ -2974,6 +3343,10 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 </br>
 **Region:** Asia
 
+**Top Attractions:**  The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
+<br>source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
+
+
 ---
 
 ### <a name="zambia"></a>**Zambia**
@@ -2992,6 +3365,11 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 </br>
 **Region:** Africa
 
+**Top Attractions:** Devil's Pool, Victoria Falls (Mosi-oa-Tunya), Zambezi River, Mosi-oa-Tunya National Park, Kafue National Park
+Lower Zambezi National Park, Lake Kariba, South Luangwa National Park, Livingstone Museum, Livingstone Island, Mongu
+<br>Source [Zambia's attractions](https://www.viator.com/en-IE/Zambia/d779)
+
+
 ---
 
 ### <a name="zimbabwe"></a>**Zimbabwe**
@@ -3009,8 +3387,9 @@ source: [Vietnam's attractions](https://www.planetware.com/tourist-attractions/v
 **Country Code (cioc):** ZWE
 </br>
 **Region:** Africa
-**Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
-source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
+
+**Top Attractions:** Hwange National Park, Lake Kariba, Mana Pools National Park, Bulawayo, Great Zimbabwe National Monument, ,Matobo National Park, Chimanimani National Park, Mutare town, Chinhoyi Caves
+<br>Source:  [tripsavvy](https://www.tripsavvy.com/the-top-things-to-do-in-zimbabwe-4142284)
 
 ---
 
@@ -3265,7 +3644,25 @@ Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.
 
 Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
 
-Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+Source [wiki](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+
+---
+
+### <a name="haumea"></a>**Haumea**
+
+<img width="500" height="420" src="media\photos\planets\haumea.jpg">
+
+owned by [wiki](https://en.wikipedia.org/wiki/Haumea)
+
+<br>
+
+**Description**
+
+Haumea is a dwarf planet that it is located in the Kuiper Belt beyond the orbit of Neptune. It is named after the Hawaiian goddess of fertility and it is approximately the same size as Pluto. The temperature in Haumea seems to be very low, so it doesn't has conditions suitable for life. The radius of Haumea is about 620 kilometers which means that is about 1/14 the radius of Earth. Haumea in order to make one trip around the Sun, it needs 285 Earth years.
+
+Haumea also has two known moons. The first one is Namaka (the inner moon) and the second one is Hi'iaka (the outter moon). They took their names from the mythological daughters of Haumea.
+
+Source [wiki](https://en.wikipedia.org/wiki/Haumea)
 
 ---
 
@@ -3273,7 +3670,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 <img width="500" height="375" src="media\photos\planets\makemake.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
+owned by [wiki](https://en.wikipedia.org/wiki/Makemake)
 
 <br>
 
@@ -3289,7 +3686,7 @@ Combining the detection in infrared by the Spitzer Space Telescope and Herschel 
 
 Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
+Source [wiki](https://en.wikipedia.org/wiki/Makemake)
 
 ---
 
@@ -3319,7 +3716,7 @@ According to NASA, this exoplanet is 33 percent larger than Earth and orbits its
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-image source [wikipedia](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
+image source [wiki](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
 
 **Description**
 
@@ -3348,7 +3745,7 @@ According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-y
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-image source [Wikipedia](https://el.wikipedia.org/wiki/TRAPPIST-1e)
+image source [wiki](https://el.wikipedia.org/wiki/TRAPPIST-1e)
 
 **Description**
 
@@ -3381,7 +3778,7 @@ We will probably never reach another galaxy in our lifetime but [Hubble Space Te
 
 <img width="500" height="400" src="media/photos/galaxies/Andromeda.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
 **Description**
 
@@ -3396,7 +3793,7 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 
 <img width="500" height="350" src="media/photos/galaxies/Cigar.jpg">
 
-owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
 **Description**
 
@@ -3411,7 +3808,7 @@ The starburst activity is thought to have been triggered by interaction with nei
 
 <img width="500" height="350" src="media/photos/galaxies/CosmosRedshift7.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
 **Description**
 
@@ -3426,7 +3823,7 @@ CR7 shows some of the expected signatures of Population III stars i.e. the first
 
 <img width="500" height="350" src="media/photos/galaxies/Hoags_object.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
 **Description**
 
@@ -3456,7 +3853,7 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 <img width="500" height="350" src="media/photos/galaxies/milkyway.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
 **Description**
 
@@ -3469,7 +3866,7 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 
 <img width="500" height="350" src="media\photos\galaxies\Triangulum_Galaxy.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+owned by [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
 **Description**
 
@@ -3510,6 +3907,18 @@ Caroline Herschel discovered the galaxy in 1783 while conducting one of her syst
 <br>Source [wiki](https://en.wikipedia.org/wiki/Sculptor_Galaxy)
 
 ---
+
+### <a name="whirlpool_galaxy"></a>**Whirlpool Galaxy**
+
+<img width="500" height="350" src="media\photos\galaxies\whirlpoolgalaxy.jpg">
+
+**Description**
+
+**The Whirlpool Galaxy**, also known as Messier 51a, M51a, and NGC 5194, is a large engineered interacting spiral galaxy with an active galactic core of Seyfert 2. Located in the constellation Canes Venatici, it was the first to be classified as a spiral galaxy. It is 31 million light-years from Earth. 
+Amateur astronomers can easily observe this galaxy and its companion NGC 5195, both of which can be seen with binoculars. Professional astronomers make extensive observations of spiral galaxies, and they study it to understand the structure of galaxies.
+
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)
 
 
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
@@ -3609,7 +4018,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
 
 <img width="500" height="350" src="media/photos/spaceflight/SpaceX_Crew_Dragon.jpg">
 
-owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
+owned by [wiki](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
 **Description**
 
@@ -3654,11 +4063,25 @@ As the many benefits of space activity have become evident, other countries have
 
 ---
 
+### <a name="antares"></a>**Antares**
+
+<img width="476" height="480" src="media/photos/stars/Antares.jpg">
+
+owned by [wiki](https://en.wikipedia.org/wiki/Antares)
+
+**Description**
+
+Antares, also known as Alpha Scorpii, belongs to the constellation of Scorpius and it is the brighhtest star in it. Antares can be seen without a telescope every year at night of May 31st and it is a massive red supergiant star. It is also a binary star that consists of two components Scorpii A and Scorpii B. Antares lies around 550 light-years away from Earth.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Antares)
+
+---
+
 ### <a name="betelgeuse"></a>**Betelgeuse**
 
 <img width="358" height="550" src="media/photos/stars/Betelgeuse.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
+owned by [wiki](https://en.wikipedia.org/wiki/Betelgeuse)
 
 **Description**
 
@@ -3689,7 +4112,7 @@ Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2
 
 <img width="600" height="350" src="media/photos/stars/Polaris.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
 
 **Description**
 
@@ -3702,7 +4125,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 <img width="480" height="480" src="media/photos/stars/Vega.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
+owned by [wiki](https://en.wikipedia.org/wiki/Vega)
 
 **Description**
 
@@ -3875,6 +4298,15 @@ Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-ye
 <br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
 
 ---
+### <a name="hygiea"></a>**Hygiea**
+<br>
+<img width="600" height="300" src="media\photos\asteroids\Hygiea.jpg">
+<br>
+<b>Hygiea</b>, a large asteroid and possibly a dwarf planet in the main asteroid belt. With a diameter of 434 kilometers and an estimated mass of 3% of the belt's total mass, it is the fourth most massive asteroid in the solar system. In some spectral classifications, it is the largest of the dark C-type asteroids with a carbonaceous surface, while in others it is second only to Ceres 1. Observations made in 2017 and 2018 using the very large Telescope's SPHERE Imager and published in late 2019 showed that Hygiea is nearly spherical, a shape close to hydrostatic equilibrium. Therefore, the authors of the study believe that it may be a dwarf planet. However, it is suspected that Hygiea was destroyed by the impact, and the subsequent debris re-accumulated, rather than pieces large enough to become plastic. The devastating impact produced the largest known series of collisions.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/10_Hygiea)
+
+---
 
 ## <a name="overview"></a> **Overview**
 
@@ -3990,7 +4422,7 @@ The ocean's currents are mainly controlled by the monsoon. Two large gyres, one 
 As the youngest of the major oceans, the Indian Ocean has active spreading ridges that are part of the worldwide system of mid-ocean ridges. In the Indian Ocean these spreading ridges meet at the Rodrigues Triple Point with the Central Indian Ridge, including the Carlsberg Ridge, separating the African Plate from the Indian Plate; the Southwest Indian Ridge separating the African Plate from the Antarctic Plate; and the Southeast Indian Ridge separating the Australian Plate from the Antarctic Plate. The Central Indian Ridge is intercepted by the Owen Fracture Zone. Since the late 1990s, however, it has become clear that this traditional definition of the Indo-Australian Plate cannot be correct; it consists of three plates — the Indian Plate, the Capricorn Plate, and Australian Plate — separated by diffuse boundary zones. Since 20 Ma the African Plate is being divided by the East African Rift System into the Nubian and Somalia plates.
 
 <br> Source [britannica](https://www.britannica.com/place/Indian-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Indian_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Indian_Ocean)
 
 ---
 
@@ -4011,7 +4443,7 @@ The volume of the Pacific Ocean, representing about 50.1 percent of the world's 
 The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.
 
 <br> Source [britannica](https://www.britannica.com/place/Pacific-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Pacific_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Pacific_Ocean)
 
 ---
 
@@ -4034,7 +4466,7 @@ The Southern Ocean, geologically the youngest of the oceans, was formed when Ant
 With a northern limit at 60°S, the Southern Ocean differs from the other oceans in that its largest boundary, the northern boundary, does not abut a landmass (as it did with the first edition of Limits of Oceans and Seas). Instead, the northern limit is with the Atlantic, Indian and Pacific Oceans.
 
 <br> Source [britannica](https://www.britannica.com/place/Southern-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Southern_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Southern_Ocean)
 
 ---
 
@@ -4052,7 +4484,7 @@ Astronomer Frank Drake took on the first attempt of extraterrestrial life(extrat
 
 <img width="750" height="300" src="media/photos/extraterrestrial_life/Drake_equation.jpg">
 
-owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
+owned by [wiki](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
 When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R\*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
 
@@ -4064,7 +4496,7 @@ The Kardashev scale is a method of measuring a civilization's level of technolog
 
 <img width="800" height="309" src="media/photos/extraterrestrial_life/Kardashev_scale.png">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
 
 According to the Kardashev Scale, civilizations can be divides into three basic categories, based on the amount of energy they are able to use.
 
@@ -4142,6 +4574,21 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ---
 
+### <a name="quote_6"></a>**Quote 6.**
+
+<img width="300" height="300" src="media\photos\quotes\cosmos_quote_carl.jpg">
+
+- Source [quotes cosmos](https://www.quotescosmos.com/quotes/Carl-Sagan-quote-20.html)
+
+---
+### <a name="quote_7"></a>**Quote 7.**
+
+<img width="300" height="300" src="media\photos\quotes\quote_heraclitus.jpg">
+
+- Source [azquotes](https://www.azquotes.com/quote/843588)
+
+---
+
 ## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
@@ -4154,7 +4601,7 @@ These astrological signs make up a celestial coordinate system, or more specific
 
 <br>
 
-Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
+Source [wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ---
 
@@ -4406,6 +4853,22 @@ Thorne's observations are based on his screenwriting and filming experiences, an
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
+### <a name="book_10"></a>**From Chaos to Cosmos: Creation to New Creation**
+
+<img width="500" height="350" src="media\photos\books\From_chaos_to_cosmos.jpg">
+<br>Author: Sidney Greidanus
+<br>
+
+**Description**
+
+“I form light and create darkness; I make well-being and create calamity; I am the LORD, who does all these things.” Isaiah 45:7 
+
+When God created the world, he brought perfect order out of what was “without form and void.” But with human rebellion against God leading to God’s curse, disorder was introduced into creation—disorder that we still see all around us today. Tracing the chaos to cosmos theme from Genesis 1 to Revelation 22, pastor-scholar Sidney Greidanus reveals how God is restoring his creation through Jesus Christ, who has already begun to shine light into the darkness and will one day return to bring peace, order, and restoration once and for all. With discussion questions at the end of each chapter and a fourteen-session reading plan, this book is ideal for small groups as well as individual study.
+
+Source [crossway](https://www.crossway.org/books/from-chaos-to-cosmos-ebook/)
+
+---
+
 
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
@@ -4434,6 +4897,16 @@ A privately sponsored mission to seek for life on Jupiter's fourth largest moon 
 <img width="500" height="350" src="media/photos/movies/apollo13.jpg">
 The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
+### <a name="movie_6"></a>**Ad Astra (2019)**
+
+<img width="500" height="350" src="media/photos/movies/adastra.jpg">
+Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
+
+### <a name="movie_7"></a>**Armageddon (1998)**
+
+<img width="500" height="350" src="media/photos/movies/armageddon.jpg">
+After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
+
 ---
 
 ## <a name="cosmos_series"></a> **Cosmos Series**
@@ -4445,7 +4918,7 @@ Cosmos is a collection of three science documentary television series presented 
 ### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
 <img width="500" height="350" src="media\photos\series\cosmos1.jpg">
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
 
 Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.
 
@@ -4461,7 +4934,7 @@ source [imdb](https://www.imdb.com/title/tt0081846/)
 
 <img width="500" height="350" src="media\photos\series\cosmos2.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
 
 
 
@@ -4479,7 +4952,7 @@ source [imdb](https://www.imdb.com/title/tt2395695/)
 
 <img width="500" height="350" src="media\photos\series\cosmos3.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
 
 Following the wildly successful "Cosmos: A Spacetime Odyssey," Neil deGrasse Tyson returns as host to translate more revelations of science into a lavish transporting experience, taking audiences on a series of spiritual voyages of exploration. The show reveals previously uncharted realms, including lost worlds, worlds yet to come, and the worlds that humans may one day inhabit. Ann Druyan, original creative collaborator to Carl Sagan, whose iconic docuseries "Cosmos" provided inspiration for this series, serves as executive producer alongside Seth MacFarlane.
 
@@ -4503,7 +4976,9 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 Artist: Elton John
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
+[Available on YouTube](https://www.youtube.com/watch?v=DtVBCG6ThDk)
+
+image source [wiki](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
 
@@ -4514,7 +4989,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 Artist: David Bowie
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
+[Available on YouTube](https://www.youtube.com/watch?v=iYYRH4apXDo)
+
+image source [wiki](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
@@ -4525,7 +5002,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 Artist: Frank Sinatra
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
+[Available on YouTube](https://www.youtube.com/watch?v=ZEcqHA7dbwM)
+
+image source [wiki](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
 
@@ -4535,7 +5014,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 Artist: R.E.M.
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
+[Available on YouTube](https://www.youtube.com/watch?v=dLxpNiF0YKs)
+
+image source [wiki](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 
 
@@ -4545,7 +5026,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 Artist: The Beatles
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
+[Available on YouTube](https://www.youtube.com/watch?v=90M60PzmxEE)
+
+image source [wiki](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
@@ -4556,7 +5039,9 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 Artist: The Beatles
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
+[Available on YouTube](https://www.youtube.com/watch?v=KQetemT1sWc)
+
+image source [wiki](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
 
 
@@ -4569,6 +5054,8 @@ Artist: The Killers
 
 Album: Day & Age
 
+[Available on YouTube](https://www.youtube.com/watch?v=Hc16Y9fiCvQ)
+
 image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
 
 
@@ -4578,11 +5065,13 @@ image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
 
 <img width="300" height="300" src="media/photos/songs/song8.jpg"/>
 
-Arist: Muse
+Artist: Muse
 
 Album: Black Holes And Revelations
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
+[Available on YouTube](https://www.youtube.com/watch?v=Pgum6OT_VH8)
+
+image source [wiki](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
 
 ---
@@ -4610,7 +5099,7 @@ Hamilton is respnsible for publishing  more than 130 papers, proceedings, and re
 
 Margaret Hamilton received the Presidential Medal of Freedom from the president of America at the time, Barack Obama, for her contribution to the development of on-board flight software for NASA's Apollo Moon missions, on November 22, 2016. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+source [wiki](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
 ---
 
@@ -4621,7 +5110,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
+source [wiki](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 ---
 
@@ -4631,7 +5120,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+source [wiki](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ---
 
@@ -4641,7 +5130,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
+source [wiki](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ---
 
@@ -4651,7 +5140,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
+source [wiki](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 ---
 
@@ -4661,7 +5150,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
+source [wiki](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 ---
 
@@ -4671,7 +5160,20 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
-source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+source [wiki](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Mozart"></a>**Wolfgang Amadeus Mozart**
+
+<img width="348" height="446" src="media/photos/personalities/Wolfgang_amadeus_mozart.jpg">
+
+Image Source [Wikipedia](https://en.wikipedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg)
+
+Wolfgang Amadeus Mozart, (full name Johannes Chrysostomus Wolfgangus Theophilus Mozart) was an Austrian composer. He was born on January 27th, 1756 in Salzburg and died on December 5th, 1791 in Vienna. His father was the accomplished violinist and composer Leopold Mozart. He was a child prodigy; at age five he began to compose and gave his first public performance. From 1763 he toured with his father throughout Europe going as far as France and England. In 1764, he wrote his first symphonies. Tours of Italy followed (1769-1773) where he wrote his first Italian opera. In 1775-77 he composed his first piano sonatas and violin concertos. His mother died in 1778. He then returned to Salzburg as cathedral organist and in 1781 wrote his opera seria Idomeneo. He was released from his post in 1781 and moved to Vienna and began his independent career. He married Constanze Weber and gave piano lessons,. The late 1780s were the height of his success, with the string quartets dedicated to Haydn and the three great operas on Lorenzo Da Ponte’s librettos—The Marriage of Figaro (1786), Don Giovanni (1787), and Così fan tutte (1790)—and his superb late symphonies. In the last year of his life he composed the opera The Magic Flute and his great Requiem, which was left unfinished because of his death. It was later completed from the composer Franz Xaver Süssmayr. He died at the age of 35 and the causes of his death remain unclear to this day. Some theories suggest miliary fever, rheumatic fever, and the Schönlein-Henoch syndrome. No other composer left such an extraordinary legacy in so short a lifetime.
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+
 
 ---
 
@@ -4681,17 +5183,17 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+source [wiki](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ---
 
 ### <a name="Margaret"></a>**Margaret Thatcher**
 
-<br>
+<img width="300" height="300" src="media/photos/personalities/Thatcher.jpg">
 
-Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. Nicknamed the “Iron Lady,” she contradicted Soviet communism and battled a war to preserve control of the Falkland Islands. The longest-serving British prime minister of the 20th century, Thatcher was in the long run influenced into leaving by individuals of her possess Preservationist Party.
+Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
-source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+source [history](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
 ---
 
@@ -4701,9 +5203,20 @@ source [history,](https://www.history.com/topics/british-history/margaret-thatch
 
 Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. He is the co-founder of Neuralink and OpenAI, as well as the founder, CEO, and Chief Engineer of SpaceX. He is also the CEO and Product Architect of Tesla, Inc., as well as the founder, CEO, and Chief Engineer of SpaceX. According to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list, Musk is the world's wealthiest individual, with an estimated net worth of roughly US$270 billion as of March 2022.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
+source [wiki](https://en.wikipedia.org/wiki/Elon_Musk)
 
 ---
+
+### <a name="tesla"></a>**Nikola Tesla**
+
+<img width="300" height="300" src="media/photos/personalities/Tesla.jpg">
+
+Nikola Tesla was a Serbian-American electrician, inventor, physicist, and mechanical engineer. He discovered and patented the rotating magnetic field that is the basis of most AC machines.
+
+source [britannica](https://www.britannica.com/biography/Nikola-Tesla)
+
+---
+
 
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
@@ -4721,6 +5234,14 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+ ### <a name="Venus101"></a>**Venus 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=BvXa1n9fjow&ab
+" target="_blank"><img src="media\photos\image_hyperlinks\Venus_National_Geographic.jpeg" 
+alt="Venus Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/watch?v=BvXa1n9fjow&ab)
 
 ---
 
@@ -4741,7 +5262,7 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 
 The photo was taken on April 1, 1995 and it was declared as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph's capture were Jeff Hester and Paul Scowen. The same region of the Eagle Nebula was rephotographed by **ESA's Herschel Space Observatory in 2011** and by the **Hubble Telescope in 2014** with a newer camera. The photo depicted above is the 2014 version of the photograph.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
+Source: [wiki](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
 ---
 
@@ -4754,7 +5275,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
 **The HXDF** contains about 5,500 galaxies, the oldest ones that are seen, **are in the state they were 13.2 billion years ago**. The galaxies that are dimmer, are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remainings of galaxies after big collisions during their oldest years. Many of the smaller galaxies in the image are very young, and eventually have developed to bigger galaxies.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
+Source: [wiki](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 
 ---
 
@@ -4767,7 +5288,7 @@ It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the
 
 The photograph, taken on **December 7, 1972**, is one of the most famous and distributed photographs in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the Earth had the appearance and size of a glass marble, that's why the photograph was called The Blue Marble.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
+Source: [wiki](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
 ---
 
@@ -4780,7 +5301,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
 Voyager 1 had completed its primary goal and was leaving our Solar System. It was commanded by NASA to turn its camera and take one last photograph of Earth, the request came from the astronomer Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+Source: [wiki](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
 ---
 
@@ -4841,6 +5362,74 @@ owned by [worldatlas](https://www.worldatlas.com/r/w960-q80/upload/4a/ba/39/shut
 Football, better known as soccer in the US and Canada, is the most popular sport in the world, with an estimated following of 4 billion fans. Like some of the other sports on this list, the origins of football as we know it are in England in the 19th century, though history points to people playing similar games as far back as two thousand years, beginning in China. One reason for football’s popularity is that unlike other sports that require expensive equipment, all you need to play football is a ball and your foot. Hence, anyone, rich or poor, can enjoy the sport. It is played all over the world, but is particularly popular in Europe, Central and South America, and Africa.
 
 <br> Source [worldatlas](https://www.worldatlas.com/articles/what-are-the-most-popular-sports-in-the-world.html)
+
+---
+
+### <a name="Football_Competitions"></a>**_Football Competitions_**
+
+**Description**
+
+Football has a large number of competitions. There are intercontinental tournaments where countries from all over the world play against each other, as well as club based competitions where each team fights for a trophy in its respective country or/and continent. The most popular will be mentioned below.
+
+---
+
+### <a name="World_Cup"></a>**World Cup**
+
+**Description**
+
+In football, the World Cup is a quadrennial intercontinental tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
+
+<br> Source [britannica](https://www.britannica.com/sports/World-Cup-football)
+
+---
+
+### <a name="European_Championship"></a>**European Championship**
+
+**Description**
+
+In football, the European Championship, formally UEFA European Championship, is a quadrennial tournament held between member countries of the Union of European Football Associations. The European Championship is the second most prestigious international football tournament after the World Cup. After two years of qualifying matches between 17 national football clubs, the European Championship held its first final in 1960. The Euro final tournament began with four teams in 1960, but by 1980, it had grown to eight teams, and by 1996, it had grown to sixteen teams. The last European Championship took place in 11 different European countries that found Italy the winner of the competition.
+
+<br> Source [britannica](https://www.britannica.com/sports/European-Championship)
+
+---
+
+### <a name="Copa_America"></a>**Copa America**
+
+**Description**
+
+Copa América, formerly South American Championship of Nations, is a quadrennial American football tournament that serves as the continent's premier competition. The Copa América is the oldest international football competition in the world. The tournament was first held in 1916 to commemorate Argentina's 100th year of independence, with Uruguay winning the inaugural title. It used to happen every one to four years until 2007, when it switched to its current quadrennial format. The CONMEBOL oversees the Copa América, which features ten CONMEBOL member countries—Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, and Venezuela—plus two additional national teams invited to compete.
+
+<br> Source [britannica](https://www.britannica.com/sports/Copa-America)
+
+---
+
+### <a name="UCL"></a>**Champions League**
+
+**Description**
+
+The UEFA Champions League (abbreviated as UCL) is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-tier European clubs. It is decided by a round-robin group stage to qualify for a double-leg knockout format and a single leg final. It is one of the most prestigious football tournaments in the world, as well as the most prestigious club competition in European football. It is played by the national league champions (and, in some cases, one or more runners-up) of their respective national associations.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Champions_League)
+
+---
+
+### <a name="UEL"></a>**Europa League**
+
+**Description**
+
+The UEFA Europa League (also known as UEL) is an annual football club competition held by the Union of European Football Associations (UEFA) for eligible European football clubs since 1971. It is Europe's second-tier club football competition, ranking below the UEFA Champions League and above the UEFA Europa League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Europa_League)
+
+---
+
+### <a name="UECL"></a>**Conference League**
+
+**Description**
+
+The UEFA Europa Conference League (abbreviated as UECL) is an annual football club competition organized by the Union of European Football Associations (UEFA) for eligible European football clubs. It is also known as the UEFA Conference League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions. It was introduced for the 2021–22 season, and it is the third tier of European club football after the Champions League and the Europa League. The competition primarily features teams from UEFA member associations with lower rankings.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League)
 
 ---
 
@@ -4935,13 +5524,13 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 <img width="300" height="450" src="media/photos/Sports/American_Football.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
 
 **Description**
 
 American football, referred to simply as football in the United States and Canada, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. 
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/American_football)
+<br> Source [wiki](https://en.wikipedia.org/wiki/American_football)
 
 ---
 
@@ -4986,7 +5575,19 @@ owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-th
 
 Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Handball)
+
+---
+
+### <a name="Sailing"></a>**Sailing**
+
+<img width="500" height="350" src="media/photos/Sports/Sailing.jpg">
+
+**Description**
+
+Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge history and successes in Greece. Sailing involves moving a boat by using the wind. There are many types of boats from the smallest, called Optimists, to the bigest, called America's Cup boats. The number of people who can sail a boat can be from one or up to ten, but this depend on the size of the boat.
+
+<br> Source [topendsports](https://www.topendsports.com/sport/list/sailing.htm)
 
 ---
 
@@ -5004,17 +5605,31 @@ Handball (also known as team handball, European handball or Olympic handball) is
 
 
 ---
+
+### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
+
+<img width="550" height="303" src="media/photos/mountains/Aconcagua.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Aconcagua)
+
+**Description**
+
+Mount Aconcagua is the highest peak in South America and the Western Hemisphere with a precise elevation of 6,961 metres (22,838 ft). It is very close to the borders of Argentina and to the city of Mendoza. The mountain has two summits, the north and the south. The southern summit is higher than the nortern and it was first reached in 1897 by Matthias Zurbriggen. Additionally, the mountain including its surroundings belong to the Aconcagua Provincial Park.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Aconcagua)
+
+---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
 
 **Description**
 
 Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
 
 ---
 
@@ -5022,13 +5637,27 @@ Mount Everest (also known as Chomolungma) is the highest mountain in the world w
 
 <img width="550" height="299" src="media/photos/mountains/Kilimanjaro.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
 **Description**
 
 Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+
+---
+
+### <a name="mountkosciuszko"></a>**_Mount Kosciuszko_**
+
+<img width="550" height="367" src="media/photos/mountains/Kosciuszko.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
+
+**Description**
+
+Mount Kosciuszko is the highest peak in Australia at 2,228 metres and it was named like this by the Polish explorer Paul Edmund Strzelecki in 1840 because of its resemblance to the Kościuszko Mound in Kraków, Poland. It is located 390 km southwest of Sydney in the Snowy Mountains of the Australian Alps in southeastern New South Wales. Mount Kosciuszko is a well known mountain that over 100.000 people visit every summer and there are multiple roads that lead to the summit. 
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
 
 ---
 
@@ -5036,13 +5665,13 @@ Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, 
 
 <img width="550" height="299" src="media/photos/mountains/Swiss_Alps.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
+owened by [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 **Description**
 
-The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
+The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Swiss_Alps)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 ---
 
@@ -5050,15 +5679,15 @@ The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweize
 
 <img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Kangchenjunga)
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 **Description**
 
-Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. [3] [1] It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border[4], and the peaks West and Kangbachen in Nepal's Taplejung District.
+Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border, and the peaks West and Kangbachen in Nepal's Taplejung District.
 
 Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Kangchenjunga)
+Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 ---
 
@@ -5080,7 +5709,7 @@ A list of the seven most impressive man-made structures of classical antiquity. 
 |              [Colossus of Rhodes](https://www.newworldencyclopedia.org/entry/Colossus_of_Rhodes)               |   292 - 280 B.C.E.   |    Hellenistic Greece     |                                                                                          A giant statue of the Greek god Helios roughly the same size as today's Statue of Liberty in New York.                                                                                           |           224 B.C.E.           |         Earthquake         |
 |        [Lighthouse of Alexandria](https://www.newworldencyclopedia.org/entry/Lighthouse_of_Alexandria)         | Third century B.C.E. |     Hellenistic Egypt     |                                                                                        Between 383 feet to 440 feet tall it was among the tallest man-made structures on Earth for many centuries.                                                                                        |        1303 - 1480 C.E.        |         Earthquake         |
 
-Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World), [wikipedia](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World), [britannica](https://www.britannica.com/topic/Seven-Wonders-of-the-World)
+Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World), [wiki](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World), [britannica](https://www.britannica.com/topic/Seven-Wonders-of-the-World)
 
 ---
 
@@ -5090,29 +5719,29 @@ A 6-year campaign was completed in 2007 by a Swiss foundation to determine the N
 
 ---
 
-Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
+Source [wiki](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
 
 ### <a name="chichen_itza"></a>**Chichen Itza**
 
 <img width="640" height="425" src="media/photos/wonders/itza.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
+owned by [wiki](https://en.wikipedia.org/wiki/Chichen_Itza)
 
 Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupying 10 square km, it is thought to have been a religious, political, military and commercial center that would have been home to 35,000 people.
 
 ---
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
+Source [wiki](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
 
-### <a name="christ"></a>**Christ the Redeemer**
+### <a name="christ_redeemer"></a>**Christ the Redeemer**
 
 <img width="512" height="768" src="media/photos/wonders/christ.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
+owned by [wiki](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
 
 Christ the Redeemer is a colossal statue of Jesus Christ in Rio de Janeiro, Brazil. Its construction was completed in 1931 and is considered the largest Art Deco sculpture. Made of reinforced concrete and soapstone, it stands 30 meters tall and spans 28 meters wide.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
+Source [wiki](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
 
 ---
 
@@ -5120,11 +5749,11 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), 
 
 <img width="640" height="448" src="media/photos/wonders/colosseum.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+owned by [wiki](https://en.wikipedia.org/wiki/Colosseum)
 
 The Colosseum is an amphitheatre in the center of the city of Rome, Italy. It is considered to be the largest ancient amphitheatre ever built, standing 57 meters tall and spanning 188 and 156 meters in length and width accordingly. Construction began during the reign of the Roman emperor Vespasian (69 - 79 A.D.) and was completed in 80 A.D. under the rule of hiss successor Titus.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+Source [wiki](https://en.wikipedia.org/wiki/Colosseum)
 
 ---
 
@@ -5132,13 +5761,13 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
 <img width="640" height="425" src="media/photos/wonders/china_wall.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+owned by [wiki](https://en.wikipedia.org/wiki/Great_Wall_of_China)
 
 **Description**
 
 The Great Wall of China is a 21,196km long line of fortifications, along the historical northern borders of the ancient Chinese states and later Imperial China. It was built as a security measure, meant to provide protection against invasions and raids from various nomadic groups of the Eurasian Steppe.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
+Source [wiki](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
 
 ---
 
@@ -5146,13 +5775,13 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britanni
 
 <img width="640" height="427" src="media/photos/wonders/machu_picchu.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
+owned by [wiki](https://en.wikipedia.org/wiki/Machu_Picchu)
 
 Machu Picchu
 
 Machu Picchu was an ancient Incan settlement, located in the Eastern Cordillera of southern Peru, on top of a mountain ridge. It is one of the few native American urban centers discovered nearly intact. Occupying nearly 13 square km, the site includes a temple and a citadel.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
+Source [wiki](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
 
 ---
 
@@ -5164,7 +5793,7 @@ owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan
 
 Petra is a historic and archaelogical city in southern Jordan, surrounded by sandstone mountains and cliffs. It is considered to have been a major trading hub and the capital of the Nabateans (an ancient Arab people) around the second century B.C.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
+source [wiki](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
 ---
 
@@ -5172,11 +5801,11 @@ source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://ww
 
 <img width="800" height="553" src="media/photos/wonders/taj_mahal.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+owned by [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 The Taj Mahal is a mausoleum complex in Agra, India. Occupying 17 hectares of area, its construction was completed in 1653. It was commisioned by the Mughal emperor Shah Jahan (1628 - 1658) as the tomb of his wife. The mausoleum is made of white marble, featuring semiprecious stones in geometric and floral patterns.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+Source [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 ---
 
@@ -5222,6 +5851,8 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
 
+Source [ASU Center for Child Well-Being](https://childwellbeing.asu.edu/SpaceFacts)
+
 ---
 
 ## <a name="arts"></a> **Fine Arts**
@@ -5237,8 +5868,21 @@ owned by [britannica](https://www.britannica.com/topic/architecture)
 
 Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
 
+The 10 most iconic buildings in the world
+<br>
+-La Sagrada Familia, Barcelona
+-Forbidden City, Beijing
+-The Guggenheim, New York City
+-Hagia Sophia, Instanbul
+-Roman Coliseum, Rome
+-Notre Dame Cathedral, Paris
+-The Heydar Aliyev Center, Baku
+-Athenian Acropolis, Athens
+-Sydney Opera House, Sydney
+-Angkor Wat, Siem Reap
+
 Source [britannica](https://www.britannica.com/topic/architecture)
-, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/), [Indesignlive](https://www.indesignlive.com/ideas/the-10-most-iconic-buildings-in-the-world)
 
 ---
 ### <a name="painting"></a>**Painting**  
@@ -5249,9 +5893,22 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
-Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract.
 
-Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+Important Paintings
+<br>
+-Leonardo Da Vinci, Mona Lisa
+-Johannes Vermeer, Girl with a Pearl Earring
+-Vincent van Gogh, The Starry Night
+-Gustav Klimt, The Kiss
+-Sandro Botticelli, The Birth of Venus
+-James Abbott McNeill Whistler, Arrangement in Grey and Black No. 1
+-Jan van Eyck, The Arnolfini Portrait
+-Hieronymus Bosch, The Garden of Earthly Delights
+-Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
+-Pablo Picasso, Les Demoiselles d’Avignon
+
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art), [timeout](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
 ---
 
@@ -5265,71 +5922,323 @@ owned by [britannica](https://www.britannica.com/art/sculpture)
 
 Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
 
-Source [britannica](https://www.britannica.com/art/sculpture)
+Famous Sculptures
+<br>
+-Venus of Willendorf
+-Bust of Nefertiti
+-The Terracotta Army
+-Laocoön and His Sons
+-Michelangelo, David
+-Gian Lorenzo Bernini, Ecstasy of Saint Teresa
+-Antonio Canova, Perseus with the Head of Medusa
+
+Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https://www.timeout.com/newyork/art/top-famous-sculptures-of-all-time)
 
 ---
 
+### <a name="literature"></a>**Literature**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/book.jpg" alt="Book image">
+
+owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
+
+Literature is the art of organizing words to tell a story, a myth or a fairy tale. It is closely related to other forms of art like music.
+
+Must Read Book List
+<br>
+-1984 by George Orwell
+-The Lord of the Rings by J.R.R. Tolkien
+-The Kite Runner by Khaled Hosseini
+-Harry Potter and the Philosopher’s Stone by J.K. Rowling
+-Slaughterhouse-Five by Kurt Vonnegut
+-Jane Eyre by Charlotte Bronte
+-Frankenstein by Mary Shelley
+-Principles: Life and Work by Ray Dalio
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html), [oberlo](https://www.oberlo.com/blog/must-read-books-of-all-time)
+
+---
+
+### <a name="music"></a>**Music**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/music.jpg" alt="Image of musical instruments">
+
+owned by [interlude](https://interlude.hk/music-as-art/)
+
+Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood.
+
+Songs to hear before you Die 
+<br>
+-Two Weeks - Grizzly Bear.
+-Marinade - DOPE LEMON.
+-Fade Into You - Mazzy Star.
+-Feel Safe - All We Are.
+-At the Bottom of Everything - Bright Eyes.
+-New Slang - The Shins.
+-Walk In the Park - Beach House.
+-Hey - The Pixies.
+
+Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/),[purculture](https://purculture.com/whatsnew//100-songs-you-need-to-listen-to-before-you-die)
+
+---
+
+### <a name="cinema"></a>**Cinema**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/cinema.webp" alt="Image of old cinema projector">
+
+owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/)
+
+Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
+
+Life Changing Movies
+<br>
+-Into The Wild
+-The Truman Show
+-Crash
+-The Shawshank Redemption
+-Waking Life
+-Wild
+-Pay It Forward
+-Dead Poets Society
+
+Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/),[scoopwhoop](https://www.scoopwhoop.com/entertainment/hollywood-movies-that-will-change-how-you-look-at-life/)
+
+---
+
+### <a name="theater"></a>**Theater**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/theater.jpg" alt="Theater image">
+
+owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-with-acting-stage-actors-monocolor-outline-concept-opera-drama-theatre-performance-as-part-classic-live-culture-events-vector-illustration-dramaturgy-masks-costumes_20921232.htm)
+
+Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
+
+Best Plays of All Time
+<br>
+-Hamlet by William Shakespeare
+-Long Day's Journey Into Night by Eugene O'Neill
+-Who's Afraid of Virginia Woolf? by Edward Albee
+-Death of a Salesman by Arthur Miller
+-Oedipus Rex by Sophocles
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts), [timeout](https://www.timeout.com/newyork/theater/best-plays-of-all-time)
+
+---
 
 ## <a name="religions"></a> **Religions**
-### <a name="christ"></a>**Christianity**  
+
+
+  ### <a name="christ"></a>**Christianity**
+
+  <img width="640" height="425" src="media/photos/religions/cross.webp" alt="Cross image">
+
+  owned by [discipleshipmatters](https://www.discipleshipmatters.org/?p=1759)
+
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
+  source [wiki](https://en.wikipedia.org/wiki/Christianity)
+
+  ---
+
+  ### <a name="divs"></a> **Divisions of Christianity**
+
+  ### <a name="cathol"></a>**Roman Catholicism**
+
+<img width="640" height="425" src="media\photos\religions\st-peters-basilica.jpg" alt="Image of catholic church">
+
+owned by [trainline](https://www.thetrainline.com/via/europe/italy/rome/visiting-st-peters-basilica)
+
+  The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
+
+  source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
+
+   ### <a name="ortho"></a>**Eastern Orthodox Church**
+
+   <img width="640" height="425" src="media\photos\religions\Hagia-Sophia.webp" alt="Image of Agia Sophia">
+
+owned by [medievalists](https://www.medievalists.net/2021/05/justinians-hagia-sophia/)
+
+
+  Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
+
+  source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
+
+
+  ### <a name="protest"></a>**Protestantism**
+
+   <img width="640" height="425" src="media\photos\religions\martin-luther.jpg" alt="Painting of Martin Luther at the Diet of Worms 1521">
+
+owned by [nationalgeographic](https://www.nationalgeographic.org/article/protestant-reformation/9th-grade/)
+
+  Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe. Martin Luther, a German teacher and a monk, brought about the Protestant Reformation when he challenged the Catholic Church's teachings starting in 1517. Luther's statements challenged the Catholic Church's role as mediator between people and God, specifically when it came to the indulgence system. Protestantism has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
+
+  source [britannica](https://www.britannica.com/topic/Protestantism)
+
+  ---
 
   ### <a name="Buddhis"></a>**Buddhism**
 
+  <img width="640" height="425" src="media\photos\religions\grand-budhha.jpg" alt="Image of Grand Buddha at Ling Shan">
+
+owned by [wiki](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/media/File:Grand_Buddha_at_Ling_Shan,_China.jpg)
+
   Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
+  source [wiki](https://en.wikipedia.org/wiki/Buddhism)
 
+
+  ---
 
   ### <a name="Atheism"></a>**Atheism/Agnosticism**
 
   Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
 
-   source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
+   source [wiki](https://en.wikipedia.org/wiki/Atheism)
 
-   ### <a name="Taoism"></a>**Taoism**
+  ---
+
+  ### <a name="Taoism"></a>**Taoism**
+
+  <img width="350" height="300" src="media/photos/religions/taoism.png">
 
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
+  source [wiki](https://en.wikipedia.org/wiki/Taoism)
 
   ---
 
   ### <a name="Islam"></a>**Islam**
 
+   <img width="640" height="425" src="media\photos\religions\islam.jpeg">
+
   Islam began in Arabia and was revealed to humanity by the Prophet Muhammad. Those who follow Islam are called Muslims. Muslims believe that there is only one God. The Arabic word for God is Allah. Retaining its emphasis on an uncompromising monotheism and a strict adherence to certain essential religious practices, the religion taught by Muhammad to a small group of followers spread rapidly through the Middle East to Africa, Europe, the Indian subcontinent, the Malay Peninsula, and China. By the early 21st century there were more than 1.5 billion Muslims worldwide. 
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Islam)
+  #### <a name="branchesIslam"></a> **Braches of Islam**
+  - Sunni Islam
+  - Shia Islam
+  - Ibadi
+  - Sufism
+
+
+  source [wiki](https://en.wikipedia.org/wiki/Islam)
+
+  ---
 
  ### <a name="Hinduism_"></a>**Hinduism**
 
+ <img width="300" height="300" src="media/photos/religions/hinduism.jpeg">
+
  Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
 
- source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
+ source [wiki](https://en.wikipedia.org/wiki/Hinduism)
+
+  ---
 
   ### <a name="Judaism_"></a>**Judaism**
 
-Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
+  <img width="300" height="300" src="media/photos/religions/judaism.jpeg">
 
- source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
+  Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
+
+ source [wiki](https://en.wikipedia.org/wiki/Judaism)
  
+  ---
 
+  ### <a name="conf"></a>**Confucianism**
 
-# <a name="football_teams"></a> **Football_Teams**
-## <a name="real"></a> **Real_Madrid**
-Real Madrid Club de Fútbol, meaning Royal Madrid Football Club), commonly referred to as Real Madrid or simply Real, is a Spanish professional football club based in Madrid.
+  <img width="640" height="425" src="media\photos\religions\confucius.webp" alt="Image of Confucius">
 
-Founded on 6 March 1902 as Madrid Football Club, the club has traditionally worn a white home kit since inception. The honorific title real is Spanish for "royal" and was bestowed to the club by King Alfonso XIII in 1920 together with the royal crown in the emblem. The team has played its home matches in the 81,044-capacity Santiago Bernabéu Stadium in downtown Madrid since 1947. Unlike most European sporting entities, Real Madrid's members (socios) have owned and operated the club throughout its history.
+owned by [britannica](https://www.britannica.com/story/what-is-the-difference-between-daoism-and-confucianism)
 
-source [wikipedia](https://en.wikipedia.org/wiki/Real_Madrid_CF)
+  Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
 
-## <a name="barca"></a> **Barcelona**
-Futbol Club Barcelona, commonly referred to as Barcelona and colloquially known as Barça, is a professional football club based in Barcelona, Spain, that competes in La Liga, the top flight of Spanish football.
+  source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
 
-Founded in 1899 by a group of Swiss, Spanish, German and English footballers led by Joan Gamper, the club has become a symbol of Catalan culture and Catalanism, hence the motto "Més que un club" ("More than a club"). Unlike many other football clubs, the supporters own and operate Barcelona. It is the fourth-most valuable sports team in the world, worth $4.76 billion, and the world's fourth richest football club in terms of revenue, with an annual turnover of €582.1 million. The official Barcelona anthem is the "Cant del Barça", written by Jaume Picas and Josep Maria Espinàs.[4] Barcelona traditionally play in dark shades of blue and red stripes, hence nicknamed Blaugrana.
+  ---
 
-source [wikipedia](https://en.wikipedia.org/wiki/FC_Barcelona)
+  ### <a name="twel"></a>**Twelve Olympians**
+
+  <img width="640" height="425" src="media\photos\religions\twelve-gods.webp" alt="Oil wall painting of the Twelve Gods">
+
+owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-mount-olympus-1532-giulio-romano.html)
+
+  In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
+
+  source [wiki](https://en.wikipedia.org/wiki/Twelve_Olympians)
 
 ---
+
+### <a name="druze"></a>**Druze**
+
+The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
+
+source [britannica](https://www.britannica.com/topic/Druze)
+### <a name="Volcanos"></a>**Volcanos**
+
+---
+
+### <a name="Sangay"></a>**Sangay**
+
+<img width="600" height="435" src="media/photos/volcanos/Sangay.webp">
+
+Sangay (also known as Macas, Sanagay, or Sangai) is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Sangay)
+
+---
+
+### <a names="Santa Maria"></a>**Santa Maria**
+
+<img width="600" height="400" src="media/photos/volcanos/Santa_Maria.webp">
+
+Santa María Volcano is a large active volcano in the western highlands of Guatemala, in the Quetzaltenango Department near the city of Quetzaltenango. The VEI-6 eruption of Santa María Volcano in 1902 was one of the three largest eruptions of the 20th century, after the 1912 Novarupta and 1991 Mount Pinatubo eruptions. It is also one of the five biggest eruptions of the past 200 (and most likely 300) years.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
+
+---
+
+### <a name="Stromboli"></a>**Stromboli**
+
+<img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
+
+Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.
+
+The island's area is 12.6 square kilometres (4.9 sq mi), on the upper third of the volcano that is above sea level and making an island. Its population was about 500 as of 2016. The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
+
+---
+
+### <a name="Mount Etna"></a>**Mount Etna**
+
+<img width="600" height="395" src="media/photos/volcanos/Mount_Etna.webp">
+
+The ancient Greeks believed Mount Etna, located on the island of Sicily, to be the home of Vulcan, the god of fire to them, Mount Etna erupting merely meant Vulcan was forging weapons for Mars, the god of war.
+
+Dating back to 1500 B.C., the volcano has erupted around 200 times, and the 21st century saw Mount Etna erupting yet again in 2001, with lava flows reaching within mere miles of the nearby town of Nicolosi.
+
+The mountain is currently around 10,958 feet (3,340 meters) in height. It is the largest active volcano in Europe, though this varies with summit eruptions. It is the highest mountain in Italy south of the Alps.
+
+The most violent eruption in the history of Mount Etna occurred in March of 1669. The volcano spewed molten rock for days on end, the eruption finally stopped at the end of April of that year.
+
+Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
+
+---
+
+### <a name="Mount Yasur"></a>**Mount Yasur**
+
+<img width="600" height="398" src="media/photos/volcanos/Mount_Yasur.webp">
+
+Mount Yasur is an active volcano on Tanna Island, part of the archipelago nation of Vanuatu in the South Pacific. The volcano, one of many along the Pacific Ring of Fire, is 1,184 feet (of 361 meters) above sea level.
+
+It is a stratovolcano, caused by the eastward-moving Indo-Australian Plate being subducted under the westward-moving Pacific Plate. Yasur has been erupting nearly continuously for over a century, and its eruptions, which often occur several times an hour, are classified as Strombolian or Vulcanian (a relatively low-level type of eruption).
+
+The glow of the volcano is rumored to be what attracted Captain James Cook on the first European journey to the island in 1774.
+
+Today, the mountain is a sacred area for the John Frum cargo cult. Members of the cult revere John Frum, a deified messenger who foretold the bringing of wealth to the island by American forces, and believe he resides in Mount Yasur with his countrymen.
+
+Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)

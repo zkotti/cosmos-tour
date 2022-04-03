@@ -22,44 +22,34 @@ import webbrowser
 
 
 def find_name(tag, i):
-    if tag in i:
-        count = -1
-        cont = 0
-        for j in i:
-            count += 1
+    if tag not in i:
+        return ''
+    cont = 0
+    for index, val in enumerate(i):
+        if len(tag) == 4:
+            cont += 1 if val in ['n', 'a', 'm', 'e'] else 0
+            if cont == len(tag):
+                pos_start = index + 3
+                break
+        else:
+            cont += 1 if val in ['<', 'e', 'm', '>'] else 0
+            if cont == len(tag) + 2:
+                pos_start = index + 1
+                break
+    pos_end = 0
+    for index, val in enumerate(i):
+        if index >= pos_start:
             if len(tag) == 4:
-                if j == 'n' or j == 'a' or j == 'm' or j == 'e':
-                    cont += 1
-                else:
-                    cont = 0
-                if cont == len(tag):
-                    pos_start = count + 3
-                    break
+                if '"' == val:
+                    pos_end = index - 1
             else:
-                if j == '<' or j == 'e' or j == 'm' or j == '>':
-                    cont += 1
-                else:
-                    cont = 0
-                if cont == len(tag) + 2:
-                    pos_start = count + 1
-                    break
-        pos_end = 0
-        count = -1
-        for j in enumerate(i):
-            count += 1
-            if j[0] >= pos_start:
-                if len(tag) == 4:
-                    if '"' == j[1]:
-                        pos_end = count - 1
-                else:
-                    if '<' == j[1]:
-                        pos_end == count - 1
-        html_parameter = ''
-        for j in enumerate(i):
-            if j[0] >= pos_start and j[0] <= pos_end:
-                html_parameter += j[1]
-        return html_parameter
-    return ''
+                if '<' == val:
+                    pos_end == index - 1
+    html_parameter = ''
+    for index, val in enumerate(i):
+        if index >= pos_start and index <= pos_end:
+            html_parameter += val
+    return html_parameter
 
 
 name = input('Type the name of the section, that you want to search: ')
@@ -69,7 +59,7 @@ res_guide = requests.get(url)
 soup_guide = BeautifulSoup(res_guide.text, 'html.parser')
 
 h2 = soup_guide.find_all('h2')
-#print(soup_guide)
+# print(soup_guide)
 for i in h2:
     i = str(i)
     if name in i:
