@@ -1116,7 +1116,8 @@ Argentina is a country in the southern half of South America. Argentina covers a
 
 
 
-###Most Attractive Tourist Attractions in Argentina
+***Most Attractive Tourist Attractions in Argentina***
+
 Argentina is a vast country in South America. There are many choices to visit in Argentina but the thing that Argentina is most famous is the tango, the pampas or eating beef .
 
 The most famous of all sightseeings in Argentina are the Iguazu Falls and the capital Buenos Aires.
@@ -6108,7 +6109,7 @@ source [britannica](https://www.britannica.com/topic/Druze)
 
 ### <a name="Sangay"></a>**Sangay**
 
-<img width="600" height="435" src="media/photos/volcanos/Sangay.jpg">
+<img width="600" height="435" src="media/photos/volcanos/Sangay.webp">
 
 Sangay (also known as Macas, Sanagay, or Sangai)[7] is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
 
@@ -6118,7 +6119,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Sangay)
 
 ### <a names="Santa Maria"></a>**Santa Maria**
 
-<img width="600" height="400" src="media/photos/volcanos/Santa_Maria.jpg">
+<img width="600" height="400" src="media/photos/volcanos/Santa_Maria.webp">
 
 Santa María Volcano is a large active volcano in the western highlands of Guatemala, in the Quetzaltenango Department near the city of Quetzaltenango. The VEI-6 eruption of Santa María Volcano in 1902 was one of the three largest eruptions of the 20th century, after the 1912 Novarupta and 1991 Mount Pinatubo eruptions. It is also one of the five biggest eruptions of the past 200 (and most likely 300) years.
 
@@ -6128,7 +6129,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
 
 ### <a name="Stromboli"></a>**Stromboli**
 
-<img width="600" height="399" src="media/photos/volcanos/Stromboli.jpg">
+<img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
 
 Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.[3]
 
@@ -6140,7 +6141,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
 ### <a name="Mount Etna"></a>**Mount Etna**
 
-<img width="600" height="395" src="media/photos/volcanos/Mount_Etna.jpg">
+<img width="600" height="395" src="media/photos/volcanos/Mount_Etna.webp">
 
 The ancient Greeks believed Mount Etna, located on the island of Sicily, to be the home of Vulcan, the god of fire to them, Mount Etna erupting merely meant Vulcan was forging weapons for Mars, the god of war.
 
@@ -6156,7 +6157,7 @@ Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-v
 
 ### <a name="Mount Yasur"></a>**Mount Yasur**
 
-<img width="600" height="398" src="media/photos/volcanos/Mount_Yasur.jpg">
+<img width="600" height="398" src="media/photos/volcanos/Mount_Yasur.webp">
 
 Mount Yasur is an active volcano on Tanna Island, part of the archipelago nation of Vanuatu in the South Pacific. The volcano, one of many along the Pacific Ring of Fire, is 1,184 feet (of 361 meters) above sea level.
 
