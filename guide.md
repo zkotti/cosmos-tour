@@ -336,6 +336,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
       - [World Cup](#World_Cup)
       - [European Championship](#European_Championship)
       - [Copa America](#Copa_America)
+      - [Champions League](#UCL)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5158,6 +5159,16 @@ In football, the European Championship, formally UEFA European Championship, is 
 Copa América, formerly South American Championship of Nations, is a quadrennial American football tournament that serves as the continent's premier competition. The Copa América is the oldest international football competition in the world. The tournament was first held in 1916 to commemorate Argentina's 100th year of independence, with Uruguay winning the inaugural title. It used to happen every one to four years until 2007, when it switched to its current quadrennial format. The CONMEBOL oversees the Copa América, which features ten CONMEBOL member countries—Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, and Venezuela—plus two additional national teams invited to compete.
 
 <br> Source [britannica](https://www.britannica.com/sports/Copa-America)
+
+---
+
+### <a name="UCL"></a>**Champions League**
+
+**Description**
+
+The UEFA Champions League (abbreviated as UCL) is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-tier European clubs. It is decided by a round-robin group stage to qualify for a double-leg knockout format and a single leg final. It is one of the most prestigious football tournaments in the world, as well as the most prestigious club competition in European football. It is played by the national league champions (and, in some cases, one or more runners-up) of their respective national associations.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Champions_League)
 
 ---
 
