@@ -379,6 +379,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Literature](#literature)
   - [Music](#music)
   - [Cinema](#cinema)
+  - [Theater](#theater)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -5550,6 +5551,19 @@ owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/
 Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
 
 Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
+
+---
+
+### <a name="theater"></a>**Theater**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/#" alt="Theater image">
+
+owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-with-acting-stage-actors-monocolor-outline-concept-opera-drama-theatre-performance-as-part-classic-live-culture-events-vector-illustration-dramaturgy-masks-costumes_20921232.htm)
+
+Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
 
 ---
 
