@@ -21,6 +21,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Five Weird Things That Happen in Outer Space](#weird_things)
   - [Career in Space](#jobs)
   - [The Creation of the Universe According to Greek Mythology](#mythology)
+  - [Everything You Need to Know About Chaos](#chaos)
 
 - ### [Continents](#continents)
 
@@ -244,6 +245,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Quote 3.](#quote_3)
   - [Quote 4.](#quote_4)
   - [Quote 5.](#quote_5)
+  - [Quote 6.](#quote_6)
+  - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac)
 
@@ -327,7 +330,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Sports](#Sports)
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
-    -[Football Competitions](#Football_Competitions)
+    - [Football Competitions](#Football_Competitions)
+      - [World Cup](#World_Cup)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -379,6 +383,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Literature](#literature)
   - [Music](#music)
   - [Cinema](#cinema)
+  - [Theater](#theater)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
@@ -392,7 +397,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
-  
+  - [Confucianism](#conf)
   
 
 
@@ -596,6 +601,12 @@ Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's ma
 
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
+
+---
+
+### <a name="chaos"></a>**Everything You Need to Know About Chaos**
+Today's meaning of chaos is quite different from what the ancient Greeks understood. We use "chaos" in order to describe something that is completely confusing. For instance, if a room is cluttered, it is often defined as "chaotic." A lot of people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
+
 
 ---
 
@@ -2966,6 +2977,27 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="uganda"></a>**Uganda**
+
+<img width="300" height="300" src="media/photos/flags/ug.svg">
+
+**Capital:** [Kampala](https://www.google.com/maps/search/Kampala)
+</br>
+**Official Language:** Swahili
+</br>
+**Currency:** Ugandan shilling (UGX)
+</br>
+**Population:** 42,729,036 (2018)
+</br>
+**Country Code (cioc):** UGA
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Bwindi Impenetrable Forests National Park, Rwenzori Mountain National Park, Queen Elizabeth National Park, The source of the Nile
+<br>Source [ugandatourism](https://ugandatourismcenter.com/top-10-tourist-attractions-in-uganda/)
+
+---
+
 ### <a name="ukraine"></a>**Ukraine**
 
 <img width="300" height="300" src="media/photos/flags/ua.svg">
@@ -4328,6 +4360,21 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ---
 
+### <a name="quote_6"></a>**Quote 6.**
+
+<img width="300" height="300" src="media\photos\quotes\cosmos_quote_carl.jpg">
+
+- Source [quotes cosmos](https://www.quotescosmos.com/quotes/Carl-Sagan-quote-20.html)
+
+---
+### <a name="quote_7"></a>**Quote 7.**
+
+<img width="300" height="300" src="media\photos\quotes\quote_heraclitus.jpg">
+
+- Source [azquotes](https://www.azquotes.com/quote/843588)
+
+---
+
 ## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
@@ -5048,12 +5095,21 @@ Football, better known as soccer in the US and Canada, is the most popular sport
 
 ### <a name="Football_Competitions"></a>**_Football Competitions_**
 
----
-
 **Description**
 
 Football has a large number of competitions. There are intercontinental tournaments where countries from all over the world play against each other, as well as club based competitions where each team fights for a trophy in its respective country or/and continent. The most popular will be mentioned below.
 
+---
+
+### <a name="World_Cup"></a>**World Cup**
+
+**Description**
+
+In football, the World Cup is a quadrennial tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
+
+<br> Source [britannica](https://www.britannica.com/sports/World-Cup-football)
+
+---
 
 ### <a name="Cricket"></a>**Cricket**
 
@@ -5488,8 +5544,21 @@ owned by [britannica](https://www.britannica.com/topic/architecture)
 
 Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
 
+The 10 most iconic buildings in the world
+<br>
+-La Sagrada Familia, Barcelona
+-Forbidden City, Beijing
+-The Guggenheim, New York City
+-Hagia Sophia, Instanbul
+-Roman Coliseum, Rome
+-Notre Dame Cathedral, Paris
+-The Heydar Aliyev Center, Baku
+-Athenian Acropolis, Athens
+-Sydney Opera House, Sydney
+-Angkor Wat, Siem Reap
+
 Source [britannica](https://www.britannica.com/topic/architecture)
-, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/), [Indesignlive](https://www.indesignlive.com/ideas/the-10-most-iconic-buildings-in-the-world)
 
 ---
 ### <a name="painting"></a>**Painting**  
@@ -5500,7 +5569,20 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
-Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract.
+
+Important Paintings
+<br>
+-Leonardo Da Vinci, Mona Lisa
+-Johannes Vermeer, Girl with a Pearl Earring
+-Vincent van Gogh, The Starry Night
+-Gustav Klimt, The Kiss
+-Sandro Botticelli, The Birth of Venus
+-James Abbott McNeill Whistler, Arrangement in Grey and Black No. 1
+-Jan van Eyck, The Arnolfini Portrait
+-Hieronymus Bosch, The Garden of Earthly Delights
+-Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
+-Pablo Picasso, Les Demoiselles d’Avignon
 
 Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
 
@@ -5556,6 +5638,19 @@ owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/
 Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
 
 Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
+
+---
+
+### <a name="theater"></a>**Theater**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/theater.jpg" alt="Theater image">
+
+owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-with-acting-stage-actors-monocolor-outline-concept-opera-drama-theatre-performance-as-part-classic-live-culture-events-vector-illustration-dramaturgy-masks-costumes_20921232.htm)
+
+Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
 
 ---
 
@@ -5631,3 +5726,10 @@ Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewi
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
  
 ---
+
+### <a name="conf"></a>**Confucianism**
+
+Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
+
+source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
+
