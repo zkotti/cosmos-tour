@@ -54,7 +54,7 @@ Making Changes
 
 
 
-## Testing Changes
+## Testing
 
 We have created some tests in python. 
 Currently, we do not require to install pytest.
@@ -124,3 +124,4 @@ Additional Resources
 - GitHub pull request
    documentation <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">Pull Request</a>
 - PEP8 official style guide  <a href="https://peps.python.org/pep-0008/" target="_blank">PEP8 guide</a>
+- Pytest tool <a href="https://docs.pytest.org/en/7.1.x/" target="_blank">Pytest </a> 
