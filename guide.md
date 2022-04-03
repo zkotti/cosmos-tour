@@ -425,7 +425,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mount Ethna](#mount_etna)
   - [Mount Yasur](#mount_yasur)
 
-### [States](#states)
+- ### [States](#states)
 
   - [Alabama](#alabama)
   - [Alaska](#alaska)
@@ -478,6 +478,13 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Wisconsin](#wisconsin)
   - [Wyoming](#wyoming)
 
+
+- ### [Foods](#foods) 
+  - [Pizza](#pizza)
+  - [Spaghetti](#spaghetti)
+  - [Burger](#burger)
+  - [Buritto](#buritto)
+  - [Crepe](#crepe)
 
 ---
 
@@ -6746,5 +6753,69 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Wisconsin)
 Wyoming is a state in the Mountain West subregion of the Western United States. The 10th largest state by area, it is also the least populous and least densely populated state in the contiguous United States.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Wyoming)
+
+---
+
+### <a name="Foods"></a>**Foods**
+
+---
+
+### <a name="Pizza"></a>**Pizza**
+
+<img width="330" height="247" src="media/photos/foods/pizza.jpg">
+
+Pizza is a dish of Italian origin consisting of a usually round, flat base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.[1] A small pizza is sometimes called a pizzetta. A person who makes pizza is known as a pizzaiolo.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Pizza)
+
+---
+
+### <a name="Spaghetti"></a>**Spaghetti**
+
+<img width="375" height="500" src="media/photos/foods/spaghetti.jpg">
+
+Spaghetti is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Spaghetti
+
+---
+
+### <a name="Burger"></a>**Burger**
+
+<img width="375" height="500" src="media/photos/foods/burger.jpg">
+
+A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a "special sauce", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Hamburger)
+
+---
+
+### <a name="Burger"></a>**Burger**
+
+<img width="375" height="244" src="media/photos/foods/burger.jpg">
+
+A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a "special sauce", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Hamburger)
+
+---
+
+### <a name="Burrito"></a>**Burrito**
+
+<img width="375" height="211" src="media/photos/foods/burrito.jpg">
+
+A burrito is a dish in Mexican and Tex-Mex cuisine that took form in California cuisine, consisting of a flour tortilla wrapped into a sealed cylindrical shape around various ingredients. The tortilla is sometimes lightly grilled or steamed to soften it, make it more pliable, and allow it to adhere to itself. Burritos are often eaten by hand, as their tight wrapping keeps the ingredients together. Burritos can also be served "wet", i.e., covered in a savory and spicy sauce, when they would be eaten with a fork and knife.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Burrito)
+
+---
+
+### <a name="Crepe"></a>**Crepe**
+
+<img width="375" height="211" src="media/photos/foods/crepe.jpg">
+
+A crêpe or crepe is a very thin type of pancake. Crêpes originated in Brittany, a region in western France, during the 13th century, and are now consumed around the world. Crêpes are usually one of two varieties: sweet crêpes (crêpes sucrées) or savoury galettes (crêpes salées). They are often served with a wide variety of fillings such as jam or hazelnut cocoa spread. Crêpes can also be flambéed, such as in crêpes Suzette.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Cr%C3%AApe)
 
 ---
