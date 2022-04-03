@@ -124,6 +124,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Japan](#japan)
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
+  - [Kyrgyzstan](#kyrgyzstan)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -587,10 +588,13 @@ Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 - Only about 4.9% of the mass-energy of the universe is atoms: the stuff of which you, I, the stars and galaxies are made, and only half of that has been discovered with telescopes. Thus, 95% of the universe is invisible.
 - In space there is no atmosphere, which means that sound has no medium to travel in order to be heard. Astronauts use radios to stay in touch while in space because radio waves can still be sent and received.
 - Despite the search for intelligent signals, no evidence of intelligent extraterrestrial life has yet been found. In fact, there is a good argument that if such life forms exist out there, we should not only see signs of them, but that they should have already come here.
+- Scientists detected a radio signal in space from 5 billion light-years away.
+- The moon moves 4 cm away from Earth every year.
 
 Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
 [indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
-[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
+[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/),
+[facts.net](https://facts.net/universe-facts/)
 
 ---
 
@@ -2794,6 +2798,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="kyrgyzstan"></a>**Kyrgyzstan**
+
+<img width="300" height="300" src="media/photos/flags/kg.svg">
+
+**Capital:** [Bishkek](https://www.google.com/maps/search/Bishkek)
+</br>
+**Official Language:** Kyrgyz, Russian
+</br>
+**Currency:** 	Kyrgyzstani som (KGS)
+</br>
+**Population:** 6,586,600 (2020)
+</br>
+**Country Code (cioc):** KGZ
+</br>
+**Region:** Asia
+
+**Top Attractions:**  Ala-Archa Gorge, Issyk-Kul Lake, Mountain Sulaiman-Too, Ala Kul Lake, Osh Bazaar
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293947-Activities-Kyrgyzstan.html)
+
+
+---
+
 ### <a name="liechtenstein"></a>**Liechtenstein**
 
 <img width="300" height="300" src="media/photos/flags/lcht.svg">
@@ -4141,6 +4167,20 @@ owned by [sci-nwes](http://www.sci-news.com/astronomy/stellar-mass-black-hole-x-
 **Description**
 
 Stellar black holes are more likely to be found and we know for sure that they are out there. They have masses ranging from about 5 to several tens of solar masses. The process is observed as a hypernova explosion or as a gamma ray burst. These black holes are also referred to as collapsars. Beside the greate amount of mass they have in actual size is quite small. For example a black hole with a mass of 2.7 time the mass of the sun has 16km diametere.
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+---
+
+### <a name="supermasive_black_holes"></a> **Supermasive Black Holes**
+
+<img width="550" height="380" src="media/photos/black holes/supermasive_bh.png">
+
+owned by [physic world](https://physicsworld.com/a/dying-star-sheds-light-on-spin-of-supermassive-black-hole/)
+
+**Description**
+Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even billion and trillion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
+
 
 <br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
 
