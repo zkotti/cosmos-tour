@@ -393,7 +393,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
-  
+  - [Confucianism](#conf)
   
 
 
@@ -5639,3 +5639,10 @@ Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewi
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
  
 ---
+
+### <a name="conf"></a>**Confucianism**
+
+Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
+
+source [nationalgeographic](#https://www.nationalgeographic.org/encyclopedia/confucianism/)
+
