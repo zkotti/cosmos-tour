@@ -5851,6 +5851,8 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
 
+Source [ASU Center for Child Well-Being](https://childwellbeing.asu.edu/SpaceFacts)
+
 ---
 
 ## <a name="arts"></a> **Fine Arts**
