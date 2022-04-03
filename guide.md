@@ -4123,6 +4123,20 @@ Stellar black holes are more likely to be found and we know for sure that they a
 
 <br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
 
+---
+
+### <a name="supermasive_black_holes"></a> **Supermasive Black Holes**
+
+<img width="550" height="380" src="media/photos/black holes/supermasive_bh.png">
+
+owned by [physic world](https://physicsworld.com/a/dying-star-sheds-light-on-spin-of-supermassive-black-hole/)
+
+**Description**
+Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even billion and trillion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
+
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
 
 ---
 ## <a name="stars"></a> **_Stars_**
