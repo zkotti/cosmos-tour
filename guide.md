@@ -122,6 +122,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Israel](#israel)
   - [Italy](#italy)
   - [Japan](#japan)
+  - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
@@ -2723,6 +2724,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Mount Fuji, Imperial Tokyo, Hiroshima Peace Memorial Park, Historic Kyoto, The Island Shrine of Itsukushima 
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/japan-jpn.htm)
 
+---
+
+### <a name="kazakhstan"></a>**Kazakhstan**
+
+<img width="300" height="300" src="media/photos/flags/kz.svg">
+
+**Capital:** [Nur-Sultan](https://www.google.com/maps/search/Nur-Sultan)
+</br>
+**Official Language:** Kazakh, Russian
+</br>
+**Currency:** Tenge (KZT)
+</br>
+**Population:** 19,082,467 (2021)
+</br>
+**Country Code (cioc):** KAZ
+</br>
+**Region:** Asia
+
+**Top Attractions:**  Almaty, Kolsai Lake, Karkaraly National Park, Baikonur Cosmodrome, Charyn Canyon
+<br>Source [Touropia](https://www.touropia.com/best-places-to-visit-in-kazakhstan/)
 
 ---
 
