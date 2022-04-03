@@ -140,7 +140,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Switzerland](#switzerland)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
-  - [United States](#usa)
+  - [United States](#usa) - Click [here](#states) to see the States
   - [Uruguay](#uruguay)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
