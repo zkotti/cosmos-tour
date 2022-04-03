@@ -425,7 +425,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mount Ethna](#mount_etna)
   - [Mount Yasur](#mount_yasur)
 
-### [States](#states)
+- ### [States](#states)
 
   - [Alabama](#alabama)
   - [Alaska](#alaska)
