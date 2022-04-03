@@ -219,6 +219,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Sun](#sun)
   - [Polaris](#polaris)
   - [Vega](#vega)
+  - [Earendel](#Earendel)
   - [Most interesting stars](#interestingstars)
 
 - ### [Asteroids](#asteroids)
@@ -4140,6 +4141,21 @@ owned by [wiki](https://en.wikipedia.org/wiki/Vega)
 
 Vega belongs in the constellation of Lyra and it is the brightest star in it. Vega is a huge star (approximately 2.1 times massive as the sun) and  it is relatively close to us, at 25 light-years from Earth. It was also the first star besides the sun that we were able to photograph and based on observations it is belileved that it has a circumstellar disk of dust. Lastly, many years ago Vega was used as the North Star is today.
 <br> Source [wiki](https://en.wikipedia.org/wiki/Vega)
+
+---
+
+### <a name="Earendel"></a>**Earendel**
+
+<img width="469" height="368" src="media/photos/stars/Earendel.png">
+
+owned by [wiki](https://en.wikipedia.org/wiki/File:NASA-Star-Earendel-HubbleST-20220330.png)
+
+**Description**
+
+On March 30th, 2022 Hubble spotted a star that is a staggering 12.9 billion years old, meaning it existed when the universe was only 7% of its current age. The new star, dubbed Earendel, which means “morning star” in Old English, does not even exist anymore—its light has been traveling to us over the past nearly 13 billion years. The Earendel might not have been detected at all if it weren’t for a trick of physics and optics known as gravitational lensing. Earendel was about 50 times the mass of our sun and millions of times as bright. It also would have been made up exclusively of hydrogen and helium, lacking any of the heavy metals that exist in the more modern universe. It is the most distant known star, at a comoving distance of 28 billion light-years.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/WHL0137-LS)
+
 
 ---
 
