@@ -140,6 +140,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Taiwan](#taiwan)
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
