@@ -5588,7 +5588,17 @@ owned by [britannica](https://www.britannica.com/art/sculpture)
 
 Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
 
-Source [britannica](https://www.britannica.com/art/sculpture)
+Famous Sculptures
+<br>
+-Venus of Willendorf
+-Bust of Nefertiti
+-The Terracotta Army
+-Laocoön and His Sons
+-Michelangelo, David
+-Gian Lorenzo Bernini, Ecstasy of Saint Teresa
+-Antonio Canova, Perseus with the Head of Medusa
+
+Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https://www.timeout.com/newyork/art/top-famous-sculptures-of-all-time)
 
 ---
 
