@@ -225,6 +225,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ceres](#ceres_asteroid)
   - [Pallas](#pallas)
   - [Vesta](#vesta)
+  - [Hygiea](#hygiea)
 
 - ### [Oceans](#oceans)
 
@@ -4183,6 +4184,14 @@ Vesta is the most visible asteroid from Earth. It can be as brilliant as magnitu
 
 Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-year exploration and exited Vesta's orbit on 5 September 2012 on its way to Ceres. Dawn's data is still being analyzed by researchers in the hopes of learning more about Vesta's origin and history.
 <br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
+
+---
+### <a name="hygiea"></a>**Hygiea**
+<br>
+<img width="600" height="300" src="media\photos\asteroids\Hygiea.jpg">
+<br>
+<b>Hygiea</b>, a large asteroid and possibly a dwarf planet in the main asteroid belt. With a diameter of 434 kilometers and an estimated mass of 3% of the belt's total mass, it is the fourth most massive asteroid in the solar system. In some spectral classifications, it is the largest of the dark C-type asteroids with a carbonaceous surface, while in others it is second only to Ceres 1. Observations made in 2017 and 2018 using the very large Telescope's SPHERE Imager and published in late 2019 showed that Hygiea is nearly spherical, a shape close to hydrostatic equilibrium. Therefore, the authors of the study believe that it may be a dwarf planet. However, it is suspected that Hygiea was destroyed by the impact, and the subsequent debris re-accumulated, rather than pieces large enough to become plastic. The devastating impact produced the largest known series of collisions.
+<br> Source [wiki](https://en.wikipedia.org/wiki/10_Hygiea)
 
 ---
 
