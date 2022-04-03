@@ -494,6 +494,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Burger](#burger)
   - [Buritto](#buritto)
   - [Crepe](#crepe)
+  - [Souvlaki](#souvlaki)
 
 ---
 
@@ -6996,4 +6997,17 @@ A crêpe or crepe is a very thin type of pancake. Crêpes originated in Brittany
 Source [wikipedia](https://en.wikipedia.org/wiki/Cr%C3%AApe)
 
 ---
-=======
+
+
+### <a name="souvlaki"></a> **Souvlaki**
+
+<img width="375" height="211" src="media/photos/foods/souvlaki.jpg">
+
+Souvlaki (Greek: σουβλάκι, souvláki, [suˈvlaci]; plural: σουβλάκια, souvlákia), is a popular Greek fast food consisting of small pieces of meat and sometimes vegetables grilled on a skewer. It is usually eaten straight off the skewer while still hot. It can be served with or inside of a rolled pita, typically with lemon, sauces, vegetables such as sliced tomato and onion, and fried potatoes as a side. The meat usually used in Greece and Cyprus is pork, although chicken, beef, and lamb may also be used there and elsewhere.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Souvlaki)
+
+
+
+
+
