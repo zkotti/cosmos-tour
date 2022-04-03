@@ -601,7 +601,7 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 ---
 
 ### <a name="chaos"></a>**Everything You Need to Know About Chaos**
-Our modern notion of chaos is very different from what the ancient Greeks understood. We use the word "chaos" to describe something that is completely confusing. For example, if a room is cluttered, it is often defined as "chaotic." Many people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
+Today's meaning of chaos is quite different from what the ancient Greeks understood. We use "chaos" in order to describe something that is completely confusing. For instance, if a room is cluttered, it is often defined as "chaotic." A lot of people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
 
 
 ---
