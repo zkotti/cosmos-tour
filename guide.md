@@ -607,6 +607,9 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 ### <a name="chaos"></a>**Everything You Need to Know About Chaos**
 Today's meaning of chaos is quite different from what the ancient Greeks understood. We use "chaos" in order to describe something that is completely confusing. For instance, if a room is cluttered, it is often defined as "chaotic." A lot of people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
 
+1.Chaos Existing Before Anything Else.
+
+According to Greek mythology, chaos is the first  to ever exist, an integral part of the Greek creative story, explaining where the gods and goddesses  came from. As the story tells, chaos came before anything else, from which primitive gods and goddesses were born. However, there is some debate as to which of these gods and goddesses really arose from chaos. Most stories state that Eleves, the darkness, and Nuxe, the night, were undoubtedly born of chaos. However, other stories explain that Gaia, Tartarus, and Eros were also among the early gods and goddesses.
 
 ---
 
@@ -5598,7 +5601,17 @@ owned by [britannica](https://www.britannica.com/art/sculpture)
 
 Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
 
-Source [britannica](https://www.britannica.com/art/sculpture)
+Famous Sculptures
+<br>
+-Venus of Willendorf
+-Bust of Nefertiti
+-The Terracotta Army
+-Laocoön and His Sons
+-Michelangelo, David
+-Gian Lorenzo Bernini, Ecstasy of Saint Teresa
+-Antonio Canova, Perseus with the Head of Medusa
+
+Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https://www.timeout.com/newyork/art/top-famous-sculptures-of-all-time)
 
 ---
 
