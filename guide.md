@@ -330,6 +330,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Football](#Football)
     - [Football Competitions](#Football_Competitions)
       - [World Cup](#World_Cup)
+      - [European Championship](#European_Championship)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5066,9 +5067,19 @@ Football has a large number of competitions. There are intercontinental tourname
 
 **Description**
 
-In football, the World Cup is a quadrennial tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
+In football, the World Cup is a quadrennial intercontinental tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
 
 <br> Source [britannica](https://www.britannica.com/sports/World-Cup-football)
+
+---
+
+### <a name="European_Championship"></a>**European Championship**
+
+**Description**
+
+In football, the European Championship, formally UEFA European Championship, is a quadrennial intercontinental tournament held between member countries of the Union of European Football Associations. The European Championship is the second most prestigious international football tournament after the World Cup. After two years of qualifying matches between 17 national football clubs, the European Championship held its first final in 1960. The Euro final tournament began with four teams in 1960, but by 1980, it had grown to eight teams, and by 1996, it had grown to sixteen teams. The last European Championship took place in 11 different European countries that found Italy the winner of the competition.
+
+<br> Source [britannica](https://www.britannica.com/sports/European-Championship)
 
 ---
 
