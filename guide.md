@@ -428,6 +428,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Twelve Olympians](#twel)
   - [Druze](#druze)
   - [Gnosticism](#Gnosticism_)
+  - [Jainism](#Jainism)
+  
 
   
 
@@ -4210,8 +4212,22 @@ Stellar black holes are more likely to be found and we know for sure that they a
 owned by [physic world](https://physicsworld.com/a/dying-star-sheds-light-on-spin-of-supermassive-black-hole/)
 
 **Description**
-Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even billion and trillion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
+Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even a few billion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
 
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+
+---
+### <a name="ultramassive_black_holes"></a> **Ultra Massive black holes**
+
+<img width="550" height="480" src="media/photos/black holes/ultramassive_bh.jpg">
+
+owned by [wiki](https://en.wikipedia.org/wiki/List_of_most_massive_black_holes)
+
+**Description**
+
+Ultra massive black hole is highest known level of mass that a black hole can have. The biggest ultra massive black hole contain 66 bilion solar massive and in diammeter, the event horizone reaches 11 solar system. Some facts about such black holes is that the light that their sphere emite reaches 140 trillion time the light of sun and theire gravitational field is so big that they can orbit other black hole and even galaxies.
 
 <br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
 
@@ -6412,6 +6428,12 @@ source [britannica](https://www.britannica.com/topic/Druze)
 Gnosticism is a group of theological concepts and systems that arose among Jewish and early Christian factions in the late first century AD. Personal spiritual understanding (gnosis) was prioritized over orthodox doctrines, traditions, and religious organizations' authority by these distinct sects. Gnostic cosmogony often portrays a contrast between an ultimate, hidden God and a malignant lesser divinity (sometimes identified with the Old Testament's Yahweh) who is responsible for the creation of the material universe, viewing material existence as imperfect or bad. Direct knowledge of the supreme divine in the form of mystical or esoteric insight was regarded the primary element of salvation by Gnostics. Many Gnostic writings deal with illusion and enlightenment rather than sin and repentance.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Gnosticism)
+
+### <a name="Jainism_"></a>**Jainism**
+
+Jainism is a Hindu religion that dates back to ancient India. Ahis (nonviolence), anekntavda (non-absolutism), and aparigraha are the three major pillars of Jainism (asceticism). Nonviolence, satya (truth), asteya (not stealing), brahmacharya (sexual continence), and aparigraha are the five main vows taken by Jain monks (non-possessiveness). These beliefs have influenced Jain culture in a variety of ways, including the adoption of a primarily vegetarian lifestyle. The faith's motto is parasparopagraho jvnm (the function of souls is to support one another), and the amkra mantra is its most common and basic prayer.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
 
 
 ### <a name="Volcanos"></a>**Volcanos**
