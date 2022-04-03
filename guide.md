@@ -140,6 +140,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Taiwan](#taiwan)
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
@@ -317,6 +318,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
+  - [Wolfgang Amadeus Mozart](#Mozart)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
   - [Elon Musk](#Musk)
@@ -1079,6 +1081,13 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 **Top Attractions:** Half Moon Bay, Stingray City, 17 Mile Beach, Dickenson Bay,Nelson's Dockyard National Park
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/antigua-and-barbuda-ant.htm)
 
+Antigua and Barbuda is a Caribbean island country located between the Caribbean Sea and the Atlantic Ocean in the Americas.
+It consists of Antigua and Barbuda, two large islands separated by around 40 kilometers (25 miles), as well as smaller islands (including Great Bird, Green, Guiana, Long, Maiden, Prickly Pear, York Islands, Redonda).
+The permanent population is estimated to be around 97,120 (2019), with 97 percent of the inhabitants residing on Antigua.
+Antigua's capital and main port and city is St. John's, whereas Barbuda's largest town is Codrington.
+Antigua and Barbuda are located near to other in the Leeward Islands, which are part of the Lesser Antilles, and are around 17 degrees north of the equator.
+<br>Source [Wiki](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)
+
 ---
 
 ### <a name="argentina"></a>**Argentina**
@@ -1168,6 +1177,9 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 **Top Attractions:**  Shikahogh State Reserve, Lake Sevan, Dilijan national park, Mount Aragats
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-armenia/)
 
+Armenia, officially the Republic of Armenia, is a landlocked country located in the Armenian Highlands of Western Asia. It is a part of the Caucasus region; and is bordered by Turkey to the west, Georgia to the north, the Lachin corridor under a Russian peacekeeping force, and Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. Yerevan is the capital and largest city. Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. The first Armenian state of Urartu was established in 860 BC, and by the 6th century BC it was replaced by the Satrapy of Armenia.
+<br>Source [Wiki](https://en.wikipedia.org/wiki/Armenia)
+
 ---
 
 ### <a name="australia"></a>**Australia**
@@ -1188,6 +1200,12 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 
 **Top Attractions:** Sydney Opera House, Great Barrier Reef, Uluru/Ayers Rock, Kakadu National Park, Whitsunday Islands
 <br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-australia/)
+
+Australia, officially the Commonwealth of Australia, is a sovereign transcontinental country that encompasses the Australian continent's mainland, Tasmania's island, and a number of smaller islands.
+Australia is the largest country in Oceania and the world's sixth largest country, with an area of 7,617,930 square kilometers (2,941,300 square miles).
+Australia is the oldest, flattest, driest, and least fertile continent on the planet.
+With deserts in the center, tropical rainforests in the north-east, and mountain ranges in the south-east, it is a megadiverse country with a broad variety of landscapes and temperatures.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Australia)
 
 ---
 
@@ -1268,6 +1286,14 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 
 **Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
 <br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
+Azerbaijan, often known as the Azerbaijan Republic or the Republic of Azerbaijan, is a transcontinental country in Eastern Europe and Western Asia.
+The Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south define the South Caucasus region.
+Baku is the capital and the largest city in the country.
+In 1918, the Azerbaijan Democratic Republic declared independence from the Transcaucasian Democratic Federative Republic, becoming the first secular democratic Muslim-majority state. For political reasons, it was named after the nearby province of northern Iran.
+As part of the Transcaucasian SFSR, the country was absorbed into the Soviet Union in 1922. 
+<br>Source [wiki](https://en.wikipedia.org/wiki/Azerbaijan)
+
 
 ---
 
@@ -3044,6 +3070,28 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="taiwan"></a>**Taiwan**
+
+<img width="300" height="300" src="media/photos/flags/tw.svg">
+
+**Capital:** [Taipei](https://www.google.com/maps/search/Taipei)
+</br>
+**Official Language:** Standard Chinese
+</br>
+**Currency:** New Taiwan dollar (TWD)
+</br>
+**Population:** 23,451,837 (2021)
+</br>
+**Country Code (cioc):** TPE
+</br>
+**Region:** Asia
+
+**Top Attractions:** Taipei 101, National Palace Museum, Taroko Gorge, Yushan National Park
+<br>
+Source [theculturetrip](https://theculturetrip.com/asia/taiwan/articles/20-must-visit-attractions-in-taiwan/)
+
+---
+
 ### <a name="uganda"></a>**Uganda**
 
 <img width="300" height="300" src="media/photos/flags/ug.svg">
@@ -3240,7 +3288,7 @@ Mui Né
 **Region:** Asia
 
 **Top Attractions:**  The Ancient Tombs, Bottle Trees, Al-Saleh Mosque, The Old City of Sanaa, Yemeni Fortress, Sand Dunes, Archer Beach, Al Mukalla Harbor, Old Walled City of Shibam, The Old City of Zabid, Archeological Site of Marib, Shaharah Bridge, Baran Temple, The Historic City of Thula, The Madrasa Amiriya of Rada, Jabal Haraz, Balhaf
-source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
+<br>source: [Yemen's attractions](https://tourrom.com/asia/yemen/tourist-attractions-yemen/)
 
 
 ---
@@ -4199,6 +4247,7 @@ Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-ye
 <img width="600" height="300" src="media\photos\asteroids\Hygiea.jpg">
 <br>
 <b>Hygiea</b>, a large asteroid and possibly a dwarf planet in the main asteroid belt. With a diameter of 434 kilometers and an estimated mass of 3% of the belt's total mass, it is the fourth most massive asteroid in the solar system. In some spectral classifications, it is the largest of the dark C-type asteroids with a carbonaceous surface, while in others it is second only to Ceres 1. Observations made in 2017 and 2018 using the very large Telescope's SPHERE Imager and published in late 2019 showed that Hygiea is nearly spherical, a shape close to hydrostatic equilibrium. Therefore, the authors of the study believe that it may be a dwarf planet. However, it is suspected that Hygiea was destroyed by the impact, and the subsequent debris re-accumulated, rather than pieces large enough to become plastic. The devastating impact produced the largest known series of collisions.
+
 <br> Source [wiki](https://en.wikipedia.org/wiki/10_Hygiea)
 
 ---
@@ -5040,6 +5089,19 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
 source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Mozart"></a>**Wolfgang Amadeus Mozart**
+
+<img width="348" height="446" src="media/photos/personalities/Wolfgang_amadeus_mozart.jpg">
+
+Image Source [Wikipedia](https://en.wikipedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg)
+
+Wolfgang Amadeus Mozart, (full name Johannes Chrysostomus Wolfgangus Theophilus Mozart) was an Austrian composer. He was born on January 27th, 1756 in Salzburg and died on December 5th, 1791 in Vienna. His father was the accomplished violinist and composer Leopold Mozart. He was a child prodigy; at age five he began to compose and gave his first public performance. From 1763 he toured with his father throughout Europe going as far as France and England. In 1764, he wrote his first symphonies. Tours of Italy followed (1769-1773) where he wrote his first Italian opera. In 1775-77 he composed his first piano sonatas and violin concertos. His mother died in 1778. He then returned to Salzburg as cathedral organist and in 1781 wrote his opera seria Idomeneo. He was released from his post in 1781 and moved to Vienna and began his independent career. He married Constanze Weber and gave piano lessons,. The late 1780s were the height of his success, with the string quartets dedicated to Haydn and the three great operas on Lorenzo Da Ponte’s librettos—The Marriage of Figaro (1786), Don Giovanni (1787), and Così fan tutte (1790)—and his superb late symphonies. In the last year of his life he composed the opera The Magic Flute and his great Requiem, which was left unfinished because of his death. It was later completed from the composer Franz Xaver Süssmayr. He died at the age of 35 and the causes of his death remain unclear to this day. Some theories suggest miliary fever, rheumatic fever, and the Schönlein-Henoch syndrome. No other composer left such an extraordinary legacy in so short a lifetime.
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+
 
 ---
 
