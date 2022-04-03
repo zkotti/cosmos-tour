@@ -325,6 +325,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Apollo 13](#movie_5)
   - [Ad Astra](#movie_6)
   - [Armageddon](#movie_7)
+  - [2001: A Space Odyssey](#movie_8)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -5258,6 +5259,11 @@ Astronaut Roy McBride embarks on a mission through a relentless solar system, in
 
 <img width="500" height="350" src="media/photos/movies/armageddon.jpg">
 After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
+
+### <a name="movie_8"></a>**2001: A Space Odyssey**
+
+<img width="500" height="350" src="media/photos/movies/2001_A_Space_Odyssey_(1968).jpg">
+The Monoliths push humanity to travel to space, after their discovery in Africa generations ago. Five astronauts are on a mission to travel to Jupiter and with the help of HAL 9000, the world's greatest supercomputer, they will do a historical travel for the human race.
 
 ---
 
