@@ -1,20 +1,21 @@
-# This script takes you to any typing section from the guide.html file!
-# So when you run the program just type in the command line the section,
-# that you want to go. The program will forward you there automatically
-# from your browser.
+''' 
+This script takes you to any typing section from the guide.html file!
+So when you run the program just type in the command line the section,
+that you want to go. The program will forward you there automatically
+from your browser.
 
-# CAUTION ! ! !
-# In order for this script to work you need to type the section, that
-# you want to go exactly as it is in the guide.html file ! ! !
+CAUTION ! ! !
+In order for this script to work you need to type the section, that
+you want to go exactly as it is in the guide.html file ! ! !
 
-# I run this code on Windows 11, so I am sorry if this does not work
-# on macOs or Linux.
+I run this code on Windows 11, so I am sorry if this does not work
+on macOs or Linux.
 
-# For example:
-# if you want to go to the Countries section, then type "Countries" etc.
+For example:
+if you want to go to the Countries section, then type "Countries" etc.
 
-# It may not work in all the sections, so I hope you can make it work !
-
+It may not work in all the sections, so I hope you can make it work !
+'''
 
 import requests
 from bs4 import BeautifulSoup
@@ -61,7 +62,6 @@ soup_guide = BeautifulSoup(res_guide.text, 'html.parser')
 h2 = soup_guide.find_all('h2')
 # print(soup_guide)
 for i in h2:
-    i = str(i)
-    if name in i:
-        html_parameter = find_name('name', i)
+    if name in str(i):
+        html_parameter = find_name('name', str(i))
         webbrowser.open_new('https://e-panourgia.github.io/cosmos-tour/guide.html#' + html_parameter)

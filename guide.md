@@ -128,6 +128,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
   - [Kiribati](#kiribati)
+  - [Kuwait](#kuwait)
   - [Kyrgyzstan](#kyrgyzstan)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
@@ -266,19 +267,20 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Quote 6.](#quote_6)
   - [Quote 7.](#quote_7)
 
-- ### [Zodiac](#zodiac)
-  - ### ♈ Aries (Ram): March 21–April 19
-  - ### ♉ Taurus (Bull): April 20–May 20
-  - ### ♊ Gemini (Twins): May 21–June 21
-  - ### ♋ Cancer (Crab): June 22–July 22
-  - ### ♌ Leo (Lion): July 23–August 22
-  - ### ♍ Virgo (Virgin): August 23–September 22
-  - ### ♎ Libra (Balance): September 23–October 23
-  - ### ♏ Scorpius (Scorpion): October 24–November 21
-  - ### ♐ Sagittarius (Archer): November 22–December 21
-  - ### ♑ Capricornus (Goat): December 22–January 19
-  - ### ♒ Aquarius (Water Bearer): January 20–February 18
-  - ### ♓ Pisces (Fish): February 19–March 20
+- ### [Zodiac](#zodiac) 
+  ##### --- Every zodiac forwards you to a page with information ---
+  - ### [♈ Aries (Ram): March 21–April 19](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/aries)
+  - ### [♉ Taurus (Bull): April 20–May 20](https://happypiranha.com/blogs/news/taurus-the-bull-star-sign-and-zodiac-facts)
+  - ### [♊ Gemini (Twins): May 21–June 21](https://entertainment.howstuffworks.com/horoscopes-astrology/gemini.htm)
+  - ### [♋ Cancer (Crab): June 22–July 22](https://happypiranha.com/blogs/news/cancer-the-crustacean-21-june-22-july-star-sign-and-zodiac-facts)
+  - ### [♌ Leo (Lion): July 23–August 22](https://happypiranha.com/blogs/news/leo-the-lion-23-july-22-august-star-sign-and-zodiac-facts)
+  - ### [♍ Virgo (Virgin): August 23–September 22](https://entertainment.howstuffworks.com/horoscopes-astrology/virgo.htm)
+  - ### [♎ Libra (Balance): September 23–October 23](https://happypiranha.com/blogs/news/libra-the-scales-23-september-22-october-star-sign-and-zodiac-facts)
+  - ### [♏ Scorpius (Scorpion): October 24–November 21](https://entertainment.howstuffworks.com/horoscopes-astrology/scorpio.htm)
+  - ### [♐ Sagittarius (Archer): November 22–December 21](https://www.britannica.com/place/Sagittarius-constellation)
+  - ### [♑ Capricornus (Goat): December 22–January 19](https://happypiranha.com/blogs/news/capricorn-22-december-19-january-star-sign-horoscope-astrology-and-zodiac-facts)
+  - ### [♒ Aquarius (Water Bearer): January 20–February 18](https://happypiranha.com/blogs/news/aquarius-20-january-18-february-star-sign-horoscope-astrology-and-zodiac-facts#:~:text=Aquarius%20is%20the%20eleventh%20astrological,colours%20are%20blue%20and%20silver.)
+  - ### [♓ Pisces (Fish): February 19–March 20](https://entertainment.howstuffworks.com/horoscopes-astrology/pisces.htm#:~:text=Pisces%20is%20the%20twelfth%20sign,are%20apt%20to%20be%20idealists.)
 
 
   Source [zodiac | Symbols, Dates, Facts, & Signs - Encyclopedia](https://www.britannica.com/topic/zodiac)
@@ -2896,6 +2898,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
 <br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
+
+
+---
+
+### <a name="kuwait"></a>**Kuwait**
+
+<img width="300" height="300" src="media/photos/flags/kw.svg">
+
+**Capital:** [Kuwait City](https://www.google.com/maps/search/Kuwait+City)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** 	Kuwaiti dinar (KWD)
+</br>
+**Population:** 4,420,110 (2019)
+</br>
+**Country Code (cioc):** KUW
+</br>
+**Region:** Asia
+
+**Top Attractions:** Grand Mosque, Al Shaheed Park, Kuwait Towers, Mirror House, Sheikh Jaber Al Ahmad Cultural Center
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g294003-Activities-Kuwait_City.html)
 
 
 ---
