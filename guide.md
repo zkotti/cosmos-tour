@@ -428,6 +428,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Druze](#druze)
   - [Gnosticism](#Gnosticism_)
   - [Jainism](#Jainism)
+  - [Rastafarianism](#Rastafarianism_)
+  
   
 
   
@@ -6419,6 +6421,14 @@ source [wikipedia](https://en.wikipedia.org/wiki/Gnosticism)
 Jainism is a Hindu religion that dates back to ancient India. Ahis (nonviolence), anekntavda (non-absolutism), and aparigraha are the three major pillars of Jainism (asceticism). Nonviolence, satya (truth), asteya (not stealing), brahmacharya (sexual continence), and aparigraha are the five main vows taken by Jain monks (non-possessiveness). These beliefs have influenced Jain culture in a variety of ways, including the adoption of a primarily vegetarian lifestyle. The faith's motto is parasparopagraho jvnm (the function of souls is to support one another), and the amkra mantra is its most common and basic prayer.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
+
+### <a name="Rastafarianism_"></a>**Rastafarianism**
+
+Rastafari, often known as Rastafarianism, is a Jamaican religion that emerged in the 1930s. Scholars of religion classify it as both a new religious movement and a social movement. There is no centralized authority in charge of the movement, and its practitioners, known as Rastafari, Rastafarians, or Rastas, are extremely diverse.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Rastafari)
+
+---
 
 
 ### <a name="Volcanos"></a>**Volcanos**
