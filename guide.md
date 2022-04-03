@@ -6258,7 +6258,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Alabama)
 
 ---
 
-### <a name="Alaska"></a>**Alabama**
+### <a name="Alaska"></a>**Alaska**
 
 <img width="250" height="167" src="media/photos/states/Alaska.png">
 
