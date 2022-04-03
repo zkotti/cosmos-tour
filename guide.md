@@ -18,6 +18,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
   - [Black Holes](#black_holes)
+  - [Wormholes](#wormholes)
   - [White Holes](#white_holes)
   - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
@@ -612,6 +613,14 @@ Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Tab
 Black hole is a cosmic body of extremely intense gravity from which nothing, not even light, can escape. The death of a massive star can result in the formation of a black hole. When a star reaches the end of its life and has depleted its internal thermonuclear fuels, the core becomes unstable and gravitationally collapses inward on itself, causing the star's outer layers to be blown away. The dying star is compressed to a point of zero volume and infinite density called the singularity by the crushing weight of constituent matter falling in from all sides. The singularity is the core of a black hole, and it is hidden by the event horizon, the object's "surface." The escape velocity (the velocity required for matter to escape from a cosmic object's gravitational field) inside the event horizon exceeds the speed of light, preventing even light rays from escaping into space.
 
 Source [britannica](https://www.britannica.com/science/black-hole)
+
+---
+
+### <a name="wormholes"></a>**Wormholes**
+
+A wormhole is a hypothetical structure based on a special solution of Einstein's field equations that connects disparate points in spacetime. A wormhole is a tunnel that has two ends at different points in spacetime (different locations, different points in time, or both). Wormholes are consistent with Einstein's general theory of relativity, but whether they exist is unknown. Many scientists believe that wormholes are simply projections of a fourth spatial dimension, in the same way that a two-dimensional (2D) being can only see a portion of a three-dimensional (3D) object. A wormhole could theoretically connect extremely long distances like a billion light years, short distances like a few meters, different points in time, or even different universes.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Wormhole)
 
 ---
 
