@@ -4,8 +4,10 @@ The guide you know and love, now in static website format powered by [Mkdocs](ht
 
 ## Requirements
 
- - Python >= 3.6
- - requirements.txt
+ - [Python >= 3.6](https://www.python.org/)
+ - [MkDocs](https://www.mkdocs.org/user-guide/installation/)
+ - [mkdocs-same-dir](https://github.com/oprypin/mkdocs-same-dir#mkdocs-same-dir)
+ - [mkdocs-bootswatch](https://mkdocs.github.io/mkdocs-bootswatch/#installation-usage)
 
 ## Build
 
