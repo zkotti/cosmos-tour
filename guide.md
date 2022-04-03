@@ -331,6 +331,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Football Competitions](#Football_Competitions)
       - [World Cup](#World_Cup)
       - [European Championship](#European_Championship)
+      - [Copa America](#Copa_America)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5077,9 +5078,19 @@ In football, the World Cup is a quadrennial intercontinental tournament that det
 
 **Description**
 
-In football, the European Championship, formally UEFA European Championship, is a quadrennial intercontinental tournament held between member countries of the Union of European Football Associations. The European Championship is the second most prestigious international football tournament after the World Cup. After two years of qualifying matches between 17 national football clubs, the European Championship held its first final in 1960. The Euro final tournament began with four teams in 1960, but by 1980, it had grown to eight teams, and by 1996, it had grown to sixteen teams. The last European Championship took place in 11 different European countries that found Italy the winner of the competition.
+In football, the European Championship, formally UEFA European Championship, is a quadrennial tournament held between member countries of the Union of European Football Associations. The European Championship is the second most prestigious international football tournament after the World Cup. After two years of qualifying matches between 17 national football clubs, the European Championship held its first final in 1960. The Euro final tournament began with four teams in 1960, but by 1980, it had grown to eight teams, and by 1996, it had grown to sixteen teams. The last European Championship took place in 11 different European countries that found Italy the winner of the competition.
 
 <br> Source [britannica](https://www.britannica.com/sports/European-Championship)
+
+---
+
+### <a name="Copa_America"></a>**Copa America**
+
+**Description**
+
+Copa América, formerly South American Championship of Nations, is a quadrennial American football tournament that serves as the continent's premier competition. The Copa América is the oldest international football competition in the world. The tournament was first held in 1916 to commemorate Argentina's 100th year of independence, with Uruguay winning the inaugural title. It used to happen every one to four years until 2007, when it switched to its current quadrennial format. The CONMEBOL oversees the Copa América, which features ten CONMEBOL member countries—Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, and Venezuela—plus two additional national teams invited to compete.
+
+<br> Source [britannica](https://www.britannica.com/sports/Copa-America)
 
 ---
 
