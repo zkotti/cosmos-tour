@@ -5087,7 +5087,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 ---
  ### <a name="Venus101"></a>**Venus 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=BvXa1n9fjow&ab
-" target="_blank"><img src="media\photos\image_hyperlinks\Venus_National_Geographic.jpg" 
+" target="_blank"><img src="media\photos\image_hyperlinks\Venus_National_Geographic.jpeg" 
 alt="Venus Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/watch?v=BvXa1n9fjow&ab)
