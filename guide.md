@@ -4922,6 +4922,8 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 Artist: Elton John
 
+[Available on YouTube](https://www.youtube.com/watch?v=DtVBCG6ThDk)
+
 image source [wiki](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
@@ -4932,6 +4934,8 @@ image source [wiki](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 <img width="500" height="350" src="media/photos/songs/song2.jpeg"/>
 
 Artist: David Bowie
+
+[Available on YouTube](https://www.youtube.com/watch?v=iYYRH4apXDo)
 
 image source [wiki](https://en.wikipedia.org/wiki/Space_Oddity)
 
@@ -4944,6 +4948,8 @@ image source [wiki](https://en.wikipedia.org/wiki/Space_Oddity)
 
 Artist: Frank Sinatra
 
+[Available on YouTube](https://www.youtube.com/watch?v=ZEcqHA7dbwM)
+
 image source [wiki](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
@@ -4953,6 +4959,8 @@ image source [wiki](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 <img width="500" height="350" src="media/photos/songs/song4.jpg"/>
 
 Artist: R.E.M.
+
+[Available on YouTube](https://www.youtube.com/watch?v=dLxpNiF0YKs)
 
 image source [wiki](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
@@ -4964,6 +4972,8 @@ image source [wiki](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 Artist: The Beatles
 
+[Available on YouTube](https://www.youtube.com/watch?v=90M60PzmxEE)
+
 image source [wiki](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
@@ -4974,6 +4984,8 @@ image source [wiki](https://en.wikipedia.org/wiki/Across_the_Universe)
 <img width="500" height="350" src="media/photos/songs/song6.jpeg"/>
 
 Artist: The Beatles
+
+[Available on YouTube](https://www.youtube.com/watch?v=KQetemT1sWc)
 
 image source [wiki](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
@@ -4988,6 +5000,8 @@ Artist: The Killers
 
 Album: Day & Age
 
+[Available on YouTube](https://www.youtube.com/watch?v=Hc16Y9fiCvQ)
+
 image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
 
 
@@ -4997,9 +5011,11 @@ image source [Discogs](https://www.discogs.com/master/65119-The-Killers-Day-Age)
 
 <img width="300" height="300" src="media/photos/songs/song8.jpg"/>
 
-Arist: Muse
+Artist: Muse
 
 Album: Black Holes And Revelations
+
+[Available on YouTube](https://www.youtube.com/watch?v=Pgum6OT_VH8)
 
 image source [wiki](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
