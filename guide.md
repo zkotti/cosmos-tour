@@ -124,6 +124,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Japan](#japan)
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
+  - [Kyrgyzstan](#kyrgyzstan)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -2793,6 +2794,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Maasai Mara National Reserve,  Amboseli National Reserve,  Tsavo National Park, Lake Nakuru National Park 
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/kenya-ken.htm)
+
+
+---
+
+### <a name="kyrgyzstan"></a>**Kyrgyzstan**
+
+<img width="300" height="300" src="media/photos/flags/kg.svg">
+
+**Capital:** [Bishkek](https://www.google.com/maps/search/Bishkek)
+</br>
+**Official Language:** Kyrgyz, Russian
+</br>
+**Currency:** 	Kyrgyzstani som (KGS)
+</br>
+**Population:** 6,586,600 (2020)
+</br>
+**Country Code (cioc):** KGZ
+</br>
+**Region:** Asia
+
+**Top Attractions:**  Ala-Archa Gorge, Issyk-Kul Lake, Mountain Sulaiman-Too, Ala Kul Lake, Osh Bazaar
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293947-Activities-Kyrgyzstan.html)
 
 
 ---
