@@ -148,6 +148,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Senegal](#senegal)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
+  - [Somalia](#somalia)
   - [Spain](#spain)
   - [Sweden](#sweden)
   - [Switzerland](#switzerland)
@@ -3333,6 +3334,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
 <br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
+
+---
+
+
+### <a name="somalia"></a>**Somalia**
+
+<img width="300" height="300" src="media/photos/flags/so.svg">
+
+**Capital:** [Mogadishu](https://www.google.com/maps/search/Mogadishu)
+</br>
+**Official Languages:** Somali, Arabic
+</br>
+**Currency:** 	Somali shilling (SOS)
+</br>
+**Population:** 15,893,219 (2020)
+</br>
+**Country Code (cioc):** SOM
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Liido Beach Somalia, The Tomb of the Unknown Soldier, Mogadishu Cathedral
+<br>Source [Tripadvisor](https://www.tripadvisor.com.gr/Attractions-g294439-Activities-Somalia.html)
 
 
 ---
