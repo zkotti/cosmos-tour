@@ -587,10 +587,13 @@ Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 - Only about 4.9% of the mass-energy of the universe is atoms: the stuff of which you, I, the stars and galaxies are made, and only half of that has been discovered with telescopes. Thus, 95% of the universe is invisible.
 - In space there is no atmosphere, which means that sound has no medium to travel in order to be heard. Astronauts use radios to stay in touch while in space because radio waves can still be sent and received.
 - Despite the search for intelligent signals, no evidence of intelligent extraterrestrial life has yet been found. In fact, there is a good argument that if such life forms exist out there, we should not only see signs of them, but that they should have already come here.
+- Scientists detected a radio signal in space from 5 billion light-years away.
+- The moon moves 4 cm away from Earth every year.
 
 Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/universe-facts/),
 [indiatoday](https://www.indiatoday.in/education-today/gk-current-affairs/story/here-are-10-amazing-facts-about-our-universe-1548015-2019-06-13),
-[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
+[SkyatNightMagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/),
+[facts.net](https://facts.net/universe-facts/)
 
 ---
 
