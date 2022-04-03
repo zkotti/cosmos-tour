@@ -190,6 +190,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Triangulum Galaxy](#triangulum_galaxy)
   - [Sombrero Galaxy](#sombrero_galaxy)
   - [Sculptor Galaxy](#sculptor_galaxy)
+  - [Whirlpool Galaxy](#whirlpool_galaxy)
 
 - ### [Natural Satellites](#natural_satellites)
 
@@ -3792,6 +3793,18 @@ Caroline Herschel discovered the galaxy in 1783 while conducting one of her syst
 <br>Source [wiki](https://en.wikipedia.org/wiki/Sculptor_Galaxy)
 
 ---
+
+### <a name="whirlpool_galaxy"></a>**Whirlpool Galaxy**
+
+<img width="500" height="350" src="media\photos\galaxies\whirlpoolgalaxy.jpg">
+
+**Description**
+
+**The Whirlpool Galaxy**, also known as Messier 51a, M51a, and NGC 5194, is a large engineered interacting spiral galaxy with an active galactic core of Seyfert 2. Located in the constellation Canes Venatici, it was the first to be classified as a spiral galaxy. It is 31 million light-years from Earth. 
+Amateur astronomers can easily observe this galaxy and its companion NGC 5195, both of which can be seen with binoculars. Professional astronomers make extensive observations of spiral galaxies, and they study it to understand the structure of galaxies.
+
+
+<br>Source [wiki](https://en.wikipedia.org/wiki/Whirlpool_Galaxy)
 
 
 ## <a name="natural_satellites"></a> **_Natural Satellites_**
