@@ -425,6 +425,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Confucianism](#conf)
   - [Twelve Olympians](#twel)
   - [Druze](#druze)
+  - [Gnosticism](#Gnosticism_)
+
   
 
 - ### [Volcanos](#volcanos) 
@@ -6375,6 +6377,12 @@ owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-moun
 The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
 
 source [britannica](https://www.britannica.com/topic/Druze)
+
+### <a name="Gnosticism_"></a>**Gnosticism**
+
+Gnosticism is a group of theological concepts and systems that arose among Jewish and early Christian factions in the late first century AD. Personal spiritual understanding (gnosis) was prioritized over orthodox doctrines, traditions, and religious organizations' authority by these distinct sects. Gnostic cosmogony often portrays a contrast between an ultimate, hidden God and a malignant lesser divinity (sometimes identified with the Old Testament's Yahweh) who is responsible for the creation of the material universe, viewing material existence as imperfect or bad. Direct knowledge of the supreme divine in the form of mystical or esoteric insight was regarded the primary element of salvation by Gnostics. Many Gnostic writings deal with illusion and enlightenment rather than sin and repentance.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Gnosticism)
 
 
 ### <a name="Volcanos"></a>**Volcanos**
