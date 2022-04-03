@@ -279,6 +279,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - ### ♓ Pisces (Fish): February 19–March 20
 
 
+  Source [zodiac | Symbols, Dates, Facts, & Signs - Encyclopedia](https://www.britannica.com/topic/zodiac)
+
 - ### [Frequent questions](#frequent_questions)
 
   - [Questions about stars](#frequent_questions_stars)

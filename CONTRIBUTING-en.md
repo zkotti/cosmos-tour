@@ -70,7 +70,7 @@ You could run the tests that exist inside of file, by typing the following comma
    ```pytest -q -name_of_file```                                
 
 
-####### Note
+###### Note
   Given that your python points to the same place where you PIP manager points, this command lets you 
   use the pytest framework to run the tests.
   
