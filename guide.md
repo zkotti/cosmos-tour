@@ -368,6 +368,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
+  - [K2](#K2)
 
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
@@ -5702,6 +5703,23 @@ Until 1852, Kangchenjunga was thought to be the world's highest mountain, but ca
 Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 ---
+
+### <a name="K2"></a>**K2**
+
+<img width="500" height="300" src="media\photos\mountains\K2.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+**Description**
+
+K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest (at 8,849 metres (29,032 ft)). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in a China-administered territory of the Kashmir region included in the Taxkorgan Tajik Autonomous County of Xinjiang.
+
+K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit
+
+Source [wiki](https://en.wikipedia.org/wiki/K2)
+
+---
+
 
 ## <a name="wonders_of_the_world"></a>**_Wonders of the World_**
 
