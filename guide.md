@@ -338,6 +338,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hockey](#Hockey)
   - [Rugby](#Rugby)
   - [Handball](#Handball)
+  - [Sailing](#Sailing)
 
 - ### [Mountains](#mountains)
   - [Top 4 highest Mountains](#Highest_Mountains)
@@ -5197,6 +5198,18 @@ owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-th
 Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
+
+---
+
+### <a name="Sailing"></a>**Sailing**
+
+<img width="500" height="350" src="media/photos/Sports/Sailing.jpg">
+
+**Description**
+
+Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge history and successes in Greece. Sailing involves moving a boat by using the wind. There are many types of boats from the smallest, called Optimists, to the bigest, called America's Cup boats. The number of people who can sail a boat can be from one or up to ten, but this depend on the size of the boat.
+
+<br> Source [topendsports](https://www.topendsports.com/sport/list/sailing.htm)
 
 ---
 
