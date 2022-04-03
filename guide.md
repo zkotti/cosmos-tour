@@ -4875,37 +4875,37 @@ Source [crossway](https://www.crossway.org/books/from-chaos-to-cosmos-ebook/)
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
 <img width="500" height="350" src="media\photos\movies\midnightsky.jpg">
-A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
+<br>A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
 <img width="500" height="350" src="media\photos\movies\gravity.jpg">
-Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
+<br>Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
 <img width="500" height="350" src="media/photos/movies/interstellar.jpg">
-In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
+<br>In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
 <img width="500" height="350" src="media/photos/movies/europa_report.jpg">
-A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
+<br>A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
 <img width="500" height="350" src="media/photos/movies/apollo13.jpg">
-The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
+<br>The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
 
 ### <a name="movie_6"></a>**Ad Astra (2019)**
 
 <img width="500" height="350" src="media/photos/movies/adastra.jpg">
-Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
+<br>Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
 
 ### <a name="movie_7"></a>**Armageddon (1998)**
 
 <img width="500" height="350" src="media/photos/movies/armageddon.jpg">
-After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
+<br>After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
 
 ---
 
