@@ -430,6 +430,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Gnosticism](#Gnosticism_)
   - [Jainism](#Jainism)
   - [Rastafarianism](#Rastafarianism_)
+  - [Shinto](#Shinto_)
+
   
   
 
@@ -6442,6 +6444,12 @@ source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
 Rastafari, often known as Rastafarianism, is a Jamaican religion that emerged in the 1930s. Scholars of religion classify it as both a new religious movement and a social movement. There is no centralized authority in charge of the movement, and its practitioners, known as Rastafari, Rastafarians, or Rastas, are extremely diverse.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Rastafari)
+
+### <a name="Shinto_"></a>**Shinto**
+
+Shinto (Japanese:, romanized: Shint) is a Japanese religious tradition. Scholars of religion classify it as an East Asian religion, yet it is often referred to as Japan's indigenous religion and a nature religion by its adherents. Scholars refer to its believers as Shintoists, though they rarely use that label themselves. Shinto has no centralized authority in charge, and practitioners are extremely diverse.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Shinto)
 
 ---
 
