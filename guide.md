@@ -361,7 +361,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sailing](#Sailing)
 
 - ### [Mountains](#mountains)
-  - [Top 4 highest Mountains](#Highest_Mountains)
+  - [Top 14 highest Mountains](#Highest_Mountains)
   - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
   - [Mount Kosciuszko](#mountkosciuszko)
@@ -5594,14 +5594,24 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 ## <a name="mountains"></a> **_Mountains_**
 
 ---
-### <a name="Highest_Mountains"></a>**Top 4 highest Mountains**
+### <a name="Highest_Mountains"></a>**Top 14 highest Mountains**
 
 |      **Mountain**    |    **Height (m)**    |      **Country**     |
 | :------------------: | :------------------: | :------------------: |
-|   Mountain Everest   |        8.848         |     Nepal, China     |
-|         K2           |        8.611         |    Pakistan, China   |
+|   Mountain Everest   |        8.848         |    Nepal, China      |
+|         K2           |        8.611         |   Pakistan, China    |
 |    Kangchenjunga     |        8.586         |    Nepal, India      |
 |       Lhotse         |        8.516         |    Nepal, China      |
+|       Makalu         |        8.463         |    Nepal, China      |
+|       Cho Oyu        |        8.201         |    Nepal, China      |
+|     Dhaulagiri       |        8.167         |       Nepal          |
+|       Manaslu        |        8.163         |       Nepal          |
+|     Nanga Parbat     |        8.125         |      Pakistan        |
+|     Annapurna I      |        8.091         |       Nepal          |
+|     Gasherbrum I     |        8.068         |   Pakistan, China    |
+|      Broad Peak      |        8.047         |   Pakistan, China    |
+|     Gasherbrum II    |        8.035         |   Pakistan, China    |
+|     Shishapangma     |        8.012         |       China          |
 
 
 ---
