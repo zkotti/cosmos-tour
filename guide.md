@@ -113,6 +113,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Ghana](#ghana)
   - [Greece](#greece)
   - [Guatemala](#guatemala)
+  - [Honduras](#honduras)
   - [Iceland](#iceland)
   - [India](#india)
   - [Indonesia](#indonesia)
@@ -2727,6 +2728,27 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Mount Fuji, Imperial Tokyo, Hiroshima Peace Memorial Park, Historic Kyoto, The Island Shrine of Itsukushima 
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/japan-jpn.htm)
+
+---
+
+### <a name="honduras"></a>**Honduras**
+
+<img width="300" height="300" src="media/photos/flags/hn.svg">
+
+**Capital:** [Tegucigalpa](https://www.google.com/maps/search/Tegucigalpa)
+</br>
+**Official Language:** Spanish
+</br>
+**Currency:** Lempira (HNL)
+</br>
+**Population:** 9,587,522 (2018)
+</br>
+**Country Code (cioc):** HON
+</br>
+**Region:** South America
+
+**Top Attractions:**  Roatan, Lago de Yojoa, Punta Sal, Rio Platano Biosphere Reserve, Guanaja, Comayagua Street Carpets 
+<br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-honduras/)
 
 ---
 
