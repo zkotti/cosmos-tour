@@ -5967,16 +5967,24 @@ owned by [interlude](https://interlude.hk/music-as-art/)
 
 Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood.
 
-Songs to hear before you Die 
+**Songs to hear before you Die** 
 <br>
--Two Weeks - Grizzly Bear.
--Marinade - DOPE LEMON.
--Fade Into You - Mazzy Star.
--Feel Safe - All We Are.
--At the Bottom of Everything - Bright Eyes.
--New Slang - The Shins.
--Walk In the Park - Beach House.
--Hey - The Pixies.
+-Two Weeks - *Grizzly Bear*.
+
+-Marinade - *DOPE LEMON*.
+
+-Fade Into You - *Mazzy Star*.
+
+-Feel Safe - *All We Are*.
+
+-At the Bottom of Everything - *Bright Eyes*.
+
+-New Slang - *The Shins*.
+
+-Walk In the Park - *Beach House*.
+
+-Hey - *The Pixies*.
+
 
 Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/),[purculture](https://purculture.com/whatsnew//100-songs-you-need-to-listen-to-before-you-die)
 
