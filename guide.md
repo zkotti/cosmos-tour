@@ -245,6 +245,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Quote 3.](#quote_3)
   - [Quote 4.](#quote_4)
   - [Quote 5.](#quote_5)
+  - [Quote 6.](#quote_6)
+  - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac)
 
@@ -4343,6 +4345,14 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 - Source [quotes cosmos](https://www.quotescosmos.com/quotes/Carl-Sagan-quote-20.html)
 
 ---
+### <a name="quote_7"></a>**Quote 7.**
+
+<img width="300" height="300" src="media\photos\quotes\quote_heraclitus.jpg">
+
+- Source [azquotes](https://www.azquotes.com/quote/843588)
+
+---
+
 ## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
