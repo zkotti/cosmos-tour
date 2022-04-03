@@ -1,6 +1,6 @@
 # **WELCOME TO COSMOS**
 
-A guided tour of the cosmos by the **Department of Management Science and Technology** of the **Athens University of Economics and Business.**
+A guided tour of the cosmos by the [**Department of Management Science and Technology**](https://www.dept.aueb.gr/el/dmst) of the [**Athens University of Economics and Business.**](https://www.aueb.gr/)
 
 ---
 
