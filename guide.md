@@ -145,6 +145,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [San Marino](#san_marino)
   - [Saudi Arabia](#saudi_arabia)
   - [Scotland](#scotland)
+  - [Senegal](#senegal)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
   - [Spain](#spain)
@@ -3269,6 +3270,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Edinburgh Castle and the Royal Mile, Loch Lomond, Loch Ness and the Caledonian Canal, Isle of Skye and the Inner Hebrides   
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/scotland-sco.htm)
 
+---
+
+### <a name="senegal"></a>**Senegal**
+
+<img width="300" height="300" src="media/photos/flags/sn.svg">
+
+**Capital:** [Dakar](https://www.google.com/maps/search/Dakar)
+</br>
+**Official Language:** French
+</br>
+**Currency:** 	West African CFA franc (XOF)
+</br>
+**Population:** 15,854,323 (2018)
+</br>
+**Country Code (cioc):** SEN
+</br>
+**Region:** Africa
+
+**Top Attractions:**  La Maison des Esclaves, Reserve De Bandia, Lago Rosa, Mosque of the Divinity
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293830-Activities-Senegal.html)
 
 ---
 
