@@ -25,6 +25,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [The Creation of the Universe According to Greek Mythology](#mythology)
   - [Everything You Need to Know About Chaos](#chaos)
   - [9 of the most mind-blowing facts about the Universe](#facts)
+  - [Dark Energy & Dark Matter](#dark)
 
 - ### [Continents](#continents)
 
@@ -810,6 +811,20 @@ Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
 Source [skyatnightmagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
+
+### <a name="dark"></a>**Dark Energy & Dark Matter**
+
+The world that we all know is not entirely accurate. Everything that is visible to us, all the atoms and light in the universe together make up less than five percent of the total contents of the cosmos. But what about the rest 95 percent?
+The answer to that question is dark matter and dark energy. These invisible concepts dominate the structure and the evolution of the universe, yet we know so little about them.
+Dark matter (approximately 68% of the cosmos) makes up most of the mass of galaxies and galaxy clusters, and is responsible for the way galaxies are organized on grand scales.
+Dark energy, meanwhile, is the name we give the mysterious influence driving the accelerated expansion of the universe and it makes up almost 27% of the cosmos.
+
+
+Sources [Harvard](https://www.cfa.harvard.edu/research/topic/dark-energy-and-dark-matter)
+
+
+---
+
 
 ## <a name="continents_map"></a>**_Continents_**
 
