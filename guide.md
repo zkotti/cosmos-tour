@@ -125,6 +125,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
   - [Kyrgyzstan](#kyrgyzstan)
+  - [Kiribati](#kiribati)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -371,6 +372,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
 
 - ### [Mountains](#mountains)
   - [Top 14 highest Mountains](#Highest_Mountains)
+  - [Death Zone](#deathzone)
   - [Mount Aconcagua](#mountaconcagua)
   - [Mount Everest](#mounteverest)
   - [Mount Kosciuszko](#mountkosciuszko)
@@ -425,6 +427,12 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Confucianism](#conf)
   - [Twelve Olympians](#twel)
   - [Druze](#druze)
+  - [Gnosticism](#Gnosticism_)
+  - [Jainism](#Jainism)
+  - [Rastafarianism](#Rastafarianism_)
+  
+  
+
   
 
 - ### [Volcanos](#volcanos) 
@@ -1028,7 +1036,8 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 
 
 <img width="1200" height="715" src="media/photos/maps/world-map.jpg">
-<br>owner [geology](https://geology.com/world/world-map.shtml)
+
+Owner[geology](https://geology.com/world/world-map.shtml)
 
 
 ### <a name="afghanistan"></a>**Afghanistan**
@@ -2844,6 +2853,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Ala-Archa Gorge, Issyk-Kul Lake, Mountain Sulaiman-Too, Ala Kul Lake, Osh Bazaar
 <br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293947-Activities-Kyrgyzstan.html)
 
+---
+
+### <a name="kiribati"></a>**Kiribati**
+
+<img width="300" height="300" src="media/photos/flags/ki.svg">
+
+**Capital:** [South Tarawa](https://www.google.com/maps/search/South+Tarawa)
+</br>
+**Official Language:** English, Gilbertese
+</br>
+**Currency:** 	Australian dollar (AUD)
+</br>
+**Population:** 119,940 (2020)
+</br>
+**Country Code (cioc):** KIR
+</br>
+**Region:** Pacific Ocean
+
+**Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
+<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
 
 ---
 
@@ -4206,8 +4235,22 @@ Stellar black holes are more likely to be found and we know for sure that they a
 owned by [physic world](https://physicsworld.com/a/dying-star-sheds-light-on-spin-of-supermassive-black-hole/)
 
 **Description**
-Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even billion and trillion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
+Know as the most massive and violante object in universy, super masive black holes are a specific type of black hole that the mass that they contain rainging form million of times tha mass of our sun to unimaginable big amounts even a few billion solar massies. The creating of such black hole is still a mystery, cause we dont know an object type so massive that when it collapse to itself can create such a massive black hole and not even the life of universy is enough for a black hole to cosume enough to comsume such amount of stars or other black holes to reach this level. Such black holes exist in every center of a galaxy. 
 
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+
+---
+### <a name="ultramassive_black_holes"></a> **Ultra Massive black holes**
+
+<img width="550" height="480" src="media/photos/black holes/ultramassive_bh.jpg">
+
+owned by [wiki](https://en.wikipedia.org/wiki/List_of_most_massive_black_holes)
+
+**Description**
+
+Ultra massive black hole is highest known level of mass that a black hole can have. The biggest ultra massive black hole contain 66 bilion solar massive and in diammeter, the event horizone reaches 11 solar system. Some facts about such black holes is that the light that their sphere emite reaches 140 trillion time the light of sun and theire gravitational field is so big that they can orbit other black hole and even galaxies.
 
 <br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
 
@@ -5806,6 +5849,9 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 
 ---
 ### <a name="Highest_Mountains"></a>**Top 14 highest Mountains**
+<img width="750" height="453" src="media/photos/mountains/14peaks.png">
+
+owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
 
 |      **Mountain**    |    **Height (m)**    |      **Country**     |
 | :------------------: | :------------------: | :------------------: |
@@ -5823,7 +5869,10 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 |      Broad Peak      |        8.047         |   Pakistan, China    |
 |     Gasherbrum II    |        8.035         |   Pakistan, China    |
 |     Shishapangma     |        8.012         |       China          |
-
+---
+### <a name="deathzone"></a>**Death Zone**  
+  
+The death zone in climbing refers to heights over a specific point where oxygen pressure is insufficient to maintain human life for a lengthy period of time. This point is commonly referred to as 8,000 meters (26,000 ft, less than 356 millibars of atmospheric pressure).  A Swiss doctor named Edouard Wyss-Dunant came up with the idea in 1953 and named it the deadly zone.  The Himalaya and Karakoram of Asia include all 14 peaks above 8000 meters in the death zone.  
 
 ---
 
@@ -6396,6 +6445,26 @@ owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-moun
 The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
 
 source [britannica](https://www.britannica.com/topic/Druze)
+
+### <a name="Gnosticism_"></a>**Gnosticism**
+
+Gnosticism is a group of theological concepts and systems that arose among Jewish and early Christian factions in the late first century AD. Personal spiritual understanding (gnosis) was prioritized over orthodox doctrines, traditions, and religious organizations' authority by these distinct sects. Gnostic cosmogony often portrays a contrast between an ultimate, hidden God and a malignant lesser divinity (sometimes identified with the Old Testament's Yahweh) who is responsible for the creation of the material universe, viewing material existence as imperfect or bad. Direct knowledge of the supreme divine in the form of mystical or esoteric insight was regarded the primary element of salvation by Gnostics. Many Gnostic writings deal with illusion and enlightenment rather than sin and repentance.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Gnosticism)
+
+### <a name="Jainism_"></a>**Jainism**
+
+Jainism is a Hindu religion that dates back to ancient India. Ahis (nonviolence), anekntavda (non-absolutism), and aparigraha are the three major pillars of Jainism (asceticism). Nonviolence, satya (truth), asteya (not stealing), brahmacharya (sexual continence), and aparigraha are the five main vows taken by Jain monks (non-possessiveness). These beliefs have influenced Jain culture in a variety of ways, including the adoption of a primarily vegetarian lifestyle. The faith's motto is parasparopagraho jvnm (the function of souls is to support one another), and the amkra mantra is its most common and basic prayer.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
+
+### <a name="Rastafarianism_"></a>**Rastafarianism**
+
+Rastafari, often known as Rastafarianism, is a Jamaican religion that emerged in the 1930s. Scholars of religion classify it as both a new religious movement and a social movement. There is no centralized authority in charge of the movement, and its practitioners, known as Rastafari, Rastafarians, or Rastas, are extremely diverse.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Rastafari)
+
+---
 
 
 ### <a name="Volcanos"></a>**Volcanos**
