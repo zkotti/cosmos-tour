@@ -126,6 +126,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
   - [Kiribati](#kiribati)
+  - [Kuwait](#kuwait)
   - [Kyrgyzstan](#kyrgyzstan)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
@@ -2894,6 +2895,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
 <br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
+
+
+---
+
+### <a name="kuwait"></a>**Kuwait**
+
+<img width="300" height="300" src="media/photos/flags/kw.svg">
+
+**Capital:** [Kuwait City](https://www.google.com/maps/search/Kuwait+City)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** 	Kuwaiti dinar (KWD)
+</br>
+**Population:** 4,420,110 (2019)
+</br>
+**Country Code (cioc):** KUW
+</br>
+**Region:** Asia
+
+**Top Attractions:** Grand Mosque, Al Shaheed Park, Kuwait Towers, Mirror House, Sheikh Jaber Al Ahmad Cultural Center
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g294003-Activities-Kuwait_City.html)
 
 
 ---
