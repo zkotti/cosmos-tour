@@ -400,6 +400,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
   - [Confucianism](#conf)
+  - [Twelve Olympians](#twel)
   
 
 
@@ -5770,3 +5771,10 @@ Confucianism is a philosophy and belief system from ancient China. It affected d
 
 source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
 
+---
+
+### <a name="twel"></a>**Twelve Olympians**
+
+In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
