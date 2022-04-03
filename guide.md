@@ -5668,6 +5668,9 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 ---
 
 ## <a name="religions"></a> **Religions**
+
+---
+
 ### <a name="christ"></a>**Christianity**  
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
@@ -5727,6 +5730,8 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
   source [wikipedia](https://en.wikipedia.org/wiki/Islam)
 
  ### <a name="Hinduism_"></a>**Hinduism**
+
+ <img width="300" height="300" src="media/photos/religions/hinduism.jpeg">
 
  Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
 
