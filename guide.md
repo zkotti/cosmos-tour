@@ -5269,7 +5269,8 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 ## <a name="astrophotography"></a> **Astrophotography**
 
 ### <a name="pillars_of_creation"></a> **Pillars of Creation**
-![Pillars of Creation image](media/photos/astrophotography/Pillars_Of_Creation_2014.jpg "Pillars of Creation")
+<img width="500" height="350" src="media/photos/astrophotography/Pillars_Of_Creation_2014.jpg">
+<br>
 
 **Pillars of Creation** is a photograph taken by the Hubble Space Telescope of elephant trunks of interstellar gas and dust in the Eagle Nebula, in the Serpens constellation, some 6,500–7,000 light-years (2,000–2,100 pc; 61–66 Em) from Earth. Their naming occurs because the dust and gas are in the process of creating new stars, while the light of recently formed stars can also be observed. The name is also based on a phrase used by [Charles Spurgeon](https://en.wikipedia.org/wiki/Charles_Spurgeon) in his work "The Condescension of Christ"
 
@@ -5280,7 +5281,8 @@ Source: [wiki](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 ---
 
 ### <a name="hxdf"></a> **Hubble eXtreme Deep Field**
-![Hubble eXtreme Deep Field image](media/photos/astrophotography/HXDF.png "Hubble eXtreme Deep Field")
+<img width="500" height="350" src="media/photos/astrophotography/HXDF.png">
+<br>
  
 >The Hubble Ultra-Deep Field (HUDF) is a deep-field image of a small region of space in the constellation Fornax, containing an estimated 10,000 galaxies. The original data for the image was collected by the Hubble Space Telescope from September 2003 to January 2004. It includes light from galaxies that existed about 13 billion years ago, some 400 to 800 million years after the Big Bang.
 
@@ -5293,7 +5295,8 @@ Source: [wiki](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 ---
 
 ### <a name="the_blue_marble"></a> **The Blue Marble**
-![The Blue Marble image](media/photos/astrophotography/The_Blue_Marble.jpg "The Blue Marble")
+<img width="500" height="350" src="media/photos/astrophotography/The_Blue_Marble.jpg">
+<br>
 
 **The Blue Marble** is an image of Earth taken on December 7, 1972, about 29,000 kilometers from the planet's surface. It was taken by the **crew of the Apollo 17 spacecraft** on its way to the Moon, and is one of the most reproduced images in history.
 
@@ -5306,7 +5309,8 @@ Source: [wiki](https://en.wikipedia.org/wiki/The_Blue_Marble)
 ---
 
 ### <a name="pale_blue_dot"></a> **Pale Blue Dot**
-![Pale Blue Dot image](media/photos/astrophotography/Pale_Blue_Dot.png "Pale Blue Dot")
+<img width="500" height="350" src="media/photos/astrophotography/Pale_Blue_Dot.png">
+<br>
 
 **Pale Blue Dot** is a photograph of planet Earth **taken on February 14, 1990**, by the **Voyager 1** space probe from a of about 6 billion kilometers. In the photograph, the Earth is depicted in almost one pixel. 
 
@@ -5321,7 +5325,8 @@ Source: [wiki](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 ### <a name="#black_hole_image"></a> **The First Image Of A Black Hole**
 
 #### 2019 Image
-![Black Hole image](media/photos/astrophotography/Black_Hole_2019.jpeg "The First Image Of A Black Hole")
+<img width="500" height="350" src="media/photos/astrophotography/Black_Hole_2019.jpeg">
+<br>
 
 **In April 2019, a black hole and its shadow were captured in an image for the first time**, a historic achievement by an global network of radio telescopes called the **Event Horizon Telescope (EHT)**.
 
@@ -5332,7 +5337,8 @@ This breathtaking photograph shows the shadow of **the supermassive black hole i
 Source: [NASA](https://www.nasa.gov/image-feature/photographing-a-black-hole)
 
 #### 2021 Image
-![Black Hole image](media/photos/astrophotography/Black_Hole_2021.jpeg "Image Of A Black Hole 2021")
+<img width="500" height="350" src="media/photos/astrophotography/Black_Hole_2021.jpeg">
+<br>
 
 **In March 24, 2021**, the Event Horizon Telescope released a new photograph showing polarized light from this black hole. The polarization of the light gives astronomers, **for the first time**, a representation of a black hole’s magnetic field.
 
