@@ -10,6 +10,14 @@ for line in all_lines:
                          + "(" + "https://www.google.com/maps/search/" + sp[1].replace(" ", "%20") + ")" + "\n"
     else:
         new_lines += line
+    return new_lines  
+
+def enrich_countries_with_hyperlinks(file_name="guide.md"):
+    with open("guide.md", "w", encoding="utf-8") as f:
+        new_lines = add_links_to_capitals(file_name)
+        f.write(new_lines)
+        f.close()
+    return new_lines
 
 with open("guide.md", "w", encoding="utf-8") as f:
     f.write(new_lines)
