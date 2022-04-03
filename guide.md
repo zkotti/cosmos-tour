@@ -418,6 +418,14 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Druze](#druze)
   
 
+- ### [Volcanos](#volcanos) 
+  - [Sangay](#sangay)
+  - [Santa Maria](#santa_maria)
+  - [Stromboli](#stromboli)
+  - [Mount Ethna](#mount_etna)
+  - [Mount Yasur](#mount_yasur)
+
+---
 
 ## <a name="cosmos"></a> **_Cosmos_**
 
@@ -6094,3 +6102,68 @@ owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-moun
 The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
 
 source [britannica](https://www.britannica.com/topic/Druze)
+### <a name="Volcanos"></a>**Volcanos**
+
+---
+
+### <a name="Sangay"></a>**Sangay**
+
+<img width="600" height="435" src="media/photos/volcanos/Sangay.jpg">
+
+Sangay (also known as Macas, Sanagay, or Sangai)[7] is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Sangay)
+
+---
+
+### <a names="Santa Maria"></a>**Santa Maria**
+
+<img width="600" height="400" src="media/photos/volcanos/Santa_Maria.jpg">
+
+Santa María Volcano is a large active volcano in the western highlands of Guatemala, in the Quetzaltenango Department near the city of Quetzaltenango. The VEI-6 eruption of Santa María Volcano in 1902 was one of the three largest eruptions of the 20th century, after the 1912 Novarupta and 1991 Mount Pinatubo eruptions. It is also one of the five biggest eruptions of the past 200 (and most likely 300) years.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
+
+---
+
+### <a name="Stromboli"></a>**Stromboli**
+
+<img width="600" height="399" src="media/photos/volcanos/Stromboli.jpg">
+
+Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.[3]
+
+The island's area is 12.6 square kilometres (4.9 sq mi),[4] on the upper third of the volcano that is above sea level and making an island.[5] Its population was about 500 as of 2016.[6] The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
+
+---
+
+### <a name="Mount Etna"></a>**Mount Etna**
+
+<img width="600" height="395" src="media/photos/volcanos/Mount_Etna.jpg">
+
+The ancient Greeks believed Mount Etna, located on the island of Sicily, to be the home of Vulcan, the god of fire to them, Mount Etna erupting merely meant Vulcan was forging weapons for Mars, the god of war.
+
+Dating back to 1500 B.C., the volcano has erupted around 200 times, and the 21st century saw Mount Etna erupting yet again in 2001, with lava flows reaching within mere miles of the nearby town of Nicolosi.
+
+The mountain is currently around 10,958 feet (3,340 meters) in height. It is the largest active volcano in Europe, though this varies with summit eruptions. It is the highest mountain in Italy south of the Alps.
+
+The most violent eruption in the history of Mount Etna occurred in March of 1669. The volcano spewed molten rock for days on end, the eruption finally stopped at the end of April of that year.
+
+Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
+
+---
+
+### <a name="Mount Yasur"></a>**Mount Yasur**
+
+<img width="600" height="398" src="media/photos/volcanos/Mount_Yasur.jpg">
+
+Mount Yasur is an active volcano on Tanna Island, part of the archipelago nation of Vanuatu in the South Pacific. The volcano, one of many along the Pacific Ring of Fire, is 1,184 feet (of 361 meters) above sea level.
+
+It is a stratovolcano, caused by the eastward-moving Indo-Australian Plate being subducted under the westward-moving Pacific Plate. Yasur has been erupting nearly continuously for over a century, and its eruptions, which often occur several times an hour, are classified as Strombolian or Vulcanian (a relatively low-level type of eruption).
+
+The glow of the volcano is rumored to be what attracted Captain James Cook on the first European journey to the island in 1774.
+
+Today, the mountain is a sacred area for the John Frum cargo cult. Members of the cult revere John Frum, a deified messenger who foretold the bringing of wealth to the island by American forces, and believe he resides in Mount Yasur with his countrymen.
+
+Source[livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
