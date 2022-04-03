@@ -113,6 +113,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Greece](#greece)
   - [Guatemala](#guatemala)
   - [Honduras](#honduras)
+  - [Hungary](#hungary)
   - [Iceland](#iceland)
   - [India](#india)
   - [Indonesia](#indonesia)
@@ -430,6 +431,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Gnosticism](#Gnosticism_)
   - [Jainism](#Jainism)
   - [Rastafarianism](#Rastafarianism_)
+  - [Shinto](#Shinto_)
+
   
   
 
@@ -2788,6 +2791,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Roatan, Lago de Yojoa, Punta Sal, Rio Platano Biosphere Reserve, Guanaja, Comayagua Street Carpets 
 <br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-honduras/)
+
+---
+
+### <a name="hungary"></a>**Hungary**
+
+<img width="300" height="300" src="media/photos/flags/hu.svg">
+
+**Capital:** [Budapest](https://www.google.com/maps/search/Budapest)
+</br>
+**Official Language:** 	Hungarian
+</br>
+**Currency:** Forint (HUF)
+</br>
+**Population:** 9,730,000 (2021)
+</br>
+**Country Code (cioc):** HUN
+</br>
+**Region:** Europe
+
+**Top Attractions:**  Buda Castle, The Danube River, Esztergom Basilica, Hungarian Parliament Building
+<br>Source [Planetware](https://www.planetware.com/tourist-attractions/hungary-h.htm)
+
 
 ---
 
@@ -5874,6 +5899,8 @@ owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
   
 The death zone in climbing refers to heights over a specific point where oxygen pressure is insufficient to maintain human life for a lengthy period of time. This point is commonly referred to as 8,000 meters (26,000 ft, less than 356 millibars of atmospheric pressure).  A Swiss doctor named Edouard Wyss-Dunant came up with the idea in 1953 and named it the deadly zone.  The Himalaya and Karakoram of Asia include all 14 peaks above 8000 meters in the death zone.  
 
+<br> Source [wiki](https://en.wikipedia.org/wiki/Death_zone)
+
 ---
 
 ### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
@@ -6463,6 +6490,12 @@ source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
 Rastafari, often known as Rastafarianism, is a Jamaican religion that emerged in the 1930s. Scholars of religion classify it as both a new religious movement and a social movement. There is no centralized authority in charge of the movement, and its practitioners, known as Rastafari, Rastafarians, or Rastas, are extremely diverse.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Rastafari)
+
+### <a name="Shinto_"></a>**Shinto**
+
+Shinto (Japanese:, romanized: Shint) is a Japanese religious tradition. Scholars of religion classify it as an East Asian religion, yet it is often referred to as Japan's indigenous religion and a nature religion by its adherents. Scholars refer to its believers as Shintoists, though they rarely use that label themselves. Shinto has no centralized authority in charge, and practitioners are extremely diverse.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Shinto)
 
 ---
 
