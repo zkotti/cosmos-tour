@@ -5649,7 +5649,18 @@ owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-b
 
 Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
 
-Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html)
+Must Read Book List
+<br>
+-1984 by George Orwell
+-The Lord of the Rings by J.R.R. Tolkien
+-The Kite Runner by Khaled Hosseini
+-Harry Potter and the Philosopher’s Stone by J.K. Rowling
+-Slaughterhouse-Five by Kurt Vonnegut
+-Jane Eyre by Charlotte Bronte
+-Frankenstein by Mary Shelley
+-Principles: Life and Work by Ray Dalio
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html), [oberlo](https://www.oberlo.com/blog/must-read-books-of-all-time)
 
 ---
 
