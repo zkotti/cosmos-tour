@@ -5720,7 +5720,18 @@ owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/
 
 Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
 
-Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
+Life Changing Movies
+<br>
+-Into The Wild
+-The Truman Show
+-Crash
+-The Shawshank Redemption
+-Waking Life
+-Wild
+-Pay It Forward
+-Dead Poets Society
+
+Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/),[scoopwhoop](https://www.scoopwhoop.com/entertainment/hollywood-movies-that-will-change-how-you-look-at-life/)
 
 ---
 
