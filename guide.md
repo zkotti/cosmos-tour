@@ -2976,6 +2976,27 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="uganda"></a>**Uganda**
+
+<img width="300" height="300" src="media/photos/flags/ug.svg">
+
+**Capital:** [Kampala](https://www.google.com/maps/search/Kampala)
+</br>
+**Official Language:** Swahili
+</br>
+**Currency:** Ugandan shilling (UGX)
+</br>
+**Population:** 42,729,036 (2018)
+</br>
+**Country Code (cioc):** UGA
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Bwindi Impenetrable Forests National Park, Rwenzori Mountain National Park, Queen Elizabeth National Park, The source of the Nile
+<br>Source [ugandatourism](https://ugandatourismcenter.com/top-10-tourist-attractions-in-uganda/)
+
+---
+
 ### <a name="ukraine"></a>**Ukraine**
 
 <img width="300" height="300" src="media/photos/flags/ua.svg">
