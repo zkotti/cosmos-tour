@@ -143,10 +143,14 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Romania](#romania)
   - [Russia](#russia)
   - [San Marino](#san_marino)
+  - [Saudi Arabia](#saudi_arabia)
   - [Scotland](#scotland)
+  - [Senegal](#senegal)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
+  - [Somalia](#somalia)
   - [Spain](#spain)
+  - [Sweden](#sweden)
   - [Switzerland](#switzerland)
   - [Taiwan](#taiwan)
   - [Uganda](#uganda)
@@ -452,6 +456,10 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Rastafarianism](#Rastafarianism_)
   - [Shinto](#Shinto_)
   - [Sikhism](#Sikhism_)
+  - [Bahá’í](#Bahá’í_)
+  - [Zoroastrianism](#Zoroastrianism_)
+  
+  
   
 - ### [Volcanos](#volcanos) 
   - [Sangay](#sangay)
@@ -3217,6 +3225,29 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="saudi_arabia"></a>**Saudi Arabia**
+
+<img width="300" height="300" src="media/photos/flags/sa.svg">
+
+**Capital:** [Riyadh](https://www.google.com/maps/search/Riyadh)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Saudi Riyal (SAR)
+</br>
+**Population:** 34,218,169 (2019)
+</br>
+**Country Code (cioc):** KSA
+</br>
+**Region:** Asia
+
+**Top Attractions:** Great Mosque of Mecca, Kaaba, Kingdom Centre Tower, Al Masjid an Nabawi
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293991-Activities-Saudi_Arabia.html)
+
+
+
+---
+
 ### <a name="scotland"></a>**Scotland**
 
 <img width="300" height="300" src="media/photos/flags/gb-sct.svg">
@@ -3236,6 +3267,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Edinburgh Castle and the Royal Mile, Loch Lomond, Loch Ness and the Caledonian Canal, Isle of Skye and the Inner Hebrides   
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/scotland-sco.htm)
 
+---
+
+### <a name="senegal"></a>**Senegal**
+
+<img width="300" height="300" src="media/photos/flags/sn.svg">
+
+**Capital:** [Dakar](https://www.google.com/maps/search/Dakar)
+</br>
+**Official Language:** French
+</br>
+**Currency:** 	West African CFA franc (XOF)
+</br>
+**Population:** 15,854,323 (2018)
+</br>
+**Country Code (cioc):** SEN
+</br>
+**Region:** Africa
+
+**Top Attractions:**  La Maison des Esclaves, Reserve De Bandia, Lago Rosa, Mosque of the Divinity
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293830-Activities-Senegal.html)
 
 ---
 
@@ -3280,6 +3331,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
 <br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
 
+---
+
+
+### <a name="somalia"></a>**Somalia**
+
+<img width="300" height="300" src="media/photos/flags/so.svg">
+
+**Capital:** [Mogadishu](https://www.google.com/maps/search/Mogadishu)
+</br>
+**Official Languages:** Somali, Arabic
+</br>
+**Currency:** 	Somali shilling (SOS)
+</br>
+**Population:** 15,893,219 (2020)
+</br>
+**Country Code (cioc):** SOM
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Liido Beach Somalia, The Tomb of the Unknown Soldier, Mogadishu Cathedral
+<br>Source [Tripadvisor](https://www.tripadvisor.com.gr/Attractions-g294439-Activities-Somalia.html)
+
 
 ---
 
@@ -3302,6 +3375,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  The Alhambra and Generalife Gardens, Barcelona's Sagrada Familia and Gaudi Sites, The Great Mosque of Cordoba, The Prado and Paseo del Artes, San Lorenzo de El Escorial
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/spain-e.htm)
 
+---
+
+### <a name="sweden"></a>**Sweden**
+
+<img width="300" height="300" src="media/photos/flags/se.svg">
+
+**Capital:** [Stockholm](https://www.google.com/maps/search/Stockholm)
+</br>
+**Official Language:** Swedish
+</br>
+**Currency:** Swedish krona (SEK)
+</br>
+**Population:** 10,402,070 (2021)
+</br>
+**Country Code (cioc):** SWE
+</br>
+**Region:** Europe
+
+**Top Attractions:**  Vasa Museum, Gamla Stan, Drottningholm Palace, Stockholm Archipelago, Kiruna and the Ice Hotel 
+<br>Source [PlanetWare] (https://www.planetware.com/tourist-attractions/sweden-s.htm)
 
 ---
 
@@ -6543,6 +6636,18 @@ source [wikipedia](https://en.wikipedia.org/wiki/Shinto)
 Sikhism (/skzm/) or Sikhi (Punjabi: Sikkh, [skhi], from Sikh, 'disciple','seeker', or 'learner') is a religion that emerged at the end of the 15th century CE in the Punjab region of the Indian subcontinent, present-day Pakistan. It is the world's fifth-largest organized religion, with around 25–30 million adherents (known as Sikhs) as of the early twenty-first century.The spiritual teachings of Guru Nanak (1469–1539), the faith's first guru, and the nine Sikh gurus who followed him, formed Sikhism. Gobind Singh (1666–1708), the tenth guru, named the Sikh scripture Guru Granth Sahib as his successor, putting the line of human gurus to a conclusion and establishing the scripture as the 11th and final eternally alive guru, a religious spiritual/life guide for Sikhs. Guru Nanak taught that the ideal man "establishes union with God, knows His Will, and carries out that Will" through a "active, creative, and practical life" of "truthfulness, fidelity, self-control, and purity," and that the ideal man "establishes union with God, knows His Will, and carries out that Will." The sixth Sikh Guru, Guru Hargobind (1606–1644), created the concept of the miri ('political'/'temporal') and piri ('spiritual') realms coexisting.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Sikhism)
+
+### <a name="Bahá’í_"></a>**Bahá’í**
+
+The Bahá Faith is a relatively recent religion that teaches that all religions have equal value and that all people are one. It was founded in the 19th century by Baháu'lláh, and it grew up in Iran and other regions of the Middle East, where it has been persecuted ever since. Over five million Bahás, or followers of the religion, are thought to be scattered across most of the world's countries and territories.The religion is led by three central figures: the Báb (1819–1850), a herald who taught that God would soon send a prophet in the same way that Jesus or Muhammad did, and who was executed by Iranian authorities in 1850; Baháu'lláh (1817–1892), who claimed to be that prophet in 1863 and spent most of his life in exile and imprisonment; and his son, Abdu'l-Bahá (1844–1921), who was released from After Abdu'l-death Bahá's in 1921, Shoghi Effendi (1897–1957) took over as the religion's leader. Bahás elect Spiritual Assemblies to oversee the religion's affairs on an annual basis at the local, regional, and national levels.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith)
+
+### <a name="Zoroastrianism_"></a>**Zoroastrianism**
+
+Zoroastrianism, also known as Zarautra in Avestan or Zartosht in Persian, is an Iranian religion and one of the world's oldest continually practiced organized faiths. It is based on the teachings of the Iranian-speaking prophet Zoroaster (also known as Zartosht in Persian).  It contains a dualistic cosmology of good and evil based on a monotheistic ontology and an eschatology that predicts the final victory of good over evil.The supreme being of Zoroastrianism is Ahura Mazda (lit. 'Lord of Wisdom,' an uncreated and loving divinity of wisdom. Zoroastrianism's distinctive traits, such as monotheism, messianism, belief in free choice and after-death judgment, and conceptions of heaven, hell, angels, and devils, among other notions, may have impacted other religious and philosophical systems, especially the Abrahamic religions.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Zoroastrianism)
 
 ---
 
