@@ -148,7 +148,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
-  - [United States](#usa)
+  - [United States](#usa) - Click [here](#states) to see the States
   - [Uruguay](#uruguay)
   - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
@@ -372,6 +372,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Mount Kilimanjaro](#kilimanjaro)
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
+  - [K2](#K2)
 
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
@@ -384,7 +385,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Petra](#petra_city)
     - [Taj Mahal](#taj_mahal)
 
-- ### [Facts About Space](#facts)
+- ### [Facts About Space](#facts_2)
   - [#1](#fact1)
   - [#2](#fact2)
   - [#3](#fact3)
@@ -2558,7 +2559,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iceland"></a>**Iceland**
 
-<img width="300" height="300" src="media/photos/flags/ice.svg">
+<img width="300" height="300" src="media/photos/flags/is.svg">
 
 **Capital:** [Reykjavik](https://www.google.gr/maps/place/%CE%A1%CE%AD%CE%B9%CE%BA%CE%B9%CE%B1%CE%B2%CE%B9%CE%BA,+%CE%99%CF%83%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1/@64.1335484,-21.9224815,12z/data=!3m1!4b1!4m5!3m4!1s0x48d674b9eedcedc3:0xec912ca230d26071!8m2!3d64.146582!4d-21.9426354)
 </br>
@@ -4911,37 +4912,49 @@ Source [crossway](https://www.crossway.org/books/from-chaos-to-cosmos-ebook/)
 ### <a name="movie_1"></a>**The Midnight Sky (2020)**
 
 <img width="500" height="350" src="media\photos\movies\midnightsky.jpg">
-A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
+<br>A lone scientist in the Arctic races to reach a crew of astronauts with a warning not to return to Earth in the aftermath of a worldwide disaster.
+
+---
 
 ### <a name="movie_2"></a>**Gravity (2013)**
 
 <img width="500" height="350" src="media\photos\movies\gravity.jpg">
-Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
+<br>Dr Ryan Stone, an engineer, and Matt Kowalski, an astronaut, are hit by high-speed space debris while on a space mission. Stone, the lone survivor, rises to the challenge as the situation worsens. 
+
+---
 
 ### <a name="movie_3"></a>**Interstellar (2014)**
 
 <img width="500" height="350" src="media/photos/movies/interstellar.jpg">
-In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
+<br>In order to assure humanity's existence, a group of explorers journey through a wormhole in space. 
+
+---
 
 ### <a name="movie_4"></a>**Europa Report (2013)**
 
 <img width="500" height="350" src="media/photos/movies/europa_report.jpg">
-A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
+<br>A privately sponsored mission to seek for life on Jupiter's fourth largest moon is launched by an international crew of astronauts. 
+
+---
 
 ### <a name="movie_5"></a>**Apollo 13 (1995)**
 
 <img width="500" height="350" src="media/photos/movies/apollo13.jpg">
-The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
+<br>The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apollo 13, which was to be America's fifth crewed journey to the Moon and the third to land. An on-board explosion depletes their spacecraft's oxygen supply and electrical power en route, forcing NASA's flight controllers to abort the Moon landing and refocus the mission on finding scientific and mechanical solutions to safely return the three men home. 
+
+---
 
 ### <a name="movie_6"></a>**Ad Astra (2019)**
 
 <img width="500" height="350" src="media/photos/movies/adastra.jpg">
-Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
+<br>Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
+
+---
 
 ### <a name="movie_7"></a>**Armageddon (1998)**
 
 <img width="500" height="350" src="media/photos/movies/armageddon.jpg">
-After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
+<br>After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
 
 ---
 
@@ -5705,7 +5718,7 @@ owened by [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 **Description**
 
-The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
+The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
@@ -5719,13 +5732,30 @@ owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 **Description**
 
-Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. [3] [1] It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border[4], and the peaks West and Kangbachen in Nepal's Taplejung District.
+Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border, and the peaks West and Kangbachen in Nepal's Taplejung District.
 
 Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
 
 Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 ---
+
+### <a name="K2"></a>**K2**
+
+<img width="500" height="300" src="media\photos\mountains\K2.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+**Description**
+
+K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest (at 8,849 metres (29,032 ft)). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in a China-administered territory of the Kashmir region included in the Taxkorgan Tajik Autonomous County of Xinjiang.
+
+K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit
+
+Source [wiki](https://en.wikipedia.org/wiki/K2)
+
+---
+
 
 ## <a name="wonders_of_the_world"></a>**_Wonders of the World_**
 
@@ -5845,7 +5875,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 ---
 
-## <a name="facts"></a> **Facts about Space**
+## <a name="facts_2"></a> **Facts about Space**
 ---
 ### <a name="fact1"></a>**1. SPACE IS COMPLETELY SILENT**
 
@@ -5886,6 +5916,8 @@ Venus has a slow axis rotation which takes 243 Earth days to complete its day. T
 ### <a name="fact10"></a>**10. THERE IS A PLANET MADE OF DIAMONDS**
 
 There’s a planet made of diamonds twice the size of earth The "super earth," aka 55 Cancri e, is most likely covered in graphite and diamond.  Paying a visit to that planet would probably pay for the $12 million dollar space suit needed to get there!
+
+Source [ASU Center for Child Well-Being](https://childwellbeing.asu.edu/SpaceFacts)
 
 ---
 
@@ -6219,7 +6251,7 @@ source [britannica](https://www.britannica.com/topic/Druze)
 
 <img width="600" height="435" src="media/photos/volcanos/Sangay.webp">
 
-Sangay (also known as Macas, Sanagay, or Sangai)[7] is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
+Sangay (also known as Macas, Sanagay, or Sangai) is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Sangay)
 
@@ -6239,9 +6271,9 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
 
 <img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
 
-Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.[3]
+Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.
 
-The island's area is 12.6 square kilometres (4.9 sq mi),[4] on the upper third of the volcano that is above sea level and making an island.[5] Its population was about 500 as of 2016.[6] The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+The island's area is 12.6 square kilometres (4.9 sq mi), on the upper third of the volcano that is above sea level and making an island. Its population was about 500 as of 2016. The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
@@ -6275,4 +6307,4 @@ The glow of the volcano is rumored to be what attracted Captain James Cook on th
 
 Today, the mountain is a sacred area for the John Frum cargo cult. Members of the cult revere John Frum, a deified messenger who foretold the bringing of wealth to the island by American forces, and believe he resides in Mount Yasur with his countrymen.
 
-Source[livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
+Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
