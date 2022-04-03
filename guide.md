@@ -427,7 +427,7 @@ Source [cambridge.org](https://dictionary.cambridge.org/dictionary/english/cosmo
 
 - The philosopher Pythagoras first used the term kosmos (Ancient Greek: κόσμος, Latinized kósmos) for the order of the universe. The cosmos is another name for the Universe. The cosmos, and our understanding of the reasons for its existence and significance, are studied in cosmology – a broad discipline covering scientific, religious or philosophical aspects of the cosmos and its nature. Religious and philosophical approaches may include the cosmos among spiritual entities or other matters deemed to exist outside our physical universe.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Cosmos)
+Source [wiki](https://en.wikipedia.org/wiki/Cosmos)
 
 ---
 
@@ -1076,7 +1076,7 @@ It consists of Antigua and Barbuda, two large islands separated by around 40 kil
 The permanent population is estimated to be around 97,120 (2019), with 97 percent of the inhabitants residing on Antigua.
 Antigua's capital and main port and city is St. John's, whereas Barbuda's largest town is Codrington.
 Antigua and Barbuda are located near to other in the Leeward Islands, which are part of the Lesser Antilles, and are around 17 degrees north of the equator.
-<br>Source [Wiki](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)
+<br>Source [wiki](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)
 
 ---
 
@@ -1254,7 +1254,8 @@ In addition, a structure, shped as cloud consiated of 800,000 crystal offers an 
 
 * 10. Ars Electronica Center in Linz, Upper Austria
 The Ars Electronica Center in Linz is an interactive museum, one of its kind,  that introduces visitors to STEM and art artifacts . It is expanded across 5,100 m2 (56,000 sqft) LED façade, offering a nightly spectacle.
-Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
+
+<br>Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-and-culture/top-sights)
 
 ---
 
@@ -3556,7 +3557,7 @@ Dysnomia is Eris' only big known moon. Eris orbited the Sun at a distance of 96.
 
 Eris was initially classified as the Solar System's tenth planet by NASA, because it seemed to be bigger than Pluto. This, together with the possibility of future discoveries of objects of similar size, prompted the International Astronomical Union (IAU) to define the term planet for the first time. Eris, along with Pluto, Ceres, Haumea, and Makemake, is classified as a "dwarf planet" by the International Astronomical Union (IAU), bringing the total number of known planets in the Solar System to eight, the same as before Pluto's discovery in 1930. Eris was very slightly smaller than Pluto, which was assessed by New Horizons as 2,377 4 kilometers (1,477 ± 2 mi) in July 2015, based on observations of a stellar occultation by it in 2010.
 
-Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
+Source [wiki](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 ---
 
@@ -3564,7 +3565,7 @@ Source [wikipedia](<https://en.wikipedia.org/wiki/Eris_(dwarf_planet)>)
 
 <img width="500" height="420" src="media\photos\planets\haumea.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Haumea)
+owned by [wiki](https://en.wikipedia.org/wiki/Haumea)
 
 <br>
 
@@ -3574,7 +3575,7 @@ Haumea is a dwarf planet that it is located in the Kuiper Belt beyond the orbit 
 
 Haumea also has two known moons. The first one is Namaka (the inner moon) and the second one is Hi'iaka (the outter moon). They took their names from the mythological daughters of Haumea.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Haumea)
+Source [wiki](https://en.wikipedia.org/wiki/Haumea)
 
 ---
 
@@ -3582,7 +3583,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Haumea)
 
 <img width="500" height="375" src="media\photos\planets\makemake.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Makemake)
+owned by [wiki](https://en.wikipedia.org/wiki/Makemake)
 
 <br>
 
@@ -3598,7 +3599,7 @@ Combining the detection in infrared by the Spitzer Space Telescope and Herschel 
 
 Like Pluto, Makemake appears red in the visible spectrum, and significantly redder than the surface of Eris (see colour comparison of TNOs). The near-infrared spectrum is marked by the presence of the broad methane (CH4) absorption bands. Methane is observed also on Pluto and Eris, but its spectral signature is much weaker.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Makemake)
+Source [wiki](https://en.wikipedia.org/wiki/Makemake)
 
 ---
 
@@ -3628,7 +3629,7 @@ According to NASA, this exoplanet is 33 percent larger than Earth and orbits its
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-image source [wikipedia](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
+image source [wiki](https://commons.wikimedia.org/wiki/File:Kepler-452b_with_Earth.png)
 
 **Description**
 
@@ -3657,7 +3658,7 @@ According to NASA Exoplanet Exploration, Proxima Centauri b is only four light-y
 
 owned by [space.com](https://www.space.com/30172-six-most-earth-like-alien-planets.html)
 
-image source [Wikipedia](https://el.wikipedia.org/wiki/TRAPPIST-1e)
+image source [wiki](https://el.wikipedia.org/wiki/TRAPPIST-1e)
 
 **Description**
 
@@ -3690,7 +3691,7 @@ We will probably never reach another galaxy in our lifetime but [Hubble Space Te
 
 <img width="500" height="400" src="media/photos/galaxies/Andromeda.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Andromeda_Galaxy#/media/File:Andromeda_Galaxy_560mm_FL.jpg)
 
 **Description**
 
@@ -3705,7 +3706,7 @@ The virial mass of the Andromeda Galaxy is of the same order of magnitude as tha
 
 <img width="500" height="350" src="media/photos/galaxies/Cigar.jpg">
 
-owned by [wikipedia.com](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
+owned by [wiki](https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/M82_HST_ACS_2006-14-a-large_web.jpg/1280px-M82_HST_ACS_2006-14-a-large_web.jpg)
 
 **Description**
 
@@ -3720,7 +3721,7 @@ The starburst activity is thought to have been triggered by interaction with nei
 
 <img width="500" height="350" src="media/photos/galaxies/CosmosRedshift7.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Cosmos_Redshift_7#/media/File:Eso1524aArtist’s_impression_of_CR7_the_brightest_galaxy_in_the_early_Universe.jpg)
 
 **Description**
 
@@ -3735,7 +3736,7 @@ CR7 shows some of the expected signatures of Population III stars i.e. the first
 
 <img width="500" height="350" src="media/photos/galaxies/Hoags_object.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Hoag%27s_Object#/media/File:Hoag's_object.jpg)
 
 **Description**
 
@@ -3765,7 +3766,7 @@ Arp 148 was imaged by the Hubble Space Telescope as part of a survey of what are
 
 <img width="500" height="350" src="media/photos/galaxies/milkyway.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Milky_Way#/media/File:ESO-VLT-Laser-phot-33a-07.jpg)
 
 **Description**
 
@@ -3778,7 +3779,7 @@ The Milky Way is the galaxy that includes our Solar System, with the name descri
 
 <img width="500" height="350" src="media\photos\galaxies\Triangulum_Galaxy.jpg">
 
-owned by [wiki.com](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
+owned by [wiki](https://en.wikipedia.org/wiki/Triangulum_Galaxy)
 
 **Description**
 
@@ -3930,7 +3931,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Ganymede_(moon))
 
 <img width="500" height="350" src="media/photos/spaceflight/SpaceX_Crew_Dragon.jpg">
 
-owned by [wiki.com](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
+owned by [wiki](<https://en.wikipedia.org/wiki/File:SpaceX_Crew_Dragon_(More_cropped).jpg>)
 
 **Description**
 
@@ -3979,7 +3980,7 @@ As the many benefits of space activity have become evident, other countries have
 
 <img width="476" height="480" src="media/photos/stars/Antares.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Antares)
+owned by [wiki](https://en.wikipedia.org/wiki/Antares)
 
 **Description**
 
@@ -3993,7 +3994,7 @@ Antares, also known as Alpha Scorpii, belongs to the constellation of Scorpius a
 
 <img width="358" height="550" src="media/photos/stars/Betelgeuse.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Betelgeuse)
+owned by [wiki](https://en.wikipedia.org/wiki/Betelgeuse)
 
 **Description**
 
@@ -4024,7 +4025,7 @@ Video [Sun 101 | National Geographic](https://www.youtube.com/watch?v=2HoTK_Gqi2
 
 <img width="600" height="350" src="media/photos/stars/Polaris.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Polaris#/media/File:Integrated_Flux_Nebula_Surrounding_Polaris_-_Kush_Chandaria.jpg)
 
 **Description**
 
@@ -4037,7 +4038,7 @@ Polaris (also known as North Star) is a star in the northern circumpolar constel
 
 <img width="480" height="480" src="media/photos/stars/Vega.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/Vega)
+owned by [wiki](https://en.wikipedia.org/wiki/Vega)
 
 **Description**
 
@@ -4334,7 +4335,7 @@ The ocean's currents are mainly controlled by the monsoon. Two large gyres, one 
 As the youngest of the major oceans, the Indian Ocean has active spreading ridges that are part of the worldwide system of mid-ocean ridges. In the Indian Ocean these spreading ridges meet at the Rodrigues Triple Point with the Central Indian Ridge, including the Carlsberg Ridge, separating the African Plate from the Indian Plate; the Southwest Indian Ridge separating the African Plate from the Antarctic Plate; and the Southeast Indian Ridge separating the Australian Plate from the Antarctic Plate. The Central Indian Ridge is intercepted by the Owen Fracture Zone. Since the late 1990s, however, it has become clear that this traditional definition of the Indo-Australian Plate cannot be correct; it consists of three plates — the Indian Plate, the Capricorn Plate, and Australian Plate — separated by diffuse boundary zones. Since 20 Ma the African Plate is being divided by the East African Rift System into the Nubian and Somalia plates.
 
 <br> Source [britannica](https://www.britannica.com/place/Indian-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Indian_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Indian_Ocean)
 
 ---
 
@@ -4355,7 +4356,7 @@ The volume of the Pacific Ocean, representing about 50.1 percent of the world's 
 The climate patterns of the Northern and Southern Hemispheres generally mirror each other. The trade winds in the southern and eastern Pacific are remarkably steady while conditions in the North Pacific are far more varied with, for example, cold winter temperatures on the east coast of Russia contrasting with the milder weather off British Columbia during the winter months due to the preferred flow of ocean currents.
 
 <br> Source [britannica](https://www.britannica.com/place/Pacific-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Pacific_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Pacific_Ocean)
 
 ---
 
@@ -4378,7 +4379,7 @@ The Southern Ocean, geologically the youngest of the oceans, was formed when Ant
 With a northern limit at 60°S, the Southern Ocean differs from the other oceans in that its largest boundary, the northern boundary, does not abut a landmass (as it did with the first edition of Limits of Oceans and Seas). Instead, the northern limit is with the Atlantic, Indian and Pacific Oceans.
 
 <br> Source [britannica](https://www.britannica.com/place/Southern-Ocean)
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Southern_Ocean)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Southern_Ocean)
 
 ---
 
@@ -4396,7 +4397,7 @@ Astronomer Frank Drake took on the first attempt of extraterrestrial life(extrat
 
 <img width="750" height="300" src="media/photos/extraterrestrial_life/Drake_equation.jpg">
 
-owned by [wikipedia.com](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
+owned by [wiki](https://wikimedia.org/api/rest_v1/media/math/render/svg/08459525b4c05af9b9e1748406e26ad869d9462d)
 
 When Frank Drake first created this equation, most of the terms were completely unknown. Nowadays, we have a clear picture only of the first three terms. The number of possible extraterrestrial civilizations is symbolized by the letter "N". The first term stands for the annual rate of star birth and is symbolized be the letter "R\*" (approximately seven stars per year for our galaxy). The second term (fp) is the amount of stars which have planets. Nowdays, it is known that almost every star has planets, so we use number one, that is 100%. The term "ne" stands for the average number of planets per star, which are potentialy habitable (approximately 20% or 0,2). "fl" stands for the amount of planets in the habitable zone, where life exists indeed. Considering the only known example, life in Earth occured quite fast, since the circumstances became appropriate. Thus, some scientist put a number close to one (100% possibility of life occurrence) for this term. Some others are less optimistic and put smaller numbers. The next term, "fi" stands for the amount of planets with life form, which develops an intelligence equivalent to human's or higher. Most optimistic researchers state that since the moment life is born on a planet, higher intelligence will be developed rapidly, when others consider inteligence a rare phenomen. The term "fc" stands for the ammount of civilizations which develop communication technology and send messages to space. We don't know if other hypothetical civilization are interested to communicate. Perhaps communication to space is a singularity of human civilization. The last term "L" stands for the time period in which a civilization can be detected. That is the time in which civilizations emit detectable siagnals in space. "L" seems to be the most critical term, but is still unknown. Frank drake himself, by filling the numbers he knew and by guessing the rest gave a number between one thousend and one million civilizations in our galaxy. There comes however the million dollar question: If the ammount of extraterrestial civilizations is so big, why cant we find them?
 
@@ -4408,7 +4409,7 @@ The Kardashev scale is a method of measuring a civilization's level of technolog
 
 <img width="800" height="309" src="media/photos/extraterrestrial_life/Kardashev_scale.png">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Consommations_%C3%A9nerg%C3%A9tiques_des_trois_types_de_l%27%C3%A9chelle_de_Kardashev.svg)
 
 According to the Kardashev Scale, civilizations can be divides into three basic categories, based on the amount of energy they are able to use.
 
@@ -4513,7 +4514,7 @@ These astrological signs make up a celestial coordinate system, or more specific
 
 <br>
 
-Source [Wiki](https://en.wikipedia.org/wiki/Zodiac)
+Source [wiki](https://en.wikipedia.org/wiki/Zodiac)
 
 ---
 
@@ -4830,7 +4831,7 @@ Cosmos is a collection of three science documentary television series presented 
 ### <a name="cosmos_1"></a>\*Cosmos: A Personal Voyage (1980)\*\*
 
 <img width="500" height="350" src="media\photos\series\cosmos1.jpg">
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:CosmosTC.jpg)
 
 Astronomer Carl Sagan leads us on an engaging guided tour of the various elements and cosmological theories of the universe.
 
@@ -4846,7 +4847,7 @@ source [imdb](https://www.imdb.com/title/tt0081846/)
 
 <img width="500" height="350" src="media\photos\series\cosmos2.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Cosmos_spacetime_odyssey_titlecard.jpg)
 
 
 
@@ -4864,7 +4865,7 @@ source [imdb](https://www.imdb.com/title/tt2395695/)
 
 <img width="500" height="350" src="media\photos\series\cosmos3.jpg">
 
-owned by [wikipedia.com](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/File:Cosmos_Possible_Worlds_title_card.jpg)
 
 Following the wildly successful "Cosmos: A Spacetime Odyssey," Neil deGrasse Tyson returns as host to translate more revelations of science into a lavish transporting experience, taking audiences on a series of spiritual voyages of exploration. The show reveals previously uncharted realms, including lost worlds, worlds yet to come, and the worlds that humans may one day inhabit. Ann Druyan, original creative collaborator to Carl Sagan, whose iconic docuseries "Cosmos" provided inspiration for this series, serves as executive producer alongside Seth MacFarlane.
 
@@ -4888,7 +4889,7 @@ source [imdb](https://www.imdb.com/title/tt11170862/)
 
 Artist: Elton John
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
+image source [wiki](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 
 
@@ -4899,7 +4900,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Rocket_Man_(song))
 
 Artist: David Bowie
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
+image source [wiki](https://en.wikipedia.org/wiki/Space_Oddity)
 
 
 
@@ -4910,7 +4911,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Space_Oddity)
 
 Artist: Frank Sinatra
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
+image source [wiki](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 
 
@@ -4920,7 +4921,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Fly_Me_to_the_Moon)
 
 Artist: R.E.M.
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
+image source [wiki](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 
 
@@ -4930,7 +4931,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Man_on_the_Moon_(song))
 
 Artist: The Beatles
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
+image source [wiki](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 
 
@@ -4941,7 +4942,7 @@ image source [Wikipedia](https://en.wikipedia.org/wiki/Across_the_Universe)
 
 Artist: The Beatles
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
+image source [wiki](https://en.wikipedia.org/wiki/Here_Comes_the_Sun)
 
 
 
@@ -4967,7 +4968,7 @@ Arist: Muse
 
 Album: Black Holes And Revelations
 
-image source [Wikipedia](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
+image source [wiki](https://en.wikipedia.org/wiki/Black_Holes_and_Revelations)
 
 
 ---
@@ -4995,7 +4996,7 @@ Hamilton is respnsible for publishing  more than 130 papers, proceedings, and re
 
 Margaret Hamilton received the Presidential Medal of Freedom from the president of America at the time, Barack Obama, for her contribution to the development of on-board flight software for NASA's Apollo Moon missions, on November 22, 2016. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
+source [wiki](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer))
 
 ---
 
@@ -5006,7 +5007,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_eng
 Nelson Rolihlahla Mandela (July 18, 1918 - December 5, 2013) was a South African anti-apartheid revolutionary and political leader who served as South Africa's first president from 1994 to 1999. He was the country's first black head of state and the first to be elected in a fully representative democratic election. His government focused on eradicating the legacy of apartheid by combating institutionalised racism and promoting racial reconciliation. Ideologically, he is an African nationalist and socialist. He was president of the African National Congress party (ANC) from 1991 to 1997.
 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
+source [wiki](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 ---
 
@@ -5016,7 +5017,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Nelson_Mandela)
 
 Martin Luther King Jr. (born Michael King Jr.; January 15, 1929 – April 4, 1968) was an American Baptist minister and activist who became the most visible spokesman and leader in the civil rights movement from 1955 until his assassination in 1968. An African American church leader and the son of early civil rights activist and minister Martin Luther King Sr., King advanced civil rights for people of color in the United States through nonviolence and civil disobedience, inspired by his Christian beliefs and the nonviolent activism of Mahatma Gandhi. His role in leading the cause of civil rights in the South differed in style from the previous accommodationist stances represented by Booker T. Washington and black-and-tan faction leader Perry Wilbon Howard II. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
+source [wiki](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 ---
 
@@ -5026,7 +5027,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Martin_Luther_King_Jr.)
 
 Albert Einstein (March 14, 1879, Ulm, Württemberg, Germany—April 18, 1955, Princeton, New Jersey, United States) was a German-born physicist who developed the special and general theories of relativity and was awarded the Nobel Prize in Physics in 1921 for his explanation of the photoelectric effect. Albert Einstein is often known as the greatest physicist of the twentieth century. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
+source [wiki](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 ---
 
@@ -5036,7 +5037,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Albert_Einstein)
 
 Stephen William Hawking CH CBE FRS FRSA (8 January 1942 – 14 March 2018) was an English theoretical physicist, cosmologist, and author who, at the time of his death, was director of research at the Centre for Theoretical Cosmology at the University of Cambridge.Between 1979 and 2009, he was the Lucasian Professor of Mathematics at the University of Cambridge.Hawking was born in Oxford, into a family of physicians. In October 1959, at the age of 17, he began his university education at University College, Oxford, where he received a first-class BA degree in physics. In October 1962, he began his graduate work at Trinity Hall, Cambridge, where in March 1966, he obtained his PhD degree in applied mathematics and theoretical physics, specialising in general relativity and cosmology. In 1963, Hawking was diagnosed with an early-onset slow-progressing form of motor neurone disease (amyotrophic lateral sclerosis – ALS, for short) that gradually, over the decades, paralysed him.After the loss of his speech, he communicated through a speech-generating device initially through use of a handheld switch, and eventually by using a single cheek muscle.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
+source [wiki](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 ---
 
@@ -5046,7 +5047,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Stephen_Hawking)
 
 Neil Alden Armstrong (August 5, 1930 – August 25, 2012) was an American astronaut, aeronautical engineer, and the first person to walk on the Moon. He was also a naval aviator, test pilot, and university professor.Armstrong was born and raised in Wapakoneta, Ohio. A graduate of Purdue University, he studied aeronautical engineering his college tuition was paid for by the U.S. Navy under the Holloway Plan. He became a midshipman in 1949 and a naval aviator the following year. He saw action in the Korean War, flying the Grumman F9F Panther from the aircraft carrier USS Essex. In September 1951, while making a low bombing run, Armstrong's aircraft was damaged when it collided with an anti-aircraft cable, strung across a valley, which cut off a large portion of one wing. Armstrong was forced to bail out. After the war, he completed his bachelor's degree at Purdue and became a test pilot at the National Advisory Committee for Aeronautics (NACA) High-Speed Flight Station at Edwards Air Force Base in California. He was the project pilot on Century Series fighters and flew the North American X-15 seven times. He was also a participant in the U.S. Air Force's Man in Space Soonest and X-20 Dyna-Soar human spaceflight programs.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
+source [wiki](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 ---
 
@@ -5056,7 +5057,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Neil_Armstrong)
 
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
-source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
+source [wiki](https://en.wikipedia.org/wiki/Alan_Turing)
 
 ---
 
@@ -5066,7 +5067,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Alan_Turing)
 
 Ludwig van Beethoven was a German composer and pianist who lived from 17 December 1770 to March 26, 1827. Beethoven is regarded as one of the most admired composers in Western music history; his works are among the most often performed in the classical music genre, representing the transition from the Classical to the Romantic periods. 
 
-source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
+source [wiki](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 ---
 
@@ -5076,7 +5077,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Ludwig_van_Beethoven)
 
 Margaret Thatcher (1925-2013), the United Kingdom’s first female prime minister, served from 1979 until 1990. Amid her residency, she diminished the impact of exchange unions, privatized certain businesses, scaled back public benefits, and changed the terms of political debate, much like her companion and ideological partner, U.S. President Ronald Reagan. A Soviet journalist dubbed her the "Iron Lady", a nickname that became associated with her uncompromising politics and leadership style. She contradicted Soviet communism and battled a war to preserve control of the Falkland Islands.
 
-source [history,](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
+source [history](https://www.history.com/topics/british-history/margaret-thatcher) [wikipedia](https://en.wikipedia.org/wiki/Margaret_Thatcher)
 
 ---
 
@@ -5086,7 +5087,7 @@ source [history,](https://www.history.com/topics/british-history/margaret-thatch
 
 Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. He is the co-founder of Neuralink and OpenAI, as well as the founder, CEO, and Chief Engineer of SpaceX. He is also the CEO and Product Architect of Tesla, Inc., as well as the founder, CEO, and Chief Engineer of SpaceX. According to both the Bloomberg Billionaires Index and the Forbes real-time billionaires list, Musk is the world's wealthiest individual, with an estimated net worth of roughly US$270 billion as of March 2022.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
+source [wiki](https://en.wikipedia.org/wiki/Elon_Musk)
 
 ---
 
@@ -5145,7 +5146,7 @@ Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/unive
 
 The photo was taken on April 1, 1995 and it was declared as one of the top ten photographs from Hubble by [Space.com](https://www.space.com/). The astronomers that are responsible for the photgraph's capture were Jeff Hester and Paul Scowen. The same region of the Eagle Nebula was rephotographed by **ESA's Herschel Space Observatory in 2011** and by the **Hubble Telescope in 2014** with a newer camera. The photo depicted above is the 2014 version of the photograph.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
+Source: [wiki](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
 ---
 
@@ -5158,7 +5159,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Pillars_of_Creation#)
 
 **The HXDF** contains about 5,500 galaxies, the oldest ones that are seen, **are in the state they were 13.2 billion years ago**. The galaxies that are dimmer, are one ten-billionth the brightness of what the human eye can see. The red galaxies in the image are the remainings of galaxies after big collisions during their oldest years. Many of the smaller galaxies in the image are very young, and eventually have developed to bigger galaxies.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
+Source: [wiki](https://en.wikipedia.org/wiki/Hubble_Ultra-Deep_Field)
 
 ---
 
@@ -5171,7 +5172,7 @@ It mainly shows the Earth from the Mediterranean Sea to Antarctica. This was the
 
 The photograph, taken on **December 7, 1972**, is one of the most famous and distributed photographs in existence. The astronauts had the Sun above them when they took the image. To the astronauts, the Earth had the appearance and size of a glass marble, that's why the photograph was called The Blue Marble.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
+Source: [wiki](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
 ---
 
@@ -5184,7 +5185,7 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/The_Blue_Marble)
 
 Voyager 1 had completed its primary goal and was leaving our Solar System. It was commanded by NASA to turn its camera and take one last photograph of Earth, the request came from the astronomer Carl Sagan. The phrase "Pale Blue Dot" was given by Sagan in his thoughts on the photograph's importance.
 
-Source: [Wikipedia](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
+Source: [wiki](https://en.wikipedia.org/wiki/Pale_Blue_Dot)
 
 ---
 
@@ -5292,7 +5293,7 @@ Copa América, formerly South American Championship of Nations, is a quadrennial
 
 The UEFA Champions League (abbreviated as UCL) is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-tier European clubs. It is decided by a round-robin group stage to qualify for a double-leg knockout format and a single leg final. It is one of the most prestigious football tournaments in the world, as well as the most prestigious club competition in European football. It is played by the national league champions (and, in some cases, one or more runners-up) of their respective national associations.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Champions_League)
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Champions_League)
 
 ---
 
@@ -5302,7 +5303,7 @@ The UEFA Champions League (abbreviated as UCL) is an annual club football compet
 
 The UEFA Europa League (also known as UEL) is an annual football club competition held by the Union of European Football Associations (UEFA) for eligible European football clubs since 1971. It is Europe's second-tier club football competition, ranking below the UEFA Champions League and above the UEFA Europa League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Europa_League)
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Europa_League)
 
 ---
 
@@ -5312,7 +5313,7 @@ The UEFA Europa League (also known as UEL) is an annual football club competitio
 
 The UEFA Europa Conference League (abbreviated as UECL) is an annual football club competition organized by the Union of European Football Associations (UEFA) for eligible European football clubs. It is also known as the UEFA Conference League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions. It was introduced for the 2021–22 season, and it is the third tier of European club football after the Champions League and the Europa League. The competition primarily features teams from UEFA member associations with lower rankings.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League)
+<br> Source [wiki](https://en.wikipedia.org/wiki/UEFA_Europa_Conference_League)
 
 ---
 
@@ -5407,13 +5408,13 @@ Invented by James Naismith, a Canadian teaching at a school in the US in the lat
 
 <img width="300" height="450" src="media/photos/Sports/American_Football.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/American_football#/media/File:Larry_Fitzgerald_catches_TD_at_2009_Pro_Bowl.jpg)
 
 **Description**
 
 American football, referred to simply as football in the United States and Canada, and also known as gridiron, is a team sport played by two teams of eleven players on a rectangular field with goalposts at each end. The offense, the team with possession of the oval-shaped football, attempts to advance down the field by running with the ball or passing it, while the defense, the team without possession of the ball, aims to stop the offense's advance and to take control of the ball for themselves. 
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/American_football)
+<br> Source [wiki](https://en.wikipedia.org/wiki/American_football)
 
 ---
 
@@ -5458,7 +5459,7 @@ owned by [bleacherreport](https://bleacherreport.com/articles/2656664-ranking-th
 
 Handball (also known as team handball, European handball or Olympic handball) is a team sport in which two teams of seven players each (six outcourt players and a goalkeeper) pass a ball using their hands with the aim of throwing it into the goal of the other team. A standard match consists of two periods of 30 minutes, and the team that scores more goals wins. 
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Handball)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Handball)
 
 ---
 
@@ -5493,26 +5494,26 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 
 <img width="550" height="303" src="media/photos/mountains/Aconcagua.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Aconcagua)
+owened by [wiki](https://en.wikipedia.org/wiki/Aconcagua)
 
 **Description**
 
 Mount Aconcagua is the highest peak in South America and the Western Hemisphere with a precise elevation of 6,961 metres (22,838 ft). It is very close to the borders of Argentina and to the city of Mendoza. The mountain has two summits, the north and the south. The southern summit is higher than the nortern and it was first reached in 1897 by Matthias Zurbriggen. Additionally, the mountain including its surroundings belong to the Aconcagua Provincial Park.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Aconcagua)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Aconcagua)
 
 ---
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Everest)
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
 
 **Description**
 
 Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Everest)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
 
 ---
 
@@ -5520,13 +5521,13 @@ Mount Everest (also known as Chomolungma) is the highest mountain in the world w
 
 <img width="550" height="299" src="media/photos/mountains/Kilimanjaro.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
 **Description**
 
 Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, is Africa's highest peak. The massif stretches 50 miles (80 kilometers) east-west and is made up of three main extinct volcanoes, the youngest and highest of which includes a central cone, Kibo, that rises to 19,340 feet (5,895 meters). German geographer Hans Meyer and Austrian mountaineer Ludwig Purtscheller were the first to reach the Kibo summit in 1889. Mount Kilimanjaro National Park was established in 1973 to conserve the mountain above the tree line as well as the six forest corridors that stretch downslope through the montane forest belt. In 1987, it was named a UNESCO World Heritage site.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Kilimanjaro)
 
 ---
 
@@ -5534,13 +5535,13 @@ Kilimanjaro, a volcanic massif in northeastern Tanzania near the Kenyan border, 
 
 <img width="550" height="367" src="media/photos/mountains/Kosciuszko.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
 
 **Description**
 
 Mount Kosciuszko is the highest peak in Australia at 2,228 metres and it was named like this by the Polish explorer Paul Edmund Strzelecki in 1840 because of its resemblance to the Kościuszko Mound in Kraków, Poland. It is located 390 km southwest of Sydney in the Snowy Mountains of the Australian Alps in southeastern New South Wales. Mount Kosciuszko is a well known mountain that over 100.000 people visit every summer and there are multiple roads that lead to the summit. 
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Kosciuszko)
 
 ---
 
@@ -5548,13 +5549,13 @@ Mount Kosciuszko is the highest peak in Australia at 2,228 metres and it was nam
 
 <img width="550" height="299" src="media/photos/mountains/Swiss_Alps.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Swiss_Alps)
+owened by [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 **Description**
 
 The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
 
-<br> Source [wikipedia](https://en.wikipedia.org/wiki/Swiss_Alps)
+<br> Source [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 ---
 
@@ -5562,7 +5563,7 @@ The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweize
 
 <img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
 
-owened by [wikipedia.com](https://en.wikipedia.org/wiki/Kangchenjunga)
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 **Description**
 
@@ -5570,7 +5571,7 @@ Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It
 
 Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Kangchenjunga)
+Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 ---
 
@@ -5592,7 +5593,7 @@ A list of the seven most impressive man-made structures of classical antiquity. 
 |              [Colossus of Rhodes](https://www.newworldencyclopedia.org/entry/Colossus_of_Rhodes)               |   292 - 280 B.C.E.   |    Hellenistic Greece     |                                                                                          A giant statue of the Greek god Helios roughly the same size as today's Statue of Liberty in New York.                                                                                           |           224 B.C.E.           |         Earthquake         |
 |        [Lighthouse of Alexandria](https://www.newworldencyclopedia.org/entry/Lighthouse_of_Alexandria)         | Third century B.C.E. |     Hellenistic Egypt     |                                                                                        Between 383 feet to 440 feet tall it was among the tallest man-made structures on Earth for many centuries.                                                                                        |        1303 - 1480 C.E.        |         Earthquake         |
 
-Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World), [wikipedia](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World), [britannica](https://www.britannica.com/topic/Seven-Wonders-of-the-World)
+Source [newworldencyclopedia](https://www.newworldencyclopedia.org/entry/Seven_Wonders_of_the_World), [wiki](https://en.wikipedia.org/wiki/Seven_Wonders_of_the_Ancient_World), [britannica](https://www.britannica.com/topic/Seven-Wonders-of-the-World)
 
 ---
 
@@ -5602,29 +5603,29 @@ A 6-year campaign was completed in 2007 by a Swiss foundation to determine the N
 
 ---
 
-Source [wikipedia](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
+Source [wiki](https://en.wikipedia.org/wiki/New7Wonders_of_the_World), [britannica](https://www.britannica.com/list/new-seven-wonders-of-the-world)
 
 ### <a name="chichen_itza"></a>**Chichen Itza**
 
 <img width="640" height="425" src="media/photos/wonders/itza.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza)
+owned by [wiki](https://en.wikipedia.org/wiki/Chichen_Itza)
 
 Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupying 10 square km, it is thought to have been a religious, political, military and commercial center that would have been home to 35,000 people.
 
 ---
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
+Source [wiki](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
 
 ### <a name="christ_redeemer"></a>**Christ the Redeemer**
 
 <img width="512" height="768" src="media/photos/wonders/christ.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
+owned by [wiki](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue))
 
 Christ the Redeemer is a colossal statue of Jesus Christ in Rio de Janeiro, Brazil. Its construction was completed in 1931 and is considered the largest Art Deco sculpture. Made of reinforced concrete and soapstone, it stands 30 meters tall and spans 28 meters wide.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
+Source [wiki](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), [britannica](https://www.britannica.com/topic/Christ-the-Redeemer)
 
 ---
 
@@ -5632,11 +5633,11 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Christ_the_Redeemer_(statue)), 
 
 <img width="640" height="448" src="media/photos/wonders/colosseum.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+owned by [wiki](https://en.wikipedia.org/wiki/Colosseum)
 
 The Colosseum is an amphitheatre in the center of the city of Rome, Italy. It is considered to be the largest ancient amphitheatre ever built, standing 57 meters tall and spanning 188 and 156 meters in length and width accordingly. Construction began during the reign of the Roman emperor Vespasian (69 - 79 A.D.) and was completed in 80 A.D. under the rule of hiss successor Titus.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
+Source [wiki](https://en.wikipedia.org/wiki/Colosseum)
 
 ---
 
@@ -5644,13 +5645,13 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Colosseum)
 
 <img width="640" height="425" src="media/photos/wonders/china_wall.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China)
+owned by [wiki](https://en.wikipedia.org/wiki/Great_Wall_of_China)
 
 **Description**
 
 The Great Wall of China is a 21,196km long line of fortifications, along the historical northern borders of the ancient Chinese states and later Imperial China. It was built as a security measure, meant to provide protection against invasions and raids from various nomadic groups of the Eurasian Steppe.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
+Source [wiki](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britannica](https://www.britannica.com/topic/Great-Wall-of-China)
 
 ---
 
@@ -5658,13 +5659,13 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Great_Wall_of_China), [britanni
 
 <img width="640" height="427" src="media/photos/wonders/machu_picchu.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu)
+owned by [wiki](https://en.wikipedia.org/wiki/Machu_Picchu)
 
 Machu Picchu
 
 Machu Picchu was an ancient Incan settlement, located in the Eastern Cordillera of southern Peru, on top of a mountain ridge. It is one of the few native American urban centers discovered nearly intact. Occupying nearly 13 square km, the site includes a temple and a citadel.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
+Source [wiki](https://en.wikipedia.org/wiki/Machu_Picchu), [britannica](https://www.britannica.com/summary/Machu-Picchu)
 
 ---
 
@@ -5676,7 +5677,7 @@ owned by [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan
 
 Petra is a historic and archaelogical city in southern Jordan, surrounded by sandstone mountains and cliffs. It is considered to have been a major trading hub and the capital of the Nabateans (an ancient Arab people) around the second century B.C.
 
-source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
+source [wiki](https://en.wikipedia.org/wiki/Petra), [britannica](https://www.britannica.com/place/Petra-ancient-city-Jordan)
 
 ---
 
@@ -5684,11 +5685,11 @@ source [wikipedia](https://en.wikipedia.org/wiki/Petra), [britannica](https://ww
 
 <img width="800" height="553" src="media/photos/wonders/taj_mahal.jpg">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+owned by [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 The Taj Mahal is a mausoleum complex in Agra, India. Occupying 17 hectares of area, its construction was completed in 1653. It was commisioned by the Mughal emperor Shah Jahan (1628 - 1658) as the tomb of his wife. The mausoleum is made of white marble, featuring semiprecious stones in geometric and floral patterns.
 
-Source [wikipedia](https://en.wikipedia.org/wiki/Taj_Mahal)
+Source [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 ---
 
@@ -5919,7 +5920,7 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
+  source [wiki](https://en.wikipedia.org/wiki/Christianity)
 
   ---
 
@@ -5963,11 +5964,11 @@ owned by [nationalgeographic](https://www.nationalgeographic.org/article/protest
 
   <img width="640" height="425" src="media\photos\religions\grand-budhha.jpg" alt="Image of Grand Buddha at Ling Shan">
 
-owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/media/File:Grand_Buddha_at_Ling_Shan,_China.jpg)
+owned by [wiki](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/media/File:Grand_Buddha_at_Ling_Shan,_China.jpg)
 
   Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
+  source [wiki](https://en.wikipedia.org/wiki/Buddhism)
 
 
   ---
@@ -5976,7 +5977,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
 
-   source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
+   source [wiki](https://en.wikipedia.org/wiki/Atheism)
 
   ---
 
@@ -5986,7 +5987,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
+  source [wiki](https://en.wikipedia.org/wiki/Taoism)
 
   ---
 
@@ -6003,7 +6004,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
   - Sufism
 
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Islam)
+  source [wiki](https://en.wikipedia.org/wiki/Islam)
 
   ---
 
@@ -6013,7 +6014,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
  Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
 
- source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
+ source [wiki](https://en.wikipedia.org/wiki/Hinduism)
 
   ---
 
@@ -6023,7 +6024,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
 
- source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
+ source [wiki](https://en.wikipedia.org/wiki/Judaism)
  
   ---
 
@@ -6047,7 +6048,7 @@ owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-moun
 
   In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
 
-  source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
+  source [wiki](https://en.wikipedia.org/wiki/Twelve_Olympians)
 
 ---
 
