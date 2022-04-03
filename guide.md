@@ -21,6 +21,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Five Weird Things That Happen in Outer Space](#weird_things)
   - [Career in Space](#jobs)
   - [The Creation of the Universe According to Greek Mythology](#mythology)
+  - [Everything You Need to Know About Chaos](#chaos)
 
 - ### [Continents](#continents)
 
@@ -273,6 +274,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sun Moon Earth](#book_7)
   - [The Mysteries of the Universe](#book_8)
   - [The Science of Interstellar](#book_9)
+  - [From Chaos to Cosmos: Creation to New Creation](#book_10)
 
 - ### [Cosmos Movies](#cosmos_movies)
 
@@ -377,19 +379,22 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Sculpture](#sculpture)
   - [Literature](#literature)
   - [Music](#music)
+  - [Cinema](#cinema)
+  - [Theater](#theater)
 
 - ### [Religions](#religions)
   - [Christianity](#christ)
     #### [Divisions of Christianity](#divs)
     - [Roman Catholicism](#cathol)
     - [Eastern Orthodox Church](#ortho)
+    - [Protestantism](#protest)
   - [Buddhism](#Buddhis)
   - [Atheism/Agnosticism](#Atheism)
   - [Taoism](#Taoism)
   - [Islam](#Islam)
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
-  
+  - [Confucianism](#conf)
   
 
 
@@ -593,6 +598,12 @@ Meanwhile Gaea alone gave birth to Ouranos the heavens. Ouranos became Gaea's ma
 
 
 Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creation/the_creation.html)
+
+---
+
+### <a name="chaos"></a>**Everything You Need to Know About Chaos**
+Our modern notion of chaos is very different from what the ancient Greeks understood. We use the word "chaos" to describe something that is completely confusing. For example, if a room is cluttered, it is often defined as "chaotic." Many people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
+
 
 ---
 
@@ -4589,6 +4600,22 @@ Thorne's observations are based on his screenwriting and filming experiences, an
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
+### <a name="book_10"></a>**From Chaos to Cosmos: Creation to New Creation**
+
+<img width="500" height="350" src="media\photos\books\From_chaos_to_cosmos.jpg">
+<br>Author: Sidney Greidanus
+<br>
+
+**Description**
+
+“I form light and create darkness; I make well-being and create calamity; I am the LORD, who does all these things.” Isaiah 45:7 
+
+When God created the world, he brought perfect order out of what was “without form and void.” But with human rebellion against God leading to God’s curse, disorder was introduced into creation—disorder that we still see all around us today. Tracing the chaos to cosmos theme from Genesis 1 to Revelation 22, pastor-scholar Sidney Greidanus reveals how God is restoring his creation through Jesus Christ, who has already begun to shine light into the darkness and will one day return to bring peace, order, and restoration once and for all. With discussion questions at the end of each chapter and a fourteen-session reading plan, this book is ideal for small groups as well as individual study.
+
+Source [crossway](https://www.crossway.org/books/from-chaos-to-cosmos-ebook/)
+
+---
+
 
 ## <a name="cosmos_movies"></a> **Cosmos Movies**
 
@@ -5524,6 +5551,32 @@ Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-explori
 
 ---
 
+### <a name="cinema"></a>**Cinema**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/cinema.webp" alt="Image of old cinema projector">
+
+owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/)
+
+Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
+
+Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
+
+---
+
+### <a name="theater"></a>**Theater**  
+<br>
+
+<img width="640" height="425" src="media/photos/arts/theater.jpg" alt="Theater image">
+
+owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-with-acting-stage-actors-monocolor-outline-concept-opera-drama-theatre-performance-as-part-classic-live-culture-events-vector-illustration-dramaturgy-masks-costumes_20921232.htm)
+
+Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
+
+---
+
 ## <a name="religions"></a> **Religions**
 ### <a name="christ"></a>**Christianity**  
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
@@ -5547,6 +5600,12 @@ Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-explori
   Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
 
   source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
+
+  ### <a name="protest"></a>**Protestantism**
+
+  Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe and it has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
+
+  source [britannica](https://www.britannica.com/topic/Protestantism)
 
   ---
 
@@ -5590,3 +5649,10 @@ Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewi
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
  
 ---
+
+### <a name="conf"></a>**Confucianism**
+
+Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
+
+source [nationalgeographic](#https://www.nationalgeographic.org/encyclopedia/confucianism/)
+
