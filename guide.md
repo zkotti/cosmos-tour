@@ -6779,7 +6779,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
 ---
 
-### <a name="Mount Etna"></a>**Mount Etna**
+### <a name="mount_etna"></a>**Mount Etna**
 
 <img width="600" height="395" src="media/photos/volcanos/Mount_Etna.webp">
 
