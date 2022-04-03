@@ -143,6 +143,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Romania](#romania)
   - [Russia](#russia)
   - [San Marino](#san_marino)
+  - [Sao Tome and Principe](#sao_tome_and_principe)
   - [Saudi Arabia](#saudi_arabia)
   - [Scotland](#scotland)
   - [Senegal](#senegal)
@@ -3221,6 +3222,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Rocca Guaita, Monte Titano, Palazzo Pubblico and Piazza della Liberta, Basilica di San Marino, Museo di Stato
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/san-marino-rsm-rsm-rsm.htm)
+
+
+---
+
+### <a name="sao_tome_and_principe"></a>**Sao Tome and Principe**
+
+<img width="300" height="300" src="media/photos/flags/st.svg">
+
+**Capital:** [São Tomé](https://www.google.com/maps/search/São+Tomé)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** Dobra (STN)
+</br>
+**Population:** 211,028 (2018)
+</br>
+**Country Code (cioc):** STP
+</br>
+**Region:** Africa
+
+**Top Attractions:** Pico Cão Grande, Cascata de Sao Nicolau, Lagoa Azul, Obo National Park
+<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294441-Activities-Sao_Tome_and_Principe.html)
 
 
 ---
