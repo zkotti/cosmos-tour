@@ -289,6 +289,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Europa Report](#movie_4)
   - [Apollo 13](#movie_5)
   - [Ad Astra](#movie_6)
+  - [Armageddon](#movie_7)
 
 - ### [Cosmos Series](#cosmos_series)
   - [Cosmos: A Personal Voyage](#cosmos_1)
@@ -4764,6 +4765,11 @@ The film features astronauts Jim Lovell, Jack Swigert, and Fred Haise aboard Apo
 
 <img width="500" height="350" src="media/photos/movies/adastra.jpg">
 Astronaut Roy McBride embarks on a mission through a relentless solar system, in order to uncover the truth about his missing father and his doomed expedition that threatens 30 years later the universe.
+
+### <a name="movie_7"></a>**Armageddon (1998)**
+
+<img width="500" height="350" src="media/photos/movies/armageddon.jpg">
+After realizing that an asteroid the size of Texas is going to hit the Earth in less than a month, NASA recruits a misfit team of deep-core drillers to rescue the planet.
 
 ---
 
