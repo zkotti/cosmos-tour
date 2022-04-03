@@ -325,6 +325,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
 - ### [Youtube Videos](#videos)
   - [Earth 101 | National Geographic](#Earth101)
   - [Mars 101 | National Geographic](#Mars101)
+  - [Venus 101 | National Geographic](#Venus101)
   - [Universe Size Comparison](#universe_size)
 
 - ### [Astrophotography](#astrophotography)
@@ -5082,6 +5083,14 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 alt="Mars Image" width="240" height="180"/></a>
 
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+ ### <a name="Venus101"></a>**Venus 101 | National Geographic**
+  <a href="https://www.youtube.com/watch?v=BvXa1n9fjow&ab
+" target="_blank"><img src="media\photos\image_hyperlinks\Venus_National_Geographic.jpg" 
+alt="Venus Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/watch?v=BvXa1n9fjow&ab)
 
 ---
 
