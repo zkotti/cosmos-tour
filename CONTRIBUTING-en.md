@@ -52,23 +52,22 @@ have been made on the codebase recently.
 
 ## Testing
 
-We have created some tests in python.
-Currently, we do not require to install pytest.
+We have created some tests in python. Currently, we do not require to install pytest.
 
 #### Install Pytest
-
-Installing pytest by typing this command in command line:
-`pip install -U pytest`
+  
+  Installing pytest by typing this command in command line: 
+  ```pip install -U pytest```
 
 #### Run Tests
 
 You could run the tests that exist inside of file, by typing the following command:
-`pytest -q -name_of_file`
+   ```pytest -q -name_of_file```                                
 
-###### Note
 
-Given that your python points to the same place where you PIP manager points, this command lets you
-use the pytest framework to run the tests.
+###### Notes
+- Given that you use pip manager, you could use those installation commands. Similar commands used for other package managers. 
+- You install packages on the same place with your python package. Make sure that you use the same pip manager which is part of your python package to install the package correctly.
 
 ## Submitting Changes
 
