@@ -148,6 +148,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
   - [Spain](#spain)
+  - [Sweden](#sweden)
   - [Switzerland](#switzerland)
   - [Taiwan](#taiwan)
   - [Uganda](#uganda)
@@ -3332,6 +3333,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  The Alhambra and Generalife Gardens, Barcelona's Sagrada Familia and Gaudi Sites, The Great Mosque of Cordoba, The Prado and Paseo del Artes, San Lorenzo de El Escorial
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/spain-e.htm)
 
+---
+
+### <a name="sweden"></a>**Sweden**
+
+<img width="300" height="300" src="media/photos/flags/se.svg">
+
+**Capital:** [Stockholm](https://www.google.com/maps/search/Stockholm)
+</br>
+**Official Language:** Swedish
+</br>
+**Currency:** Swedish krona (SEK)
+</br>
+**Population:** 10,402,070 (2021)
+</br>
+**Country Code (cioc):** SWE
+</br>
+**Region:** Europe
+
+**Top Attractions:**  Vasa Museum, Gamla Stan, Drottningholm Palace, Stockholm Archipelago, Kiruna and the Ice Hotel 
+<br>Source [PlanetWare] (https://www.planetware.com/tourist-attractions/sweden-s.htm)
 
 ---
 
