@@ -5884,6 +5884,10 @@ owned by [trainline](https://www.thetrainline.com/via/europe/italy/rome/visiting
 
   ### <a name="Buddhis"></a>**Buddhism**
 
+  <img width="640" height="425" src="media\photos\religions\grand-budhha.jpg" alt="Image of Grand Buddha at Ling Shan">
+
+owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/media/File:Grand_Buddha_at_Ling_Shan,_China.jpg)
+
   Buddhism is a Buddhist religion is an Indian religion or philosophical tradition based on Gautama Buddha's original teachings. It began as a Sramana custom in ancient India and expanded throughout Asia between the 6th and 4th centuries BCE. It is the fourth-largest religion in the world.Buddhists account for around 520 million people, or over 7% of the world's population.Buddhism comprises a wide range of traditions, beliefs, and spiritual practices, all of which are essentially founded on the Buddha's teachings (born Siddhrtha Gautama in the 5th or 4th century BCE) and the ideas that have resulted from them.The purpose of Buddhism, as stated in the Buddha's Four Noble Truths, is to eliminate suffering (dukha) produced by desire and ignorance of reality's true nature, which includes impermanence (anicca) and the non-existence of the self (anatt).Most Buddhist traditions emphasize transcending the individual ego through Nirvana or the path of Buddhahood, which ends the cycle of death and rebirth.Buddhist schools differ in their understanding of the path to enlightenment, the relative priority and canonicity accorded to various Buddhist texts, and their distinctive teachings and practices. Meditation, moral precept adherence, monasticism, taking refuge in the Buddha, the Dharma, and the Sangha, and the growth of the Paramitas are all widely observed practices (perfections, or virtues). 
 
   source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
