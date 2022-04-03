@@ -454,6 +454,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Shinto](#Shinto_)
   - [Sikhism](#Sikhism_)
   - [Bahá’í](#Bahá’í_)
+  - [Zoroastrianism](#Zoroastrianism_)
+  
   
   
 
@@ -6579,6 +6581,12 @@ source [wikipedia](https://en.wikipedia.org/wiki/Sikhism)
 The Bahá Faith is a relatively recent religion that teaches that all religions have equal value and that all people are one. It was founded in the 19th century by Baháu'lláh, and it grew up in Iran and other regions of the Middle East, where it has been persecuted ever since. Over five million Bahás, or followers of the religion, are thought to be scattered across most of the world's countries and territories.The religion is led by three central figures: the Báb (1819–1850), a herald who taught that God would soon send a prophet in the same way that Jesus or Muhammad did, and who was executed by Iranian authorities in 1850; Baháu'lláh (1817–1892), who claimed to be that prophet in 1863 and spent most of his life in exile and imprisonment; and his son, Abdu'l-Bahá (1844–1921), who was released from After Abdu'l-death Bahá's in 1921, Shoghi Effendi (1897–1957) took over as the religion's leader. Bahás elect Spiritual Assemblies to oversee the religion's affairs on an annual basis at the local, regional, and national levels.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Bah%C3%A1%CA%BC%C3%AD_Faith)
+
+### <a name="Zoroastrianism_"></a>**Zoroastrianism**
+
+Zoroastrianism, also known as Zarautra in Avestan or Zartosht in Persian, is an Iranian religion and one of the world's oldest continually practiced organized faiths. It is based on the teachings of the Iranian-speaking prophet Zoroaster (also known as Zartosht in Persian).  It contains a dualistic cosmology of good and evil based on a monotheistic ontology and an eschatology that predicts the final victory of good over evil.The supreme being of Zoroastrianism is Ahura Mazda (lit. 'Lord of Wisdom,' an uncreated and loving divinity of wisdom. Zoroastrianism's distinctive traits, such as monotheism, messianism, belief in free choice and after-death judgment, and conceptions of heaven, hell, angels, and devils, among other notions, may have impacted other religious and philosophical systems, especially the Abrahamic religions.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Zoroastrianism)
 
 ---
 
