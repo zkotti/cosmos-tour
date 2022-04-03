@@ -5881,6 +5881,10 @@ owned by [medievalists](https://www.medievalists.net/2021/05/justinians-hagia-so
 
   ### <a name="protest"></a>**Protestantism**
 
+   <img width="640" height="425" src="media\photos\religions\martin-luther.jpg" alt="Painting of Martin Luther at the Diet of Worms 1521">
+
+owned by [nationalgeographic](https://www.nationalgeographic.org/article/protestant-reformation/9th-grade/)
+
   Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe and it has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
 
   source [britannica](https://www.britannica.com/topic/Protestantism)
