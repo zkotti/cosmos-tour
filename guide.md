@@ -318,6 +318,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
+  - [Johann Sebastian Bach](#Bach)
   - [Wolfgang Amadeus Mozart](#Mozart)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
@@ -5168,6 +5169,18 @@ source [wiki](https://en.wikipedia.org/wiki/Neil_Armstrong)
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
 source [wiki](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Bach"></a>**Johann Sebastian Bach**
+
+<img width="360" height="443" src="media/photos/personalities/Johann_Sebastian_Bach.jpg">
+
+Image Source [Wikipedia](https://en.wikipedia.org/wiki/File:Johann_Sebastian_Bach.jpg)
+
+Johann Sebastian Bach was a German composer. He was born on March 21st, 1685 in Eisenach and died on July 28th, 1750 in Leipzig. He was born into a musical family and became an extremely well-rounded musician. He was an accomplished organist and harpsichordist and could also play the violin and sing. Much of his music embodies a convincing melding of the two main musical styles of his era; the German contrapuntal style and the lively Italian style, like the one found in the works of Antonio Vivaldi. His orchestral works include the six Brandenburg Concertos, four orchestral suites, and many harpsichord concertos, a genre he invented. His most famous solo keyboard works include the didactic set "The Well-Tempered Clavier" (1722 and 1742), the superb "Goldberg Variations "(1742), the unfinished "Art of the Fugue" (1749) and many organ preludes and fugues. His most popular choral works include the two monumental Passions, and the "Mass in B Minor". His work was heavily influenced by his religious beliefs and many of his compositions were inspired by religious themes. His works, which were never widely known in his lifetime, almost disappeared after his death, and only in the early 19th century were they revived, to tremendous acclaim. Today, Bach is regarded as the greatest composer of the Baroque era, and, by many, as the greatest composer of all time.
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Johann_Sebastian_Bach)
 
 ---
 
