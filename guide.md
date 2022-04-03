@@ -6743,7 +6743,7 @@ source [wikipedia](https://en.wikipedia.org/wiki/Zoroastrianism)
 ---
 
 
-### <a name="Volcanos"></a>**Volcanos**
+### <a name="volcanos"></a>**Volcanos**
 
 ---
 
