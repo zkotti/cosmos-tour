@@ -4336,6 +4336,13 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ---
 
+### <a name="quote_6"></a>**Quote 6.**
+
+<img width="300" height="300" src="media\photos\quotes\cosmos_quote_carl.jpg">
+
+- Source [quotes cosmos](https://www.quotescosmos.com/quotes/Carl-Sagan-quote-20.html)
+
+---
 ## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
