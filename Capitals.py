@@ -13,9 +13,9 @@ def add_links_to_capitals(file_name):
             new_lines += line
     return new_lines  
 
-def enrich_countries_with_hyperlinks():
+def enrich_countries_with_hyperlinks(file_name="guide.md"):
     with open("guide.md", "w", encoding="utf-8") as f:
-        new_lines = add_links_to_capitals("guide.md")
+        new_lines = add_links_to_capitals(file_name)
         f.write(new_lines)
         f.close()
 
