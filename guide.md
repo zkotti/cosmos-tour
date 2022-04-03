@@ -5611,7 +5611,7 @@ Important Paintings
 -Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
 -Pablo Picasso, Les Demoiselles d’Avignon
 
-Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art), [timeout](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
 ---
 
