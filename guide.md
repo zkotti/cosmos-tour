@@ -143,6 +143,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Romania](#romania)
   - [Russia](#russia)
   - [San Marino](#san_marino)
+  - [Saudi Arabia](#saudi_arabia)
   - [Scotland](#scotland)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
@@ -3217,6 +3218,29 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Rocca Guaita, Monte Titano, Palazzo Pubblico and Piazza della Liberta, Basilica di San Marino, Museo di Stato
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions-/san-marino-rsm-rsm-rsm.htm)
+
+
+---
+
+### <a name="saudi_arabia"></a>**Saudi Arabia**
+
+<img width="300" height="300" src="media/photos/flags/sa.svg">
+
+**Capital:** [Riyadh](https://www.google.com/maps/search/Riyadh)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Saudi Riyal (SAR)
+</br>
+**Population:** 34,218,169 (2019)
+</br>
+**Country Code (cioc):** KSA
+</br>
+**Region:** Asia
+
+**Top Attractions:** Great Mosque of Mecca, Kaaba, Kingdom Centre Tower, Al Masjid an Nabawi
+<br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293991-Activities-Saudi_Arabia.html)
+
 
 
 ---
