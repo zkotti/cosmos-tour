@@ -18,6 +18,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
   - [Black Holes](#black_holes)
+  - [White Holes](#white_holes)
   - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
   - [Five Weird Things That Happen in Outer Space](#weird_things)
@@ -611,6 +612,14 @@ Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Tab
 Black hole is a cosmic body of extremely intense gravity from which nothing, not even light, can escape. The death of a massive star can result in the formation of a black hole. When a star reaches the end of its life and has depleted its internal thermonuclear fuels, the core becomes unstable and gravitationally collapses inward on itself, causing the star's outer layers to be blown away. The dying star is compressed to a point of zero volume and infinite density called the singularity by the crushing weight of constituent matter falling in from all sides. The singularity is the core of a black hole, and it is hidden by the event horizon, the object's "surface." The escape velocity (the velocity required for matter to escape from a cosmic object's gravitational field) inside the event horizon exceeds the speed of light, preventing even light rays from escaping into space.
 
 Source [britannica](https://www.britannica.com/science/black-hole)
+
+---
+
+### <a name="white_holes"></a>**White Holes**
+
+A white hole is a strange cosmic object that glows brightly and emits matter. To put it another way, it's the polar opposite of a black hole. It cannot be entered from the outside, although energy, light and information can escape from it. Unlike black holes, however, there is no agreement on whether white holes exist or how they form. They are most commonly associated with wormholes, in which a black hole serves as the starting point for a tunnel through space and time that leads to a white hole elsewhere in the Universe.
+
+Source [Science Focus](https://www.sciencefocus.com/space/what-is-a-white-hole/)
 
 ---
 
