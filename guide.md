@@ -506,6 +506,27 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Crepe](#crepe)
   - [Souvlaki](#souvlaki)
 
+
+- ### Linux Vs Windows Commands
+        Windows  -  Linux    -    Description
+      1. dir        ls -l         Directory listing
+      2. ren        mv            Rename a file
+      3. copy       cp            Copying a file
+      4. move       mv            Moving a file
+      5. cls        clear         Clear Screen
+      6. del        rm            Delete file
+      7. fc         diff          Compare contents of files
+      8. find       grep          Search for a string in a file
+      9. command/?  man command   Display the manual/help details of the command
+      10. chdir     qwd           Returns your current directory location
+      11. time      date          Displays the time
+      12. cd        cd            Change the current directory
+      13. md        mkdir         To create a new directory/folder
+      14. echo      echo          To print something on the screen
+      15. edit      vim           To write in to files
+      16. exit      exit          To leave the terminal/command window
+
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
@@ -5854,6 +5875,8 @@ owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
 ### <a name="deathzone"></a>**Death Zone**  
   
 The death zone in climbing refers to heights over a specific point where oxygen pressure is insufficient to maintain human life for a lengthy period of time. This point is commonly referred to as 8,000 meters (26,000 ft, less than 356 millibars of atmospheric pressure).  A Swiss doctor named Edouard Wyss-Dunant came up with the idea in 1953 and named it the deadly zone.  The Himalaya and Karakoram of Asia include all 14 peaks above 8000 meters in the death zone.  
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Death_zone)
 
 ---
 
