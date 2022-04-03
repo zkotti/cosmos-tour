@@ -447,6 +447,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Jainism](#Jainism)
   - [Rastafarianism](#Rastafarianism_)
   - [Shinto](#Shinto_)
+  - [Sikhism](#Sikhism_)
+  
 
   
   
@@ -6513,6 +6515,12 @@ source [wikipedia](https://en.wikipedia.org/wiki/Rastafari)
 Shinto (Japanese:, romanized: Shint) is a Japanese religious tradition. Scholars of religion classify it as an East Asian religion, yet it is often referred to as Japan's indigenous religion and a nature religion by its adherents. Scholars refer to its believers as Shintoists, though they rarely use that label themselves. Shinto has no centralized authority in charge, and practitioners are extremely diverse.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Shinto)
+
+### <a name="Sikhism_"></a>**Sikhism**
+
+Sikhism (/skzm/) or Sikhi (Punjabi: Sikkh, [skhi], from Sikh, 'disciple','seeker', or 'learner') is a religion that emerged at the end of the 15th century CE in the Punjab region of the Indian subcontinent, present-day Pakistan. It is the world's fifth-largest organized religion, with around 25–30 million adherents (known as Sikhs) as of the early twenty-first century.The spiritual teachings of Guru Nanak (1469–1539), the faith's first guru, and the nine Sikh gurus who followed him, formed Sikhism. Gobind Singh (1666–1708), the tenth guru, named the Sikh scripture Guru Granth Sahib as his successor, putting the line of human gurus to a conclusion and establishing the scripture as the 11th and final eternally alive guru, a religious spiritual/life guide for Sikhs. Guru Nanak taught that the ideal man "establishes union with God, knows His Will, and carries out that Will" through a "active, creative, and practical life" of "truthfulness, fidelity, self-control, and purity," and that the ideal man "establishes union with God, knows His Will, and carries out that Will." The sixth Sikh Guru, Guru Hargobind (1606–1644), created the concept of the miri ('political'/'temporal') and piri ('spiritual') realms coexisting.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Sikhism)
 
 ---
 
