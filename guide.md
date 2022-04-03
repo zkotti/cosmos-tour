@@ -212,6 +212,10 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [SpaceX](#spaceX)
   - [Blue Origin](#blue_origin)
 
+- ### [Black Holes](#black_holes)
+  - [Primordial Black Holes](#primordial_black_holes)
+  - [Stellar Black Holes](#stellar_black_holes)
+
 - ### [Stars](#stars)
   - [Antares](#antares)
   - [Betelgeuse](#betelgeuse)
@@ -4067,6 +4071,37 @@ As the many benefits of space activity have become evident, other countries have
 
 ---
 
+## <a name="black_holes"></a> **_Black Holes_**
+
+---
+### <a name="primordial_black_holes"></a> **Primordial black holes**
+
+<img width="550" height="380" src="media/photos/black holes/primordial_bh.png">
+
+owned by [business insider](https://www.businessinsider.com/mini-black-hole-effects-on-earth-2016-8)
+
+**Description**
+
+Known as one of the oldest versions of the black holes. What describe them is the small sive that they have compared with other black holes and is the a type of black hole that exist only theories and have never been found one. They must have been formed just after the big bang when the universy was so dense with violente energy that any tiny object that was more dense than the neighbor object would become a black hole. The mass that the smallest primordial black hole could have is 8 trillion kg that is the mass of a big mountain and in size it would be no bigger than a proton.
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+---
+
+### <a name="stellar_black_holes"></a> **Stellar Black Holes**
+
+<img width="550" height="380" src="media/photos/black holes/stellar_bh.jpeg">
+
+owned by [sci-nwes](http://www.sci-news.com/astronomy/stellar-mass-black-hole-x-ray-spectra-08873.html)
+
+**Description**
+
+Stellar black holes are more likely to be found and we know for sure that they are out there. They have masses ranging from about 5 to several tens of solar masses. The process is observed as a hypernova explosion or as a gamma ray burst. These black holes are also referred to as collapsars. Beside the greate amount of mass they have in actual size is quite small. For example a black hole with a mass of 2.7 time the mass of the sun has 16km diametere.
+
+<br> Source [youtube](https://www.youtube.com/watch?v=0FH9cgRhQ-k&ab_channel=Kurzgesagt%E2%80%93InaNutshell)
+
+
+---
 ## <a name="stars"></a> **_Stars_**
 
 ---
