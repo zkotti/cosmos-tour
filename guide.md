@@ -154,6 +154,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Spain](#spain)
   - [Sweden](#sweden)
   - [Switzerland](#switzerland)
+  - [Syria](#syria)
   - [Taiwan](#taiwan)
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
@@ -3459,6 +3460,29 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 Switzerland is ideally for vacation. It has idyllic landscapes that range from snow-capped mountains and ice-cold mountain lakes to flower gardens and valleys. The country also combines cosmopolitan cities and picturesque villages.
 Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
+
+---
+
+### <a name="syria"></a>**Syria**
+
+<img width="300" height="300" src="media/photos/flags/sy.svg">
+
+**Capital:** [Damascus](https://www.google.com/maps/search/Damascus)
+</br>
+**Official Language:** Arabic
+</br>
+**Currency:** Syrian pound (SYP)
+</br>
+**Population:** 17,500,657 (2020)
+</br>
+**Country Code (cioc):** SYR
+</br>
+**Region:** Asia
+
+**Top Attractions:** Damascus Umayyad Mosque, Old City, Aleppo Citadel, The National Museum of Damascus, Site of Palmyra
+<br>
+Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g294010-Activities-Syria.html)
+
 
 ---
 
