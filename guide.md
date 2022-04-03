@@ -1005,6 +1005,11 @@ source [nasa](https://solarsystem.nasa.gov/asteroids-comets-and-meteors/comets/5
 
 Country flags are available [here](https://flagicons.lipis.dev/)
 
+
+<img width="1200" height="715" src="media/photos/maps/world-map.jpg">
+<br>owner [geology](https://geology.com/world/world-map.shtml)
+
+
 ### <a name="afghanistan"></a>**Afghanistan**
 
 <img width="300" height="300" src="media/photos/flags/af.svg">
