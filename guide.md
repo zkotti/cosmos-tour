@@ -5556,7 +5556,20 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
-Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract.
+
+Important Paintings
+<br>
+-Leonardo Da Vinci, Mona Lisa
+-Johannes Vermeer, Girl with a Pearl Earring
+-Vincent van Gogh, The Starry Night
+-Gustav Klimt, The Kiss
+-Sandro Botticelli, The Birth of Venus
+-James Abbott McNeill Whistler, Arrangement in Grey and Black No. 1
+-Jan van Eyck, The Arnolfini Portrait
+-Hieronymus Bosch, The Garden of Earthly Delights
+-Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
+-Pablo Picasso, Les Demoiselles d’Avignon
 
 Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
 
