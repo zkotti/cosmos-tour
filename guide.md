@@ -5946,6 +5946,10 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="conf"></a>**Confucianism**
 
+   <img width="640" height="425" src="media\photos\religions\confucius.webp" alt="Image of Confucius">
+
+owned by [britannica](https://www.britannica.com/story/what-is-the-difference-between-daoism-and-confucianism)
+
   Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
 
   source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
