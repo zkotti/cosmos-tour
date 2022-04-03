@@ -18,5 +18,6 @@ def enrich_countries_with_hyperlinks(file_name="guide.md"):
         new_lines = add_links_to_capitals(file_name)
         f.write(new_lines)
         f.close()
+    return new_lines
 
 enrich_countries_with_hyperlinks()
