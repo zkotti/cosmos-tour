@@ -406,6 +406,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Judaism](#Judaism_)
   - [Confucianism](#conf)
   - [Twelve Olympians](#twel)
+  - [Druze](#druze)
   
 
 
@@ -619,6 +620,11 @@ Today's meaning of chaos is quite different from what the ancient Greeks underst
 
 According to Greek mythology, chaos is the first  to ever exist, an integral part of the Greek creative story, explaining where the gods and goddesses  came from. As the story tells, chaos came before anything else, from which primitive gods and goddesses were born. However, there is some debate as to which of these gods and goddesses really arose from chaos. Most stories state that Eleves, the darkness, and Nuxe, the night, were undoubtedly born of chaos. However, other stories explain that Gaia, Tartarus, and Eros were also among the early gods and goddesses.
 
+2.Chaos is Most Often Described as a Place.
+
+Unlike many other stories in Greek mythology, it is important to understand that chaos is not a primitive god or goddess. Instead, chaos is presented as a place that exists separately from the influence of gods and goddesses.  Hesiod,  one of the first writers to tell the story of Greek mythology, described chaos as an area above the underworld and under the sky. Chaos came before anything else, so it was usually described as dark and foggy.
+
+Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
 ---
 
 ## <a name="continents_map"></a>**_Continents_**
@@ -5702,7 +5708,7 @@ Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https:/
 
 owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
 
-Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
+Literature is the art of organizing words to tell a story, a myth or a fairy tale. It is closely related to other forms of art like music.
 
 Must Read Book List
 <br>
@@ -5752,7 +5758,18 @@ owned by [bongradio](https://bongradio.com/cinema-is-the-highest-art-forms-ever/
 
 Cinema is a form of art that converts three dimensional world into two dimensional through our screens. Cinema can make us sense almost all our feelings including fear, love, etc. Cinema was the last form of art that was added in the list of fine arts.
 
-Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/)
+Life Changing Movies
+<br>
+-Into The Wild
+-The Truman Show
+-Crash
+-The Shawshank Redemption
+-Waking Life
+-Wild
+-Pay It Forward
+-Dead Poets Society
+
+Source [artradarjournal](https://artradarjournal.com/2021/11/17/how-is-cinema-a-modern-art-form/),[scoopwhoop](https://www.scoopwhoop.com/entertainment/hollywood-movies-that-will-change-how-you-look-at-life/)
 
 ---
 
@@ -5765,24 +5782,29 @@ owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-
 
 Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
 
-Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
+Best Plays of All Time
+<br>
+-Hamlet by William Shakespeare
+-Long Day's Journey Into Night by Eugene O'Neill
+-Who's Afraid of Virginia Woolf? by Edward Albee
+-Death of a Salesman by Arthur Miller
+-Oedipus Rex by Sophocles
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts), [timeout](https://www.timeout.com/newyork/theater/best-plays-of-all-time)
 
 ---
 
 ## <a name="religions"></a> **Religions**
 
----
 
-### <a name="christ"></a>**Christianity**  
+  ### <a name="christ"></a>**Christianity**  
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Christianity)
 
----
+  ---
 
   ### <a name="divs"></a> **Divisions of Christianity**
-
----
 
   ### <a name="cathol"></a>**Roman Catholicism**
 
@@ -5795,6 +5817,7 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
   Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
 
   source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
+
 
   ### <a name="protest"></a>**Protestantism**
 
@@ -5811,13 +5834,17 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
   source [wikipedia](https://en.wikipedia.org/wiki/Buddhism)
 
 
+  ---
+
   ### <a name="Atheism"></a>**Atheism/Agnosticism**
 
   Atheism is defined as a lack of belief in the presence of gods in its broadest sense. Atheism, in a broader sense, is the denial of the existence of any gods. In a more limited sense, atheism refers to the belief that there are no gods. Atheism is opposed to theism, which is the belief in the existence of at least one deity in its broadest sense.The word atheism has its etymological basis from the ancient Greek o (atheos), which means "without god(s)" and was coined before the 5th century BCE. It was a derogatory epithet in antiquity for persons who were supposed to reject the gods revered by the broader society, those who were forsaken by the gods, and those who had no commitment to believe in the gods. The phrase referred to a social classification devised by orthodox religionists for persons who did not share their religious convictions. The term "atheism" was coined in the 16th century. With the rise of freethought, skepticism, and subsequent criticism of religion, the term's applicability became more limited. During the Age of Enlightenment in the 18th century, the first people to use the term "atheist" to describe themselves lived. Known for its "exceptional atheism," the French Revolution was the first great political movement in history to call for the supremacy of human reason. 
 
    source [wikipedia](https://en.wikipedia.org/wiki/Atheism)
 
-   ### <a name="Taoism"></a>**Taoism**
+  ---
+
+  ### <a name="Taoism"></a>**Taoism**
 
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
@@ -5831,6 +5858,8 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
   source [wikipedia](https://en.wikipedia.org/wiki/Islam)
 
+  ---
+
  ### <a name="Hinduism_"></a>**Hinduism**
 
  <img width="300" height="300" src="media/photos/religions/hinduism.jpeg">
@@ -5839,24 +5868,34 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
  source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
 
+  ---
+
   ### <a name="Judaism_"></a>**Judaism**
 
-Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
+  Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
 
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
  
+  ---
+
+  ### <a name="conf"></a>**Confucianism**
+
+  Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
+
+  source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
+
+  ---
+
+  ### <a name="twel"></a>**Twelve Olympians**
+
+  In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
+
+  source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
+
 ---
 
-### <a name="conf"></a>**Confucianism**
+### <a name="druze"></a>**Druze**
 
-Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
+The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
 
-source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
-
----
-
-### <a name="twel"></a>**Twelve Olympians**
-
-In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
-
-source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
+source [britannica](https://www.britannica.com/topic/Druze)
