@@ -373,6 +373,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
   - [K2](#K2)
+  - [Lhotse](#Lhotse)
+  
 
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
@@ -5753,6 +5755,23 @@ K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain 
 K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit
 
 Source [wiki](https://en.wikipedia.org/wiki/K2)
+
+---
+
+
+### <a name="Lhotse"></a>**Lhotse**
+
+<img width="272" height="177" src="media\photos\mountains\Lhotse.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Lhotse#/media/File:Lhotse-fromChukhungRi.jpg)
+
+**Description**
+
+Lhotse is the fourth highest mountain in the world at 8,516 metres (27,940 ft), after Mount Everest, K2, and Kangchenjunga. The main summit is on the border between Tibet and the Khumbu region of Nepal.
+
+With Everest to the north and Nuptse to the west, Lhotse forms the apex of the massive horseshoe-shaped arc of the Everest massif. Despite the tremendous vertical relief of its South and Northeast Faces, it is the least prominent of the eight-thousanders due to the great height of the South Col between it and Everest. Lhotse’s Western Face, recessed behind the head of the Khumbu Glacier in the Western Cwm, plays an integral part in the standard routes of ascent for both peaks; the name Lhotse, which means "South Peak" in Tibetan, further emphasizes the close relationship between the two.
+
+Source [wiki](https://en.wikipedia.org/wiki/Lhotse)
 
 ---
 
