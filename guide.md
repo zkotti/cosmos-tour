@@ -617,6 +617,11 @@ Today's meaning of chaos is quite different from what the ancient Greeks underst
 
 According to Greek mythology, chaos is the first  to ever exist, an integral part of the Greek creative story, explaining where the gods and goddesses  came from. As the story tells, chaos came before anything else, from which primitive gods and goddesses were born. However, there is some debate as to which of these gods and goddesses really arose from chaos. Most stories state that Eleves, the darkness, and Nuxe, the night, were undoubtedly born of chaos. However, other stories explain that Gaia, Tartarus, and Eros were also among the early gods and goddesses.
 
+2.Chaos is Most Often Described as a Place.
+
+Unlike many other stories in Greek mythology, it is important to understand that chaos is not a primitive god or goddess. Instead, chaos is presented as a place that exists separately from the influence of gods and goddesses.  Hesiod,  one of the first writers to tell the story of Greek mythology, described chaos as an area above the underworld and under the sky. Chaos came before anything else, so it was usually described as dark and foggy.
+
+Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
 ---
 
 ## <a name="continents_map"></a>**_Continents_**
