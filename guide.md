@@ -5662,6 +5662,67 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 
 
 ---
+### <a name="mounteverest"></a>**_Mount Everest_**
+
+<img width="550" height="299" src="media/photos/mountains/Everest.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
+
+**Description**
+
+Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
+
+<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
+
+---
+
+### <a name="K2"></a>**K2**
+
+<img width="500" height="300" src="media\photos\mountains\K2.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+**Description**
+
+K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest (at 8,849 metres (29,032 ft)). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in a China-administered territory of the Kashmir region included in the Taxkorgan Tajik Autonomous County of Xinjiang.
+
+K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit
+
+Source [wiki](https://en.wikipedia.org/wiki/K2)
+
+---
+
+### <a name="kangchenjunga"></a>**Kangchenjunga**
+
+<img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+**Description**
+
+Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border, and the peaks West and Kangbachen in Nepal's Taplejung District.
+
+Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
+
+Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
+
+---
+
+### <a name="Lhotse"></a>**Lhotse**
+
+<img width="272" height="177" src="media\photos\mountains\Lhotse.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Lhotse#/media/File:Lhotse-fromChukhungRi.jpg)
+
+**Description**
+
+Lhotse is the fourth highest mountain in the world at 8,516 metres (27,940 ft), after Mount Everest, K2, and Kangchenjunga. The main summit is on the border between Tibet and the Khumbu region of Nepal.
+
+With Everest to the north and Nuptse to the west, Lhotse forms the apex of the massive horseshoe-shaped arc of the Everest massif. Despite the tremendous vertical relief of its South and Northeast Faces, it is the least prominent of the eight-thousanders due to the great height of the South Col between it and Everest. Lhotse’s Western Face, recessed behind the head of the Khumbu Glacier in the Western Cwm, plays an integral part in the standard routes of ascent for both peaks; the name Lhotse, which means "South Peak" in Tibetan, further emphasizes the close relationship between the two.
+
+Source [wiki](https://en.wikipedia.org/wiki/Lhotse)
+
+---
 
 ### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
 
@@ -5676,19 +5737,7 @@ Mount Aconcagua is the highest peak in South America and the Western Hemisphere 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Aconcagua)
 
 ---
-### <a name="mounteverest"></a>**_Mount Everest_**
 
-<img width="550" height="299" src="media/photos/mountains/Everest.jpg">
-
-owened by [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
-
-**Description**
-
-Mount Everest (also known as Chomolungma) is the highest mountain in the world with an elevation of 29,031.69 feet and it is located in the Mahalangur Himal sub-range of the Himalayas of southern Asia. Many people attempt to climb the mountain and as of 2019 more than 300 people have died trying. The climate can be very hostile for people. For example, the temperature can be dropped as low as -60°C and the speed of the wind can reach 160 km/h.
-
-<br> Source [wiki](https://en.wikipedia.org/wiki/Mount_Everest)
-
----
 
 ### <a name="kilimanjaro"></a>**_Mount Kilimanjaro_**
 
@@ -5729,55 +5778,6 @@ owened by [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
-
----
-
-### <a name="kangchenjunga"></a>**Kangchenjunga**
-
-<img width="550" height="299" src="media\photos\mountains\Kangchenjunga,_India.jpg">
-
-owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
-
-**Description**
-
-Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border, and the peaks West and Kangbachen in Nepal's Taplejung District.
-
-Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
-
-Source [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
-
----
-
-### <a name="K2"></a>**K2**
-
-<img width="500" height="300" src="media\photos\mountains\K2.jpg">
-
-owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
-
-**Description**
-
-K2, at 8,611 metres (28,251 ft) above sea level, is the second-highest mountain on Earth, after Mount Everest (at 8,849 metres (29,032 ft)). It lies in the Karakoram range, partially in the Gilgit-Baltistan region of Pakistan-administered Kashmir and partially in a China-administered territory of the Kashmir region included in the Taxkorgan Tajik Autonomous County of Xinjiang.
-
-K2 also became popularly known as the Savage Mountain after George Bell—a climber on the 1953 American expedition—told reporters, "It's a savage mountain that tries to kill you." Of the five highest mountains in the world, K2 is the deadliest; approximately one person dies on the mountain for every four who reach the summit
-
-Source [wiki](https://en.wikipedia.org/wiki/K2)
-
----
-
-
-### <a name="Lhotse"></a>**Lhotse**
-
-<img width="272" height="177" src="media\photos\mountains\Lhotse.jpg">
-
-owened by [wiki](https://en.wikipedia.org/wiki/Lhotse#/media/File:Lhotse-fromChukhungRi.jpg)
-
-**Description**
-
-Lhotse is the fourth highest mountain in the world at 8,516 metres (27,940 ft), after Mount Everest, K2, and Kangchenjunga. The main summit is on the border between Tibet and the Khumbu region of Nepal.
-
-With Everest to the north and Nuptse to the west, Lhotse forms the apex of the massive horseshoe-shaped arc of the Everest massif. Despite the tremendous vertical relief of its South and Northeast Faces, it is the least prominent of the eight-thousanders due to the great height of the South Col between it and Everest. Lhotse’s Western Face, recessed behind the head of the Khumbu Glacier in the Western Cwm, plays an integral part in the standard routes of ascent for both peaks; the name Lhotse, which means "South Peak" in Tibetan, further emphasizes the close relationship between the two.
-
-Source [wiki](https://en.wikipedia.org/wiki/Lhotse)
 
 ---
 
