@@ -334,6 +334,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Football](#Football)
     - [Football Competitions](#Football_Competitions)
       - [World Cup](#World_Cup)
+      - [European Championship](#European_Championship)
+      - [Copa America](#Copa_America)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5133,9 +5135,29 @@ Football has a large number of competitions. There are intercontinental tourname
 
 **Description**
 
-In football, the World Cup is a quadrennial tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
+In football, the World Cup is a quadrennial intercontinental tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
 
 <br> Source [britannica](https://www.britannica.com/sports/World-Cup-football)
+
+---
+
+### <a name="European_Championship"></a>**European Championship**
+
+**Description**
+
+In football, the European Championship, formally UEFA European Championship, is a quadrennial tournament held between member countries of the Union of European Football Associations. The European Championship is the second most prestigious international football tournament after the World Cup. After two years of qualifying matches between 17 national football clubs, the European Championship held its first final in 1960. The Euro final tournament began with four teams in 1960, but by 1980, it had grown to eight teams, and by 1996, it had grown to sixteen teams. The last European Championship took place in 11 different European countries that found Italy the winner of the competition.
+
+<br> Source [britannica](https://www.britannica.com/sports/European-Championship)
+
+---
+
+### <a name="Copa_America"></a>**Copa America**
+
+**Description**
+
+Copa América, formerly South American Championship of Nations, is a quadrennial American football tournament that serves as the continent's premier competition. The Copa América is the oldest international football competition in the world. The tournament was first held in 1916 to commemorate Argentina's 100th year of independence, with Uruguay winning the inaugural title. It used to happen every one to four years until 2007, when it switched to its current quadrennial format. The CONMEBOL oversees the Copa América, which features ten CONMEBOL member countries—Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, and Venezuela—plus two additional national teams invited to compete.
+
+<br> Source [britannica](https://www.britannica.com/sports/Copa-America)
 
 ---
 
@@ -5710,7 +5732,15 @@ owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-
 
 Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
 
-Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
+Best Plays of All Time
+<br>
+-Hamlet by William Shakespeare
+-Long Day's Journey Into Night by Eugene O'Neill
+-Who's Afraid of Virginia Woolf? by Edward Albee
+-Death of a Salesman by Arthur Miller
+-Oedipus Rex by Sophocles
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts), [timeout](https://www.timeout.com/newyork/theater/best-plays-of-all-time)
 
 ---
 
