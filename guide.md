@@ -139,10 +139,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
   - [United States](#usa)
   - [Uruguay](#uruguay)
+  - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
   - [Yemen](#yemen)
@@ -3087,6 +3089,28 @@ Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-th
 
 **Top Attractions:**  Tango Museum of Montevideo, Legislative Palace, Punta del Este harbor, Playa de los Pocitos, Colonia del Sacramento    
 <br>Source [PlanetWare](https://www.planetware.com/uruguay/top-tourist-attractions-things-to-do-in-uruguay-uy-1-2.htm)
+
+
+---
+
+### <a name="uzbekistan"></a>**Uzbekistan**
+
+<img width="300" height="300" src="media/photos/flags/uz.svg">
+
+**Capital:** [Tashkent](https://www.google.com/maps/search/Tashkent)
+</br>
+**Official Language:** Uzbek
+</br>
+**Currency:** Uzbek som (UZS)
+</br>
+**Population:** 35,300,000 (2022)
+</br>
+**Country Code (cioc):** UZB
+</br>
+**Region:** Asia
+
+**Top Attractions:** Ark, Registan, Amir Timur Museum, The Walled City of Khiva, Chor Minor, Gur-e-Amir, Chorsu Bazaar
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/places-to-visit-in-uzbekistan/)
 
 
 ---
