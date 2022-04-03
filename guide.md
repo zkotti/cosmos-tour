@@ -337,6 +337,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
       - [European Championship](#European_Championship)
       - [Copa America](#Copa_America)
       - [Champions League](#UCL)
+      - [Europa League](#UEL)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5169,6 +5170,16 @@ Copa América, formerly South American Championship of Nations, is a quadrennial
 The UEFA Champions League (abbreviated as UCL) is an annual club football competition organized by the Union of European Football Associations (UEFA) and contested by top-tier European clubs. It is decided by a round-robin group stage to qualify for a double-leg knockout format and a single leg final. It is one of the most prestigious football tournaments in the world, as well as the most prestigious club competition in European football. It is played by the national league champions (and, in some cases, one or more runners-up) of their respective national associations.
 
 <br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Champions_League)
+
+---
+
+### <a name="UEL"></a>**Europa League**
+
+**Description**
+
+The UEFA Europa League (also known as UEL) is an annual football club competition held by the Union of European Football Associations (UEFA) for eligible European football clubs since 1971. It is Europe's second-tier club football competition, ranking below the UEFA Champions League and above the UEFA Europa League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions.
+
+<br> Source [wikipedia](https://en.wikipedia.org/wiki/UEFA_Europa_League)
 
 ---
 
