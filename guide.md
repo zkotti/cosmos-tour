@@ -5853,6 +5853,8 @@ owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
   
 The death zone in climbing refers to heights over a specific point where oxygen pressure is insufficient to maintain human life for a lengthy period of time. This point is commonly referred to as 8,000 meters (26,000 ft, less than 356 millibars of atmospheric pressure).  A Swiss doctor named Edouard Wyss-Dunant came up with the idea in 1953 and named it the deadly zone.  The Himalaya and Karakoram of Asia include all 14 peaks above 8000 meters in the death zone.  
 
+<br> Source [wiki](https://en.wikipedia.org/wiki/Death_zone)
+
 ---
 
 ### <a name="mountaconcagua"></a>**_Mount Aconcagua_**
