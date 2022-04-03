@@ -139,10 +139,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
   - [United States](#usa)
   - [Uruguay](#uruguay)
+  - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
   - [Yemen](#yemen)
@@ -245,6 +247,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Quote 3.](#quote_3)
   - [Quote 4.](#quote_4)
   - [Quote 5.](#quote_5)
+  - [Quote 6.](#quote_6)
+  - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac)
 
@@ -342,6 +346,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hockey](#Hockey)
   - [Rugby](#Rugby)
   - [Handball](#Handball)
+  - [Sailing](#Sailing)
 
 - ### [Mountains](#mountains)
   - [Top 4 highest Mountains](#Highest_Mountains)
@@ -397,6 +402,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
   - [Confucianism](#conf)
+  - [Twelve Olympians](#twel)
   
 
 
@@ -606,6 +612,9 @@ Source [greekmythology](https://www.greekmythology.com/Myths/The_Myths/The_Creat
 ### <a name="chaos"></a>**Everything You Need to Know About Chaos**
 Today's meaning of chaos is quite different from what the ancient Greeks understood. We use "chaos" in order to describe something that is completely confusing. For instance, if a room is cluttered, it is often defined as "chaotic." A lot of people do not know that the word "chaos" is derived from ancient Greece. Here is some more information about this primitive existence.
 
+1.Chaos Existing Before Anything Else.
+
+According to Greek mythology, chaos is the first  to ever exist, an integral part of the Greek creative story, explaining where the gods and goddesses  came from. As the story tells, chaos came before anything else, from which primitive gods and goddesses were born. However, there is some debate as to which of these gods and goddesses really arose from chaos. Most stories state that Eleves, the darkness, and Nuxe, the night, were undoubtedly born of chaos. However, other stories explain that Gaia, Tartarus, and Eros were also among the early gods and goddesses.
 
 ---
 
@@ -2976,6 +2985,27 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="uganda"></a>**Uganda**
+
+<img width="300" height="300" src="media/photos/flags/ug.svg">
+
+**Capital:** [Kampala](https://www.google.com/maps/search/Kampala)
+</br>
+**Official Language:** Swahili
+</br>
+**Currency:** Ugandan shilling (UGX)
+</br>
+**Population:** 42,729,036 (2018)
+</br>
+**Country Code (cioc):** UGA
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Bwindi Impenetrable Forests National Park, Rwenzori Mountain National Park, Queen Elizabeth National Park, The source of the Nile
+<br>Source [ugandatourism](https://ugandatourismcenter.com/top-10-tourist-attractions-in-uganda/)
+
+---
+
 ### <a name="ukraine"></a>**Ukraine**
 
 <img width="300" height="300" src="media/photos/flags/ua.svg">
@@ -3062,6 +3092,28 @@ Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-th
 
 **Top Attractions:**  Tango Museum of Montevideo, Legislative Palace, Punta del Este harbor, Playa de los Pocitos, Colonia del Sacramento    
 <br>Source [PlanetWare](https://www.planetware.com/uruguay/top-tourist-attractions-things-to-do-in-uruguay-uy-1-2.htm)
+
+
+---
+
+### <a name="uzbekistan"></a>**Uzbekistan**
+
+<img width="300" height="300" src="media/photos/flags/uz.svg">
+
+**Capital:** [Tashkent](https://www.google.com/maps/search/Tashkent)
+</br>
+**Official Language:** Uzbek
+</br>
+**Currency:** Uzbek som (UZS)
+</br>
+**Population:** 35,300,000 (2022)
+</br>
+**Country Code (cioc):** UZB
+</br>
+**Region:** Asia
+
+**Top Attractions:** Ark, Registan, Amir Timur Museum, The Walled City of Khiva, Chor Minor, Gur-e-Amir, Chorsu Bazaar
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/places-to-visit-in-uzbekistan/)
 
 
 ---
@@ -4338,6 +4390,21 @@ Sources [wiki](https://en.wikipedia.org/wiki/Zoo_hypothesis) , [nickbostrom](htt
 
 ---
 
+### <a name="quote_6"></a>**Quote 6.**
+
+<img width="300" height="300" src="media\photos\quotes\cosmos_quote_carl.jpg">
+
+- Source [quotes cosmos](https://www.quotescosmos.com/quotes/Carl-Sagan-quote-20.html)
+
+---
+### <a name="quote_7"></a>**Quote 7.**
+
+<img width="300" height="300" src="media\photos\quotes\quote_heraclitus.jpg">
+
+- Source [azquotes](https://www.azquotes.com/quote/843588)
+
+---
+
 ## <a name="zodiac"></a> **Zodiac**
 
 The zodiac is a belt-shaped section of the sky that stretches approximately 8 degrees north or south of the ecliptic, the apparent path of the Sun across the celestial sphere over the course of the year (as measured in celestial latitude). The Moon's and visible planets' courses are all within the zodiac belt. 
@@ -5240,6 +5307,18 @@ Handball (also known as team handball, European handball or Olympic handball) is
 
 ---
 
+### <a name="Sailing"></a>**Sailing**
+
+<img width="500" height="350" src="media/photos/Sports/Sailing.jpg">
+
+**Description**
+
+Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge history and successes in Greece. Sailing involves moving a boat by using the wind. There are many types of boats from the smallest, called Optimists, to the bigest, called America's Cup boats. The number of people who can sail a boat can be from one or up to ten, but this depend on the size of the boat.
+
+<br> Source [topendsports](https://www.topendsports.com/sport/list/sailing.htm)
+
+---
+
 ## <a name="mountains"></a> **_Mountains_**
 
 ---
@@ -5515,8 +5594,21 @@ owned by [britannica](https://www.britannica.com/topic/architecture)
 
 Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
 
+The 10 most iconic buildings in the world
+<br>
+-La Sagrada Familia, Barcelona
+-Forbidden City, Beijing
+-The Guggenheim, New York City
+-Hagia Sophia, Instanbul
+-Roman Coliseum, Rome
+-Notre Dame Cathedral, Paris
+-The Heydar Aliyev Center, Baku
+-Athenian Acropolis, Athens
+-Sydney Opera House, Sydney
+-Angkor Wat, Siem Reap
+
 Source [britannica](https://www.britannica.com/topic/architecture)
-, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/), [Indesignlive](https://www.indesignlive.com/ideas/the-10-most-iconic-buildings-in-the-world)
 
 ---
 ### <a name="painting"></a>**Painting**  
@@ -5527,9 +5619,22 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 Leonardo Da Vinci, Mona Lisa: An example of painting,
 owned by [TimeOut](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
-Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract. 
+Painting is one of the most known forms of art. It is expressed with the use of brushes, hands, markers, pencils and many other objects and of course paint. Usualy we find it on canvas, walls, papers etc. The thymes are usualy life, landscape, seascape, portraiture, or abstract.
 
-Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+Important Paintings
+<br>
+-Leonardo Da Vinci, Mona Lisa
+-Johannes Vermeer, Girl with a Pearl Earring
+-Vincent van Gogh, The Starry Night
+-Gustav Klimt, The Kiss
+-Sandro Botticelli, The Birth of Venus
+-James Abbott McNeill Whistler, Arrangement in Grey and Black No. 1
+-Jan van Eyck, The Arnolfini Portrait
+-Hieronymus Bosch, The Garden of Earthly Delights
+-Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
+-Pablo Picasso, Les Demoiselles d’Avignon
+
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art), [timeout](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
 ---
 
@@ -5543,7 +5648,17 @@ owned by [britannica](https://www.britannica.com/art/sculpture)
 
 Sculptur is transforming materials like plastic and marble into three-dimensional art objects. Other materials that are used in this form of art are stone, metal, ceramics and wood. It is one of the oldest form of arts.
 
-Source [britannica](https://www.britannica.com/art/sculpture)
+Famous Sculptures
+<br>
+-Venus of Willendorf
+-Bust of Nefertiti
+-The Terracotta Army
+-Laocoön and His Sons
+-Michelangelo, David
+-Gian Lorenzo Bernini, Ecstasy of Saint Teresa
+-Antonio Canova, Perseus with the Head of Medusa
+
+Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https://www.timeout.com/newyork/art/top-famous-sculptures-of-all-time)
 
 ---
 
@@ -5556,7 +5671,18 @@ owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-b
 
 Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
 
-Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html)
+Must Read Book List
+<br>
+-1984 by George Orwell
+-The Lord of the Rings by J.R.R. Tolkien
+-The Kite Runner by Khaled Hosseini
+-Harry Potter and the Philosopher’s Stone by J.K. Rowling
+-Slaughterhouse-Five by Kurt Vonnegut
+-Jane Eyre by Charlotte Bronte
+-Frankenstein by Mary Shelley
+-Principles: Life and Work by Ray Dalio
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html), [oberlo](https://www.oberlo.com/blog/must-read-books-of-all-time)
 
 ---
 
@@ -5567,9 +5693,20 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
 
 owned by [interlude](https://interlude.hk/music-as-art/)
 
-Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood. 
+Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood.
 
-Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/)
+Songs to hear before you Die 
+<br>
+-Two Weeks - Grizzly Bear.
+-Marinade - DOPE LEMON.
+-Fade Into You - Mazzy Star.
+-Feel Safe - All We Are.
+-At the Bottom of Everything - Bright Eyes.
+-New Slang - The Shins.
+-Walk In the Park - Beach House.
+-Hey - The Pixies.
+
+Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/),[purculture](https://purculture.com/whatsnew//100-songs-you-need-to-listen-to-before-you-die)
 
 ---
 
@@ -5600,6 +5737,9 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 ---
 
 ## <a name="religions"></a> **Religions**
+
+---
+
 ### <a name="christ"></a>**Christianity**  
   Christianity is an Abrahamic monotheistic religion based on Jesus of Nazareth's life and teachings. With around 2.5 billion adherents, it is the world's largest religion.  Christians believe that Jesus is the Son of God, whose coming as the messiah was promised in the Hebrew Bible (called the Old Testament in Christianity) and recounted in the New Testament. They make up the majority of the population in 157 nations and territories.Christianity's Western and Eastern branches, as well as its doctrines on justification and the nature of salvation, ecclesiology, ordination, and Christology, remain culturally distinct. The gospel, which means "good news," is referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of mankind; and referred to in the creeds of various Christian denominations as the Son of God—the Logos incarnated—who ministered, suffered, and died on a cross, but rose from the dead for the salvation of The four canonical gospels of Matthew, Mark, Luke, and John describe Jesus' life and teachings, with the Old Testament serving as the gospel's foundation.
 
@@ -5660,6 +5800,8 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
  ### <a name="Hinduism_"></a>**Hinduism**
 
+ <img width="300" height="300" src="media/photos/religions/hinduism.jpeg">
+
  Hinduism is both a religion and a way of life in India. With roughly 1.2 billion followers, or 15–16 percent of the worldwide population, Hinduism is the world's third-largest religion. While Hinduism has been dubbed the world's oldest religion, many adherents refer to it as Santana Dharma (Sanskrit:, lit. "the Eternal Dharma"), which refers to the concept that its origins extend beyond human history, as revealed in Hindu writings. Vaidika dharma, the'dharma associated to the Vedas, is another, though less suitable, self-designation.
 
  source [wikipedia](https://en.wikipedia.org/wiki/Hinduism)
@@ -5676,5 +5818,12 @@ Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewi
 
 Confucianism is a philosophy and belief system from ancient China. It affected deeply the Chinese culture. Confucius was a philosopher and teacher. His thoughts on ethics, good behavior, and moral character were written down by his disciples in several books. The core of Confucianism is humanistic with particular emphasis on the importance of the family and social harmony. Confucianism believes in ancestor worship and human-centered virtues for living a peaceful life. The golden rule of Confucianism is “Do not do unto others what you would not want others to do unto you.”
 
-source [nationalgeographic](#https://www.nationalgeographic.org/encyclopedia/confucianism/)
+source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
 
+---
+
+### <a name="twel"></a>**Twelve Olympians**
+
+In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
