@@ -496,6 +496,27 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Crepe](#crepe)
   - [Souvlaki](#souvlaki)
 
+
+- ### Linux Vs Windows Commands
+        Windows  -  Linux    -    Description
+      1. dir        ls -l         Directory listing
+      2. ren        mv            Rename a file
+      3. copy       cp            Copying a file
+      4. move       mv            Moving a file
+      5. cls        clear         Clear Screen
+      6. del        rm            Delete file
+      7. fc         diff          Compare contents of files
+      8. find       grep          Search for a string in a file
+      9. command/?  man command   Display the manual/help details of the command
+      10. chdir     qwd           Returns your current directory location
+      11. time      date          Displays the time
+      12. cd        cd            Change the current directory
+      13. md        mkdir         To create a new directory/folder
+      14. echo      echo          To print something on the screen
+      15. edit      vim           To write in to files
+      16. exit      exit          To leave the terminal/command window
+
+
 ---
 
 ## <a name="cosmos"></a> **_Cosmos_**
