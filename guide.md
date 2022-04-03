@@ -5669,7 +5669,7 @@ owened by [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
 **Description**
 
-The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. [1] The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
+The Alpine region of Switzerland, also known as the Swiss Alps (German: Schweizer Alpen, French: Alpes suisses, Italian: Alpi svizzere, Romansh: Alps svizras), is a major natural feature of the country and one of its three main physiographic regions, along with the Swiss Plateau and the Swiss portion of the Jura Mountains. The Swiss Alps comprise both the Western and Eastern Alps, and are sometimes referred to as the Central Alps. The northern ranges, from the Bernese Alps to the Appenzell Alps, are wholly inside Switzerland; however, the southern ranges, from the Mont Blanc massif to the Bernina massif, are shared with France, Italy, Austria, and Liechtenstein.
 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Swiss_Alps)
 
@@ -5683,7 +5683,7 @@ owened by [wiki](https://en.wikipedia.org/wiki/Kangchenjunga)
 
 **Description**
 
-Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. [3] [1] It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border[4], and the peaks West and Kangbachen in Nepal's Taplejung District.
+Kangchenjunga, often spelled Kanchenjunga, is the world's third tallest peak. It rises to an elevation of 8,586 meters (28,169 feet) in the Kangchenjunga Himal region of the Himalayas, which is bordered on the west by the Tamur River, the north by the Lhonak Chu and Jongsang La, and the east by the Teesta River. It is located between India and Nepal, with three of the five summits, namely Main, Central, and South, located on the Indian side of the border, and the peaks West and Kangbachen in Nepal's Taplejung District.
 
 Until 1852, Kangchenjunga was thought to be the world's highest mountain, but calculations based on numerous readings and measurements conducted by the Great Trigonometrical Survey of India in 1849 determined that Mount Everest was the highest mountain on the planet.
 
@@ -6183,7 +6183,7 @@ source [britannica](https://www.britannica.com/topic/Druze)
 
 <img width="600" height="435" src="media/photos/volcanos/Sangay.webp">
 
-Sangay (also known as Macas, Sanagay, or Sangai)[7] is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
+Sangay (also known as Macas, Sanagay, or Sangai) is an active stratovolcano in central Ecuador. It exhibits mostly strombolian activity. Geologically, Sangay marks the southern boundary of the Northern Volcanic Zone, and its position straddling two major pieces of crust accounts for its high level of activity. Sangay's approximately 500,000-year-old history is one of instability; two previous versions of the mountain were destroyed in massive flank collapses, evidence of which still litters its surroundings today.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Sangay)
 
@@ -6203,9 +6203,9 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
 
 <img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
 
-Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.[3]
+Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.
 
-The island's area is 12.6 square kilometres (4.9 sq mi),[4] on the upper third of the volcano that is above sea level and making an island.[5] Its population was about 500 as of 2016.[6] The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+The island's area is 12.6 square kilometres (4.9 sq mi), on the upper third of the volcano that is above sea level and making an island. Its population was about 500 as of 2016. The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
@@ -6239,4 +6239,4 @@ The glow of the volcano is rumored to be what attracted Captain James Cook on th
 
 Today, the mountain is a sacred area for the John Frum cargo cult. Members of the cult revere John Frum, a deified messenger who foretold the bringing of wealth to the island by American forces, and believe he resides in Mount Yasur with his countrymen.
 
-Source[livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
+Source [livescience](https://www.livescience.com/29790-worlds-five-most-active-volcanoes.html)
