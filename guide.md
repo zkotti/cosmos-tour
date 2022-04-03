@@ -6785,21 +6785,11 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Pizza)
 
 ### <a name="Spaghetti"></a>**Spaghetti**
 
-<img width="375" height="500" src="media/photos/foods/spaghetti.jpg">
+<img width="340" height="270" src="media/photos/foods/spaghetti.jpg">
 
 Spaghetti is a long, thin, solid, cylindrical pasta. It is a staple food of traditional Italian cuisine. Like other pasta, spaghetti is made of milled wheat and water and sometimes enriched with vitamins and minerals. Italian spaghetti is typically made from durum wheat semolina. Usually the pasta is white because refined flour is used, but whole wheat flour may be added. Spaghettoni is a thicker form of spaghetti, while capellini is a very thin spaghetti.
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Spaghetti
-
----
-
-### <a name="Burger"></a>**Burger**
-
-<img width="375" height="500" src="media/photos/foods/burger.jpg">
-
-A hamburger (or burger for short) is a food consisting of fillings —usually a patty of ground meat, typically beef—placed inside a sliced bun or bread roll. Hamburgers are often served with cheese, lettuce, tomato, onion, pickles, bacon, or chilis; condiments such as ketchup, mustard, mayonnaise, relish, or a "special sauce", often a variation of Thousand Island dressing; and are frequently placed on sesame seed buns. A hamburger topped with cheese is called a cheeseburger.
-
-Source [wikipedia](https://en.wikipedia.org/wiki/Hamburger)
 
 ---
 
