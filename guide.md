@@ -156,6 +156,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Switzerland](#switzerland)
   - [Syria](#syria)
   - [Taiwan](#taiwan)
+  - [Tajikistan](#tajikistan)
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
@@ -3505,6 +3506,28 @@ Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g294010-Activities-S
 **Top Attractions:** Taipei 101, National Palace Museum, Taroko Gorge, Yushan National Park
 <br>
 Source [theculturetrip](https://theculturetrip.com/asia/taiwan/articles/20-must-visit-attractions-in-taiwan/)
+
+---
+
+### <a name="tajikistan"></a>**Tajikistan**
+
+<img width="300" height="300" src="media/photos/flags/tj.svg">
+
+**Capital:** [Dushanbe](https://www.google.com/maps/search/Dushanbe)
+</br>
+**Official Languages:** Tajik, Russian
+</br>
+**Currency:** Somoni (TJS)
+</br>
+**Population:** 9,537,645 (2020)
+</br>
+**Country Code (cioc):** TJK
+</br>
+**Region:** Asia
+
+**Top Attractions:** Pamir Highway, Kayrakkum Reservoir, Rudaki Park, Statue of Ismoil Somoni
+<br>
+Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g293963-Activities-Tajikistan.html)
 
 ---
 
