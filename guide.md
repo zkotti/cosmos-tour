@@ -140,6 +140,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Taiwan](#taiwan)
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
@@ -317,6 +318,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Stephen Hawking](#Stephen_Hawking)
   - [Neil Armstrong](#Neil_Armstrong)
   - [Alan Turing](#Alan_Turing)
+  - [Wolfgang Amadeus Mozart](#Mozart)
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
   - [Elon Musk](#Musk)
@@ -3061,6 +3063,28 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="taiwan"></a>**Taiwan**
+
+<img width="300" height="300" src="media/photos/flags/tw.svg">
+
+**Capital:** [Taipei](https://www.google.com/maps/search/Taipei)
+</br>
+**Official Language:** Standard Chinese
+</br>
+**Currency:** New Taiwan dollar (TWD)
+</br>
+**Population:** 23,451,837 (2021)
+</br>
+**Country Code (cioc):** TPE
+</br>
+**Region:** Asia
+
+**Top Attractions:** Taipei 101, National Palace Museum, Taroko Gorge, Yushan National Park
+<br>
+Source [theculturetrip](https://theculturetrip.com/asia/taiwan/articles/20-must-visit-attractions-in-taiwan/)
+
+---
+
 ### <a name="uganda"></a>**Uganda**
 
 <img width="300" height="300" src="media/photos/flags/ug.svg">
@@ -5058,6 +5082,19 @@ source [wiki](https://en.wikipedia.org/wiki/Neil_Armstrong)
 Alan Mathison Turing was an English mathematician, computer scientist, logician, cryptanalyst, philosopher, and theoretical biologist who lived from June 23, 1912 until June 7, 1954. With the Turing machine, which can be considered a model of a general-purpose computer, Turing had a significant impact on the development of theoretical computer science, offering a formalisation of the ideas of algorithm and computation. Turing is regarded as the father of theoretical computer science and artificial intelligence.  
 
 source [wiki](https://en.wikipedia.org/wiki/Alan_Turing)
+
+---
+
+### <a name="Mozart"></a>**Wolfgang Amadeus Mozart**
+
+<img width="348" height="446" src="media/photos/personalities/Wolfgang_amadeus_mozart.jpg">
+
+Image Source [Wikipedia](https://en.wikipedia.org/wiki/File:Wolfgang-amadeus-mozart_1.jpg)
+
+Wolfgang Amadeus Mozart, (full name Johannes Chrysostomus Wolfgangus Theophilus Mozart) was an Austrian composer. He was born on January 27th, 1756 in Salzburg and died on December 5th, 1791 in Vienna. His father was the accomplished violinist and composer Leopold Mozart. He was a child prodigy; at age five he began to compose and gave his first public performance. From 1763 he toured with his father throughout Europe going as far as France and England. In 1764, he wrote his first symphonies. Tours of Italy followed (1769-1773) where he wrote his first Italian opera. In 1775-77 he composed his first piano sonatas and violin concertos. His mother died in 1778. He then returned to Salzburg as cathedral organist and in 1781 wrote his opera seria Idomeneo. He was released from his post in 1781 and moved to Vienna and began his independent career. He married Constanze Weber and gave piano lessons,. The late 1780s were the height of his success, with the string quartets dedicated to Haydn and the three great operas on Lorenzo Da Ponte’s librettos—The Marriage of Figaro (1786), Don Giovanni (1787), and Così fan tutte (1790)—and his superb late symphonies. In the last year of his life he composed the opera The Magic Flute and his great Requiem, which was left unfinished because of his death. It was later completed from the composer Franz Xaver Süssmayr. He died at the age of 35 and the causes of his death remain unclear to this day. Some theories suggest miliary fever, rheumatic fever, and the Schönlein-Henoch syndrome. No other composer left such an extraordinary legacy in so short a lifetime.
+
+Source [Wikipedia](https://en.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)
+
 
 ---
 
