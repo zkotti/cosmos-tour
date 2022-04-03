@@ -25,6 +25,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [The Creation of the Universe According to Greek Mythology](#mythology)
   - [Everything You Need to Know About Chaos](#chaos)
   - [9 of the most mind-blowing facts about the Universe](#facts)
+  - [Dark Energy & Dark Matter](#dark)
 
 - ### [Continents](#continents)
 
@@ -143,11 +144,13 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Romania](#romania)
   - [Russia](#russia)
   - [San Marino](#san_marino)
+  - [Sao Tome and Principe](#sao_tome_and_principe)
   - [Saudi Arabia](#saudi_arabia)
   - [Scotland](#scotland)
   - [Senegal](#senegal)
   - [Slovakia](#slovakia)
   - [Slovenia](#slovenia)
+  - [Somalia](#somalia)
   - [Spain](#spain)
   - [Sweden](#sweden)
   - [Switzerland](#switzerland)
@@ -461,12 +464,6 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   
   
   
-
-  
-  
-
-  
-
 - ### [Volcanos](#volcanos) 
   - [Sangay](#sangay)
   - [Santa Maria](#santa_maria)
@@ -556,6 +553,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
       15. edit      vim           To write in to files
       16. exit      exit          To leave the terminal/command window
 
+
+- ### [Average Download Speed](#averageDownloadSpeed)
 
 ---
 
@@ -813,6 +812,20 @@ Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
 Source [skyatnightmagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
+
+### <a name="dark"></a>**Dark Energy & Dark Matter**
+
+The world that we all know is not entirely accurate. Everything that is visible to us, all the atoms and light in the universe together make up less than five percent of the total contents of the cosmos. But what about the rest 95 percent?
+The answer to that question is dark matter and dark energy. These invisible concepts dominate the structure and the evolution of the universe, yet we know so little about them.
+Dark matter (approximately 68% of the cosmos) makes up most of the mass of galaxies and galaxy clusters, and is responsible for the way galaxies are organized on grand scales.
+Dark energy, meanwhile, is the name we give the mysterious influence driving the accelerated expansion of the universe and it makes up almost 27% of the cosmos.
+
+
+Sources [Harvard](https://www.cfa.harvard.edu/research/topic/dark-energy-and-dark-matter)
+
+
+---
+
 
 ## <a name="continents_map"></a>**_Continents_**
 
@@ -3229,6 +3242,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="sao_tome_and_principe"></a>**Sao Tome and Principe**
+
+<img width="300" height="300" src="media/photos/flags/st.svg">
+
+**Capital:** [São Tomé](https://www.google.com/maps/search/São+Tomé)
+</br>
+**Official Language:** Portuguese
+</br>
+**Currency:** Dobra (STN)
+</br>
+**Population:** 211,028 (2018)
+</br>
+**Country Code (cioc):** STP
+</br>
+**Region:** Africa
+
+**Top Attractions:** Pico Cão Grande, Cascata de Sao Nicolau, Lagoa Azul, Obo National Park
+<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294441-Activities-Sao_Tome_and_Principe.html)
+
+
+---
+
 ### <a name="saudi_arabia"></a>**Saudi Arabia**
 
 <img width="300" height="300" src="media/photos/flags/sa.svg">
@@ -3334,6 +3369,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Predjama Castle, Postojna Cave, Lake Bled, Franja Partisan Hospital
 <br>Source [TheCultureTrip](https://theculturetrip.com/europe/slovenia/articles/15-must-see-attractions-in-slovenia/)
+
+---
+
+
+### <a name="somalia"></a>**Somalia**
+
+<img width="300" height="300" src="media/photos/flags/so.svg">
+
+**Capital:** [Mogadishu](https://www.google.com/maps/search/Mogadishu)
+</br>
+**Official Languages:** Somali, Arabic
+</br>
+**Currency:** 	Somali shilling (SOS)
+</br>
+**Population:** 15,893,219 (2020)
+</br>
+**Country Code (cioc):** SOM
+</br>
+**Region:** Africa
+
+**Top Attractions:**  Liido Beach Somalia, The Tomb of the Unknown Soldier, Mogadishu Cathedral
+<br>Source [Tripadvisor](https://www.tripadvisor.com.gr/Attractions-g294439-Activities-Somalia.html)
 
 
 ---
@@ -7274,7 +7331,115 @@ Souvlaki (Greek: σουβλάκι, souvláki, [suˈvlaci]; plural: σουβλά�
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Souvlaki)
 
+---
 
+## <a name="averageDownloadSpeed"></a>**Average Download Speed**
 
+---
 
+| Rank | Country/Territory | Averagedownloadspeed(Mbit/s)(Ookla)|
+|---|---|---|
+| 1 |  Morocco | 245.50 | 72.74 | 242.17
+| 2 |  Tanzania | 241.58 | 40.80 | 168.46
+| 3 |  Hong Kong | 240.83 | 105.32 | 53.27
+| 4 |  Monaco | 220.35 | 104.97 | 203.15
+| 5 |  Romania | 214.33 | 61.08 | 186.06
+| 6 |  Denmark | 210.71 | 85.02 | 193.23
+| 7 |  Thailand | 206.81 | 30.61 | 211.10
+| 8 |  Hungary | 193.80 | 99.73 | 172.10
+| 9 |  Liechtenstein | 193.79 | 229.98 | 162.70
+| 10 |  France | 192.25 | 51.33 | 179.05
+| 11 |  United States | 191.97 | 71.29 | 171.01
+| 12 |  Andorra | 191.23 | 213.41 | 180.10
+| 13 |   Switzerland | 188.69 | 110.45 | 194.16
+| 14 |  Spain | 186.40 | 55.83 | 167.15
+| 15 |  Chile | 176.48 | 16.10 | 149.37
+| 16 |  China | 172.95 | 2.08 | 153.49
+| 17 |  Macau | 170.30 | 14.65 | 158.94
+| 18 |  Sweden | 169.00 | 81.29 | 164.32
+| 19 |  Canada | 167.61 | 52.60 | 156.94
+| 20 |  Japan | 167.18 | 54.61 | 147.19
+| 21 |  Taiwan | 163.85 | 54.62 | 143.39
+| 22 |  Norway | 159.99 | 67.31 | 151.86
+| 23 |  Luxembourg | 154.26 | 118.05 | 144.99
+| 24 |  New Zealand | 153.88 | 66.66 | 146.01
+| 25 |  Netherlands | 152.94 | 95.60 | 134.42
+| 26 |  United Arab Emirates | 151.09 | 28.33 | 123.65
+| 27 |  Portugal | 150.39 | 37.99 | 137.26
+| 28 |  Israel | 147.36 | 26.49 | 123.50
+| 29 |  Malta | 134.48 | 87.36 | 116.20
+| 30 |  Lithuania | 132.67 | 56.63 | 120.14
+| 31 |  Poland | 130.98 | 55.40 | 109.60
+| 32 |  Kuwait | 130.66 | 12.06 | 118.86
+| 33 |  Latvia | 128.69 | 32.32 | 119.95
+| 34 |  Panama | 125.25 | 36.55 | 104.60
+| 35 |  Germany | 120.93 | 42.32 | 118.12
+| 36 |  Finland | 119.32 | 44.05 | 112.15
+| 37 |  Austria | 117.31 | 27.74 | 72.15
+| 38 |  San Marino | 115.27 | 24.26 | 97.12
+| 39 |  Moldova | 114.01 | 27.48 | 101.50
+| 40 |  Ireland | 112.81 | 34.87 | 99.67
+| 41 |  Slovenia | 108.47 | 65.46 | 87.60
+| 42 |  Belgium | 107.12 | 66.48 | 97.61
+| 43 |  Barbados | 105.71 | 56.90 | 102.32
+| 44 |  Qatar | 105.20 | 23.98 | 97.79
+| 45 |  Malaysia | 103.34 | 46.82 | 92.35
+| 46 |  Slovakia | 101.28 | 91.97
+| 47 |  United Kingdom | 92.63 | 37.82 | 82.84
+| 48 |  Italy | 90.93 | 23.18 | 73.65
+| 49 |  Brazil | 90.30 | 17.89 | 74.32
+| 50 |  Saudi Arabia | 90.24 | 12.67 | 78.95
+| 51 |  Russia | 87.01 | 24.98 | 79.65
+| 52 |  Czech Republic | 85.89 | 28.12 | 69.50
+| 53 |  Trinidad and Tobago | 79.89 | 29.70 | 71.84
+| 54 |  Bulgaria | 78.84 | 46.22 | 67.46
+| 55 |  Estonia | 78.58 | 70.90 | 86.30
+| 56 |  Australia | 77.88 | 25.65 | 60.25
+| 57 |  Serbia | 77.88 | 24.74 | 68.23
+| 58 |  Belarus | 68.73 | 16.08 | 66.41
+| 59 |  Ukraine | 67.52 | 15.09 | 64.10
+| 60 |  Jordan | 67.35 | 14.54 | 50.43
+| 61 |  Vietnam | 66.38 | 13.41 | 61.50
+| 62 |  Montenegro | 64.44 | 25.07 | 59.50
+| 63 |  Bahrain | 58.53 | 10.87 | 224.15
+| 64 |  Oman | 57.53 | 12.25 | 45.98
+| 65 |  Croatia | 57.30 | 33.82 | 45.63
+| 66 |  Paraguay | 56.89 | 16.50 | 45.40
+| 67 |  Kazakhstan | 56.12 | 5.01 | 51.30
+| 68 |  Bahamas | 55.99 | 43.01
+| 69 |  India | 55.76 | 13.46 | 52.25
+| 70 |  Grenada | 54.65 | 38.64 | 49.93
+| 71 |  Kosovo | 54.39 | 20.30 | 46.62
+| 72 |  Uruguay | 53.88 | 22.16 | 54.60
+| 73 |  Colombia | 53.73 | 8.80 | 42.56
+| 74 |  Ghana | 51.93 | 5.46 | 44.76
+| 75 |  Peru | 51.81 | 7.98 | 46.28
+| 76 |  Argentina | 51.51 | 6.20 | 48.34
+| 77 |  Cyprus | 50.46 | 15.62 | 49.30
+| 78 |  Belize | 49.44 | 16.57 | 38.54
+| 79 |  Ivory Coast | 49.33 | 
+| 80 |  Philippines | 49.31 | 8.77 | 
+| 81 |  Mexico | 48.35 | 16.19 | 42.96
+| 82 |  Kyrgyzstan | 48.12 | 5.47 | 44.01
+| 83 |  Costa Rica | 47.93 | 16.42 | 43.76
+| 84 |  Saint Vincent and the Grenadines | 46.51 | 15.69 | 41.45
+| 85 |  Saint Lucia | 45.66 | 16.35 | 40.85
+| 86 |  Guyana | 45.37 | 4.43 | 40.60
+| 87 |  Albania | 45.25 | 12.36 | 41.01
+| 88 |  Bosnia and Herzegovina | 44.85 | 15.66 | 43.50
+| 89 |  Laos | 43.98 | 
+| 90 |  South Africa | 43.91 | 14.04 | 38.67
+| 91 |  Mongolia | 43.67 | 5.25 | 41.82
+| 92 |  Madagascar | 41.40 | 18.00 | 37.65
+| 93 |  Egypt | 39.66 | 4.71 | 33.94
+| 94 |  Uzbekistan | 39.20 | 2.10 | 32.51
+| 95 |  Jamaica | 37.95 | 20.01 | 36.49
+| 96 |  Dominica | 37.62 | 10.69 | 32.76
+| 97 |  North Macedonia | 37.20 | 11.48 | 32.25
+| 98 |  Greece | 36.73 | 26.01 | 30.81
+| 99 |  Bangladesh | 36.02 | 3.24 | 32.05
+| 100 |  Senegal | 35.32 | 5.93 |\
 
+Source [wikipedia](https://en.wikipedia.org/wiki/List_of_countries_by_Internet_connection_speeds)
+
+ ---
