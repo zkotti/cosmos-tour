@@ -5885,7 +5885,7 @@ owned by [medievalists](https://www.medievalists.net/2021/05/justinians-hagia-so
 
 owned by [nationalgeographic](https://www.nationalgeographic.org/article/protestant-reformation/9th-grade/)
 
-  Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe and it has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
+  Protestantism is the religion of Western Christianity that rejects the authority of the pope of Rome. Its history stems from the Reformation of the 16th century in Christian Europe. Martin Luther, a German teacher and a monk, brought about the Protestant Reformation when he challenged the Catholic Church's teachings starting in 1517. Luther's statements challenged the Catholic Church's role as mediator between people and God, specifically when it came to the indulgence system. Protestantism has three fundamental beliefs. Firstly, the Bible is the ultimate authority in matters of religious truth. Secondly, human beings are saved only by God's "grace" ,for example unearned gift, and lastly all Christians are priests. In other words, all Christians are able to intercede with God on behalf of others and themselves, able to bear witness, able to confess their sins and be forgiven.
 
   source [britannica](https://www.britannica.com/topic/Protestantism)
 
