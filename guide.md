@@ -125,6 +125,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
   - [Kyrgyzstan](#kyrgyzstan)
+  - [Kiribati](#kiribati)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -1009,7 +1010,8 @@ Country flags are available [here](https://flagicons.lipis.dev/)
 
 
 <img width="1200" height="715" src="media/photos/maps/world-map.jpg">
-<br>owner [geology](https://geology.com/world/world-map.shtml)
+
+Owner[geology](https://geology.com/world/world-map.shtml)
 
 
 ### <a name="afghanistan"></a>**Afghanistan**
@@ -2825,6 +2827,26 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 **Top Attractions:**  Ala-Archa Gorge, Issyk-Kul Lake, Mountain Sulaiman-Too, Ala Kul Lake, Osh Bazaar
 <br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293947-Activities-Kyrgyzstan.html)
 
+---
+
+### <a name="kiribati"></a>**Kiribati**
+
+<img width="300" height="300" src="media/photos/flags/ki.svg">
+
+**Capital:** [South Tarawa](https://www.google.com/maps/search/South+Tarawa)
+</br>
+**Official Language:** English, Gilbertese
+</br>
+**Currency:** 	Australian dollar (AUD)
+</br>
+**Population:** 119,940 (2020)
+</br>
+**Country Code (cioc):** KIR
+</br>
+**Region:** Pacific Ocean
+
+**Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
+<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
 
 ---
 
