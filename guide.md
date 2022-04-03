@@ -3060,6 +3060,28 @@ Source [nationsonline](https://www.nationsonline.org/oneworld/switzerland.htm)
 
 ---
 
+### <a name="taiwan"></a>**Taiwan**
+
+<img width="300" height="300" src="media/photos/flags/tw.svg">
+
+**Capital:** [Taipei](https://www.google.com/maps/search/Taipei)
+</br>
+**Official Language:** Standard Chinese
+</br>
+**Currency:** New Taiwan dollar (TWD)
+</br>
+**Population:** 23,451,837 (2021)
+</br>
+**Country Code (cioc):** TPE
+</br>
+**Region:** Asia
+
+**Top Attractions:** Taipei 101, National Palace Museum, Taroko Gorge, Yushan National Park
+<br>
+Source [theculturetrip](https://theculturetrip.com/asia/taiwan/articles/20-must-visit-attractions-in-taiwan/)
+
+---
+
 ### <a name="uganda"></a>**Uganda**
 
 <img width="300" height="300" src="media/photos/flags/ug.svg">
