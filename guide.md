@@ -5859,6 +5859,13 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
   Islam began in Arabia and was revealed to humanity by the Prophet Muhammad. Those who follow Islam are called Muslims. Muslims believe that there is only one God. The Arabic word for God is Allah. Retaining its emphasis on an uncompromising monotheism and a strict adherence to certain essential religious practices, the religion taught by Muhammad to a small group of followers spread rapidly through the Middle East to Africa, Europe, the Indian subcontinent, the Malay Peninsula, and China. By the early 21st century there were more than 1.5 billion Muslims worldwide. 
 
+  #### <a name="branchesIslam"></a> **Braches of Islam**
+  - Sunni Islam
+  - Shia Islam
+  - Ibadi
+  - Sufism
+
+
   source [wikipedia](https://en.wikipedia.org/wiki/Islam)
 
   ---
