@@ -22,6 +22,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Career in Space](#jobs)
   - [The Creation of the Universe According to Greek Mythology](#mythology)
   - [Everything You Need to Know About Chaos](#chaos)
+  - [9 of the most mind-blowing facts about the Universe](#facts)
 
 - ### [Continents](#continents)
 
@@ -626,6 +627,40 @@ According to Greek mythology, chaos is the first  to ever exist, an integral par
 Unlike many other stories in Greek mythology, it is important to understand that chaos is not a primitive god or goddess. Instead, chaos is presented as a place that exists separately from the influence of gods and goddesses.  Hesiod,  one of the first writers to tell the story of Greek mythology, described chaos as an area above the underworld and under the sky. Chaos came before anything else, so it was usually described as dark and foggy.
 
 Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
+
+---
+
+### <a name="facts"></a>**9 of the most mind-blowing facts about the Universe**
+
+
+1.There is a supermassive black hole at the heart of every galaxy
+
+
+
+2.There is a supermassive black hole at the heart of every galaxy
+
+
+3.Approximately 95% of the Universe is invisible
+
+
+4.The Universe was born
+
+
+5.Most of the stuff in the Universe has repulsive gravity
+
+
+6.The Sun is producing only a third of the neutrinos expected
+
+
+7.Most planetary systems are different from ours
+
+
+8.The first gravitational waves detected came from a binary black hole system nobody predicted
+
+9.We appear to be alone
+
+
+Source [skyatnightmagazine](https://www.skyatnightmagazine.com/space-science/facts-about-space-universe/)
 
 ---
 
