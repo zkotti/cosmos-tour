@@ -380,7 +380,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
     - [Petra](#petra_city)
     - [Taj Mahal](#taj_mahal)
 
-- ### [Facts About Space](#facts)
+- ### [Facts About Space](#facts_2)
   - [#1](#fact1)
   - [#2](#fact2)
   - [#3](#fact3)
@@ -5809,7 +5809,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 ---
 
-## <a name="facts"></a> **Facts about Space**
+## <a name="facts_2"></a> **Facts about Space**
 ---
 ### <a name="fact1"></a>**1. SPACE IS COMPLETELY SILENT**
 
