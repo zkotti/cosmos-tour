@@ -113,6 +113,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Greece](#greece)
   - [Guatemala](#guatemala)
   - [Honduras](#honduras)
+  - [Hungary](#hungary)
   - [Iceland](#iceland)
   - [India](#india)
   - [Indonesia](#indonesia)
@@ -2790,6 +2791,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:**  Roatan, Lago de Yojoa, Punta Sal, Rio Platano Biosphere Reserve, Guanaja, Comayagua Street Carpets 
 <br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-honduras/)
+
+---
+
+### <a name="hungary"></a>**Hungary**
+
+<img width="300" height="300" src="media/photos/flags/hu.svg">
+
+**Capital:** [Budapest](https://www.google.com/maps/search/Budapest)
+</br>
+**Official Language:** 	Hungarian
+</br>
+**Currency:** Forint (HUF)
+</br>
+**Population:** 9,730,000 (2021)
+</br>
+**Country Code (cioc):** HUN
+</br>
+**Region:** Europe
+
+**Top Attractions:**  Buda Castle, The Danube River, Esztergom Basilica, Hungarian Parliament Building
+<br>Source [Planetware](https://www.planetware.com/tourist-attractions/hungary-h.htm)
+
 
 ---
 
