@@ -315,6 +315,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Ludwig van Beethoven](#Beethoven)
   - [Margaret Thatcher](#Margaret)
   - [Elon Musk](#Musk)
+  - [Nikola Tesla](#tesla)
   
   
 - ### [Youtube Videos](#videos)
@@ -625,6 +626,7 @@ According to Greek mythology, chaos is the first  to ever exist, an integral par
 Unlike many other stories in Greek mythology, it is important to understand that chaos is not a primitive god or goddess. Instead, chaos is presented as a place that exists separately from the influence of gods and goddesses.  Hesiod,  one of the first writers to tell the story of Greek mythology, described chaos as an area above the underworld and under the sky. Chaos came before anything else, so it was usually described as dark and foggy.
 
 Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
+
 ---
 
 ## <a name="continents_map"></a>**_Continents_**
@@ -4992,6 +4994,17 @@ Elon Reeve Musk FRS (born June 28, 1971) is a business mogul and entrepreneur. H
 source [wikipedia](https://en.wikipedia.org/wiki/Elon_Musk)
 
 ---
+
+### <a name="tesla"></a>**Nikola Tesla**
+
+<img width="300" height="300" src="media/photos/personalities/Tesla.jpg">
+
+Nikola Tesla was a Serbian-American electrician, inventor, physicist, and mechanical engineer. He discovered and patented the rotating magnetic field that is the basis of most AC machines.
+
+source [britannica](https://www.britannica.com/biography/Nikola-Tesla)
+
+---
+
 
 ## <a name="videos"></a> **Youtube Videos**
   ### <a name="Earth101"></a>**Earth 101 | National Geographic**
