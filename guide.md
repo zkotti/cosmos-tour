@@ -371,7 +371,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Seven Wonders of the Ancient World](#ancient_wonders)
   - [New Seven Wonders of the World](#new_wonders)
     - [Chichen Itza](#chichen_itza)
-    - [Christ the Redeemer](#christ)
+    - [Christ the Redeemer](#christ_redeemer)
     - [Colosseum](#colosseum_rome)
     - [Great Wall of China](#china_wall)
     - [Machu Picchu](#machu_picchu)
@@ -5591,7 +5591,7 @@ Chichen Itza was a large Mayan city on the Yucatán Peninsula in Mexico. Occupyi
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Chichen_Itza), [britannica](https://www.britannica.com/place/Chichen-Itza)
 
-### <a name="christ"></a>**Christ the Redeemer**
+### <a name="christ_redeemer"></a>**Christ the Redeemer**
 
 <img width="512" height="768" src="media/photos/wonders/christ.jpg">
 
