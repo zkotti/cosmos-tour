@@ -146,7 +146,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
-  - [United States](#usa)
+  - [United States](#usa) - Click [here](#states) to see the States
   - [Uruguay](#uruguay)
   - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
