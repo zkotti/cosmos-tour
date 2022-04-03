@@ -327,6 +327,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Top 10 Sports](#Popular_Sports)
   - [Football](#Football)
     - [Football Competitions](#Football_Competitions)
+      - [World Cup](#World_Cup)
   - [Cricket](#Cricket)
   - [Tennis](#Tennis)
   - [Volleyball](#Volleyball)
@@ -5034,6 +5035,15 @@ Football has a large number of competitions. There are intercontinental tourname
 
 ---
 
+### <a name="World_Cup"></a>**World Cup**
+
+**Description**
+
+In football, the World Cup is a quadrennial tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
+
+<br> Source [britannica](https://www.britannica.com/sports/World-Cup-football)
+
+---
 
 ### <a name="Cricket"></a>**Cricket**
 
