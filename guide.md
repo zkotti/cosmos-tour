@@ -6235,9 +6235,9 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
 
 <img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
 
-Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.
+Mount Stromboli, one of Italy's three active volcanoes, is located off the north coast of Sicily on an island in the Tyrrhenian Sea. It is one of the eight Aeolian Islands, located north of Sicily in a volcanic arc. People believed that this was where Aeolus dwelt, according to Strabo.
 
-The island's area is 12.6 square kilometres (4.9 sq mi), on the upper third of the volcano that is above sea level and making an island. Its population was about 500 as of 2016. The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+The volcano has erupted several times and is still active with mild eruptions that may be seen from various locations on the island and from the surrounding water, earning the island the moniker "Lighthouse of the Mediterranean."
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
