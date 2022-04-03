@@ -403,6 +403,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Judaism](#Judaism_)
   - [Confucianism](#conf)
   - [Twelve Olympians](#twel)
+  - [Druze](#druze)
   
 
 
@@ -5841,3 +5842,11 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
   In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
+
+---
+
+### <a name="druze"></a>**Druze**
+
+The Druze are a Middle Eastern religious sect characterized by an eclectic system of doctrines and by a cohesion and loyalty among its members that have enabled them to maintain for centuries their close-knit identity and distinctive faith. Despite the small size of their community, the Druze have played in important part in the history of the Middle East. Nowadays, Druze are mostly reside in Lebanon. The Druze faith stemed from Egypt when some Isma theologians began to see al-Ḥākim as a divine figure. Al-Ḥākim disappeared mysteriously in 1021, and the movement was persecuted under his successor, al-Zāḥir.
+
+source [britannica](https://www.britannica.com/topic/Druze)
