@@ -5939,6 +5939,8 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="Taoism"></a>**Taoism**
 
+  <img width="300" height="300" src="media/photos/religions/taoism.png">
+
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Taoism)
@@ -5946,6 +5948,8 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
   ---
 
   ### <a name="Islam"></a>**Islam**
+
+   <img width="640" height="425" src="media\photos\religions\islam.jpeg">
 
   Islam began in Arabia and was revealed to humanity by the Prophet Muhammad. Those who follow Islam are called Muslims. Muslims believe that there is only one God. The Arabic word for God is Allah. Retaining its emphasis on an uncompromising monotheism and a strict adherence to certain essential religious practices, the religion taught by Muhammad to a small group of followers spread rapidly through the Middle East to Africa, Europe, the Indian subcontinent, the Malay Peninsula, and China. By the early 21st century there were more than 1.5 billion Muslims worldwide. 
 
