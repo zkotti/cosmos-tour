@@ -64,4 +64,5 @@ h2 = soup_guide.find_all('h2')
 for i in h2:
     if name in str(i):
         html_parameter = find_name('name', str(i))
-        webbrowser.open_new('https://e-panourgia.github.io/cosmos-tour/guide.html#' + html_parameter)
+        webbrowser.open_new(
+            'https://e-panourgia.github.io/cosmos-tour/guide.html#' + html_parameter)

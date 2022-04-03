@@ -45,5 +45,5 @@ def test2_add_links_to_capitals(type_of_file, name_of_file, is_modified):
     regex = r"(?i)\b((?:https?://|www\d{0,3}[.]|[a-z0-9.\-]+[.][a-z]{2,4}/)(?:[^\s()<>]+|\(([^\s" \
             r"()<>]+|(\([^\s()<>]+\)))*\))+(?:\(([^\s()<>]+|(\([^\s()<>]+\)))*\)|[^\s`!()\[\]{}" \
             r";:'\".,<>?«»“”‘’]))"
-    assert all(bool(re.findall(regex, lines_of_new_guide_file[line_number])) for 
+    assert all(bool(re.findall(regex, lines_of_new_guide_file[line_number])) for
                line_number in range(0, 3)) is is_modified

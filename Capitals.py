@@ -7,10 +7,12 @@ for line in all_lines:
             new_lines += line
         else:
             new_lines += sp[0] + " [" + sp[1] + "]" \
-                         + "(" + "https://www.google.com/maps/search/" + sp[1].replace(" ", "%20") + ")" + "\n"
+                + "(" + "https://www.google.com/maps/search/" + \
+                sp[1].replace(" ", "%20") + ")" + "\n"
     else:
         new_lines += line
-    return new_lines  
+    return new_lines
+
 
 def enrich_countries_with_hyperlinks(file_name="guide.md"):
     with open("guide.md", "w", encoding="utf-8") as f:
@@ -18,6 +20,7 @@ def enrich_countries_with_hyperlinks(file_name="guide.md"):
         f.write(new_lines)
         f.close()
     return new_lines
+
 
 with open("guide.md", "w", encoding="utf-8") as f:
     f.write(new_lines)

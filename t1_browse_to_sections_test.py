@@ -10,7 +10,7 @@ from .browse_to_sections import find_name
                            '<a name="cosmos_books"></a>'
                            '<strong>Cosmos Books</stro',           '="cosmos_books'],
                           ['<h2 id=\"atlantic-ocean\">'
-                           '<a name="atlantic_ocean"></a>' 
+                           '<a name="atlantic_ocean"></a>'
                            '<strong>Atlantic Ocean</strong></h2>', '"><a name="atlantic_ocean']])
 def test1_find_name(input, expected_output):
     assert find_name('name', input) == expected_output
