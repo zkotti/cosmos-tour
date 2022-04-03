@@ -5811,6 +5811,9 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 
 ---
 ### <a name="Highest_Mountains"></a>**Top 14 highest Mountains**
+<img width="550" height="303" src="media/photos/mountains/14peaks.png">
+
+owened by [wikimedia](https://commons.wikimedia.org/wiki/Eight-thousander)
 
 |      **Mountain**    |    **Height (m)**    |      **Country**     |
 | :------------------: | :------------------: | :------------------: |
@@ -5828,7 +5831,10 @@ Sailing (also refers to wind-serfing and kite-serfing) is a sport with a huge hi
 |      Broad Peak      |        8.047         |   Pakistan, China    |
 |     Gasherbrum II    |        8.035         |   Pakistan, China    |
 |     Shishapangma     |        8.012         |       China          |
-
+---
+### <a name="deathzone"></a>**Death Zone**  
+  
+The death zone in climbing refers to heights over a specific point where oxygen pressure is insufficient to maintain human life for a lengthy period of time. This point is commonly referred to as 8,000 meters (26,000 ft, less than 356 millibars of atmospheric pressure).  A Swiss doctor named Edouard Wyss-Dunant came up with the idea in 1953 and named it the deadly zone.  The Himalaya and Karakoram of Asia include all 14 peaks above 8000 meters in the death zone.  
 
 ---
 
