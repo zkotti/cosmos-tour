@@ -6280,7 +6280,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Alabama)
 
 ### <a name="Alaska"></a>**Alaska**
 
-<img width="250" height="167" src="media/photos/states/Alaska.png">
+<img width="250" height="167" src="media/photos/states/Alaska.webp">
 
 Alaska is a state located in the Western United States on the northwest extremity of North America. A semi-exclave of the U.S., it borders the Canadian province of British Columbia and the territory of Yukon to the east and shares a maritime border with the Russian Federation's Chukotka Autonomous Okrug to the west, just across the Bering Strait. To the north are the Chukchi and Beaufort seas of the Arctic Ocean, while the Pacific Ocean lies to the south and southwest.
 
@@ -6310,7 +6310,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Arkansas)
 
 ### <a name="California"></a>**California**
 
-<img width="250" height="167" src="media/photos/states/California.png">
+<img width="250" height="167" src="media/photos/states/California.webp">
 
 California is a state in the Western United States. California borders Oregon to the north, Nevada and Arizona to the east, the Mexican state of Baja California to the south; and has a coastline along the Pacific Ocean to the west. With over 39.5 million residents across a total area of approximately 163,696 square miles (423,970 km2), it is the most populous and the third-largest U.S. state by area. It is also the most populated subnational entity in North America and the 34th most populous in the world. The Greater Los Angeles area and the San Francisco Bay Area are the nation's second and fifth most populous urban regions respectively, with the former having more than 18.7 million residents and the latter having over 9.6 million.Sacramento is the state's capital, while Los Angeles is the most populous city in the state and the second most populous city in the country (after New York City). Los Angeles County is the country's most populous, while San Bernardino County is the largest county by area in the country (Alaska has some larger subdivisions, but they are not called counties). San Francisco, which is both a city and a county, is the second most densely populated major city in the country (after New York City) and the fifth most densely populated county in the country, behind four of New York City's five boroughs.
 
@@ -6370,7 +6370,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Georgia)
 
 ### <a name="Hawaii"></a>**Hawaii**
 
-<img width="250" height="167" src="media/photos/states/Hawaii.png">
+<img width="250" height="167" src="media/photos/states/Hawaii.webp">
 
 Hawaii is a state in the Western United States, located in the Pacific Ocean about 2,000 miles from the U.S. mainland. It is the only state outside North America, the only state that is an archipelago, and the only state in the tropics. Hawaii is also one of four U.S. states that were once independent nations along with Vermont, Texas and California.
 
@@ -6470,7 +6470,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Maryland)
 
 ### <a name="Massachusetts"></a>**Massachusetts**
 
-<img width="250" height="167" src="media/photos/states/Massachusetts.png">
+<img width="250" height="167" src="media/photos/states/Massachusetts.webp">
 
 Massachusetts is the most populous state in the New England region of the United States. It borders on the Atlantic Ocean and Gulf of Maine to the east, Connecticut to the southwest and Rhode Island to the southeast, New Hampshire to the northeast, Vermont to the northwest, and New York to the west. The capital of Massachusetts is Boston, which is also the most populous city in New England. It is home to the Greater Boston metropolitan area, a region influential upon American history, academia, and industry. Originally dependent on agriculture, fishing and trade, Massachusetts was transformed into a manufacturing center during the Industrial Revolution. During the 20th century, Massachusetts's economy shifted from manufacturing to services. Modern Massachusetts is a global leader in biotechnology, engineering, higher education, finance, and maritime trade.
 
@@ -6651,7 +6651,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Pennsylvania)
 
 ### <a name="Rhode Island"></a>**Rhode Island**
 
-<img width="250" height="167" src="media/photos/states/RhodeIsland.png">
+<img width="250" height="167" src="media/photos/states/RhodeIsland..png">
 
 Rhode Island officially the State of Rhode Island, is a state in the New England region of the Northeastern United States. It is the smallest U.S. state by area and the seventh-least populous, with slightly fewer than 1.1 million residents as of 2020, but it is the second-most densely populated after New Jersey. It takes its name from the eponymous island, though most of its land area is on the mainland. Rhode Island borders Connecticut to the west, Massachusetts to the north and east, and the Atlantic Ocean to the south via Rhode Island Sound and Block Island Sound; it also shares a small maritime border with New York. Providence is its capital and most populous city.
 
@@ -6691,7 +6691,7 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Tennessee)
 
 ### <a name="Texas"></a>**Texas**
 
-<img width="250" height="167" src="media/photos/states/Texas.png">
+<img width="250" height="167" src="media/photos/states/Texas.webp">
 
 Texas is a state in the South Central region of the United States. At 268,596 square miles (695,662 km2), and with more than 29.1 million residents in 2020, it is the second-largest U.S. state by both area (after Alaska) and population (after California). Texas shares borders with the states of Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest; and has a coastline with the Gulf of Mexico to the southeast.
 
