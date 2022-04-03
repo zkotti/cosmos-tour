@@ -5500,8 +5500,21 @@ owned by [britannica](https://www.britannica.com/topic/architecture)
 
 Architecture,”the art and technique of designing and building”, is a form of art that help us express ourselves across the earths landscape. Although some people do not accept it as one because they think it serves a functional purpose.
 
+The 10 most iconic buildings in the world
+<br>
+-La Sagrada Familia, Barcelona
+-Forbidden City, Beijing
+-The Guggenheim, New York City
+-Hagia Sophia, Instanbul
+-Roman Coliseum, Rome
+-Notre Dame Cathedral, Paris
+-The Heydar Aliyev Center, Baku
+-Athenian Acropolis, Athens
+-Sydney Opera House, Sydney
+-Angkor Wat, Siem Reap
+
 Source [britannica](https://www.britannica.com/topic/architecture)
-, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/)
+, [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/), [Indesignlive](https://www.indesignlive.com/ideas/the-10-most-iconic-buildings-in-the-world)
 
 ---
 ### <a name="painting"></a>**Painting**  
