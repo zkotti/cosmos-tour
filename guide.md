@@ -14,8 +14,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Religious Cosmology](#religious_cosmology)
   - [Flat-Earth Theory](#flat-earth_theory)
   - [Simulation Theory](#simulation_theory)
+  - [Multiverse Theory](#multiverse_theory)
   - [Universe Facts](#universe_facts)
   - [The Cosmic Table](#the_cosmic_table)
+  - [Black Holes](#black_holes)
+  - [Wormholes](#wormholes)
+  - [White Holes](#white_holes)
   - [End Of Universe](#end_of_the_universe)
   - [Historic Milestones](#historic_milestones)
   - [Five Weird Things That Happen in Outer Space](#weird_things)
@@ -369,6 +373,8 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Swiss Alps](#Swiss_Alps)
   - [Kangchenjunga](#kangchenjunga)
   - [K2](#K2)
+  - [Lhotse](#Lhotse)
+  
 
 - ### [Wonders of the World](#wonders_of_the_world)
   - [Seven Wonders of the Ancient World](#ancient_wonders)
@@ -559,6 +565,14 @@ Source [Simulation Theory](https://en.wikipedia.org/wiki/Simulation_hypothesis)
 
 ---
 
+### <a name="multiverse_theory"></a>**Multiverse Theory**
+
+According to multiverse theory, our universe, with its hundreds of billions of galaxies and nearly innumerable stars spanning tens of billions of light-years, isn't the only one. Instead, there could be an entirely different universe — and another, and another — far away from our own. There may be an infinite number of universes, each with its own set of laws of physics, collections of stars and galaxies (if stars and galaxies are possible in those universes), and perhaps even intelligent civilizations. It's possible that our universe is just one part of a much larger collection of universes known as a multiverse. This can be supported by the fact that so many things had to take place perfectly in our universe for life to exist, that if there was only one universe, life would be unlikely to exist in it. However, there are enough "chances" for life to appear in at least one universe in a multiverse. 
+
+Source [Live Science](https://www.livescience.com/multiverse)
+
+---
+
 ### <a name="universe_facts"></a>**Universe Facts**
 
 - There are more stars in the universe than grains of sand on all the beaches on Earth. That’s at least a billion trillion!
@@ -594,6 +608,30 @@ Source [natgeokids](https://www.natgeokids.com/uk/discover/science/space/univers
 |        Earth         |  9,500,000,000 yr.   |
 
 Source [The Cosmic Table](https://www.researchgate.net/figure/Fig-The-Cosmic-Table-The-current-observed-universe-1310-28-cm_fig4_292311462)
+
+---
+
+### <a name="black_holes"></a>**Black Holes**
+
+Black hole is a cosmic body of extremely intense gravity from which nothing, not even light, can escape. The death of a massive star can result in the formation of a black hole. When a star reaches the end of its life and has depleted its internal thermonuclear fuels, the core becomes unstable and gravitationally collapses inward on itself, causing the star's outer layers to be blown away. The dying star is compressed to a point of zero volume and infinite density called the singularity by the crushing weight of constituent matter falling in from all sides. The singularity is the core of a black hole, and it is hidden by the event horizon, the object's "surface." The escape velocity (the velocity required for matter to escape from a cosmic object's gravitational field) inside the event horizon exceeds the speed of light, preventing even light rays from escaping into space.
+
+Source [britannica](https://www.britannica.com/science/black-hole)
+
+---
+
+### <a name="wormholes"></a>**Wormholes**
+
+A wormhole is a hypothetical structure based on a special solution of Einstein's field equations that connects disparate points in spacetime. A wormhole is a tunnel that has two ends at different points in spacetime (different locations, different points in time, or both). Wormholes are consistent with Einstein's general theory of relativity, but whether they exist is unknown. Many scientists believe that wormholes are simply projections of a fourth spatial dimension, in the same way that a two-dimensional (2D) being can only see a portion of a three-dimensional (3D) object. A wormhole could theoretically connect extremely long distances like a billion light years, short distances like a few meters, different points in time, or even different universes.
+
+Source [wikipedia](https://en.wikipedia.org/wiki/Wormhole)
+
+---
+
+### <a name="white_holes"></a>**White Holes**
+
+A white hole is a strange cosmic object that glows brightly and emits matter. To put it another way, it's the polar opposite of a black hole. It cannot be entered from the outside, although energy, light and information can escape from it. Unlike black holes, however, there is no agreement on whether white holes exist or how they form. They are most commonly associated with wormholes, in which a black hole serves as the starting point for a tunnel through space and time that leads to a white hole elsewhere in the Universe.
+
+Source [Science Focus](https://www.sciencefocus.com/space/what-is-a-white-hole/)
 
 ---
 
@@ -5727,6 +5765,23 @@ Source [wiki](https://en.wikipedia.org/wiki/K2)
 ---
 
 
+### <a name="Lhotse"></a>**Lhotse**
+
+<img width="272" height="177" src="media\photos\mountains\Lhotse.jpg">
+
+owened by [wiki](https://en.wikipedia.org/wiki/Lhotse#/media/File:Lhotse-fromChukhungRi.jpg)
+
+**Description**
+
+Lhotse is the fourth highest mountain in the world at 8,516 metres (27,940 ft), after Mount Everest, K2, and Kangchenjunga. The main summit is on the border between Tibet and the Khumbu region of Nepal.
+
+With Everest to the north and Nuptse to the west, Lhotse forms the apex of the massive horseshoe-shaped arc of the Everest massif. Despite the tremendous vertical relief of its South and Northeast Faces, it is the least prominent of the eight-thousanders due to the great height of the South Col between it and Everest. Lhotse’s Western Face, recessed behind the head of the Khumbu Glacier in the Western Cwm, plays an integral part in the standard routes of ascent for both peaks; the name Lhotse, which means "South Peak" in Tibetan, further emphasizes the close relationship between the two.
+
+Source [wiki](https://en.wikipedia.org/wiki/Lhotse)
+
+---
+
+
 ## <a name="wonders_of_the_world"></a>**_Wonders of the World_**
 
 ---
@@ -6241,9 +6296,9 @@ Source [wikipedia](https://en.wikipedia.org/wiki/Santa_Mar%C3%ADa_(volcano))
 
 <img width="600" height="399" src="media/photos/volcanos/Stromboli.webp">
 
-Stromboli is an island in the Tyrrhenian Sea, off the north coast of Sicily, containing Mount Stromboli, one of the three active volcanoes in Italy. It is one of the eight Aeolian Islands, a volcanic arc north of Sicily. Strabo writes that people believed that this is where Aeolus lived.
+Mount Stromboli, one of Italy's three active volcanoes, is located off the north coast of Sicily on an island in the Tyrrhenian Sea. It is one of the eight Aeolian Islands, located north of Sicily in a volcanic arc. People believed that this was where Aeolus dwelt, according to Strabo.
 
-The island's area is 12.6 square kilometres (4.9 sq mi), on the upper third of the volcano that is above sea level and making an island. Its population was about 500 as of 2016. The volcano has erupted many times and is constantly active with minor eruptions, often visible from many points on the island and from the surrounding sea, giving rise to the island's nickname "Lighthouse of the Mediterranean"
+The volcano has erupted several times and is still active with mild eruptions that may be seen from various locations on the island and from the surrounding water, earning the island the moniker "Lighthouse of the Mediterranean."
 
 Source [wikipedia](https://en.wikipedia.org/wiki/Stromboli)
 
