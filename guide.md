@@ -427,6 +427,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Twelve Olympians](#twel)
   - [Druze](#druze)
   - [Gnosticism](#Gnosticism_)
+  - [Jainism](#Jainism)
+  
 
   
 
@@ -6405,6 +6407,12 @@ source [britannica](https://www.britannica.com/topic/Druze)
 Gnosticism is a group of theological concepts and systems that arose among Jewish and early Christian factions in the late first century AD. Personal spiritual understanding (gnosis) was prioritized over orthodox doctrines, traditions, and religious organizations' authority by these distinct sects. Gnostic cosmogony often portrays a contrast between an ultimate, hidden God and a malignant lesser divinity (sometimes identified with the Old Testament's Yahweh) who is responsible for the creation of the material universe, viewing material existence as imperfect or bad. Direct knowledge of the supreme divine in the form of mystical or esoteric insight was regarded the primary element of salvation by Gnostics. Many Gnostic writings deal with illusion and enlightenment rather than sin and repentance.
 
 source [wikipedia](https://en.wikipedia.org/wiki/Gnosticism)
+
+### <a name="Jainism_"></a>**Jainism**
+
+Jainism is a Hindu religion that dates back to ancient India. Ahis (nonviolence), anekntavda (non-absolutism), and aparigraha are the three major pillars of Jainism (asceticism). Nonviolence, satya (truth), asteya (not stealing), brahmacharya (sexual continence), and aparigraha are the five main vows taken by Jain monks (non-possessiveness). These beliefs have influenced Jain culture in a variety of ways, including the adoption of a primarily vegetarian lifestyle. The faith's motto is parasparopagraho jvnm (the function of souls is to support one another), and the amkra mantra is its most common and basic prayer.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Jainism)
 
 
 ### <a name="Volcanos"></a>**Volcanos**
