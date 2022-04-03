@@ -5869,6 +5869,11 @@ owned by [trainline](https://www.thetrainline.com/via/europe/italy/rome/visiting
 
    ### <a name="ortho"></a>**Eastern Orthodox Church**
 
+   <img width="640" height="425" src="media\photos\religions\Hagia-Sophia.webp" alt="Image of Agia Sophia">
+
+owned by [medievalists](https://www.medievalists.net/2021/05/justinians-hagia-sophia/)
+
+
   Eastern Orthodoxy is one of the largest doctrinal and jurisdictional groups of Christianity. It is characterized by its continuity with the apostolic church, its liturgy, and its territorial churches. Its adherents live mainly in the Balkans, the Middle East, and former Soviet countries. The word orthodox (“right believing”) derives from the greek language to designate communities or individuals who believed in the true faith, as opposed to those who were declared heretical.
 
   source [britannica](https://www.britannica.com/topic/Eastern-Orthodoxy)
