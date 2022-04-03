@@ -113,6 +113,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Greece](#greece)
   - [Guatemala](#guatemala)
   - [Honduras](#honduras)
+  - [Hungary](#hungary)
   - [Iceland](#iceland)
   - [India](#india)
   - [Indonesia](#indonesia)
@@ -124,8 +125,8 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Japan](#japan)
   - [Kazakhstan](#kazakhstan)
   - [Kenya](#kenya)
-  - [Kyrgyzstan](#kyrgyzstan)
   - [Kiribati](#kiribati)
+  - [Kyrgyzstan](#kyrgyzstan)
   - [Liechtenstein](#liechtenstein)
   - [Lithuania](#lithuania)
   - [Luxemburg](#luxemburg)
@@ -264,6 +265,19 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac)
+  - ### ♈ Aries (Ram): March 21–April 19
+  - ### ♉ Taurus (Bull): April 20–May 20
+  - ### ♊ Gemini (Twins): May 21–June 21
+  - ### ♋ Cancer (Crab): June 22–July 22
+  - ### ♌ Leo (Lion): July 23–August 22
+  - ### ♍ Virgo (Virgin): August 23–September 22
+  - ### ♎ Libra (Balance): September 23–October 23
+  - ### ♏ Scorpius (Scorpion): October 24–November 21
+  - ### ♐ Sagittarius (Archer): November 22–December 21
+  - ### ♑ Capricornus (Goat): December 22–January 19
+  - ### ♒ Aquarius (Water Bearer): January 20–February 18
+  - ### ♓ Pisces (Fish): February 19–March 20
+
 
 - ### [Frequent questions](#frequent_questions)
 
@@ -509,7 +523,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Souvlaki](#souvlaki)
 
 
-- ### Linux Vs Windows Commands
+- ### [Linux Vs Windows Commands](https://www.geeksforgeeks.org/linux-vs-windows-commands/) (this link will forword you to the website)
         Windows  -  Linux    -    Description
       1. dir        ls -l         Directory listing
       2. ren        mv            Rename a file
@@ -2795,6 +2809,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="hungary"></a>**Hungary**
+
+<img width="300" height="300" src="media/photos/flags/hu.svg">
+
+**Capital:** [Budapest](https://www.google.com/maps/search/Budapest)
+</br>
+**Official Language:** 	Hungarian
+</br>
+**Currency:** Forint (HUF)
+</br>
+**Population:** 9,730,000 (2021)
+</br>
+**Country Code (cioc):** HUN
+</br>
+**Region:** Europe
+
+**Top Attractions:**  Buda Castle, The Danube River, Esztergom Basilica, Hungarian Parliament Building
+<br>Source [Planetware](https://www.planetware.com/tourist-attractions/hungary-h.htm)
+
+
+---
+
 ### <a name="kazakhstan"></a>**Kazakhstan**
 
 <img width="300" height="300" src="media/photos/flags/kz.svg">
@@ -2838,6 +2874,28 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
+### <a name="kiribati"></a>**Kiribati**
+
+<img width="300" height="300" src="media/photos/flags/ki.svg">
+
+**Capital:** [South Tarawa](https://www.google.com/maps/search/South+Tarawa)
+</br>
+**Official Language:** English, Gilbertese
+</br>
+**Currency:** 	Australian dollar (AUD)
+</br>
+**Population:** 119,940 (2020)
+</br>
+**Country Code (cioc):** KIR
+</br>
+**Region:** Pacific Ocean
+
+**Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
+<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
+
+
+---
+
 ### <a name="kyrgyzstan"></a>**Kyrgyzstan**
 
 <img width="300" height="300" src="media/photos/flags/kg.svg">
@@ -2859,26 +2917,6 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ---
 
-### <a name="kiribati"></a>**Kiribati**
-
-<img width="300" height="300" src="media/photos/flags/ki.svg">
-
-**Capital:** [South Tarawa](https://www.google.com/maps/search/South+Tarawa)
-</br>
-**Official Language:** English, Gilbertese
-</br>
-**Currency:** 	Australian dollar (AUD)
-</br>
-**Population:** 119,940 (2020)
-</br>
-**Country Code (cioc):** KIR
-</br>
-**Region:** Pacific Ocean
-
-**Top Attractions:**  Parliament Building, Fenua-ura, Sacred Heart Cathedral, Ambo Island
-<br>Source [Tripadvisor](https://www.tripadvisor.com/Attractions-g294121-Activities-Republic_of_Kiribati.html)
-
----
 
 ### <a name="liechtenstein"></a>**Liechtenstein**
 

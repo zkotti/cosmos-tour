@@ -53,6 +53,30 @@ Making Changes
 -  Check again your code to assure nothing else was accidentally broken.
 
 
+
+## Testing
+
+We have created some tests in python. 
+Currently, we do not require to install pytest.
+
+### Install Pytest
+  
+  Installing pytest by typing this command in command line: 
+  ```pip install -U pytest```
+
+### Run Tests
+
+You could run the tests that exist inside of file, by typing the following command:
+   ```pytest -q -name_of_file```                                
+
+
+##### Note
+  Given that your python points to the same place where you PIP manager points, this command lets you 
+  use the pytest framework to run the tests.
+  
+
+
+
 Submitting Changes
 ------------------
 
@@ -100,3 +124,4 @@ Additional Resources
 - GitHub pull request
    documentation <a href="https://help.github.com/articles/about-pull-requests/" target="_blank">Pull Request</a>
 - PEP8 official style guide  <a href="https://peps.python.org/pep-0008/" target="_blank">PEP8 guide</a>
+- Pytest tool <a href="https://docs.pytest.org/en/7.1.x/" target="_blank">Pytest </a> 
