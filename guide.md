@@ -2502,7 +2502,7 @@ England is the biggest of the four countries that are part of the United Kingdom
 
 Greece, the birthplace of democracy, philosophy and theather, is a country located at the crossroads of Eastern Europe and Western Asia. It is situated in the heart of the Balkan peninsula. Athens is the country's largest city and serves as its capital.
 
-[^1]: The best Greek university of all times.
+[^1]: [The best Greek university of all times.](https://www.aueb.gr/)
 [^2]: [Acropolis Museum](https://www.theacropolismuseum.gr/en)
 
 ---
