@@ -505,7 +505,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Souvlaki](#souvlaki)
 
 
-- ### Linux Vs Windows Commands
+- ### [Linux Vs Windows Commands](https://www.geeksforgeeks.org/linux-vs-windows-commands/) (this link will forword you to the website)
         Windows  -  Linux    -    Description
       1. dir        ls -l         Directory listing
       2. ren        mv            Rename a file
