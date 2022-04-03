@@ -5954,6 +5954,10 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="twel"></a>**Twelve Olympians**
 
+  <img width="640" height="425" src="media\photos\religions\twelve-gods.webp" alt="Oil wall painting of the Twelve Gods">
+
+owned by [pixels](https://pixels.com/featured/chamber-of-the-giants-ceiling-mount-olympus-1532-giulio-romano.html)
+
   In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
 
   source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
