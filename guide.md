@@ -139,10 +139,12 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Slovenia](#slovenia)
   - [Spain](#spain)
   - [Switzerland](#switzerland)
+  - [Uganda](#uganda)
   - [Ukraine](#ukraine)
   - [United Arab Emirates](#uae)
   - [United States](#usa)
   - [Uruguay](#uruguay)
+  - [Uzbekistan](#uzbekistan)
   - [Venezuela](#venezuela)
   - [Vietnam](#vietnam)
   - [Yemen](#yemen)
@@ -398,6 +400,7 @@ A guided tour of the cosmos by the **Department of Management Science and Techno
   - [Hinduism](#Hinduism_)
   - [Judaism](#Judaism_)
   - [Confucianism](#conf)
+  - [Twelve Olympians](#twel)
   
 
 
@@ -3091,6 +3094,28 @@ Kennedy Space Center, St. Louis Arch,  Glacier National Park and the Going-to-th
 
 ---
 
+### <a name="uzbekistan"></a>**Uzbekistan**
+
+<img width="300" height="300" src="media/photos/flags/uz.svg">
+
+**Capital:** [Tashkent](https://www.google.com/maps/search/Tashkent)
+</br>
+**Official Language:** Uzbek
+</br>
+**Currency:** Uzbek som (UZS)
+</br>
+**Population:** 35,300,000 (2022)
+</br>
+**Country Code (cioc):** UZB
+</br>
+**Region:** Asia
+
+**Top Attractions:** Ark, Registan, Amir Timur Museum, The Walled City of Khiva, Chor Minor, Gur-e-Amir, Chorsu Bazaar
+<br>Source [TravelTriangle](https://traveltriangle.com/blog/places-to-visit-in-uzbekistan/)
+
+
+---
+
 ### <a name="venezuela"></a>**Venezuela**
 
 <img width="300" height="300" src="media/photos/flags/ve.svg">
@@ -5587,7 +5612,7 @@ Important Paintings
 -Georges Seurat, A Sunday Afternoon on the Island of La Grande Jatte
 -Pablo Picasso, Les Demoiselles d’Avignon
 
-Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art)
+Source [Eden Gallery](https://www.eden-gallery.com/news/7-different-forms-of-art), [timeout](https://www.timeout.com/newyork/art/top-famous-paintings-in-art-history-ranked)
 
 ---
 
@@ -5624,7 +5649,18 @@ owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-b
 
 Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
 
-Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html)
+Must Read Book List
+<br>
+-1984 by George Orwell
+-The Lord of the Rings by J.R.R. Tolkien
+-The Kite Runner by Khaled Hosseini
+-Harry Potter and the Philosopher’s Stone by J.K. Rowling
+-Slaughterhouse-Five by Kurt Vonnegut
+-Jane Eyre by Charlotte Bronte
+-Frankenstein by Mary Shelley
+-Principles: Life and Work by Ray Dalio
+
+Source [study](https://study.com/academy/lesson/connecting-literature-to-other-art-forms.html), [oberlo](https://www.oberlo.com/blog/must-read-books-of-all-time)
 
 ---
 
@@ -5635,9 +5671,20 @@ Source [study](https://study.com/academy/lesson/connecting-literature-to-other-a
 
 owned by [interlude](https://interlude.hk/music-as-art/)
 
-Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood. 
+Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood.
 
-Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/)
+Songs to hear before you Die 
+<br>
+-Two Weeks - Grizzly Bear.
+-Marinade - DOPE LEMON.
+-Fade Into You - Mazzy Star.
+-Feel Safe - All We Are.
+-At the Bottom of Everything - Bright Eyes.
+-New Slang - The Shins.
+-Walk In the Park - Beach House.
+-Hey - The Pixies.
+
+Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/),[purculture](https://purculture.com/whatsnew//100-songs-you-need-to-listen-to-before-you-die)
 
 ---
 
@@ -5751,3 +5798,10 @@ Confucianism is a philosophy and belief system from ancient China. It affected d
 
 source [nationalgeographic](https://www.nationalgeographic.org/encyclopedia/confucianism/)
 
+---
+
+### <a name="twel"></a>**Twelve Olympians**
+
+In ancient Greek religion and mythology, the twelve Olympians are the major deities of the Greek pantheon. They were named so because they reside in Mount Olympus. They gained their supremacy in the war of gods, in which Zeus led his siblings to victory over the Titans. They were a family of gods, the most important of whom where Zeus, Poseidon, Hera, Demeter and Hestia, along with the most prominent children of Zeus: Athena, Apollo, Artemis, Ares, Aphrodite,Hephaestus, Hermes, and Dionysus.
+
+source [wikipedia](https://en.wikipedia.org/wiki/Twelve_Olympians)
