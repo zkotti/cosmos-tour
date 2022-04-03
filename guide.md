@@ -1071,6 +1071,13 @@ Angola is a country on the west coast of Southern Africa, formally known as the 
 **Top Attractions:** Half Moon Bay, Stingray City, 17 Mile Beach, Dickenson Bay,Nelson's Dockyard National Park
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/antigua-and-barbuda-ant.htm)
 
+Antigua and Barbuda is a Caribbean island country located between the Caribbean Sea and the Atlantic Ocean in the Americas.
+It consists of Antigua and Barbuda, two large islands separated by around 40 kilometers (25 miles), as well as smaller islands (including Great Bird, Green, Guiana, Long, Maiden, Prickly Pear, York Islands, Redonda).
+The permanent population is estimated to be around 97,120 (2019), with 97 percent of the inhabitants residing on Antigua.
+Antigua's capital and main port and city is St. John's, whereas Barbuda's largest town is Codrington.
+Antigua and Barbuda are located near to other in the Leeward Islands, which are part of the Lesser Antilles, and are around 17 degrees north of the equator.
+<br>Source [Wiki](https://en.wikipedia.org/wiki/Antigua_and_Barbuda)
+
 ---
 
 ### <a name="argentina"></a>**Argentina**
@@ -1160,6 +1167,9 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 **Top Attractions:**  Shikahogh State Reserve, Lake Sevan, Dilijan national park, Mount Aragats
 <br>Source [TheCrazyTourist](https://www.thecrazytourist.com/15-best-places-to-visit-in-armenia/)
 
+Armenia, officially the Republic of Armenia, is a landlocked country located in the Armenian Highlands of Western Asia. It is a part of the Caucasus region; and is bordered by Turkey to the west, Georgia to the north, the Lachin corridor under a Russian peacekeeping force, and Azerbaijan to the east, and Iran and the Azerbaijani exclave of Nakhchivan to the south. Yerevan is the capital and largest city. Armenia is a unitary, multi-party, democratic nation-state with an ancient cultural heritage. The first Armenian state of Urartu was established in 860 BC, and by the 6th century BC it was replaced by the Satrapy of Armenia.
+<br>Source [Wiki](https://en.wikipedia.org/wiki/Armenia)
+
 ---
 
 ### <a name="australia"></a>**Australia**
@@ -1180,6 +1190,12 @@ Source [Argentina's attractions](https://www.youramazingplaces.com/10-attractive
 
 **Top Attractions:** Sydney Opera House, Great Barrier Reef, Uluru/Ayers Rock, Kakadu National Park, Whitsunday Islands
 <br>Source [Touropia](https://www.touropia.com/tourist-attractions-in-australia/)
+
+Australia, officially the Commonwealth of Australia, is a sovereign transcontinental country that encompasses the Australian continent's mainland, Tasmania's island, and a number of smaller islands.
+Australia is the largest country in Oceania and the world's sixth largest country, with an area of 7,617,930 square kilometers (2,941,300 square miles).
+Australia is the oldest, flattest, driest, and least fertile continent on the planet.
+With deserts in the center, tropical rainforests in the north-east, and mountain ranges in the south-east, it is a megadiverse country with a broad variety of landscapes and temperatures.
+<br>Source [wiki](https://en.wikipedia.org/wiki/Australia)
 
 ---
 
@@ -1260,6 +1276,14 @@ Source [Austria's attractions](https://www.austria.info/en/things-to-do/cities-a
 
 **Top Attractions:** Heydar Aliyev Cultural Center, Baku Old City, Flame Towers, Savalan ASPI Winery
 <br>Source [TripAdvisor](https://www.tripadvisor.co.uk/Attractions-g293933-Activities-Azerbaijan.html)
+
+Azerbaijan, often known as the Azerbaijan Republic or the Republic of Azerbaijan, is a transcontinental country in Eastern Europe and Western Asia.
+The Caspian Sea to the east, Russia (Republic of Dagestan) to the north, Georgia to the northwest, Armenia and Turkey to the west, and Iran to the south define the South Caucasus region.
+Baku is the capital and the largest city in the country.
+In 1918, the Azerbaijan Democratic Republic declared independence from the Transcaucasian Democratic Federative Republic, becoming the first secular democratic Muslim-majority state. For political reasons, it was named after the nearby province of northern Iran.
+As part of the Transcaucasian SFSR, the country was absorbed into the Soviet Union in 1922. 
+<br>Source [wiki](https://en.wikipedia.org/wiki/Azerbaijan)
+
 
 ---
 
