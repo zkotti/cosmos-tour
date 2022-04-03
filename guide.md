@@ -5670,7 +5670,7 @@ Source [britannica](https://www.britannica.com/art/sculpture), [timeout](https:/
 
 owned by [PublicBooks](https://www.publicbooks.org/pb-staff-favorites-2017-the-book-that-made-belong/)
 
-Literature is the art of organizing words to tell a story, a myth or a fairytale. It is closely related to other forms of art like music.
+Literature is the art of organizing words to tell a story, a myth or a fairy tale. It is closely related to other forms of art like music.
 
 Must Read Book List
 <br>
