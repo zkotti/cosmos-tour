@@ -5948,7 +5948,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="Taoism"></a>**Taoism**
 
-  <img width="300" height="300" src="media/photos/religions/taoism.png">
+  <img width="350" height="300" src="media/photos/religions/taoism.png">
 
   The roots of Taoism go back at least to the 4th century BCE. Early Taoism drew its cosmological notions from the School of Yinyang (Naturalists). It is based on the Chinese culture, the I Ching, which expounds a philosophical system about how to keep human behavior in accordance with the alternating cycles of nature. In Taoism, the Tao is the source of everything and the ultimate principle underlying reality. Taoism teaches about the various disciplines for achieving perfection through self-cultivation. The Legalist Shen Buhai may also have been a major influence, expounding a realpolitik of wu wei, or qualified inaction.
 
@@ -5985,6 +5985,8 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="Judaism_"></a>**Judaism**
 
+  <img width="300" height="300" src="media/photos/religions/judaism.jpeg">
+
   Judaism is an Abrahamic, monotheistic, ethnic religion that encompasses the Jewish people's collective religious, cultural, and legal tradition and civilization. It began as an organized religion in the Bronze Age in the Middle East. According to some researchers, modern Judaism emerged from Yahwism, the ancient Israel and Judah religion, approximately 500 BCE, and is thus one of the oldest monotheistic religions. Religious Jews regard Judaism as the manifestation of God's covenant with the Israelites, their forefathers. It encompasses a large number of books, activities, theological perspectives, and organizational structures.
 
  source [wikipedia](https://en.wikipedia.org/wiki/Judaism)
@@ -5993,7 +5995,7 @@ owned by [wikipedia](https://en.wikipedia.org/wiki/Grand_Buddha_at_Ling_Shan#/me
 
   ### <a name="conf"></a>**Confucianism**
 
-   <img width="640" height="425" src="media\photos\religions\confucius.webp" alt="Image of Confucius">
+  <img width="640" height="425" src="media\photos\religions\confucius.webp" alt="Image of Confucius">
 
 owned by [britannica](https://www.britannica.com/story/what-is-the-difference-between-daoism-and-confucianism)
 
