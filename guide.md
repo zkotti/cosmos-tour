@@ -5824,6 +5824,8 @@ Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-s
 
   ### <a name="cathol"></a>**Roman Catholicism**
 
+<img width="640" height="425" src="media\photos\religions\st-peters-basilica.jpg" alt="Image of catholic church">
+
   The Roman Catholic Church is based on the teachings of Jesus Christ and the Apostles. Through the years, it developed a highly sophisticated theology and an elaborate organizational structure headed by the papacy, the oldest continuing absolute monarchy in the world.The number of Roman Catholics is nearly 1.1 billion and it surpasses all other religions. 
 
   source [britannica](https://www.britannica.com/topic/Roman-Catholicism)
