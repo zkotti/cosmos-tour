@@ -5732,7 +5732,15 @@ owned by [freepik](https://www.freepik.com/premium-vector/theater-show-art-form-
 
 Theater is a form of art that was originated in ancient Greece and is a performing art. With theater stories and fairy tales can be told trhough acting. It is a form of art that can combine a lot of the above mentioned forms of art.
 
-Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts)
+Best Plays of All Time
+<br>
+-Hamlet by William Shakespeare
+-Long Day's Journey Into Night by Eugene O'Neill
+-Who's Afraid of Virginia Woolf? by Edward Albee
+-Death of a Salesman by Arthur Miller
+-Oedipus Rex by Sophocles
+
+Source [Forestburgh Playhouse](https://www.fbplayhouse.org/blog/2021/8/14/what-separates-theatre-from-the-other-arts), [timeout](https://www.timeout.com/newyork/theater/best-plays-of-all-time)
 
 ---
 
