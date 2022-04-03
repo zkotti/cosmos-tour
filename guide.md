@@ -5396,6 +5396,11 @@ Football has a large number of competitions. There are intercontinental tourname
 
 ### <a name="World_Cup"></a>**World Cup**
 
+<img width="600" height="315" src="media/photos/Sports/world_cup_trophy.jpg">
+
+owned by [sportingnews](https://library.sportingnews.com/styles/crop_style_16_9_desktop/s3/2021-08/world-cup-trophy-stand_133kk6nwawbmj16uhxvaiznup2.jpg?itok=CXKT6_Pc)
+
+
 **Description**
 
 In football, the World Cup is a quadrennial intercontinental tournament that determines the sport's world champion. Every tournament draws billions of television viewers, making it the most popular sporting event on the planet. Uruguay won the first competition for the cup, which was held in 1930 by FIFA. The competition has been held every four years since then, except during World War II, and consists of international sectional tournaments that lead to a final elimination event featuring 32 national teams. The last World Cup was played in Russia in 2018 and the winner of the competition was France. In the winter of 2022 the contest will be held in Qatar.
@@ -5405,6 +5410,11 @@ In football, the World Cup is a quadrennial intercontinental tournament that det
 ---
 
 ### <a name="European_Championship"></a>**European Championship**
+
+<img width="700" height="350" src="media/photos/Sports/euro_2004.jpg">
+
+owned by [greekreporter](https://greekreporter.com/wp-content/uploads/2017/07/euro2004.jpg)
+
 
 **Description**
 
@@ -5416,6 +5426,11 @@ In football, the European Championship, formally UEFA European Championship, is 
 
 ### <a name="Copa_America"></a>**Copa America**
 
+<img width="650" height="370" src="media/photos/Sports/copa_america.jpg">
+
+owned by [marca](https://phantom-marca.unidadeditorial.es/77065a24c7735735d1297a77b52b1744/resize/828/f/webp/assets/multimedia/imagenes/2021/07/17/16265320344770.jpg)
+
+
 **Description**
 
 Copa América, formerly South American Championship of Nations, is a quadrennial American football tournament that serves as the continent's premier competition. The Copa América is the oldest international football competition in the world. The tournament was first held in 1916 to commemorate Argentina's 100th year of independence, with Uruguay winning the inaugural title. It used to happen every one to four years until 2007, when it switched to its current quadrennial format. The CONMEBOL oversees the Copa América, which features ten CONMEBOL member countries—Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Paraguay, Peru, Uruguay, and Venezuela—plus two additional national teams invited to compete.
@@ -5425,6 +5440,11 @@ Copa América, formerly South American Championship of Nations, is a quadrennial
 ---
 
 ### <a name="UCL"></a>**Champions League**
+
+<img width="600" height="320" src="media/photos/Sports/ucl.jpg">
+
+owned by [in.gr](https://www.in.gr/wp-content/uploads/2021/08/a-661.jpg)
+
 
 **Description**
 
@@ -5436,6 +5456,11 @@ The UEFA Champions League (abbreviated as UCL) is an annual club football compet
 
 ### <a name="UEL"></a>**Europa League**
 
+<img width="600" height="320" src="media/photos/Sports/uel.jpg">
+
+owned by [in.gr](https://www.in.gr/wp-content/uploads/2021/08/MV5BZDAzNTM0YjItNDk1Yy00ZmJlLTljM2EtMDIxYTNmYTgxOThmXkEyXkFqcGdeQXVyNzEzNjU1NDg@._V1_-e1630059933146.jpg)
+
+
 **Description**
 
 The UEFA Europa League (also known as UEL) is an annual football club competition held by the Union of European Football Associations (UEFA) for eligible European football clubs since 1971. It is Europe's second-tier club football competition, ranking below the UEFA Champions League and above the UEFA Europa League. Clubs qualify for the tournament based on their results in their respective national leagues and cup competitions.
@@ -5445,6 +5470,11 @@ The UEFA Europa League (also known as UEL) is an annual football club competitio
 ---
 
 ### <a name="UECL"></a>**Conference League**
+
+<img width="630" height="350" src="media/photos/Sports/uecl.jpg">
+
+owned by [PAOKFC](https://www.paokfc.gr/wp-content/uploads/2021/07/uecl_generic_feat.jpg)
+
 
 **Description**
 
