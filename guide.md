@@ -2522,7 +2522,7 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 ### <a name="iceland"></a>**Iceland**
 
-<img width="300" height="300" src="media/photos/flags/ice.svg">
+<img width="300" height="300" src="media/photos/flags/is.svg">
 
 **Capital:** [Reykjavik](https://www.google.gr/maps/place/%CE%A1%CE%AD%CE%B9%CE%BA%CE%B9%CE%B1%CE%B2%CE%B9%CE%BA,+%CE%99%CF%83%CE%BB%CE%B1%CE%BD%CE%B4%CE%AF%CE%B1/@64.1335484,-21.9224815,12z/data=!3m1!4b1!4m5!3m4!1s0x48d674b9eedcedc3:0xec912ca230d26071!8m2!3d64.146582!4d-21.9426354)
 </br>
