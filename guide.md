@@ -5975,14 +5975,14 @@ owned by [interlude](https://interlude.hk/music-as-art/)
 Music is a form of art that triggers memories and emotions like no other art. For most music is a source of comfort and inspiration that can easily alter one's mood.
 
 **Songs to hear before you Die** 
-- Two Weeks by *Grizzly Bear*
-- Marinade by *DOPE LEMON*
-- Fade Into You by *Mazzy Star*
-- Feel Safe by *All We Are*
-- At the Bottom of Everything by *Bright Eyes*
--New Slang by *The Shins*
--Walk In the Park by *Beach House*
--Hey by *The Pixies*
+- Two Weeks by *Grizzly Bear* [Available on YouTube](https://www.youtube.com/watch?v=eziWqoGEekY)
+- Marinade by *DOPE LEMON* [Available on YouTube](https://www.youtube.com/watch?v=9ju-Qj8xFQk) 
+- Fade Into You by *Mazzy Star* [Available on YouTube](https://www.youtube.com/watch?v=avv2IIdDnnk)
+- Feel Safe by *All We Are* [Available on YouTube](https://www.youtube.com/watch?v=-pWm4TDrM8A) 
+- At the Bottom of Everything by *Bright Eyes* [Available on YouTube](https://www.youtube.com/watch?v=2GHyLhbdzN0)
+- New Slang by *The Shins* [Available on YouTube](https://www.youtube.com/watch?v=zYwCmcB0XMw)
+- Walk In the Park by *Beach House* [Available on Youtube](https://www.youtube.com/watch?v=ln_nkxwT_Tc)
+- Hey by *The Pixies* [Available on Youtube](https://www.youtube.com/watch?v=tVCUAXOBF7w)
 
 
 Source [thirdcoastreview](https://thirdcoastreview.com/2021/08/07/review-exploring-the-relationship-between-art-and-music-at-the-oak-park-art-league/),[purculture](https://purculture.com/whatsnew//100-songs-you-need-to-listen-to-before-you-die)
