@@ -26,6 +26,7 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Everything You Need to Know About Chaos](#chaos)
   - [9 of the most mind-blowing facts about the Universe](#facts)
   - [Dark Energy & Dark Matter](#dark)
+  - [The many worlds interpretation](#multiuniverse)
 
 - ### [Continents](#continents)
 
@@ -827,7 +828,31 @@ Sources [Harvard](https://www.cfa.harvard.edu/research/topic/dark-energy-and-dar
 
 
 ---
+ 
 
+### <a name="multiuniverse"></a>**The many worlds interpretation **
+
+In 1957, "The many worlds interpretation" theory was proposed by Hugh Everett III, then a graduate student at Princeton, and his adviser, Dr. John Wheeler. This theory is a variant of quantum theory: the mathematics are the same, but in this new version, instead of the wave function's collapsing with each measurement, the universe splits into parallel universes, one for every possible outcome of every possible contingency, as for example universes in which dinosaurs still stride the earth.
+
+If other universes exists would be invisible and unreachable.
+
+"Cosmological natural selection"  by Dr. Lee Smolin of the Perimeter Institute for Theoretical Physics in Waterloo, in which has speculated that the universe can reproduce itself through black holes, the bottomless gravitational pits in which stars disappear([click here to see more about Dark Energy & Dark Matter](#dark)), giving birth to baby universes with slightly altered laws of physics. Based on this, universes with more black holes will produce more progeny and so the laws of physics will evolve in a direction favorable to black hole production.
+Dr. Smolin has pointed out in his book ''The Life of the Cosmos.''that only the largest, densest stars can collapse to make black holes, but those are the same stars that make the elements necessary for life (like carbon, oxygen and iron).
+As a result, a multiverse emerging from such black holes will necessarily be biofriendly.
+Dr. Smolin's supports that conjecture can be tested, by trying to imagine a universe with laws that generate black holes even more efficiently than our own, which, he said, should be near the maximum efficiency.
+
+String Theory 
+ 
+
+While most of the particles and forces of our universe are confined to this brane, gravity is not, and other branes can interact and even collide with us, according to some theories, relegating some of the features of the universe to the effects of a kind of inter-cosmic weather.
+For example, in a model developed by Dr. Lisa Randall of Harvard and Dr. Raman Sundrum of Johns Hopkins, the laws of physics would depend on how far away in a warped fifth dimension our own brane is from another brane.
+
+String theorists(as Dr. Joseph Lykken, who is a theorist at the Fermi National Accelerator Laboratory, where physicists have been searching in particle collisions for evidence that some particles have been escaping our brane into the fifth dimension) said that maybe it sounds outlandish but such notions are testable.  
+
+Source [TheNewYorkTimes](https://www.nytimes.com/2002/10/29/science/many-universes-several-theories.html)
+
+
+---
 
 ## <a name="continents_map"></a>**_Continents_**
 
