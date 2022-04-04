@@ -843,6 +843,7 @@ Dr. Smolin's supports that conjecture can be tested, by trying to imagine a univ
 
 String Theory 
  
+Dr. Martin Rees of Cambridge University wrote in his own book, ''Our Cosmic Habitat'', that "Smolin's prediction is unlikely to be borne out, but he presents an example that illustrates how a specificultiverse theory can be vulnerable to disproof. Multiple universes of a different sort pop up in the most recent versions of string theory, which holds that the world can be envisioned as a 3-dimensional membrane (or ''brane'' in the jargon) floating in 10-dimensional space, like a leaf in a fish tank.
 
 While most of the particles and forces of our universe are confined to this brane, gravity is not, and other branes can interact and even collide with us, according to some theories, relegating some of the features of the universe to the effects of a kind of inter-cosmic weather.
 For example, in a model developed by Dr. Lisa Randall of Harvard and Dr. Raman Sundrum of Johns Hopkins, the laws of physics would depend on how far away in a warped fifth dimension our own brane is from another brane.
