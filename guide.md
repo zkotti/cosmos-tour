@@ -277,7 +277,9 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Quote 7.](#quote_7)
 
 - ### [Zodiac](#zodiac) 
+
   ##### --- Every zodiac forwards you to a page with information ---
+  
   - ### [♈ Aries (Ram): March 21–April 19](https://timesofindia.indiatimes.com/astrology/zodiacs-astrology/aries)
   - ### [♉ Taurus (Bull): April 20–May 20](https://happypiranha.com/blogs/news/taurus-the-bull-star-sign-and-zodiac-facts)
   - ### [♊ Gemini (Twins): May 21–June 21](https://entertainment.howstuffworks.com/horoscopes-astrology/gemini.htm)
@@ -791,7 +793,6 @@ Source [greekboston](https://www.greekboston.com/culture/mythology/chaos/)
 1.There is a supermassive black hole at the heart of every galaxy
 
 
-
 2.There is a supermassive black hole at the heart of every galaxy
 
 
@@ -833,7 +834,7 @@ Sources [Harvard](https://www.cfa.harvard.edu/research/topic/dark-energy-and-dar
 ---
  
 
-### <a name="multiuniverse"></a>**The many worlds interpretation **
+### <a name="multiuniverse"></a>**The many worlds interpretation**
 
 In 1957, "The many worlds interpretation" theory was proposed by Hugh Everett III, then a graduate student at Princeton, and his adviser, Dr. John Wheeler. This theory is a variant of quantum theory: the mathematics are the same, but in this new version, instead of the wave function's collapsing with each measurement, the universe splits into parallel universes, one for every possible outcome of every possible contingency, as for example universes in which dinosaurs still stride the earth.
 
@@ -844,7 +845,7 @@ Dr. Smolin has pointed out in his book ''The Life of the Cosmos.''that only the 
 As a result, a multiverse emerging from such black holes will necessarily be biofriendly.
 Dr. Smolin's supports that conjecture can be tested, by trying to imagine a universe with laws that generate black holes even more efficiently than our own, which, he said, should be near the maximum efficiency.
 
-String Theory 
+#### String Theory 
  
 Dr. Martin Rees of Cambridge University wrote in his own book, ''Our Cosmic Habitat'', that "Smolin's prediction is unlikely to be borne out, but he presents an example that illustrates how a specificultiverse theory can be vulnerable to disproof. Multiple universes of a different sort pop up in the most recent versions of string theory, which holds that the world can be envisioned as a 3-dimensional membrane (or ''brane'' in the jargon) floating in 10-dimensional space, like a leaf in a fish tank.
 
@@ -854,7 +855,6 @@ For example, in a model developed by Dr. Lisa Randall of Harvard and Dr. Raman S
 String theorists(as Dr. Joseph Lykken, who is a theorist at the Fermi National Accelerator Laboratory, where physicists have been searching in particle collisions for evidence that some particles have been escaping our brane into the fifth dimension) said that maybe it sounds outlandish but such notions are testable.  
 
 Source [TheNewYorkTimes](https://www.nytimes.com/2002/10/29/science/many-universes-several-theories.html)
-
 
 ---
 
@@ -1480,7 +1480,6 @@ Baku is the capital and the largest city in the country.
 In 1918, the Azerbaijan Democratic Republic declared independence from the Transcaucasian Democratic Federative Republic, becoming the first secular democratic Muslim-majority state. For political reasons, it was named after the nearby province of northern Iran.
 As part of the Transcaucasian SFSR, the country was absorbed into the Soviet Union in 1922. 
 <br>Source [wiki](https://en.wikipedia.org/wiki/Azerbaijan)
-
 
 ---
 
@@ -2158,6 +2157,7 @@ As part of the Transcaucasian SFSR, the country was absorbed into the Soviet Uni
 <br>Source [PlanetWare](https://www.planetware.com/tourist-attractions/cuba-cub.htm)
 
 ---
+
 ### <a name="cyprus"></a>**Cyprus**
 
 <img width="300" height="300" src="media/photos/flags/cy.svg">
@@ -3313,8 +3313,6 @@ Greece, the birthplace of democracy, philosophy and theather, is a country locat
 
 **Top Attractions:** Great Mosque of Mecca, Kaaba, Kingdom Centre Tower, Al Masjid an Nabawi
 <br>Source [Tripadvisor](https://www.tripadvisor.in/Attractions-g293991-Activities-Saudi_Arabia.html)
-
-
 
 ---
 
@@ -4516,6 +4514,7 @@ Know as the most massive and violante object in universy, super masive black hol
 
 
 ---
+
 ### <a name="ultramassive_black_holes"></a> **Ultra Massive black holes**
 
 <img width="550" height="480" src="media/photos/black holes/ultramassive_bh.jpg">
@@ -4530,6 +4529,7 @@ Ultra massive black hole is highest known level of mass that a black hole can ha
 
 
 ---
+
 ## <a name="stars"></a> **_Stars_**
  <a href="https://www.youtube.com/watch?v=EFO_bsg1sw8" target="_blank"><img src="media/photos/stars/Stars.jpg" 
 alt="Venus Image" width="180" height="120"/></a>
@@ -4788,6 +4788,7 @@ Dawn, a NASA spacecraft, entered orbit around Vesta on 16 July 2011 for a one-ye
 <br> Source [wiki](https://en.wikipedia.org/wiki/4_Vesta)
 
 ---
+
 ### <a name="hygiea"></a>**Hygiea**
 <br>
 <img width="600" height="300" src="media\photos\asteroids\Hygiea.jpg">
@@ -5164,6 +5165,7 @@ These are some excamples of what they offer to their users.
 source [starlust](https://starlust.org/space-memes/)
 
 ---
+
 ## <a name="cosmos_books"></a>**Cosmos Books**
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
@@ -5343,6 +5345,7 @@ Thorne's observations are based on his screenwriting and filming experiences, an
 Source [Best space and astronomy books](https://www.space.com/32982-best-astronomy-books.html)
 
 ---
+
 ### <a name="book_10"></a>**From Chaos to Cosmos: Creation to New Creation**
 
 <img width="500" height="350" src="media\photos\books\From_chaos_to_cosmos.jpg">
@@ -5735,7 +5738,7 @@ Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5
 
 ---
 
- ### <a name="Mars101"></a>**Mars 101 | National Geographic**
+### <a name="Mars101"></a>**Mars 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=D8pnmwOXhoY
 " target="_blank"><img src="media\photos\image_hyperlinks\Mars_National_Geographic.jpg" 
 alt="Mars Image" width="240" height="180"/></a>
@@ -5743,7 +5746,7 @@ alt="Mars Image" width="240" height="180"/></a>
 Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
 
 ---
- ### <a name="Venus101"></a>**Venus 101 | National Geographic**
+### <a name="Venus101"></a>**Venus 101 | National Geographic**
   <a href="https://www.youtube.com/watch?v=BvXa1n9fjow&ab
 " target="_blank"><img src="media\photos\image_hyperlinks\Venus_National_Geographic.jpeg" 
 alt="Venus Image" width="240" height="180"/></a>
@@ -5752,7 +5755,7 @@ Source [National Geographic](https://www.youtube.com/watch?v=BvXa1n9fjow&ab)
 
 ---
 
- ### <a name="universe_size"></a>**Universe Size Comparison**
+### <a name="universe_size"></a>**Universe Size Comparison**
   <a href="https://youtu.be/oxHm5h5eWDE" target="_blank"><img src="media\photos\image_hyperlinks\Universe_size.jpg" 
 alt="Universe Image" width="240" height="180"/></a>
 
@@ -6193,6 +6196,7 @@ Mount Aconcagua is the highest peak in South America and the Western Hemisphere 
 <br> Source [wiki](https://en.wikipedia.org/wiki/Aconcagua)
 
 ---
+
 ### <a name="mounteverest"></a>**_Mount Everest_**
 
 <img width="550" height="299" src="media/photos/mountains/Everest.jpg">
@@ -6385,6 +6389,7 @@ Source [wiki](https://en.wikipedia.org/wiki/Taj_Mahal)
 
 ## <a name="facts"></a> **Facts about Space**
 ---
+
 ### <a name="fact1"></a>**1. SPACE IS COMPLETELY SILENT**
 
 There is no atmosphere in space, which means that sound has no medium or way to travel to be heard. 
@@ -6430,6 +6435,7 @@ There’s a planet made of diamonds twice the size of earth The "super earth," a
 ## <a name="arts"></a> **Fine Arts**
 
 ---
+
 ### <a name="architecture"></a>**Architecture**  
 <br>
 
@@ -6457,6 +6463,7 @@ Source [britannica](https://www.britannica.com/topic/architecture)
 , [Octavian-Ungureanu](https://www.octavian-ungureanu.ro/architect/why-the-architecture-is-not-an-art/), [Indesignlive](https://www.indesignlive.com/ideas/the-10-most-iconic-buildings-in-the-world)
 
 ---
+
 ### <a name="painting"></a>**Painting**  
 <br>
 
