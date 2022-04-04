@@ -370,6 +370,9 @@ A guided tour of the cosmos by the [**Department of Management Science and Techn
   - [Mars 101 | National Geographic](#Mars101)
   - [Venus 101 | National Geographic](#Venus101)
   - [Universe Size Comparison](#universe_size)
+  - [Expanding Our View of the Universe](#expanding_view)
+  - [The Cosmic Calendar | Cosmos: Possible Worlds](#cosmic_calendar) 
+
 
 - ### [Astrophotography](#astrophotography)
   - [Pillars Of Creation](#pillars_of_creation)
@@ -4528,6 +4531,10 @@ Ultra massive black hole is highest known level of mass that a black hole can ha
 
 ---
 ## <a name="stars"></a> **_Stars_**
+ <a href="https://www.youtube.com/watch?v=EFO_bsg1sw8" target="_blank"><img src="media/photos/stars/Stars.jpg" 
+alt="Venus Image" width="180" height="120"/></a>
+
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
 
 ---
 
@@ -5751,7 +5758,26 @@ alt="Universe Image" width="240" height="180"/></a>
 
 Source [Kurzgesagt's Universe App](https://shop-eu.kurzgesagt.org/products/universe-in-a-nutshell-app?userselect=1)
 
+--- 
+
+ ### <a name="expanding_view"></a>** Expanding Our View of the Universe**
+  <a href="https://www.youtube.com/watch?v=yNnvWem8V3U" target="_blank"><img src="media\photos\image_hyperlinks\View_Universe.jpg" 
+alt="View Image" width="240" height="180"/></a>
+
+Source [NASA](https://www.youtube.com/channel/UCLA_DiR1FfKNvjuUpBHmylQ)
+
 ---
+
+
+ ### <a name="cosmic_calendar"></a>**The Cosmic Calendar | Cosmos: Possible Worlds**
+  <a href="https://www.youtube.com/watch?v=Bl-s4tqR8Bc
+" target="_blank"><img src="media\photos\image_hyperlinks\CosmicCalendar.jpg" 
+alt="Venus Image" width="240" height="180"/></a>
+
+Source [National Geographic](https://www.youtube.com/channel/UCpVm7bg6pXKo1Pr6k5kxG9A)
+
+---
+ 
 
 ## <a name="astrophotography"></a> **Astrophotography**
 
